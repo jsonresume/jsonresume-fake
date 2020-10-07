@@ -154,4 +154,5 @@ There have been some great suggestions as to why a fake resume might be a good t
 ## Contributors
 
 [Thomas Davis](https://registry.jsonresume.org/thomasdavis)
-[Max Kolesnyk](https://registry.jsonresume.org/maxkolesnyk)
+
+[Max Kolesnyk](https://github.com/maxkolesnyk)
