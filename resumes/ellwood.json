@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Ellwood",
+        "label": "Full Software",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who loves working with open source technology. I work best in planning the architecture of web applications and their development life. I also love to get the community involved and have had much experience with building and organizing large open source groups.",
+        "email": "ellwood@gmail.com",
+        "location": {
+            "city": "Utrecht",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Is the kind of man who follow them since. He is going to do great to work with. He was always willing to sit down and work with us on the front end to make sure our needs were being met and usually found him exceeding our expectations. He has great communication skills and was always a joy to work with. When it came to solving tough problems he was always there ready to think outside the box and was always happy to share and work out ideas until we had a working solution. I would be excited to get the chance to work with Ellwood again on any project!",
+            "name": "Sabina Urso"
+        },
+        {
+            "reference": "I have worked with Ellwood on several different occasions in different positions he has held. When it came time to redesign my website, he was the first person i. I outlined what I had in mind, and what I needed. He came up with several options within my guidelines and presented them to me. What I ended up with surpassed my original idea and has won me praise from my clients on how complex projects to make an it scenarios. I highly recommend him to any organization.",
+            "name": "Kacie Woodfork"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Led technical team in developing application (javascript, CSS)",
+                "Transition and developed automation for the platform"
+            ],
+            "summary": "Is a technology company that builds innovative tech for advertising",
+            "website": "http://kharagpur-robosoccer-students-group.com",
+            "company": "Kharagpur Robosoccer Students Group ()",
+            "position": "Engineering Program Manager",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Analyzed subsystems in chemical and gas plants to identify scenarios, and",
+                "Trained and implement experiments"
+            ],
+            "summary": "Is a platform that allows citizens to hold government agency directly and publicly accountable for their actions.",
+            "website": "http://slalom.com",
+            "company": "Slalom",
+            "position": "Senior Software Engineer / Enterprise Continuous Integration Engineer (contract)",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "",
+                "Develop of am a website."
+            ],
+            "summary": "Is a software development workshop with a focus on RFID and product tracking.",
+            "website": "http://hdr-creme.com",
+            "company": "Hdr Creme",
+            "position": "Senior Software Engineer Ii",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Applied Cryptography"
+        },
+        {
+            "name": "Learning New Languages"
+        },
+        {
+            "name": "Electrical Engineering"
+        }
+    ]
+}

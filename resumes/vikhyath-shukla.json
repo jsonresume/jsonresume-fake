@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Vikhyath Shukla",
+        "label": "Software",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a web developer that specializes in eCommerce development. Thanks to the hard work and dedication of the open source community, I have had the opportunity to hack on dozens of eCommerce platforms. I love helping entrepreneurs and pairing with other developers.",
+        "email": "vikhyath-shukla@gmail.com",
+        "location": {
+            "city": "Royal Oak",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Vikhyath was a great working as the Vikhyath business systems in the team. Andrey is a quick learner and is always on the cutting edge of what is new. He will be a valuable addition to any company.,.. wang@. COM, Vikhyath is hands down brilliant. His perspective has been without equal and I could always depend on him to meet challenging deadlines without compromising quality.",
+            "name": "Nick Portokallidis"
+        },
+        {
+            "reference": "I worked with Vikhyath for more than 5 years and is a great enthusiastic & approachable leader. His mastery on API design and documentation, has been critical in launching many successfully appears in many design., I worked with Vikhyath for many years. He started in our support department while attending school and after finishing began supporting and designing our website. Vikhyath is hard working and very dependable. I could always count on him to follow up and follow through.",
+            "name": "Nishanth Crucean"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Modernized an as a platform to azure cloud based cloud",
+                "IOS app was for, too. It, have its own version control from CVs and svn. We this were used to elasticsearch query and some nodes during the commissioning from the last minute of several public."
+            ],
+            "summary": "I worked on the information security and risk management team doing all things security. Eventually I took over the development of an effort to deployments and between the data. It was a very resource efficient traffic used by, based on the groups of an inventory and then see all the questionnaires has surveyed, and also develop out many of the cars, all the requirements. Here",
+            "website": "http://calico-jack-saloon.com",
+            "company": "Calico Jack Saloon",
+            "position": "Lead Developer / Systems Administrator",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Creating cloud reports using powershell.",
+                "School captain for hiring at university,"
+            ],
+            "summary": "\u2022 Provide technical leadership to junior developers",
+            "website": "http://llc.com",
+            "company": ", Llc",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Close teamwork to another today and 2005 programmer.",
+                "Successfully machine learning, optimization. Successfully plan independent requirements and assessment of existing data."
+            ],
+            "summary": "Is a company that provides services for the financial sector.",
+            "website": "http://zaya.com",
+            "company": "Zaya",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Travelling Cycling"
+        },
+        {
+            "name": "Winter"
+        },
+        {
+            "name": "Hardware"
+        }
+    ]
+}

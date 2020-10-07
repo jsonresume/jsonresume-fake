@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Hank (jay Torre Mureriwa) (wang) Lee",
+        "label": "Software",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stack developer with experience in Facebook messenger chat applications. I passionate about building websites and web applications using the latest technology. My specialty is in javascript programming using react as a framework.",
+        "email": "hank-jay-torre-mureriwa-wang-lee@gmail.com",
+        "location": {
+            "city": "Ahmedabad",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "@. Com",
+            "name": "James J Newberry"
+        },
+        {
+            "reference": "I worked recommend him as a mark for a project manager.",
+            "name": "Robert Warmka"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Built continuous integration for server python",
+                "Lead, architected and developed our loyalty platform:: the video editing tool of the city, which has thousands of an electronic hour and large scale high, web single or dynamic content management."
+            ],
+            "summary": "I worked on a project which involved working on the main business.",
+            "website": "http://avatar-partners.com",
+            "company": "Avatar Partners",
+            "position": "Web Developer / Designer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Designed and developed an online as file processing, integrated migration with internal event managers, support, and products dedicated bandwidth services for commercial product.",
+                "Built backbone components and an authoring editor."
+            ],
+            "summary": "I was responsible for the development and management of automated online data whose data is used to work on google,, and distributed. I also had to ensure successful that was side things in how the code quality. At the time I was responsible for the content processing department, helping to perform it stability and performance, testing and providing implementation for product management.",
+            "website": "http://.com",
+            "company": "/",
+            "position": "Senior Software Engineer (trading Systems)",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Maintain and extend the existing sales platform for our existing systems as well as imaging system",
+                "Participated in the rebuild of NASA site, which for a of them"
+            ],
+            "summary": "I was responsible for the development and management of automated online data whose data is used to work for google,,",
+            "website": "http://freight.com",
+            "company": "Freight",
+            "position": "Lead Developer / Devops",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Outdoor Sports"
+        },
+        {
+            "name": "Book Reading"
+        },
+        {
+            "name": "Magic The Gathering"
+        }
+    ]
+}

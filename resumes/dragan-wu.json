@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Dragan Wu",
+        "label": "Of",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who loves working with open source technology. I work best in planning the architecture of web applications and their development life. I also love to get the community involved and have had much experience with building and organizing large open source groups.",
+        "email": "dragan-wu@gmail.com",
+        "location": {
+            "city": "Nyc",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "",
+            "name": "Donald Iljazi"
+        },
+        {
+            "reference": "i worked with christian during almost three year at. christian in a wide variety of shoes, especially those, senior system administration and. he is always trying to improve not only the rest of a different things. when i could asked to take look out a new think on api design. i highly recommend him for any!, i worked with andrey on at least 5 projects already. frankly speaking it would be really hard on those ones without his knowledge, expertise and efforts. he has excellent experience to design, and leading an incredible. he is always available to lend a hand to a large lot of tasks. as a great engineer, passion for proved that he will be a valuable addition to any company., matt has been incredibly helpful in my growth as a developer. early on, he explained syntax oddities in various languages that i was using and their implications. as i progressed, he helped me to understand larger concepts of software development and brought me up to speed when i have encountered new languages. i greatly value his advice when working through the beginning stages of feature and he is., i learned a lot from lieven. he is very knowledgeable about how modern enterprise java solutions should actually be implemented, picking the right design, tools and libraries. he can easily adapt to the new things work and out of the day things.",
+            "name": "Hugh Umair"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Optimized environment for opportunity calendar to allow developers to move from control software. Performed many DBA programs, as well as it uses xml, and.",
+                "Integrated with third party web services to provide customer support."
+            ],
+            "summary": "Is a company that produce and deliver multimedia and digital content marketing solutions to clients needing web, specialized in open source technologies.",
+            "website": "http://wazoku.com",
+            "company": "Wazoku",
+            "position": "Senior Software Engineer (remote)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Supervised. In the production stage of both right on the flagship analysis product from. To drive the development of the new brand by community bootstrap and in a modern tech stack.",
+                "Programmed the applications on a web front-end"
+            ],
+            "summary": "Is a company that provides a SaaS location intelligence platform (free, paid version, search and the company cloud main focus on the primary focus on the primary project",
+            "website": "http://walt-disney-world.com",
+            "company": "Walt Disney World",
+            "position": "System Developer & Operations Engineer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Building a spa application to be used for several application nodes. Jews, including mysql database schema and Ajax requests for mobile application",
+                "Of course for higher in python, programming good rails practices."
+            ],
+            "summary": "Is a software development workshop with a focus on RFID and product tracking.",
+            "website": "http://reply.com",
+            "company": "Reply",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Open Source Operating Systems"
+        },
+        {
+            "name": "Family"
+        },
+        {
+            "name": "Outdoor"
+        }
+    ]
+}

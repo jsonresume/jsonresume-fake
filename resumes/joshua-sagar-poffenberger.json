@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Joshua Sagar Poffenberger",
+        "label": "And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who loves working with open source technology. I work best in planning the architecture of web applications and their development life. I also love to get the community involved and have had much experience with building and organizing large open source groups.",
+        "email": "joshua-sagar-poffenberger@gmail.com",
+        "location": {
+            "city": "Ulm",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i worked with mark in the previous role. his knowledge in the backend because of his degree in the project is his thoroughness, and ability to make sure that work, with or more so than some i uniquely talented. people skills are very lucky to have him., can be reached at: at com, can be reached at: keith at com, can be reached at: keith at com, can be reached at: keith at com, can be reached at: keith at com, can be reached at: keith at com, can be reached at: keith at com, can be reached at: keith at com, can be reached at: keith at com, can be reached at: keith at com, can be reached at: keith at com, can be reached at: keith at com, can be reached at: keith at com, can be reached at: keith at com, can be reached at: keith at com, can be reached at: keith at com, can be reached at: keith at com, can be reached at: keith at com, can be reached at: keith at com, can be reached at: keith at com, can be reached at: keith at com, can be reached at: keith at com, jason@.,@. com, at, otc chief t\u00e9cnica).@ latinia. com, newshore servicios globales.. sucursal, general director..@ newshore. es",
+            "name": "Charles Cash"
+        },
+        {
+            "reference": "i worked with richard at, where he was a valuable member a team member who worked on a 3 week data entry project and, later, when i was superintendent of schools in simi valley usd, i had his company consult for district and saved my district nearly 2 million., we first hired Joshua as an ios developer. he soon got promoted to head of the mobile development team as he has proven himself to be a team leader, he was able to evaluate and identify the best development strategies, most suitable frameworks, apis, and technologies for our projects, he could communicate the company technology strategy to, customers, partners etc., he would review the current best practices for the selected frameworks, he would conduct code reviews and tests.",
+            "name": "Thomas Groch"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Repaired sites by google and google analytics platform",
+                "The primary developer for toms ticket project to give project analytics, team. Solved the technical of the end."
+            ],
+            "summary": "Design and development of various software products",
+            "website": "http://dali-lab.com",
+            "company": "Dali Lab",
+            "position": "Lead Engineer, New Product Development",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Managed a small team of remote developers",
+                "Developed java service applications utilizing proprietary to a single place, auto performs test and update monitor server application."
+            ],
+            "summary": "\u2022 Provide technical leadership to junior developers",
+            "website": "http://iot-startup-from-the-energy-sector-poland.com",
+            "company": "Iot Startup From The Energy Sector (, Poland)",
+            "position": "Sr Software Engineer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Developed an entire WordPress plugin based on site using javascript and a agile project management. Also manage several unix way. Performed greatly improved performance metrics.",
+                "Implement a series of gameplay, tutorials and experiments."
+            ],
+            "summary": " is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://.com",
+            "company": "",
+            "position": "It Support Analyst Iii",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Home Networking"
+        },
+        {
+            "name": "The Arts"
+        },
+        {
+            "name": "Shotokan Karate"
+        }
+    ]
+}

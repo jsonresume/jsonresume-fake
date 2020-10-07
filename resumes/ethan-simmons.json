@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Ethan Simmons",
+        "label": "Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer with a particular interest in making things simple and automating daily tasks. I try to keep up with security and best practices, and am always looking for new things to learn.",
+        "email": "ethan-simmons@gmail.com",
+        "location": {
+            "city": "Minsk",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i worked with Ethan ark several years and during that time always found him to be a creative, humble and dedicated colleague. he is keen to learn and keen to apply his knowledge in any environment, always rising to the challenge put before him. when asked to take on large scale projects \u2013 such as the production of a series of gameplay \u2013 Ethan delivered with were an invaluable comments and feedback. kim expertise in javascript is impeccable and overall a role model supporting train. he would go to the effort was a more valuable member of my team and is a dedicated to the work., it is my pleasure to recommend, her performance working as a program engineer ark iqor proved that she will be a valuable addition to any company., leandro is an excellent full stack engineer. he implements every solution with detail. he is proactive and also an excellent colleague. besides he also very passionate about his craft he is., executive director at open institute, software manager at open institute, i had the great pleasure of working with diego at. he is an extremely talented engineer, with a great ability to understand the whole and picture come up with a solution which fits in the need the. we have also enjoyed working and professionally web development. i would be highly of working with him again., i have worked with many contributors in the open source but one who uniquely stands out is ajin kabeer. i am absolutely confident that ajin kabeer would be a valuable asset to any team. it not just their technical skills that impress me. ajin",
+            "name": "Kevin Bruce"
+        },
+        {
+            "reference": "His excellent experience really helped and learn quickly, effectively he was with the team manage to front end of the product.",
+            "name": "Diana C\u00e9spedes Garro"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Was also involved in porting the whole app conversion from the ground up. I was working on the main API",
+                "Working with complex product data structures and flows."
+            ],
+            "summary": "I joined smart ark on a contract, following are a local, national local and international cooperative ventures in in Minsk.",
+            "website": "http://ark.com",
+            "company": "Ark",
+            "position": "Software Developer (it Developer / Engineer Ii)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Set up and configured server configurations to manage Linux environments.",
+                "Guide local control culture and operational procedures"
+            ],
+            "summary": "I was working on 3 projects for one of the largest, most up on the ground up with the world. I had my duties, including but to support roles.",
+            "website": "http://huawei-technologies-india-pvt-ltd.com",
+            "company": "Huawei Technologies India Pvt Ltd",
+            "position": "Senior Software Engineer (infrastructure)",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "With stakeholders of the it organization",
+                "Implemented an open source module for the configuration management process in: workflow automation"
+            ],
+            "summary": "I was responsible for the ongoing development and maintenance of the student facing area of the website. I was involved in the development of this analytics system with a service to help them operate with their rep. A team of 5 people with developers, we are around the project and manager on agile methodologies.",
+            "website": "http://kalawa-library-and-school-project.com",
+            "company": "Kalawa Library And School Project",
+            "position": "Lead Developer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Podcasts"
+        },
+        {
+            "name": "Bicycle ()"
+        },
+        {
+            "name": "Movies / Tv Shows"
+        }
+    ]
+}

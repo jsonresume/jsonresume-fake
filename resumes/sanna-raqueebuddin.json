@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Sanna Raqueebuddin",
+        "label": "Stack And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I a full stack developer who loves working with open source technology to create solutions to challenging problems. Opinionated when it matters and compromising when it does, I am always seeking the best solution for the situation at hand.",
+        "email": "sanna-raqueebuddin@gmail.com",
+        "location": {
+            "city": "Midway Point",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "chris was an incredible leader. his passion and commitment to the job better. he is an incredible strategic thinker who brings a unique combination of technology,. he is considered an authority by many in the tech space., i would recommend pieter de bruin to any employer seeking a person in the information technology industry with the following characteristics: intellectually strong individual, quick and self learner, self motivating attitude, ability to troubleshoot, research and resolve problems independently, ability to grow and improve self a., hard worker that added so much value to our product school., it always been a pleasure working with Sanna on several projects at. he is thorough, patient and intuitively correct. if i were building the perfect team, able to partner that has the technical ability to combine these roles., it product manager in ing bank turkey, team manager in neta\u015f, team leader in anadolu university, juan carlos is a great ruby on rails and php senior developer. he puts lots of attention to detail, not just to code but also to also high level overview whilst working small. a team of working him as a member of any development team and will be a manager.",
+            "name": "Zachary M M M Feldman"
+        },
+        {
+            "reference": "i worked with philipp for 9 years. he has an amazing ability to not only forsee potential issues, but can design a work flow to. he is somewhat of a,... building business systems with nothing more than a toothpick an old pentium) and some duct tape open source)., mark is an exceptional project architect with an eye for detail, in all of excellence with innovative in his understanding of mobile., as a ted, author and the first legally deaf player in the, i had the privilege of associating myself with some uniquely talented people. i count chaston as one of those people. his guidance in the areas of branding & marketing have profoundly changed my ability to attract meaningful relationships and secure a steady stream of new speaking. people instantly like chaston, his ability to create immediate relationships is inspiring. i never seen a manager with chris certainly but he is great to work., i had the pleasure of working with graham our expertise in a team that he continues to communicate additional ideas to, his positive attitude and made personal level commitment to. his projects are very happy to work with his customers., i have been mark manager for over five years.. mark is an ideal employee with a positive attitude and an excellent work ethic. he requires ittle to no supervision and has always shown to be efficient and dependable. he has proven to be a very quick learner.. largest contribution has been his ability to apply his extensive programming knowledge to develop our company internal.. she is a very professional in",
+            "name": "Bobby Burden"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Have been to implement the new version control of the API.",
+                "Provisioned and managed a fleet and management of multiple sites, including production, and code refactoring, which custom and apps built"
+            ],
+            "summary": "Is a cloud based, online booking platform for.",
+            "website": "http://technology.com",
+            "company": "Technology",
+            "position": "Senior Software Engineer (java & J2ee)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Extensive social media (2, interactive, gateways etc.)",
+                "Supervision (2013) / dev and video mathematics videos"
+            ],
+            "summary": "I developed a workflow automation system that helped process engineering. I was quite successful. I was responsible for the architectural design and implementation of their most important private end software applications. Covering everything from the time, I was working with many integrations, with over 2, 000 2 days.",
+            "website": "http://ais.com",
+            "company": "Ais",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Hands on experience in block chain project using and",
+                "Managed schedule and meeting with clients and financial products."
+            ],
+            "summary": "The company inter services for developing.",
+            "website": "http://imen-argham.com",
+            "company": "Imen Argham",
+            "position": "Lead Software Engineer, Personalization Algorithms",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Musical Instruments"
+        },
+        {
+            "name": "Cinematography"
+        },
+        {
+            "name": "Sourdough"
+        }
+    ]
+}

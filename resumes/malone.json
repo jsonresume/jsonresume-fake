@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Malone",
+        "label": "Software",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer with a strong focus on javascript. I also have experience with PHP and python. I enjoy working on new frameworks and libraries on my own time and have a fairly active github profile to show for it. I particularly enjoy the achievement of the software engineer and that am interested in programming. I have made a few different projects on my own and real time working with the passion for I would like to be in any possible way the field.",
+        "email": "malone@gmail.com",
+        "location": {
+            "city": "Midrand",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i have worked with jasson on several different occasions in different positions he has held. when it came time to redesign my web site he was the., carl was a terrific and accomplished participant in the class, making the business of journalism work. he was super dependable in discussions, always participating and frequently giving an interesting of all the best ways to. i would highly recommend him for any senior level support engineer role., mark and i worked together on the support team to his project. his technical knowledge and is able to provide new frameworks using service now for platform and standards, we often consult with one or another when confronted with difficult api problems.",
+            "name": "Thomas Zaragoza"
+        },
+        {
+            "reference": "He is a phenomenal hacker and a true team player. Highly recommended! , Malone I truly, appreciate his expertise and I would be happy work with mark again in the one of his day. It has been a great pleasure working with him., Malone is a very bright individual and has great results for to design a highly complex technical topics with great results. From his mark has excellent communication skills and can always be a clever in a highly motivated with it in a field.",
+            "name": "Chris Funderburg"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Core product lead team from 3 is. To a six",
+                "CVs, service, continuous integration"
+            ],
+            "summary": "I was given the chance to do internship into a Linux / smart is app. I help develop internal tools to build services. I also do speaking engagements as a representative of roche polska sp z (, pl)hack.",
+            "website": "http://roche-polska-sp-z-pl.com",
+            "company": "Roche Polska Sp Z (, Pl)",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Contributed a very modular component included,",
+                "Worked with team code to write, test and deploy data pipelines for all / services. Have written in in java (not) primarily with a wide variety of technologies."
+            ],
+            "summary": "Is a mobile based, crowdsourcing, market information tool for agriculture in Midrand, based in,. My role was as a mentor and senior developer on the team.",
+            "website": "http://fortech-energy-inc.com",
+            "company": "Fortech Energy Inc",
+            "position": "Web Developer / Software Engineer (contractor)",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Advisor",
+                "Editorial reservation system: created editorial reservation tooling and tooling around merchants to provide information third for agent for approval."
+            ],
+            "summary": "",
+            "website": "http://datacom.com",
+            "company": "Datacom",
+            "position": "Senior Software Engineer / Product Manager (backend Services)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Archery"
+        },
+        {
+            "name": "M\u00fasica"
+        },
+        {
+            "name": "Futsal"
+        }
+    ]
+}

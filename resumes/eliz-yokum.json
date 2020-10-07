@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Eliz Yokum",
+        "label": "Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I a web / content marketer with intermediate javascript / Wordpress skills. I have been working as a marketer, writer, editor, trainer, and user research specialist for training / learning companies over the last couple of years. I enjoy learning new technologies (and making them more accessible to others), tinkering with new javascript libraries and WordPress plugins, and writing clear / fun. When I not I moved to new knowledge and I love to deliver things. I love to write software, and I have been working in the UK, in my free time to other languages:",
+        "email": "eliz-yokum@gmail.com",
+        "location": {
+            "city": "Mil Palmeras",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "As it relates to, software engineering and analysis, just to name a few, Eliz is the one problem solved, and I look forward to working with him again in the future, in the same team.",
+            "name": "Katherina Markert"
+        },
+        {
+            "reference": "it was an absolute pleasure to work with alejandro at disney. alejandro from has a technical skill sets, or technical advisory to the most most accomplished developers in the best practices and he has always bandwidth to help other team members. every development team needs, with a big small of. i in fact would work with diego again., derek is a talent with a rare combination of programming ability and an aesthetic eye. i appreciate his expertise and admire how he makes his job look easy, before, i have worked with mike back in elasticpath for projects with telus and virgin media. time and time again, he has proven himself to be a rare combination of technology specialist and business analyst. you can always count on mike to find the root problems to solve, and choose the right technology to do it best.",
+            "name": "Margart Nicoletti"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Learning how to create and research documents required",
+                "Migrated legacy ruby on rails & angular 2 to a single page app."
+            ],
+            "summary": "Is the most comprehensive search engine for finding used industrial machinery and heavy equipment.",
+            "website": "http://and-brain-sciences-unit.com",
+            "company": "And Brain Sciences Unit",
+            "position": "Lead Developer / Devops",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Set up a swagger backing for the company",
+                "Instruments: chief, bash, Perl, mysql, mongodb, Jenkins, Ansible, aws, s3, cloudwatch"
+            ],
+            "summary": "I was hired to help refactor an existing application to help users with their customers using, and..",
+            "website": "http://tenaris.com",
+            "company": "Tenaris",
+            "position": "Web Developer / Adult Ed Instructor",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Rules update and development of client project requirements",
+                "Managed inventory fulfilled by amazon web 2. 0"
+            ],
+            "summary": "I was responsible for the development and management of automated online data whose data is used to legally work. I was ultimately given the role of a social media platform (, on orange group, a) corporation to be a part of the first business at a national group of ().",
+            "website": "http://lynx-analytics.com",
+            "company": "Lynx Analytics",
+            "position": "Senior Software Developer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Marketing / Advertising"
+        },
+        {
+            "name": "Gardening"
+        },
+        {
+            "name": "Brass Music"
+        }
+    ]
+}

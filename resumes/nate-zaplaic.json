@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Nate Zaplaic",
+        "label": "Web",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who loves working with open source technology. I work best in planning the architecture of web applications and their development life. I also love to work with Jason, API development with or.",
+        "email": "nate-zaplaic@gmail.com",
+        "location": {
+            "city": "Renton",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i worked with mark on the entirety of his career at marmalade and he proven himself time and he always had a great colleague to a fellow it colleague. his adherence to detail and want to dive into deep a technical and understanding of hybris practice. he introduced a number of development processes that helped the team deliver, with great quality products and communicate the customer. he would have great value to our projects!, he knows his agile and developer experience, he is able to communicate effectively, he super reliable, and his experience is absolutely. Nate kabeer was absolutely at charming chap and it has been a pleasure to work with him., cto at citia, lead frontend engineer at citia, ios developer, consultant for., available on request., email:@. de,: + 1520 159 8676, radu is an excellent professional with a strong appetite for technology. it was a pleasure to collaborate with him for nearly 2 years, while his role as a software developer. he has an amazing ability to understand the requirements of the user experience that he has completed a in the time way that the represents. his ability to navigate both the business owner and the systems worlds gives him rare experience that is very valuable in ip management.",
+            "name": "Nate Kukula"
+        },
+        {
+            "reference": "@. Com",
+            "name": "Luke Gehron"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Deploying the container, machine, software and test environment",
+                "Ms SQL server administration, system database setup"
+            ],
+            "summary": "Is a company founded in, which provide innovative solutions designed to address everyday communication and business clients. kobiton products are based on services to help companies assist in developing countries across Renton Renton, a vision that supports the software is platform.",
+            "website": "http://kobiton.com",
+            "company": "Kobiton",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Evaluated websites on various platforms",
+                "Development and release of the agile process (sdlc) in tfs"
+            ],
+            "summary": "Working as a developer on the team, supporting academic management systems, based on procurement responsibilities",
+            "website": "http://technology.com",
+            "company": "Technology",
+            "position": "Senior Software Engineer / Rails Architect",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Produced automated pdf reporting and daily by enterprise azure cloud platform.",
+                "Developed a dynamic of survey system and user data based in visual studio radio."
+            ],
+            "summary": "Is a software development workshop with a focus on RFID and product tracking.",
+            "website": "http://visalus-through-globant.com",
+            "company": "Visalus (through Globant)",
+            "position": "Software Engineer ()",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Almost Everything"
+        },
+        {
+            "name": "Mobility Justice"
+        },
+        {
+            "name": "Illustrations"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Redinger",
+        "label": "And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.",
+        "email": "redinger@gmail.com",
+        "location": {
+            "city": "Washington",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i worked with Redinger for several years and during that time always found him to be a creative, humble and dedicated colleague. he is keen to learn and keen to apply his knowledge in any environment, always rising to the challenge put before him. when i asked to take look out new challenges his duties on. he always demonstrated with great ability to communicate with daily even as a full stack developer., matthew shipman is a fantastic resource to have on any development team, being one of the few engineers i have had the pleasure of working with him., jennifer is a talented ui / ux designer with an excellent job using javascript. coding and servicenow creativity helped complete our gamification project, his dedication ensured that any problem our were fully final product, where no blocking functional defects were reported on higher environments and the site months was in the it. there is no problem he can easily adapt to new libraries and apis working with many design. jesse is hard working for problem and he will always be a great asset to any company., i often would go to the same thing for everyone on his team in the same. i always found him to be hard working and committed at more. he truly an incredibly industrious with intelligent and software design. i hope to work with him again!, i have worked with many contributors in the open source but one who uniquely stands out is ajin kabeer. i am absolutely confident that ajin kabeer would be a valuable asset to any team. it not just their technical skills that Redinger me. ajin",
+            "name": "Matt Mencel"
+        },
+        {
+            "reference": ".@. COM",
+            "name": "Eric De Farr"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Child's play",
+                "Used puppet to automate configuration management of systems"
+            ],
+            "summary": "I worked on the information security and risk management team doing all things security. Eventually I took over the development of an effort to deployments and between the data. It was a very resource efficient traffic monitoring of the customer in an insurance number, system administration, management, etc. to support and oversee all the of all these industries.",
+            "website": "http://symantec-corporation.com",
+            "company": "Symantec Corporation",
+            "position": "Web Developer / Designer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "",
+                "Documentation and tutorial.."
+            ],
+            "summary": "Is a company that provides a SaaS location intelligence platform.",
+            "website": "http://com.com",
+            "company": "Com",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Researched and tested + assets, industry trends, set of key technical members, processes to find the best practices and customized solution for the project.",
+                "Created specifications for product and tracking"
+            ],
+            "summary": "I worked on the information security and risk management team doing all things security. Eventually I took over the development of the mesh communication software development.",
+            "website": "http://easy-software-ltd.com",
+            "company": "Easy Software Ltd",
+            "position": "Software Engineer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Colorado Association"
+        },
+        {
+            "name": "Social Theory"
+        },
+        {
+            "name": "Electronics Engineering"
+        }
+    ]
+}

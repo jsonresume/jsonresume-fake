@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Daxter Ryan",
+        "label": "Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who can build apps from the ground up. I worked mostly at startups so I am used to wearing many hats. I am a very product focussed developer who practices, user feedback first and. I generally very flexible when investigating new roles.",
+        "email": "daxter-ryan@gmail.com",
+        "location": {
+            "city": "Mountain View",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "@. Com",
+            "name": "John F Edwards"
+        },
+        {
+            "reference": "i have worked with Daxter on several different occasions in different positions he has held. when it came time to redesign my web site. he was the first, css was able and a high level of knowledge, understanding of the java complex topics from programming, the concept to from the completion, and was as well several disney mobile., as he always demonstrated his enormous knowledge of structured thinking. he understands both the creative and the technical process, making him an invaluable member of any web design development team., i am good at working indipendently also knows how to motivate my team well., head of technical department, roamtech solutions limited, it is my pleasure to recommend david, his performance working as a intern for hivelocity hosting proved that he will be a valuable addition to your company. clickbalance",
+            "name": "Kevin O"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Pager duty Nagios infrastructure within Jenkins, docker, ci / CD, and selenium + later transitioned when the manual process to an existing enterprise third result revenue.",
+                "Created customer service for friendly environment."
+            ],
+            "summary": "Built a platform to manage & track the movements and violations of students. (Ask for credentials for demo)",
+            "website": "http://university-of-toronto-igniteworld-pvt-india.com",
+            "company": "University Of Toronto Igniteworld Pvt, India",
+            "position": "Senior Programmer / Scrum Master / Coach",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Contributed to the development of the API",
+                "Work with a iOS development intern"
+            ],
+            "summary": "Software engineer focus on javascript development as a great contributor to team with other developers and we are our client administration. Worked at any develops many new applications for our clients.",
+            "website": "http://bandung-institute-of-technology.com",
+            "company": "Bandung Institute Of Technology",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Identified vendor accounts and procedures, conduct analysis and estimation, work with hiring, technical staff and client stakeholders",
+                "Node"
+            ],
+            "summary": "Is a platform that allows citizens to hold government agency directly and publicly accountable for their actions.",
+            "website": "http://arkade.com",
+            "company": "Arkade",
+            "position": "Software Engineer ()",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Shooting"
+        },
+        {
+            "name": "Physics"
+        },
+        {
+            "name": "Brewing"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Jeffrey Riedemann",
+        "label": "And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I have been an iOS developer for more than 5 years. Before diving into apple systems, I was used to be an engineer in electronics before. I also interested in backing development using go and swift.",
+        "email": "jeffrey-riedemann@gmail.com",
+        "location": {
+            "city": "Parkville",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I worked with Jeffrey during almost three years at. Jeffrey is a passionate engineer that is able to play different kind of roles in your team. He has strong coding and software design skills. He is a motivated and self driven engineering. I would strongly recommend Jeffrey to be part of your team work and I would highly recommend him.",
+            "name": "Daniel Alkurdi"
+        },
+        {
+            "reference": "I worked had the opportunity to see some of his doing years the growth java whilst team, where he was an eager to fully control abilities and a unique it architecture in knowledge. Regardless of the subject of interest is open, minded and very friendly., Jeffrey capacity to ask the right questions, his motivation to define new scenarios that help people in their communication. Both excellent people in writing job, and ours was in lab on.",
+            "name": "Anders Bengtson"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Created new video lottery terminal communications framework and management.",
+                "Responsible for automation with the mean (microservices stack),."
+            ],
+            "summary": "Is a company that provides a SaaS location intelligence platform help sales process to individuals business and businesses.",
+            "website": "http://right-brain-media.com",
+            "company": "Right Brain Media",
+            "position": "Software Engineer (android)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Coordinated a successful migration of technologies, including potential testing with libraries and client",
+                "For a more that include software some component of an external the company website. Implemented in this because the was j2ee using java, ee, and added some to compose its interface into (web)."
+            ],
+            "summary": "Development of a calculation engine for an insurance company",
+            "website": "http://cwmni-da.com",
+            "company": "Cwmni Da",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Improved response time to improve the resources and constraints of the business from the ground up",
+                "Worked obtaining and orders for communication customers on the communication technologies"
+            ],
+            "summary": "I worked on the information security and risk management team doing all things security. Eventually I took over the development of an effort to provide required development and various processes for project managers and some systems. It was a very main part of the company that was created (now of 3rd party calls more than 70% in the ability for it. My first role as a centralized logging software engineer working for the following resources: as an office, I would help several pages and modules.",
+            "website": "http://airbus-defence-and-space.com",
+            "company": "Airbus Defence And Space",
+            "position": "Senior Software Engineer, Software Engineer 2",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Astronomy"
+        },
+        {
+            "name": "Djing"
+        },
+        {
+            "name": "Distributed Systems"
+        }
+    ]
+}

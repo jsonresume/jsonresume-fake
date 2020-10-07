@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Brandon Oyemade",
+        "label": "Of",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.",
+        "email": "brandon-oyemade@gmail.com",
+        "location": {
+            "city": "Thiruvananthapuram",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "the first time i Brandon to Brandon on the, i knew he was going to be a great engineer on my team at polycom. Brandon is a passionate and energetic employee. he always puts the customer first, whether the customer is an actual customer or a member of our team. a couple of characteristics that stand out are his flexibility and ability to collaborate, Brandon was a great team player who was willing to pick up whatever it took for the team to get the job done. Brandon also has the ability to think outside of the box and in all / was a prefect and the success. he has the foresight to recognize when to rewrite and / or reorganize existing software and to implement improvements that are beneficial in the long term when doing so he is not necessarily an immediate goal. he always looks to understand key concepts and new emerging technologies while and willingness to help with different solutions to save delivery time at the end.",
+            "name": "Morgan"
+        },
+        {
+            "reference": "i worked with ed while we were delivering both in our school. i was impressed by how quickly she was able to learn and improve upon existing processes. she was instrumental in setting up and streamlining our automated servers. her highly made job like her communication even thought and out of their best practices to he use, the best practices of our product have., darryl was a senior programmer, an excellent php developer with no limitations. he has the ability to understand well, often times wearing many hats on the account team. he was very easy to work with, and no level of commitment. to this is a team player and a real pleasure to work with.",
+            "name": "Jason Roebuck"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Hands on",
+                "Web application development: working on mobile applications team and visual on cable tv and."
+            ],
+            "summary": "I was the first mobile application developer hired for two customers from various public to private cloud over them where they have to develop websites for business and improbable io.",
+            "website": "http://improbable-io.com",
+            "company": "Improbable Io",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Mentored new python to automate web and update their website.",
+                "I developed the front end application using anglers' and backend for the node. J's web app. Utilized by amazon web services."
+            ],
+            "summary": "sii poland is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://sii-poland.com",
+            "company": "Sii Poland",
+            "position": "Freelance Web Designer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Lead for USA today, home, in, and)",
+                "Interviewed candidates in / life changes on key WordPress projects."
+            ],
+            "summary": "I worked as a software engineer on a development in embedded c, CSS etc.",
+            "website": "http://studio-legale-manente.com",
+            "company": "Studio Legale Manente",
+            "position": "Freelance Researcher",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "3d Printing"
+        },
+        {
+            "name": "App Development"
+        },
+        {
+            "name": "Guitar Playing (electric Classical +)"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Luke Nayak",
+        "label": "And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a second year computer science student at the pozna\u0144 university of technology, looking for an opportunity of introduction to the job market as a programmer. I fast thinker and problem solver, I also very determined to become as good as possible in programing.",
+        "email": "luke-nayak@gmail.com",
+        "location": {
+            "city": "Alajuela",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Luke brings a wealth of leading edge insights both in product management as well as technology to the team work and go above when it all was a given him to our team. His ability to solve his colleagues too big the picture levels of.",
+            "name": "Lucas Luo"
+        },
+        {
+            "reference": "I worked with Luke at, where he was a valuable member a team member who worked on a 3 week data entry project and, later, when I was superintendent of schools in some valley USD, I had his company consult for district and saved my district nearly 2 million., we first hired Luke as an ice developer. He soon got promoted to head of the mobile development team as he has demonstrated a strong team spirit in every. He always had the answers to technical problems that and often to have a unique angle on.",
+            "name": "Tim Peeters"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Worked with the Bluetooth subsystems to team build in service / using our laws platform like, amazon as a lambda, and.",
+                "Improved internal user base and it's more productivity."
+            ],
+            "summary": "Is a leading private school,.",
+            "website": "http://alexander-forbes.com",
+            "company": "Alexander Forbes",
+            "position": "Senior Software Engineer, Emerging Technologies",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Worked with many commercial SDK for PHP and web projects (in PHP) / document management application (c / / /)",
+                "Ensured continuous and maintenance"
+            ],
+            "summary": "Is a platform that allows citizens to hold government agency directly and publicly accountable for their actions.",
+            "website": "http://lucidity-it.com",
+            "company": "Lucidity It",
+            "position": "Software Developer, Project Manager",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "The final acceptance. (Net,,)",
+                "Received nswcdd award for work on, delivery and application of current knowledge."
+            ],
+            "summary": "I was given the chance to do an internship program in which applied an internship and setting up a resource as continuous integration.",
+            "website": "http://infotech.com",
+            "company": "Infotech",
+            "position": "Software Engineer (team Leader)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Manual Jobs"
+        },
+        {
+            "name": "Fiddling Around With My Raspberry Pi"
+        },
+        {
+            "name": "Focus"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Shaun Radvilavicius",
+        "label": "And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer who is looking to join a team that solves interesting and challenging problems with innovative technology.",
+        "email": "shaun-radvilavicius@gmail.com",
+        "location": {
+            "city": "Philadelphia",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I have worked with Shaun on a challenging project. Shaun has been working in working him in the near. For the first time we truly. He showed a truly strong application asset to the company. During my time at hb studios Shaun went from senior of his programming ability to adapt to the rest of the team work. I welcome the chance to work with Shaun again, and recommend him to anyone who needs to get stuff done, instead of just talking about it.",
+            "name": "James Beyers"
+        },
+        {
+            "reference": "thayne is a sharp guy and i wish i had more of an opportunity to further develop and develop some of the plans he pioneered while Shaun for us. he is very creative and can take a seed of an idea and grow it into something spectacular with little oversight required. he is certainly trustworthy and i am pleased to have any opportunity to work with again in any future, it is so considerate, passionate, dedicated to his work and performance is an invaluable account. he understands through the value of product management problems and to be at his time. having good luck tom tom hope we can catch on up the very well, but he also often able to learn and rapidly how to quickly approach and help some in the team to deliver quality. when it was joined, i was impressed at how he go to when she presents a solution, it is a joy to work with and a very good engineer. any task i work with it. i came to find him extremely lucky to have him in a team., very dedicated and professional to work with. he proved to have a huge breadth to and solve his colleagues. a very professional with good knowledge and experience will always be a valuable asset to any organization. i would be rhisiart excellent to work with it in as a team and an level of management., i worked closely with kyle people on a personal level. his commitment to work is his performance invaluable and is a big plus., pellegrino is a very competent developer and test engineer. we worked together in pair",
+            "name": "Eric Schaefer"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Currently designing and enterprise solutions for a year application, made exclusively with a of live (test), user ui components (, spring framework).",
+                "Use of wicket and spring framework for development"
+            ],
+            "summary": "Is a technology platform for online sports information. It has created a network of schedules, stories, and stats that teams can share with fans and with other sports organizations.",
+            "website": "http://corpoclic-a.com",
+            "company": "Corpoclic A",
+            "position": "Senior Front End Developer / Founder",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Work with lead the department and implementation of framework",
+                "Mobile SDK for API c based on"
+            ],
+            "summary": "I was given the chance to do an internship program in which it became a sole software and designer / developer / consultant.",
+            "website": "http://nextdrop.com",
+            "company": "Nextdrop",
+            "position": "Web Development And Advisory Role",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Created a SaaS application that shows a release from release teams to provide live inventory.",
+                "Wrote an alternative consumer that product, read and the customer records to create a targeted."
+            ],
+            "summary": "I was responsible for the development and management of automated online data whose data is used to work on all contracts as a transfer, storage I also provided a migration effort to other creation of websites.",
+            "website": "http://fobagra.com",
+            "company": "Fobagra",
+            "position": "Sales Associate",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Computer Technology"
+        },
+        {
+            "name": "Political Art And Illustration"
+        },
+        {
+            "name": "Hardware"
+        }
+    ]
+}

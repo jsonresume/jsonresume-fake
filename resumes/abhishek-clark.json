@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Abhishek Clark",
+        "label": "And Of",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer with strong technical leadership and management experience. I believe my main strength is the ability to align engineering practices with the organizational goals. Over the past few years, I have been spending time in my time in javascript, but in this position in a variety of, I decided to learn new things and I enjoy to stay constantly tinkering with different ways to expand my knowledge and improve existing work in order to deliver good quality products.",
+        "email": "abhishek-clark@gmail.com",
+        "location": {
+            "city": "Alpharetta",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i worked with mark in the previous role. his depth of knowledge is vast and was always learning more valuable to the team and help others work. a matter complex expertise or in the most people value money. he is an inspiring skilled natural leader. where robert goes, amazing things!, aidan is an amazingly creative and gifted designer with an exceptional understanding of marketing requirements. he followed through on development ideas, offering good additions and accepted changes without hesitation. he is very pleasant and fun to work with. he helped the project to succeed in time and within budget.",
+            "name": "Steve Meza"
+        },
+        {
+            "reference": "",
+            "name": "Michael Ajala"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Escalation path optimization",
+                "Responsible for audit platform that lead the planning for the estimation of the company"
+            ],
+            "summary": "",
+            "website": "http://plus.com",
+            "company": "Plus",
+            "position": "Senior Software Engineer / Remote Worker",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Assisted with install and maintenance of active directory.",
+                "Pass: docker, mesas, cloud foundry,"
+            ],
+            "summary": "Is a social, competitive cooking app. We started it as a project for a hackathon in may, and have continued to work on it in our own time and the project they manager. I was involved in research and develop in ruby on their. Net and windows. I also worked on a large project and carnegie mellon robotics department a technical cms system.",
+            "website": "http://carnegie-mellon-robotics-department.com",
+            "company": "Carnegie Mellon Robotics Department",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Recommended architectural improvements solutions and design solutions as part of the team and delivered new",
+                "Shipped the code coverage of trading off unit tests by to help research on the use of all the above websites"
+            ],
+            "summary": "wegolook is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://wegolook.com",
+            "company": "Wegolook",
+            "position": "Senior Software Developer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Music And Multimedia"
+        },
+        {
+            "name": "Ice Skating"
+        },
+        {
+            "name": "Board & Card Games"
+        }
+    ]
+}

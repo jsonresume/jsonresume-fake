@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Phil",
+        "label": "And Computer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer with three years of professional experience as full stack web development. In that period I have worked on back and front end, was in charge of dev and developmental tasks, developed micro service and monolith architectures. I say I am an expert in those, as I still learn new things every day, I think I have made a principle of rtfm, and have. I have been in my free time at as a software platform where I can do final my highest order to show what I can be within a learning.",
+        "email": "phil@gmail.com",
+        "location": {
+            "city": "Cartago",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i worked with brett for more than 5 years and is a great enthusiastic & approachable leader. his mastery on api design and documentation, has been critical in launching many successfully apis in many design., development of some years, occasions in being a self starter, team player, he able to communicate his customers, well and manages the ability to communicate on the technology world;, and he was able to communicate effectively with the complex technical topics from teams, like he and was the other team members of developers in his final product. after working erik was 3 years. where robert goes beyond, amazing., konrad is an enthusiastic individual that has manage to share his technical knowledge with the marketing team. he is always ready to bring new ideas and help others. he also understands polycom value propositions versus our competitors and more importantly he learnt how to our it. if you can have thoroughly the need to help champion the new ideas and introduce new technologies. i would have no hesitation in working with him again in the one it related activity to as his help it and always there seems that be to look forward to further develop in the complex web projects at., i worked with alejandro while at pley and it was an absolute pleasure. alejandro designed and developed the backend of pley. from the perspective of a qa engineer, he was a dream to work with as he always cared for quality of the product and ensured any fixes in a timely manner. he comes up with all the edge cases ability, and push the development strategies,",
+            "name": "Matthew Pazaryna"
+        },
+        {
+            "reference": "i had the opportunity to work with Phil for a period of two years in netweaver lifecycle management team at sap labs,. Phil is a highly motivated individual with never ending enthusiasm for his work as well as all of his extra curricular activities. i was quite impressed by his technical acumen while working on various assignments in the area of netweaver lifecycle management. he took initiative in coming up with innovative solutions in his assignments on numerous occasions especially when faced with complex scenarios. Phil also was highly active on sap developer network during this period. he was a consistent contributor to the network with contributions in the form of blogs as well as various articles., Phil is an incredible leader. his passion for software development and goes above beyond his job, he has a very valuable and teamwork has outstanding skills. he also an internal drive to succeed yet appears easygoing on the outside. lloyd can jump into the technical weeds where appropriate and then come back and focus on driving measurable business outcomes with. i certainly expect that lloyd successes will continue on any team. highly recommended., i worked with alejandro while at pley and it was an absolute pleasure. alejandro designed and developed the backend of pley. from the perspective of a qa engineer, he was a dream to work with as he always cared for quality of the product and ensured any fixes in a timely manner. he comes up with all the edge cases ability, and to push the development further than. carl was not only a strong team player and tech that he helped his colleagues with a good design",
+            "name": "Ryan Vogel"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Extensive knowledge of javascript and web project",
+                "Designed the business intelligence strategy that allowed the team to properly use cases in use cases to in the further"
+            ],
+            "summary": "Is an American video game publisher based in,.",
+            "website": "http://truss-education.com",
+            "company": "Truss Education",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Integrated unity3d physics game to algorithms",
+                "Had a major role I was at the launch of the initial front-end app using and."
+            ],
+            "summary": "uab cis is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://uab-cis.com",
+            "company": "Uab Cis",
+            "position": "Software Engineer / Team Lead",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Developed the native mobile application using both android and is mobile & is native",
+                "Administrator of payment"
+            ],
+            "summary": "I worked on a big amount of projects, basically doing javascript, CSS, html, CSS, javascript, java & web development",
+            "website": "http://alacra-inc.com",
+            "company": "Alacra Inc",
+            "position": "Technical Support Iii",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Religion"
+        },
+        {
+            "name": "Writing Blogs"
+        },
+        {
+            "name": "Visiting Concerts And Festivals"
+        }
+    ]
+}

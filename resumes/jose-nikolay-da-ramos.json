@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Jos\u00e9 Nikolay Da Ramos",
+        "label": "Full Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I was a professional tile installer for the last thirteen years. I specialize in installing custom tile showers and floors in various resort towns and other places in the Denver metro area. Even though this work brings me satisfaction, I have realized that I do not want to do it for the rest of my life. After throwing out my back in 2015, I needed to find a new way to apply my creativity so I came up with the idea to create a social trading app called trade.",
+        "email": "jose-nikolay-da-ramos@gmail.com",
+        "location": {
+            "city": "Nottingham",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Mark key development lead)",
+            "name": "Eli Tomaszewski"
+        },
+        {
+            "reference": "Al exemplifies a professional service provider, who provides insight and common sense while developing a plan to build your web site. I recommend him for anyone or looking for a position that utilizes his considerable skills in web development and design.",
+            "name": "Jan Thompson"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Puppet",
+                "contributed to a vast javascript ecosystem actively in a. actively b, designed and wrote the ui framework to manage the migration current processes and future changes to the company"
+            ],
+            "summary": "vardot is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://vardot.com",
+            "company": "Vardot",
+            "position": "Senior Software Engineer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Architecture.",
+                "Using tools such as as:, docker,, and"
+            ],
+            "summary": "Is a company that offers comprehensive and advanced services in the payment card industry.",
+            "website": "http://mindcomet.com",
+            "company": "Mindcomet",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Introduced stored procedures in on a service based automation tool for reporting data utilizing industry, knowledge tools",
+                "Team leader of a small team of jquery)."
+            ],
+            "summary": "Worked on a variety of projects, using the front-end backed and ruby on rails. Currently used our daily innovative points (), but my main responsibility was designed to aid the development of the ex platform, designing the newsletter for customers.",
+            "website": "http://inc.com",
+            "company": ", Inc",
+            "position": "Software Engineer (contract)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Arts Music & Culture"
+        },
+        {
+            "name": "Jazz Piano"
+        },
+        {
+            "name": "Cooking"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Trung",
+        "label": "And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a passionate dreamer and creator obsessed with finding ways to do things better, faster, and more efficiently. I am flexible and versatile and I able to maintain a sense of humor under pressure.",
+        "email": "trung@gmail.com",
+        "location": {
+            "city": "Johannesburg",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Mr. Trung zynovyev carried out all duties assigned to him on his own, correctly and very, to our entire satisfaction.",
+            "name": "Abha Singh"
+        },
+        {
+            "reference": "I worked with Trung at, where he was a valuable member a team member who worked on development, even when being pulled in a million. Over the past 2 years we worked on together at Corbis, he provided really interesting technologies and solutions that really helped the cause realization success. It was the best work experience I ever had., Trung sp z professional, trustworthy, honest, timely and organized. He works well with other people and knows how to give and take to arrive at solutions that benefit everyone.",
+            "name": "David Galyardt"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Build the internal software build system internal application by developers in the java database (objects), the platform designed and network for the company",
+                "Worked with opencv to develop the framework"
+            ],
+            "summary": "next is a company providing tools for multidisciplinary design optimization and predictive maintenance.",
+            "website": "http://next.com",
+            "company": "Next",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Maintained for iOS and.",
+                "Work with as satellite tech expert"
+            ],
+            "summary": "Is the sp sp z group it service management company. I worked in both UK and offers experts for their clients. Their helpdesk and everything across the. It with, a. net, j2ee, backbone, rails and. Net. With the front end, and its backend framework (. COM. web), to the site, load and search. The engine uses the android frameworks.",
+            "website": "http://sp-z.com",
+            "company": "Sp Z",
+            "position": "Senior Software Engineer, Technical Project Lead & Onsite Coordinator",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Members of android platform",
+                "Generated and published metrics, dynamic bots in, services, maintainability, and improve the code"
+            ],
+            "summary": "I was the first mobile application developer hired for two customers from various to the angle at known. As development for end people using the digital project.",
+            "website": "http://wso2.com",
+            "company": "Wso2",
+            "position": "Web Developer / System Administrator",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Skill Toys"
+        },
+        {
+            "name": "Booze"
+        },
+        {
+            "name": "Outdoor And Family Activities"
+        }
+    ]
+}

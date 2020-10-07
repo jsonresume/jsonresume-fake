@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Gustavo Jonusonis",
+        "label": "Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer who has experience in developing and maintain systems used by million of users. I consider myself as a detail and process oriented person. Learning and sharing have become my passion. I embrace for a new challenge and learning new things.",
+        "email": "gustavo-jonusonis@gmail.com",
+        "location": {
+            "city": "Kapellen",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I have known nilanga in a professional capacity and hereby endorse that he is a technically sound and innovative candidate in the it. He would be an asset to any organization.",
+            "name": "Daniel Alkurdi"
+        },
+        {
+            "reference": "Founder: moves the needle",
+            "name": "Alan Corbel"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Integrated with the majority of our delivered production to keep the core working in the unit testing.",
+                "Participated in a scrum product for engineering and a cycle for both datacenters, and most of company products"
+            ],
+            "summary": "wild bytes llc is a company whose focus is on delivering top notch web and mobile applications to our clients.",
+            "website": "http://wild-bytes-llc.com",
+            "company": "Wild Bytes Llc",
+            "position": "Senior Software Developer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Installed an asterisk PBX to and the data",
+                "Designed a mobile friendly asp web site."
+            ],
+            "summary": "clickbooth is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://clickbooth.com",
+            "company": "Clickbooth",
+            "position": "Senior Software Engineer & Tech Lead",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Member of the team to html5 5",
+                "Wrote each functional performance by feedback from patients and log data"
+            ],
+            "summary": "A website using,, ec2,, a, big data processing, and many other java projects.",
+            "website": "http://amazon-inc.com",
+            "company": "Amazon Inc",
+            "position": "Senior Technical Staff Member I",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Art And Photography"
+        },
+        {
+            "name": "Model Engineering"
+        },
+        {
+            "name": "Downhill Skiing"
+        }
+    ]
+}

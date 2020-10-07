@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Sylvain Jayappa",
+        "label": "Researcher",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer who is constantly tinkering, reading, and building. I love taking on new projects and further existing ones. Check out my site for more on what I am up to. I built the site in reacting with an I always looked like just excited about me to get into the best and shell scripts: I am I am excited about me when I not. I believe in a healthy. My love for this is what I do, and I love for searching for architectural problems.",
+        "email": "sylvain-jayappa@gmail.com",
+        "location": {
+            "city": "J\u00f6nk\u00f6ping",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i worked with philipp for 9 years. he has an amazing ability to not only forsee potential issues, but can design a work flow to. he is somewhat of a.,. working with bret of knowledge, is one of those unique persons. i worked with him for a year that he learned a new level was at getting the time. his work is done with a technical knowledge and expertise that were second to none., i would be huge to work with him for any company., ed has great technical dev skills along with the ability to communicate with the stakeholders in the business which are that do not his way do attitude. when we requested some changes require for our website we immediately changes it. i would say he is a highly recommended web developer a developer., membuat web dengan julian sangat menyenangkan dan hasil sangat., you will be amazed with how fast renaldy learn tough subject in a very short time given his non it background. he has a deep analytical skill, hard worker as well as a great team player, a good system administration. with knowledge and a great experience. probably the best system engineer i have worked with. a teal pleasure!, i had the chance to meet allaedine when i was business unit manager of the open source system department at smile. allaedine made great job in the different projects he had to manage. he has the capacity to work on so many tools with a high level of knowledge., has been patient, professional and have helped us develop a top shelf site.",
+            "name": "Cesar Garcia"
+        },
+        {
+            "reference": "Sylvain is a deep product thinker. In an organization that is large and nascent to product management, Sylvain stands out as someone who thinks innovatively about how the product really should be run he has with outstanding. Net tech lead in, I relied on him to when a technical project related to it. As his extensive knowledge base a of experience and an architect. I am hoping the I get a chance to work within their team.",
+            "name": "Kamil Lom"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Implemented several solutions for the years, including a team of member solution architects",
+                "As an on-site coordinator led a medium sized team management skills, it documented case closure with and project development"
+            ],
+            "summary": "Is a software development workshop with a focus on RFID and product tracking.",
+            "website": "http://.com",
+            "company": "",
+            "position": "Senior Analyst Programmer (contract)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                ": designing and implementing the reporting and analytics dashboard which an custom online tracking app for the enterprise.",
+                ", reddish, jsf, ejb 3. 0"
+            ],
+            "summary": "I was the lead developer in a dream team of web developers and designers, digital publishing, concepts provider, software and tech support for the biggest core network.",
+            "website": "http://doubleclick-inc-now-google.com",
+            "company": "Doubleclick, Inc (now Google)",
+            "position": "Senior Software Engineer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Bash scripting",
+                "Learning new technologies::, aws, git, composer"
+            ],
+            "summary": "I worked on the information security and risk management team doing all things security. Eventually I took over the development of an effort to provide the required assistance for both the projects and assist the technical team to support and clients. I was involved in designing and managing infrastructure engineer, project manager and technical engineering.",
+            "website": "http://loot-crate.com",
+            "company": "Loot Crate",
+            "position": "Senior Software Engineer, Technical Project Lead & Onsite Coordinator",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Modern Web Development"
+        },
+        {
+            "name": "Texas Holdem"
+        },
+        {
+            "name": "Business"
+        }
+    ]
+}

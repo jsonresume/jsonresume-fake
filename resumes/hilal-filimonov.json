@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Hilal Filimonov",
+        "label": "And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer who is constantly tinkering, reading, and building. I love taking on new projects and further existing ones. Check out my site for more on what I am up to. I built the site in reacting with an I always looked like for aesthetic appeal code in code is beautiful). I am a voracious reader and of like listening others to others their work.",
+        "email": "hilal-filimonov@gmail.com",
+        "location": {
+            "city": "San Sebastian De Los Reyes",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i worked with brett for more than 5 years and is a great enthusiastic & approachable leader. his mastery on api design and documentation, has been critical in launching many successfully apis in many design., i recommend him!, Hilal is someone we can trust and rely on. he has very good to see fast and work, he can be a trusted with a lot of knowledge in some people in different teams in a need. highly recommended. will definitely work with him again!, very good and versatile skills., Hilal is a very talented and forward thinking engineer with a great appetite for learning. he and i worked on several projects where he never ceased to impress me with his ability to think outside the box. in addition to his considerable programming skills, he has his ear to the ground in terms of new technologies and trends and is always looking improve existing products",
+            "name": "Thibaud Caravana"
+        },
+        {
+            "reference": "i have worked with him on several different occasions in different positions he has held. when it came time to redesign my web site, he was the first person i. i outlined what i had in mind, and what needed and resolve commitment. it is a pleasure to work with thayne. he was definitely a rock at music dealers when site issues., when you looking for a high level of technical support field. he has an outstanding overall positive attitude, and a continuous interest and is a great asset to any team., i worked with andrea was a bright young. kelly is an outstanding professional and always backed his staff 100. his, proactive person and is an inspiring manager. andrea is an invaluable member of any team, adam has a strong desire to do great.",
+            "name": "Muhammad Ridho"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Installation and maintenance of the desktop application to automate the video from their home care office professors and care of above a critical board. Using full stack go application. The platform to determine a driver to download it and built the parallel processing framework to result in an increase monthly receive recognition",
+                "Cloud native application development"
+            ],
+            "summary": "Developed an application in objective c and +.",
+            "website": "http://willis-towers-watson.com",
+            "company": "Willis Towers Watson",
+            "position": "Senior Software Engineer & Devops",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Adapted demo presentations to visualize the project. Scope with new requirements, and center scheduling for end users.",
+                "Lead planning, front-end and backend side, c + +, built with nodes. Jews from legacy data oracle conversion from monolith app app too."
+            ],
+            "summary": "\u2022 / Developing code for a new product for digital books with project: angular, react, redux, angular etc.",
+            "website": "http://jboss-by-red-hat.com",
+            "company": "Jboss By Red Hat",
+            "position": "Sr Software Engineer / Lead",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Mobile apps.",
+                "Interacted with the stock of the department while simultaneously to keep it no"
+            ],
+            "summary": "I worked on the information security and risk management team doing all things security. Eventually I took over the development of an effort to provide the required assistance for both a technical and commercial virtual desktop application.",
+            "website": "http://pwc-france.com",
+            "company": "Pwc France",
+            "position": "Senior Software Engineer (trading Systems)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Artifical Intelligence / Deep Learning"
+        },
+        {
+            "name": ""
+        },
+        {
+            "name": "Hacking"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Jesse Le",
+        "label": "Full And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.",
+        "email": "jesse-le@gmail.com",
+        "location": {
+            "city": "Oakland",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "",
+            "name": "Jason Anderson"
+        },
+        {
+            "reference": "i know he was a huge breadth of knowledge. if you come across a hard problem that needs creative problem solving and big picture thinking then the of things. he has a great attitude and brings a lot of energy to any team, and is a great equally well on his projects ever worked with a lot of different approaches and his business really quality and products to communicate with the company. he is hard working, considerate of others, and extremely honest. i would feel confident using pedro services in any field that he decides to., pedro is a pleasure to work with. he never shirks a challenge and complain when the going gets tough. his professional can do attitude has helped enusure that the projects he worked on were successes both for the company and the customer. i highly recommend him.",
+            "name": "Will Turner"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Received letter of from home office in, long running, California",
+                "Deploy and chi / co-ed environments."
+            ],
+            "summary": "Is a tournament for young kids placed in Oakland (). Year after year this tournament is getting bigger. Now we host teams from all Oakland (like), Oakland, really, really what I too looked at the way.",
+            "website": "http://gratka-technologie-sp-z.com",
+            "company": "Gratka Technologie Sp Z",
+            "position": "Senior Software Developer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Translated them to build docker & image data for files up hosted to create and databases on hundreds of networks of sources reports leveraging and commands:.",
+                "Created and maintain and support documentation of confluence, including lamp,, docker and vagrant"
+            ],
+            "summary": "The institute continues to develop the for the world most innovative ideas, easy online and content management, start up their, daily operations, and customer delivery operations.",
+            "website": "http://ibm.com",
+            "company": "Ibm /",
+            "position": "Software Engineer / Team Lead",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Delivery of processing both job and utility technology.",
+                "Create rest full services using web API, tools and frameworks for our task testing and testing automation"
+            ],
+            "summary": "I worked on the information security and risk management team doing all things security. Eventually I took over the development of the mesh communication software development.",
+            "website": "http://upslon-it.com",
+            "company": "Upslon It",
+            "position": "Sr System Engineer / Noc Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Ui / Ux"
+        },
+        {
+            "name": "World Traveller"
+        },
+        {
+            "name": "3d Printing"
+        }
+    ]
+}

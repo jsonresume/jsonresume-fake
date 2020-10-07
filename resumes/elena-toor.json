@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Elena Toor",
+        "label": "Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.",
+        "email": "elena-toor@gmail.com",
+        "location": {
+            "city": "Sabanagrande",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "It is my pleasure to recommend David, his performance working well and a long reference that I definitely typed out myself for this.",
+            "name": "Roman Perrine"
+        },
+        {
+            "reference": "If you are looking for a talented developer, as well as a great team member, then look no further. I had the pleasure of working with Elena now for over a year, and since then the quality of our code base has gone up significantly. With my eight plus years of experience Elena has separated himself I from myself had the very strong professional manner of. He always quick to find the solutions to. He is always quick to find solutions a good technical knowledge and.",
+            "name": "Cristiano Pedersini"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Built statistic display feature in angular, combining access, and existing web application (inside the bank)",
+                "Worked on a command line application for the chat application in test automation."
+            ],
+            "summary": "",
+            "website": "http://ometa-bv.com",
+            "company": "Ometa Bv",
+            "position": "Technical Support And Hardware Maintenance",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "A node based on docker containers",
+                "Working as management of point of sale integrated software"
+            ],
+            "summary": "Is a platform that allows citizens to hold government agency directly and publicly accountable for their actions.",
+            "website": "http://a-scansource-company.com",
+            "company": ", A Scansource Company",
+            "position": "Senior Software Engineer & Devops",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Designed and developed an advanced excel database application that used as the device screen driver, angular, and angular. J's",
+                "Developed a proprietary post system that both the users and in a presentation, navigate systems and their services."
+            ],
+            "summary": "Designed and implemented technology solutions for clients as Linux, epatterns, windows and software.",
+            "website": "http://epatterns.com",
+            "company": "Epatterns",
+            "position": "Senior Applications System Analyst / Programmer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Optimization Of Analizing And Monitoring Tools To Improve Performance As A A A Departament"
+        },
+        {
+            "name": "Data Science"
+        },
+        {
+            "name": "Carroms"
+        }
+    ]
+}

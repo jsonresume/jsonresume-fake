@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Manuel Rim",
+        "label": "Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer with three years of professional experience as full stack web development. In that period I have worked on back and front end, was in charge of dev and developmental tasks, developed micro service and monolith architectures. I say I am an expert in those, as I still learn new things every day, I think I have made a principle of rtfm, and have. Has some experience with over the last three people throughout my life, I am constantly looking for a new challenge and I wish to enhance my problem solving and business of finding better ways to do it, faster, and I am passionate about.",
+        "email": "manuel-rim@gmail.com",
+        "location": {
+            "city": "Toronto On Starting 2016",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i worked with brett for more than 5 years and is a great enthusiastic & approachable leader. his mastery on api design and documentation, has been critical in launching many successfully apis in many design., i been fortunate enough to work with chris for now. over that time, he has the ability to provide elegant, yet simple solutions that focus on solving problems and often comes to development his knowledge of an android and a plan to well with the it user summits in australia. this project, she has a high level of knowledge, and what impressed me. Manuel kabeer was a joy to work with because of their amazingly positive attitude and ability to communicate the company and help during his work as a part of., i have known Manuel england for 20 years and various quality of software development / design complex projects, from him including a salesforce integration and ongoing administration. automated his pension fund reports, developed a secure virtual data room to share the reports while restricting the ability to share or download the reports. larry speaks highly of me because i have provided him with excellent customer service, which includes taking his calls at 2am to wrap up projects or provide random tech support, business, or accounting advice for him. larry continues to trust me with full, unmonitored access to everything in his business and personal life, including his business and personal credit cards and, totalling in excess of half a million., steve is the founder of riverview research. i worked with him on my internal tooling and he was a pleasure to deal with.,",
+            "name": "Jay A A S -"
+        },
+        {
+            "reference": "Escuela de ingenier\u00eda en, legal representative.@. COM",
+            "name": "\u00d6zg\u00fcr"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Built in ruby on rails.",
+                "A developed first IP project using the spring based API"
+            ],
+            "summary": "I worked as a software engineer on multiple freelance projects.",
+            "website": "http://valmex-mexico.com",
+            "company": "Valmex () (mexico)",
+            "position": "Senior Software Engineer / Scrum Master (contract)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Developing product improvement modules within using react native and c + stack.",
+                "Created a user interface allowing users to and make a cream on demand used for years and android devices."
+            ],
+            "summary": "Is a company that provides a SaaS location intelligence platform (free and paid version), the way and its primary responsibility to develop the micro services",
+            "website": "http://b-keeven-music.com",
+            "company": "B Keeven Music",
+            "position": "Lead Developer / Devops",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Helped create soap using javascript / SQL and mysql with the most recent currently (..)",
+                "Introduced DI into yours and framework"
+            ],
+            "summary": "Is a digital marketing agency delivering growth through SEO, paid media, & social media, content marketing, content & marketing analytics.",
+            "website": "http://cntv.com",
+            "company": "Cntv",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Social Dance"
+        },
+        {
+            "name": "Crossfit"
+        },
+        {
+            "name": "Amateur Woodworking"
+        }
+    ]
+}

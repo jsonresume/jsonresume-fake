@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Yevhenii Gurbiel",
+        "label": "Full Stack Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a young professional with an interest for emerging new web technologies and with experience in the digital industry. I am looking for a role that will challenge and broaden my coding knowledge, whilst learning new technologies and languages. I am particularly keen to thrive in a creative environment.",
+        "email": "yevhenii-gurbiel@gmail.com",
+        "location": {
+            "city": "Mn",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i worked with mac for several years at corillian, when we were in our high growth phase. as the chief architect, i saw that he made a great contribution to our internet banking user interface. mac had the real passion for product or growth. people skills that are matched only by his personal skills and he finds solutions that he represents himself., the head of digital department, computer science and engineering, visakha technical campus, project leader, hcl infosystems ltd, tech leader, yantranet., thibaud is an avid developer. he quickly grasps complex problems and goes beyond the expectations of his work. i do love what he will go to when it world. they had a pleasure working with him, i certainly who would say that is the one he treats them and the way that he represents himself., mr. meira is a true agile developer. he has strong leadership skills and is very easy going to a real variety, while at, responsive, methodical and efficient in his interactions. he has good ideas and is able to develop them both at theoretical and practical levels. he works well in a team, is open minded and very friendly., adrien capacity to ask the right questions, his motivation to define new scenarios that help people in their communication needs were key in managing the country business systems in the support areas of the development of an and efficient), designing and building an execution, he the more effective networker or more genuine manner. just is. he also the very diligent and has a systematic approach to development",
+            "name": "Matthew Costabile"
+        },
+        {
+            "reference": "He knows his agile and he has a strong drive to understand new concepts and a wealth of experience in his team. It's always been a pleasure working with the resort for approx 10 years wherein the man he has been a part of.",
+            "name": "Joseph Utecht"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Certified identification",
+                "Experimental conditions of an image (hosting and enterprise integration system for. Switching multiple databases over the web application to use with our ibm script tool."
+            ],
+            "summary": "I worked in the information security and risk management platform for an iOS, app to maintain a virtual world.",
+            "website": "http://industries.com",
+            "company": "Industries",
+            "position": "Software Developer (lead From Mar 2016)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "The extensive testing and front of production servers",
+                "Creating system orchestration which is documented and manage resources until everything was related to then able manager in all application performance issues and ensure high satisfaction level"
+            ],
+            "summary": "Worked on a ci / a team of supported hardware products.",
+            "website": "http://northwestern-mutual.com",
+            "company": "Northwestern Mutual",
+            "position": "Senior Technical Director",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Worked in an agile work across development websites that are simple pipelines",
+                "Found great in translating logic from customer sources facing API within. It"
+            ],
+            "summary": "Is a mobile operating system.",
+            "website": "http://ca.com",
+            "company": "Ca",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Indie Game Development"
+        },
+        {
+            "name": "Brewing Excellent Beer"
+        },
+        {
+            "name": "Public Speaking"
+        }
+    ]
+}

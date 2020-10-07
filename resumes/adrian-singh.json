@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Adrian Singh",
+        "label": "",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who loves working with open source technology. I work best in planning the architecture of web applications and their development life. I also love to get the community involved and have had much experience with building and organizing large open source groups.",
+        "email": "adrian-singh@gmail.com",
+        "location": {
+            "city": "Douglas",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "The technical university of berlin stack is matt bread and butter and he was in his element when he was on the hunt for a solution to a challenging issue the team was facing. It was a blast working with him on the pulse team and I am more than happy to call him a team member again on a future project.",
+            "name": "Francisco Kim"
+        },
+        {
+            "reference": "@. Com",
+            "name": "Valerio True"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Introduced scalable and performant front direction for the project of more than one year.",
+                "Walmart labs: extracted the happy server to own its repository."
+            ],
+            "summary": "Worked on the iOS and iPad version of their flagship product.",
+            "website": "http://technical-university-of-berlin.com",
+            "company": "Technical University Of Berlin",
+            "position": "Technical Support And Development",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Lead updates for the project office.",
+                "Developing a plan of the customized WordPress websites"
+            ],
+            "summary": "personal (school of environmental health &) is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://personal-school-of-environmental-health.com",
+            "company": "Personal (school Of Environmental Health &)",
+            "position": "Senior Software Engineer / Rails Architect",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Set up server structure, service, infrastructure, 3rd party updates.",
+                "Database of access and stored procedures."
+            ],
+            "summary": "Is a company that provides a SaaS location intelligence platform () help consumers and retailers with brand companies, including the platform, from both countries, make, to medicine containers and heat, efficiency.",
+            "website": "http://dell.com",
+            "company": "Dell",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Algorithms"
+        },
+        {
+            "name": "Boardgames"
+        },
+        {
+            "name": "Mit Varsity Athletics"
+        }
+    ]
+}

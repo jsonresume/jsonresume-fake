@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Jason Basanese",
+        "label": "Software Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer who is looking to join a team that solves interesting and challenging problems with innovative technology.",
+        "email": "jason-basanese@gmail.com",
+        "location": {
+            "city": "North Haven",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Senior application developer",
+            "name": "Denys Stryzhov"
+        },
+        {
+            "reference": "I worked with christian during almost three years at. Christian in a wide variety of shoes, especially those of the, considerate, and values living from the deep meaningful things in life.",
+            "name": "Mitchell"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Primarily involves in which which I was using no prior experience using Microsoft only. Net and increased test coverage for 20",
+                "Implemented modem infrastructure for 2000 pads"
+            ],
+            "summary": "The company inter services for. Developed a website with PHP.",
+            "website": "http://mobitec-ab-ltg.com",
+            "company": "Mobitec Ab Ltg",
+            "position": "Software Engineer, Associate Software Engineer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Creating using Sharepoint",
+                "System architecture for creating a customer"
+            ],
+            "summary": "I was responsible for the ongoing development and maintenance of the student facing area of the website. I was involved in the development of the mesh communication software analytics, the app had to be a.",
+            "website": "http://praxent.com",
+            "company": "Praxent",
+            "position": "Senior Software Engineer, Technical Project Lead & Onsite Coordinator",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Conducting investigations, gathering evidence and technical software.",
+                "Improving integrations between our clients and us."
+            ],
+            "summary": "Is a technology company that builds innovative tech for advertising",
+            "website": "http://university-of-arkansas-for-medical-sciences.com",
+            "company": "University Of Arkansas For Medical Sciences",
+            "position": "Senior Software Engineer / Remote Worker",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Music And Art"
+        },
+        {
+            "name": "Calligraphy"
+        },
+        {
+            "name": "Czech Hackathon 2013"
+        }
+    ]
+}

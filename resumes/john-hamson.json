@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "John Hamson",
+        "label": "Software Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I a developer in the San Francisco bay area, driven by technical projects that offer meaningful solutions for complex world challenges. I currently work in the renewable energy industry, where I focus on customer facing web products. I enjoy working in teams that nourish curiosity and continuous learning. In my past life, before programming, I was a researcher, working on politics and anthropology in east Africa.",
+        "email": "john-hamson@gmail.com",
+        "location": {
+            "city": "Madrid",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "John is one of the most creative, responsible and personable individuals that I worked with. He diligently completed all the tasks on time with great quality.",
+            "name": "Ivan"
+        },
+        {
+            "reference": "",
+            "name": "Joshua Byrd"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Magento module creation to fit sales with potential use.",
+                "Ci / CD based deployments"
+            ],
+            "summary": "Is a software development workshop with a focus on RFID and product tracking.",
+            "website": "http://symbiotic-software-llc.com",
+            "company": "Symbiotic Software Llc",
+            "position": "Software Engineer & Technology Support Officer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Created fulfillment services with rabbitmq and managed a massive of hardware and standard software for various attacks in the reporting",
+                "Following change the roles of the message layer between different pieces from the center to externally using. Net"
+            ],
+            "summary": "Is a startup based in Madrid which focuses on mobile application aims to fitness and by making it, social, mobile web applications, easily accessible, fun and affordable.",
+            "website": "http://office-of-web-services.com",
+            "company": "Office Of Web Services",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Built an MVP android app to be used to manage the VoIP issues, web servers, that provides common email or migrated some services to common problems.",
+                "Adobe air day"
+            ],
+            "summary": "rogue startup is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://rogue-startup.com",
+            "company": "Rogue Startup",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Creative"
+        },
+        {
+            "name": "Places Travelled To"
+        },
+        {
+            "name": "Neuroscience"
+        }
+    ]
+}

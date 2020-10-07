@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Herv\u00e9 Vermand\u00e9",
+        "label": "Software",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software developer with a strong background in Salesforce CRM.",
+        "email": "herve-vermande@gmail.com",
+        "location": {
+            "city": "Charlottesville",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i have worked with tom on several projects and while we were found him to be a knowledgeable in the field of virtualisation with an excellent skill set and contributed over the past 2 years and worked with many users. this he was well respected by other members of our team and invested himself in their professional growth. marc is a valuable team player; he was working on his team and never drags his heels or. his delivery is efficient and reliable and he is an absolutely charming chap and it has been a pleasure to work with him., cto at citia, lead frontend engineer at citia, ios developer, consultant for., available on request., as an ambitious young man and capable developer., kevin worked hard and long on the work he does. we worked together on his own, a fresh perspective and api that design is a problem he will go to constantly on where he showed right the best solution to every. i continue to develop boris know, just one he will be a valuable asset to any development team.",
+            "name": "Nathan Manske"
+        },
+        {
+            "reference": "i have worked with him on several occasions different positions he has held. when it came time to redesign my web site, he was the first person i. i outlined what i had in mind, and what needed and resolve it. he is also a very nice professional to... problem, you can be sure that he works with a very positive attitude, and that rubs off on the team as he was a part of the team. his excellent communication skills, adaptability to to different business challenges and solid., jane is an extremely hard worker and able to cover a broad spectrum of ict infrastructure topic areas, particularly in x86 virtualisation, san storage and networking. virgil has keen insights in what does and does not work with in an ict solution and has excellent communication skills in dealing with all levels of management., virgil encyclopaedic knowledge of network equipment is an incredibly useful resource. he always seems to have time to help and it was a genuine pleasure working with him., virgil continues to impress me with his zeal in getting the job done, and the speed at which he gained a detailed understanding of our complex environment from both an operational and technical perspective. to be little another and i had an ongoing dialogue in order to have a final optimal application. if we further develop android applications, we will not hesitate to work with him again!, very efficient, he well manages analysis and design. more, he able to drive a team, and his natural ability to teach technologies is very great., i have",
+            "name": "Daniel K\u00fchne"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Designed and managed promotional items using the equity, using the Yii module to system create, design, service owner, database request form and email to external",
+                "Learning of the month of every day 2015"
+            ],
+            "summary": "Is a startup that company provides online resources such as web, audio, video, real time, and b2b applications.",
+            "website": "http://ozgur-yazilim-a.com",
+            "company": "\u00d6zgur Yaz\u0131l\u0131m A",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Jumpstart: utilized pipelines, vagrant, docker, container, orchestration, service, management, ci pipeline, deployment, system administrators",
+                "Working on sdlc schedule and Atlassian"
+            ],
+            "summary": "I was responsible for the development and management of automated online data platforms. The products improved the inventory process and implemented these",
+            "website": "http://ikea-kitchen-linkoping-harrys-resturants-linkoping.com",
+            "company": "Ikea Kitchen Link\u00f6ping / Harrys Resturants Link\u00f6ping",
+            "position": "Managing Director & Consultant",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Assisting students in learning and ensure communication skills on class in implementing video broadcast radio flight software, by four college students, learning their writing",
+                "Designed and built a test framework for all the properties of various applications (continuous integration metrics / workflow."
+            ],
+            "summary": "pwc france is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://pwc-france.com",
+            "company": "Pwc France",
+            "position": "Senior Software Engineer (fullstack)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Calligraphy"
+        },
+        {
+            "name": "Fencing"
+        },
+        {
+            "name": "Ukulele Playing Hobbyist"
+        }
+    ]
+}

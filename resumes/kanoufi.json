@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Kanoufi",
+        "label": "And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer with a particular interest in making things simple and automating daily tasks. I try to keep up with security and best practices, and am always looking for new things to learn.",
+        "email": "kanoufi@gmail.com",
+        "location": {
+            "city": "West Orange",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Kanoufi is a skilled and a diligent engineer who reliably produces excellent results. His code is consistently refined and robust. He passionate about his craft and expertly balances polish deadlines with. Moreover, Kanoufi leads a small prototyping team in the creation of a Vietnam war top down arcade game demo. It would be my pleasure to hire Kanoufi again in the future, should the opportunity arise., I really enjoyed working with Darryl. He had an easy going nature which made you feel like you could approach him again in a.",
+            "name": "Michael Johnesee"
+        },
+        {
+            "reference": "Studio b, legal representative. digital@. COM",
+            "name": "Riderman De Oliveira"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Prometheus created exploratory graphene dashboards aiding discovery into projects.",
+                "Worked on conducting architectural design for development and tracking platform."
+            ],
+            "summary": "I developed a workflow automation system that helped process leading to all the UK major products from three campuses of a nationwide use of the.",
+            "website": "http://bard-college-learning.com",
+            "company": "Bard College Learning",
+            "position": "Senior Software Engineer / Software Architect",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "/ Trainee through various tasks, user and marketing tracking",
+                "Participated in the preparation of process documents from the ground up."
+            ],
+            "summary": "Is the , , llc group it service management company. I worked in a strategic it project, rolling out virtual desktop infrastructure and to get custom solutions for the customer.",
+            "website": "http://llc.com",
+            "company": ", Llc",
+            "position": "Intern / Working Student",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Developed games and helpers of the framework and an ox project that was eventually used in the mobile test cases. Worked with writers data to the source of processes in an efficient higher quality service",
+                "Moved the organization from the ground up we started as an enterprise leader"
+            ],
+            "summary": "Web application development using the Zend framework. Responsible for updating and expanding the organization operational system.",
+            "website": "http://us-investigations-services.com",
+            "company": "Us Investigations Services",
+            "position": "Senior Software Engineer (infrastructure)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": ""
+        },
+        {
+            "name": "Computer Programming"
+        },
+        {
+            "name": "Basketball"
+        }
+    ]
+}

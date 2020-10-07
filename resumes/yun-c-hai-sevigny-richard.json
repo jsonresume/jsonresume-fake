@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Yun C H\u1ea3i S\u00e9vigny Richard",
+        "label": "Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer with a strong focus on javascript. I also have experience with PHP and python. I enjoy working on new frameworks and libraries on my own time and have a fairly active github profile to show for it. I particularly enjoy the to get an understanding of the challenges that certain technologies face and how to overcome those issues.",
+        "email": "yun-c-hai-sevigny-richard@gmail.com",
+        "location": {
+            "city": "Trivandrum",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Yun is one of those people that is incredibly lucky positive and that game no how he can use cutting edge technology easily.",
+            "name": "Kartik Malik"
+        },
+        {
+            "reference": "alejandro is a skilled and diligent engineer who reliably produces excellent results. his code is consistently refined and robust. he passionate about his craft and expertly balances polish deadlines with. moreover, his upbeat proactive attitude is an asset to any team he on. did i mention he also a talented ping pong player i gladly work with alejandro again., it is my pleasure to recommend anthony, his performance working as a consultant has proven that he will be a valuable addition to any organization., as his professor, i have an opportunity to observe his participation and interaction both in and outside the quality. his work is living proof that he is passionate of the java / developer, and no doubt that i can take time to understand his work on, and no he can use very good experience.",
+            "name": "James Cary"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "API development in python",
+                "Built and modified custom modules for integration, enterprise, java application, current and processing data."
+            ],
+            "summary": "Is a company that produce and deliver multimedia and digital content across different clients, focusing on providing training and new financial solutions.",
+            "website": "http://crater.com",
+            "company": "Crater",
+            "position": "Software Developer (intern)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Ruby",
+                "Intern supervision and of code review"
+            ],
+            "summary": "\u2022 Provide on-site and remote support to end users on operating systems based on windows Linux operating system.",
+            "website": "http://quizincloud.com",
+            "company": "Quizincloud",
+            "position": "Software Developer / Consultant",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Awarded fellow innovation by all team members.",
+                "Propose and implement improvement actions to increase customer success."
+            ],
+            "summary": "Is a cloud based, online booking platform for that aims to fitness in the real estate industries. Our services range from being one based on the corporate site, and optimizing algorithms and the use of their cloud platforms in addition, providing users with focus on the day to day management and system administration.",
+            "website": "http://.com",
+            "company": "",
+            "position": "Software Engineer (android)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Being A Geek"
+        },
+        {
+            "name": "Space Exploration"
+        },
+        {
+            "name": "I Like Concept Of Iot And I Like To I A Raspberry Pi With"
+        }
+    ]
+}

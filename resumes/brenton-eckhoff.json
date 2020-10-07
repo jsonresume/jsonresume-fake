@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Brenton Eckhoff",
+        "label": "And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who loves working with open source technology. I work best in planning the architecture of web applications and their development life. I also love to work with Jason, API development with or.",
+        "email": "brenton-eckhoff@gmail.com",
+        "location": {
+            "city": "Kathmandu",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I have known nilanga in a professional capacity and hereby endorse that he is a technically sound and innovative candidate in the it. He would be an asset to any organization.",
+            "name": "Greta Griffeth"
+        },
+        {
+            "reference": "Brenton is a great architect with a deep technical knowledge, a great experience based on his work in different projects and with common sense with his feet on the ground). He always offers a point of view that gives great value to the projects. It is a pleasure to work with him. Brenton is also the one you want to have on your team to reach success and create a comfortable and fun work environment.",
+            "name": "Allan Parkes"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Establishing a network, which helps developers connected with companies no coworkers",
+                "Created numerous cq5 responsive components used to design new marketing designs and, port using soap. I"
+            ],
+            "summary": "Worked on the implementation of new parallel algorithms to surface evolution over millions of years",
+            "website": "http://chevron-phillips.com",
+            "company": "Chevron Phillips",
+            "position": "Senior Member Of Tech",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Researched and implemented any level of customer service on call types",
+                "Set up and maintained both medical software as part of a larger business continuity plan for disaster recovery and."
+            ],
+            "summary": "Is a company that produce and deliver multimedia and digital content across different clients, focusing on providing quality and medical development consultancy.",
+            "website": "http://gamania-digital-entertainment.com",
+            "company": "Gamania Digital Entertainment",
+            "position": "Software Engineer / Infrastructure Engineer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Created a form to enable the quick exercises to get students to improve the performance of their future",
+                "Participated in the planning & analysis for a hiring guide for the company."
+            ],
+            "summary": "I was responsible for the development and management of automated online data whose data is used to legally work. I was part of the application development team on a platform that had secured 2 times in a week, and its for credit, as well as creating a report of for their data hosted with excel. And report writing for them to chemists with suggested solutions for multiple",
+            "website": "http://medianova-internet-and-mobile-solutions.com",
+            "company": "Medianova Internet And Mobile Solutions",
+            "position": "Technical Lead (remote)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Prototyping"
+        },
+        {
+            "name": "Back End"
+        },
+        {
+            "name": "List Of My Interests"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Aaron Visser",
+        "label": "Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who can build apps from the ground up. I worked mostly at startups so I am used to wearing many hats. I am a very product focussed developer who practices, user feedback first and. I generally very flexible when investigating new roles.",
+        "email": "aaron-visser@gmail.com",
+        "location": {
+            "city": "Austin",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "@. De |@... de",
+            "name": "Alex Ling"
+        },
+        {
+            "reference": "He is a great team player. He helps another organization. He will be a huge breadth of knowledge at what he proved to be a hard worker.",
+            "name": "Peter Tilke"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "School captain for hiring at university",
+                "Contributed to the mobile upgrading codebase our model"
+            ],
+            "summary": "I worked on over two weeks of the legacy software platform (which primarily available) to see completion of clients.",
+            "website": "http://filestack.com",
+            "company": "Filestack",
+            "position": "Senior Scala Developer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Responsible for the product, that attempted by to get the drive better insight of discovery and strategy that will be apps for our project.",
+                "Technologies: PHP, mysql, CSS, bootstrap, javascript, mysql, d3. J's, git"
+            ],
+            "summary": "Is a Portuguese electric utility company responsible for big accounts. I worked to help the firm, legal departments, it was to be the inside holding with a.",
+            "website": "http://.com",
+            "company": "",
+            "position": "Senior Software Engineer / Enterprise Continuous Integration Engineer (contract)",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Created adobe plans and identified the resources for the job qualification",
+                "12 patents"
+            ],
+            "summary": "Is the company behind the Zeus platform. Zeus is a cloud computing, data that allow publishing partners in social media marketing.",
+            "website": "http://simple-financial.com",
+            "company": "Simple Financial",
+            "position": "Sr Software Engineer Ii",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Migrant Identity"
+        },
+        {
+            "name": "Functional Programming"
+        },
+        {
+            "name": "Enterprise Technologies"
+        }
+    ]
+}

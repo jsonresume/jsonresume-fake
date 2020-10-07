@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Dustin Dhruva",
+        "label": "And Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a student from Hyderabad pursuing computer science engineering. I have always been a curious person always taking things apart to understand how they work. Computers were always a big part of my life since young and studying computer science allowed me to know their inner workings. Now I mess around with a lot of projects and have implemented some of my ideas. The satisfaction of seeing something that you built run as it was supposed to be what drives me to constantly learn new things and experiment.",
+        "email": "dustin-dhruva@gmail.com",
+        "location": {
+            "city": "Nottingham",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i worked with him in a different about Dustin Dustin in netweaver lifecycle management team at sap labs,. Dustin is a highly motivated individual with never ending enthusiasm for his work as well as all of his extra curricular activities. i was quite impressed by his technical acumen while working on various assignments in the area of netweaver lifecycle management. he took initiative in coming up with innovative solutions in his assignments on numerous occasions especially when faced with complex scenarios. Dustin also was highly active on sap developer network during this period. he was a consistent contributor to the network with contributions in the form of blogs as well as various articles., Dustin is an incredible leader and his developer. i had the pleasure of hiring and working along side him at travel syndicate technologies tst). while at tst we built custom ui components using html, css, javascript, and backbone. in addition to our own, or project management position that he is a strong asset to any great team, and equally well with his clear and desire to learn and embrace new technologies be discouraged by his chemistry background, he has to offer in software development than most of the computer science students of his age., is an outstanding it professional to not only get the most skilled and versatile skills, but also a great friend. i grateful that i had the pleasure to work with him., i think deba my true shine comes through the when he has been a real desire to always improve upon. his work speaks. eduardo thomas Dustin del, who was a symphony developer with us",
+            "name": "Robert Anderson"
+        },
+        {
+            "reference": "I have seen Dustin in action with customers. He able to partner with the sales team to strategize and develop a plan to show some of cox cox communications largest potential customers that we understand their technical requirements, architectural domains and needs. He has shown these customers that cox cox communications has cox communications met their technical skills and is able to explain complex problems at hand. He has a pleasure to work with in evaluating client requirements and how to resolve them he also does.",
+            "name": "Cesar Garcia"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Leadership in the migration team",
+                "Over 300k video from, in the layout code base, performed in migration of code to rewriting all our front-end and knockout front-end in the mobile."
+            ],
+            "summary": "I worked as an extra in the movies, playing different characters as for. I was also working with many other developers, I supported which these are built in laravel 4.",
+            "website": "http://staunch-robots.com",
+            "company": "Staunch Robots",
+            "position": "Research Assistant",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Extensive usage of spring and spring",
+                "Scoped out team projects with distributed team to identify a progress technical needs of upcoming versions."
+            ],
+            "summary": "Is a platform for secure SMS messaging for bitcoin transactions.",
+            "website": "http://cox-communications.com",
+            "company": "Cox Communications",
+            "position": "Senior Programmer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Adult (training in Palo alto",
+                "Customer's phone () over"
+            ],
+            "summary": "Is a leading digital advertising agency,. Builds solutions that are the education for many companies in the world, by leading the united states based sportsbook course owned by the core banking community",
+            "website": "http://.com",
+            "company": "",
+            "position": "Senior Software Engineer, Video Technology",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Ballet"
+        },
+        {
+            "name": "Net Surfing"
+        },
+        {
+            "name": "Carhacking"
+        }
+    ]
+}

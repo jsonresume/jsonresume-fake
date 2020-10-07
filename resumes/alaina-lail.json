@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Alaina Lail",
+        "label": "Lead Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer with a particular interest in making things simple and automating daily tasks. I try to keep up with security and best practices, and am always looking for new things to learn.",
+        "email": "alaina-lail@gmail.com",
+        "location": {
+            "city": "Somerville",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "He brings incredible technical ability to every opportunity. This is further fueled by his curiosity and for his passion to work efficiently and use the best tool for the job. With his addition to, his approach and very professional he got to a go to look for when it related to an it helps to bring teams him managing projects and the development team were being met in an international and her ability to look at the best ability to save delivery at the time.",
+            "name": "Lydia Chee"
+        },
+        {
+            "reference": "Analyst and software developer.) 88494246",
+            "name": "Margart Nicoletti"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Encourage an effective group of the site and corresponding with a WordPress Zend framework to Django",
+                "Time tracked system and training for."
+            ],
+            "summary": "I work on the ec2 deployment team. We build the software that code for all levels of the company",
+            "website": "http://iego-development.com",
+            "company": "Iego Development",
+            "position": "Network Administrator",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Requirements design and implementation with.",
+                "Representative present at a training to estimate role given by a training assistant and budget."
+            ],
+            "summary": "Is a company that produce and deliver multimedia and digital content across different clients, focusing on the medical industry.",
+            "website": "http://mortar-health-systems.com",
+            "company": "Mortar Health Systems",
+            "position": "Web Developer / Designer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "(A java tool)",
+                "Created a rich map interface for the device."
+            ],
+            "summary": "The is one of the big four digital services group in the us.",
+            "website": "http://alamo-minerals.com",
+            "company": "Alamo Minerals",
+            "position": "Lead Software Engineer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Shade Tree Mechanic"
+        },
+        {
+            "name": "Daydreaming"
+        },
+        {
+            "name": "Language Learning"
+        }
+    ]
+}

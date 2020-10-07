@@ -1,0 +1,74 @@
+{
+  "basics": {
+    "name": "Thomas Davis",
+    "label": "Web Developer",
+    "image": "https://www.thispersondoesnotexist.com/image",
+    "summary": "I’m a full stack web developer who can build apps from the ground up. I've worked mostly at startups so I am use to wearing many hats. I am a very product focussed developer who priotizes user feedback first and foremost. I'm generally very flexible when investigating new roles. ",
+    "email": "thomasalwyndavis@gmail.com",
+    "location": {
+      "city": "Melbourne",
+      "countryCode": "US"
+    }
+  },
+
+  "references": [
+    {
+      "reference": "Thomas was hired as a lead developer and, upon the leaving of our co-founder took over as CTO of Earbits. Thomas is, hands down, one of those A Players you hear of companies dying to hire. He is incredibly smart, not just at code but about everything from classical music to Chinese language and culture. Thomas is great to work with and, as a well established contributor to open source projects and several successful ventures, commands the respect of engineers at all levels. I would suggest doing anything you can to have him on your team.",
+      "name": "Joey Flores, Co-founder and CEO of Earbits, Inc."
+    },
+    {
+      "reference": "Thomas was hired as a lead developer and, upon the leaving of our co-founder took over as CTO of Earbits. Thomas is, hands down, one of those A Players you hear of companies dying to hire. He is incredibly smart, not just at code but about everything from classical music to Chinese language and culture. Thomas is great to work with and, as a well established contributor to open source projects and several successful ventures, commands the respect of engineers at all levels. I would suggest doing anything you can to have him on your team.",
+      "name": "Joey Flores, Co-founder and CEO of Earbits, Inc."
+    }
+  ],
+
+  "work": [
+    {
+      "highlights": [
+        "Millions of sites use the CDN in production",
+        "Millions of sites use the CDN in production"
+      ],
+      "summary": "Following Google’s CDN for jQuery, we decided to start a CDN for the less popular Javascript frameworks. The CDN is community moderated and open source on GitHub. We secured a partnership with Cloudflare who now supports the infrastructure.",
+      "website": "http://www.cdnjs.com",
+      "company": "Cdnjs",
+      "position": "Co-Founder",
+      "startDate": "2018-01-08",
+      "endDate": "2020-09-08"
+    },
+    {
+      "highlights": [
+        "Millions of sites use the CDN in production",
+        "Millions of sites use the CDN in production"
+      ],
+      "summary": "Following Google’s CDN for jQuery, we decided to start a CDN for the less popular Javascript frameworks. The CDN is community moderated and open source on GitHub. We secured a partnership with Cloudflare who now supports the infrastructure.",
+      "website": "http://www.cdnjs.com",
+      "company": "Cdnjs",
+      "position": "Co-Founder",
+      "startDate": "2015-02-07",
+      "endDate": "2018-01-01"
+    },
+    {
+      "highlights": [
+        "Millions of sites use the CDN in production",
+        "Millions of sites use the CDN in production"
+      ],
+      "summary": "Following Google’s CDN for jQuery, we decided to start a CDN for the less popular Javascript frameworks. The CDN is community moderated and open source on GitHub. We secured a partnership with Cloudflare who now supports the infrastructure.",
+      "website": "http://www.cdnjs.com",
+      "company": "Cdnjs",
+      "position": "Co-Founder",
+      "startDate": "2014-09-01",
+      "endDate": "2015-01-01"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Gardening"
+    },
+    {
+      "name": "Gardening"
+    },
+    {
+      "name": "Gardening"
+    }
+  ]
+}

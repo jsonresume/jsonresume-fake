@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Allan Parkes",
+        "label": "Web Engineer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who loves working with open source technology. I work best in planning the architecture of web applications and their development life. I also love to get the community involved and have had much experience with building and organizing large open source groups.",
+        "email": "allan-parkes@gmail.com",
+        "location": {
+            "city": "Radostice",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "",
+            "name": "Keila Cordova"
+        },
+        {
+            "reference": "Allan is an incredibly enthusiastic member of any team. He is very passionate about the work he does at ace international and as a result, he has done a great job as director of administration. He is second to none when it comes to web promotion and. Allan also has a large presence on many social media websites, because of this he has a 3 languages which was easy to communicate with additional ideas too, even more people loved to work and he will become a great ignition and contribution.",
+            "name": "Julianna Yokum"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Bug fixing and maintenance using the frameworks.",
+                "Hardware, / workstations"
+            ],
+            "summary": "Is a company that provides services to clients in many years to follow.",
+            "website": "http://consultants-ltd.com",
+            "company": "Consultants, Ltd",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Migrated revenue after a flash over 1 radio & release cycle",
+                "Synchronization of Joomla user repository, and writing"
+            ],
+            "summary": "Is a technology company that builds innovative tech for advertising",
+            "website": "http://garmin.com",
+            "company": "Garmin",
+            "position": "Senior Full Stack Software Engineer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Sap Fiori apps configured and was part of alone foundation (4. 5",
+                "Improving desktop application is from all of the customers"
+            ],
+            "summary": "copenhagen airports is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://copenhagen-airports.com",
+            "company": "Copenhagen Airports",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Pre Hospital Care"
+        },
+        {
+            "name": "Bleeding Edge Tech And Tech Gear"
+        },
+        {
+            "name": "Digital Design"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Mehran Koesnadi",
+        "label": "Engineer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a passionate software developer focusing mostly on android. I spent the last few years living in the twin, but have recently moved back to Oklahoma.",
+        "email": "mehran-koesnadi@gmail.com",
+        "location": {
+            "city": "Livingston",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i worked with jake on a number of projects and found him a pleasure to work with. he has excellent technical knowledge, particularly in javascript and jquery and was the person developers went to for any ui related queries. jake when had a great, humble of some, positive character, he talented as a given creative problem solver. and i can work find him listening and logical. it was easy to see and him totally dedicated to colleague., leandro is an a full stack engineer. he implements every solution to every day. he also has a great ability to see both the detail and the big picture which is rare. virgil is a pleasure to work with and he will be a huge asset to any company that he works at., executive director at open institute, software manager at open institute, i had the great pleasure of working with diego at. he is an extremely talented engineer with a very broad range of skills and experience. he is always trying to improve not only the rest of the team but still being able to self, being instrumental in the ecommerce framework for the technology support to business teams, where or the ability to quickly troubleshoot issues, put in the process of an infrastructure. the all around guy! i have excellent professional in his role as a developer.",
+            "name": "David Han\u010d"
+        },
+        {
+            "reference": "i worked with brett part of the team. he was a great team member, a smart engineer with a very strong skillset in only, web development and ability to adapt himself to the goals of an efficient and solutions in an even that when i needed. he came up with several options within my guidelines and presented them to me what my presented months to standard. i even now when i first hired in an ecommerce, and a bespoke. boris as ensure a member, we often relied on him to produce high quality work and sound technical solutions., this is a very real and very long reference that i definitely typed out myself for this out of this, interested in technology., this is a very real and very long reference that i definitely typed out myself for this out of this., i spent many hours in communication with jay who is friendly and knowledgeable. we worked together using technologies such as nginx,, haproxy and mysql. whenever an issue jay friendly and is an friendly chap to have around., i worked with edin at practical law on plc. i am happy to recommend him as a, dedicated and enthusiastic professional it developer. the role also involved a certain degree of liason with extermal clients, and edin was able to handle this aspect well., edin is an extremely flexible and innovative developer. he is keen to take on any kind of work and never drags his heels or. his delivery is efficient and reliable and he can always find a great fit for any problem. he comes to his way,",
+            "name": "Joe"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Senior Salesforce tracking for bug fixing",
+                "Created good monitoring using tools and tableau for representatives."
+            ],
+            "summary": "I was the first mobile application developer hired for two customers and various projects as the web. I worked on many internal projects and one of the most projects and I am sure i... net is web application using j2ee enterprise architecture.",
+            "website": "http://proquest.com",
+            "company": "Proquest",
+            "position": "Technical Support Specialist",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Exponentially speed up the process for time to market and calculations. Com which complete to my work",
+                "A Led team of 5 developers to creating new customer personas, and performed corporate office standards"
+            ],
+            "summary": "\u2022 Provide technical leadership to junior developers",
+            "website": "http://intergrated-e-solution-vietnam.com",
+            "company": "Intergrated E Solution Vietnam",
+            "position": "Software Engineer (contract)",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Consult and contribute to the system and several recommended changes, written and multiple, and test tools and to micro services in the project.",
+                "Android mobile applications"
+            ],
+            "summary": "Is a based product based company that has cooperated with the company. With customers for various clients. As technical lead, Mehran was required to be on providing many customer service in the process across the years service.",
+            "website": "http://otrs-ag.com",
+            "company": "Otrs Ag",
+            "position": "Web Developer / Designer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Artificial Intelligence & Road Bike"
+        },
+        {
+            "name": "Dogs"
+        },
+        {
+            "name": "Farming"
+        }
+    ]
+}

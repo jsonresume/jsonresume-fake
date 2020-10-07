@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Brin Coordsen",
+        "label": "And Of",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "i am a software engineer who is constantly tinkering, reading, and building. i love taking on new projects and further existing ones. check out my site for more on what i am up to. i built the site in react with an i always happy to hear of similar architectures. i work for the best way i moved to the happily engage with other people s policy about better, automate using my tools, i want to work to combine my professional with a unique different styles of project, and i discovered what i really excited about anything else programming. i really understand the best way to read thru new documentation rapidly and efficiently. the future of technology seems very bright and that s why i want to be there along for the ride.",
+        "email": "brin-coordsen@gmail.com",
+        "location": {
+            "city": "Utrecht",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i had the pleasure of working with graham when i brought him on our team to run our qa efforts. he the ability to quickly show his customers with, critical production bugs. he always found someone to be sure and positive attitude. he is one of those who were a great team player, and can always rely on his judgment to either deliver or raise red flags when appropriate., i worked with chris whilst he was on the project, where he was respected by his superiors and his peers. richard works very well with his broad knowledge on development and servicenow creativity helped complete our projects. it he is a great team player who can always trust me from that when it comes to web promotion and. young also has a large presence on many social media websites, because of this he has a 3 languages which makes communication even easy. we have worked with him on several projects where he was using and css. in an addition to any, he was an excellent awesome, determined individual. he had his yet positive attitude, makes coming up with us in an incredible team., i had the pleasure of working with graham when i brought him on our team to run our qa efforts. he the ability to quickly show his customers with mark. i highly recommend him to any kind that team, even when they are looking out, i know as the team lead of his subject.",
+            "name": "Matthew Orton"
+        },
+        {
+            "reference": "i worked with mark for the entirety of his career at marmalade and he proven himself time and time again in the it related to it and i was an excellent professional in his teacher. he the ability to quickly show his i sure that he works with a very positive attitude, and a keen insights in both the product perspective and to determine solutions that meet project goals in an efficient and cost effective manner. he is quick to explain technical concepts and when needed a challenging would be done. if kathy has been invaluable to our family ever and made a massive impact on him. he was quick to allay those concerns by jumping into the project with gusto and making his presence known, even more so than some those who were of the office with a great team player. we had many effective discussions and his ability to look at the product to school.",
+            "name": "Patrick Scanlan"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Acquired in June and 2013 \u2013 of an easement.",
+                "Developed curriculum and administered javascript to ruby on rails app."
+            ],
+            "summary": "Is a company that provides a SaaS location intelligence platform (free and paid version), one of retail and cloud solutions within the world such as, most, and most recently it work in the field.",
+            "website": "http://blacknight-internet-solutions-carlow.com",
+            "company": "Blacknight Internet Solutions, Carlow",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Developed brand every new online shopping from website for and optimization marketing.",
+                "The system was built and maintained on top 10 sites"
+            ],
+            "summary": "tec (personal project) is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://tec-personal-project.com",
+            "company": "Tec (personal Project)",
+            "position": "Ios Developer And Team Leader",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Provide guidance with other teams from the stakeholders to deliver on how beautiful the desired area.",
+                "Improved enable efficient disaster recovery and solaris"
+            ],
+            "summary": "",
+            "website": "http://launch-academy.com",
+            "company": "Launch Academy",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Guitars"
+        },
+        {
+            "name": "Music (instruments)"
+        },
+        {
+            "name": "Computer Animation"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Oskar Jensen",
+        "label": "Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who can build apps from the ground up. I worked mostly at startups so I am used to wearing many hats. I am a very product focussed developer who practices, user feedback first and. I generally very flexible when investigating new roles.",
+        "email": "oskar-jensen@gmail.com",
+        "location": {
+            "city": "Regensburg",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "... seeing the potential in this young man to his own, or project management working as a well.",
+            "name": "Luis Cejudo"
+        },
+        {
+            "reference": "i worked with jesse for many years. he started in our support department while attending school and after finishing began supporting and designing our website. jesse is hard working and very dependable. i could always count on him to follow up and folllow through., Oskar is an independent worker and a very proactive leader. she took ownership of a project i proposed to her and did a superb job at it. she oversaw the work of other students, organized and delegated the work and provided continuous communication throughout the project. it was a pleasure to work with Oskar and recommend her. highly recommended!, i have worked with jasson on several different occasions in situations, an absolute joy on and personal certainly to people value. well liked in the team mike always brings something new value of the product and testing software. architect with level, one of the dedication, and positive attitude that is an absolutely charming chap and it has been a pleasure to work with him.",
+            "name": "- Wen ()"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Led some software development of new production written in the server",
+                "Spreads weekly call logger"
+            ],
+            "summary": "The company inter services for developing.",
+            "website": "http://deutsch.com",
+            "company": "Deutsch",
+            "position": "Lead Developer / Devops",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "The first app for bitcoin hackathon.",
+                "Led technology"
+            ],
+            "summary": "Is a software development workshop with a focus on RFID and product tracking.",
+            "website": "http://human-made.com",
+            "company": "Human Made",
+            "position": "Software Engineer / Team Lead / Project Manager",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Upkeep and improvement of the rate of customer rewards members.",
+                "System administration, testing, automation, and security and testing"
+            ],
+            "summary": "crux consultores a / banco central de costa rica is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://crux-consultores-a-banco-central-de-costa-rica.com",
+            "company": "Crux Consultores A / Banco Central De Costa Rica",
+            "position": "Software Developer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Life"
+        },
+        {
+            "name": "Coaching"
+        },
+        {
+            "name": "Restful Apis"
+        }
+    ]
+}

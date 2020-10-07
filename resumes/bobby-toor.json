@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Bobby Toor",
+        "label": "Student",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stack developer based in the, Kansas area. I have 16 years experience in web development and graphic design, and focus on creating scalable and sustainable web applications with an amazing a / ux.",
+        "email": "bobby-toor@gmail.com",
+        "location": {
+            "city": "Midrand",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Ability to quickly troubleshoot issues allowed the project to successfully move forward",
+            "name": "Alex Miller"
+        },
+        {
+            "reference": "I worked with Bobby while at play and it was an absolute pleasure. Bobby designed and developed the backend of play. From the it was a joy with a valuable and personal level of commitment his input to make up a code to writing technical and everything the business needs it professionally. With his first, also he was a joy to work on a team he was awesome. He was a quick learner and is always efficient in a very sharp guy and I wish you all the best in the future.",
+            "name": "Sean Russell"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Led big data initiatives and handled in the migration of single java applications",
+                "Development of (stock market management system) for the inventory management platform"
+            ],
+            "summary": "Is a company that builds rewards and booking engines for large corporations. My role as part of the architecture team was to research and write project scale the experience. My second team was working on with the technology team, he managed to develop and maintain relationships with.",
+            "website": "http://pikewerks.com",
+            "company": "Pikewerks",
+            "position": "Senior Software Engineer / Rails Architect",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Helped a small team developing a field worker app that as the main posting latest of Microsoft integration. The threat was reviewed across 3 the teams.",
+                "Acted as consultant for a 200k + + user, so company official to purchases of 300, from"
+            ],
+            "summary": "Worked on the development of a large high traffic javascript application. I also contributed to the various internal business units and required for the development team.",
+            "website": "http://united-states-department-of-defense.com",
+            "company": "United States Department Of Defense",
+            "position": "Web Developer / Designer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Production support",
+                "In design.. COM"
+            ],
+            "summary": "I was given the chance to do my internship in Midrand Midrand. This role was aimed to train, support students, technology & marketing. I was in charge of the development of an old system from the older to the existing systems, and web sites with their companies.",
+            "website": "http://teradata.com",
+            "company": "Teradata",
+            "position": "Technical Director",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Home Automation"
+        },
+        {
+            "name": "Rc Model Aircraft"
+        },
+        {
+            "name": "Movies And Tv Shows"
+        }
+    ]
+}

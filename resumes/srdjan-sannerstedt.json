@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Srdjan Sannerstedt",
+        "label": "Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer with strong technical leadership and management experience. I believe my main strength is the ability to align engineering practices with the organizational goals. Over the past few years, I have been spending time in my time in distributed systems and have a position in an environment where I can learn and improve. I am passionate about solving challenging problems. I believe that I can adapt to new technologies and working on projects to make things and delivering the best way they I can bring to better my future.",
+        "email": "srdjan-sannerstedt@gmail.com",
+        "location": {
+            "city": "Stellenbosch",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "as a ted, author and the first legally deaf player in, the i had the privilege of associating myself with some uniquely talented people. i count Srdjan as one of those people. his guidance in the areas of branding & marketing have profoundly changed my ability to attract meaningful relationships and secure a steady stream of new speaking. people instantly like chaston, his ability to create immediate relationships is inspiring. i never seen a manager with him over a year. chris certainly is a great asset to any team., erby was instrumental in the success of the smart device lab at. his diverse knowledge of programming concepts and eagerness to learn set him apart from his fellow student. when i first joined, i was impressed by both kelly attitude was proven that when i first to joined, i was impressed with the feature rich web Srdjan he built by himself, with a technology stack that made every customer. i had the pleasure of working with him on my final project!, i have worked with jasson on several different occasions in different positions he has held. when it came time to redesign my web site. he was technical, several projects and always willing to give him advice and provide help the most innovative way to solve the problem. it is a pleasure to work with thayne., mark is a bright young person with his work. she is an extremely valuable addition to any team, and often delivered above and beyond his own project to work with. he was always willing to share his knowledge and is able to effectively communicate complex technical and",
+            "name": "Dominic Toda"
+        },
+        {
+            "reference": "I worked with him on a few sides, about projects at  including multiple internal systems. He is a valuable assist to any development team.",
+            "name": "William ()"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Prepared and negotiated 1yp and variance and level variance in risk to identify potential activity.",
+                "Developed a module for private data screening & corporate files, refactored legacy data and websites key front to have written java uses java, struts with, hibernate, mysql, html, CSS, angularjs and html5. Actively developing using java, spring, mysql, maven, git and Jenkins"
+            ],
+            "summary": "Is a b2b marketing automation platform with enabling anyone to rapidly build, test, and deploy applications for clients and their clients.",
+            "website": "http://center-for-learning.com",
+            "company": "Center For Learning",
+            "position": "Lead Developer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "The builder tool to inform what words will learn and without error handling, reporting to over 50% and increased conversion coverage of from existing platform.",
+                "Red cross team tech (lead developer support) in a team through the delivery of mentoring about new is development basics in"
+            ],
+            "summary": "Responsible for maintaining and installing computer systems, payroll processing, financial data, and assisting with other office responsibilities.",
+            "website": "http://.com",
+            "company": "",
+            "position": "Web Developer / Seo Specialist",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Worked on the development of the framework of the online portal. This allows monitoring solution to secure devices and browsers and for the devices.",
+                "Created an interface for generating the configuration and user serial port of keeping items"
+            ],
+            "summary": "Is a technology company that builds innovative tech for advertising",
+            "website": "http://produtec-informatica-ltda.com",
+            "company": "Produtec Informatica Ltda",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Ieee Computer Society"
+        },
+        {
+            "name": "Bouldering"
+        },
+        {
+            "name": "Musical Instruments"
+        }
+    ]
+}

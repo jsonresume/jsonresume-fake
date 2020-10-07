@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Mathieu Benning",
+        "label": "And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer who is looking to join a team that solves interesting and challenging problems with innovative technology.",
+        "email": "mathieu-benning@gmail.com",
+        "location": {
+            "city": "Mechelen",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "",
+            "name": "Aaron Fordham"
+        },
+        {
+            "reference": "I have worked with Mathieu on several different occasions in different positions he has held. When it came time to redesign my website. He was the technical skill and set was always on high quality projects in the solution. Mathieu is a hard worker who always delivers quality results even when under pressure, Mathieu is an absolute pleasure to work with. He will be a huge breadth of knowledge at., from all my years to come and I believe he has a strong technical background in which he has an ability to deliver solid.",
+            "name": "Alexander Redinger"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Working on very important large datasets and applications using a live meeting weekly basis of by the torus.",
+                "Made updated the website, used by the marketing campaigns and improving efficiency."
+            ],
+            "summary": "Is a company that provides a SaaS location intelligence platform (free and paid version), one of the biggest retail team within the world by anyone. Between a and it on the us client.",
+            "website": "http://dodo-pizza.com",
+            "company": "Dodo Pizza",
+            "position": "Web Developer & Administrator",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Implementing sop for the division to the transaction managers in the business",
+                "Front-end and backend engineer"
+            ],
+            "summary": "Is a platform that allows citizens to hold government agency directly and publicly accountable for their actions.",
+            "website": "http://armenia.com",
+            "company": "Armenia,",
+            "position": "Software Engineer (python)",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Engineered messaging platforms.",
+                "Writing automated tests to run reports on custom and PHP"
+            ],
+            "summary": "\u2022 Configure and maintain continuous integration",
+            "website": "http://ako-media-asia-co-ltd-contract-to.com",
+            "company": "Ako Media Asia Co, Ltd Contract To",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Sportsing"
+        },
+        {
+            "name": "Hiking / Cycling"
+        },
+        {
+            "name": "In Between"
+        }
+    ]
+}

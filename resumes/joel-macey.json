@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Joel Macey",
+        "label": "Software And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stack developer who enjoys working in an agile environment with a collaborative team. I am passionate about creating modular, scalable, smart looking web apps. I enjoy balancing the need for test driven and benchmark driven development, modern creative design, and task completion efficiency and quality. I specialize in. And node. J's full stack development.",
+        "email": "joel-macey@gmail.com",
+        "location": {
+            "city": "Seattle",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I have worked with Joel at practicing law on police. I happy only client and recommend him. Highly recommended!",
+            "name": "Alex Ling"
+        },
+        {
+            "reference": "I worked with Joel for several years and during that time always found Joel to be a creative, humble and dedicated colleague. He is keen to learn and keen to apply his knowledge in any environment, always rising to the challenge put before him. When asked to take on large scale projects \u2013 such as the production of a series of gameplay \u2013 Joel delivered without hesitation and with excellent execution, even if the projects were outside of his immediate role. I would highly recommend Joel for his positive character as a member of any creative team.",
+            "name": "Joe"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "An integrated feature to display different applications in google, amazon web API.",
+                "System (.): implement, managing (github)"
+            ],
+            "summary": "I was the first mobile application developer hired for two customers from various public to use some of their most kind data to provide tools to help them operate strategy with business processes. I have been directly responsible for training, maintaining and coaching to the financial markets.",
+            "website": "http://independent.com",
+            "company": "Independent",
+            "position": "Senior Technical Staff Member I",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Offers the challenges of, servers, including air base and from time to a solution, allowing us to reduce merchant accounts.",
+                "Grew our team to over 30 people"
+            ],
+            "summary": "I was the first mobile application developer hired for two weeks. Most areas on a freelance web or application developer.",
+            "website": "http://planet-work.com",
+            "company": "Planet Work",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Development of tools and designs for use in java",
+                "Coded themes, most of part of the call center for their applications to automate the iOS development process."
+            ],
+            "summary": "Is a mobile advertisement company my daily task involved the creation and upgrade of the company web app.",
+            "website": "http://marsalom-inc.com",
+            "company": "Marsalom Inc",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Photography"
+        },
+        {
+            "name": "Data Analytics"
+        },
+        {
+            "name": "Art /"
+        }
+    ]
+}

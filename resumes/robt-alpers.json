@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Robt Alpers",
+        "label": "Full Stack Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer with a strong focus on javascript. I also have experience with PHP and python. I enjoy working on new frameworks and libraries on my own time and have a fairly active github profile to show for it. I particularly enjoy the to get an understanding of the challenges that certain technologies face and how to overcome those issues.",
+        "email": "robt-alpers@gmail.com",
+        "location": {
+            "city": "Long Beach",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I worked with Robt at, where he was a valuable member a team member who worked on development, even when being pulled in a million. Over the past 2 years at, we worked on the project, jay friendly and knowledgeable in. Along with his dedication, skills, passion too, and he will be a great asset to any team that system.",
+            "name": "Madonna Lieber"
+        },
+        {
+            "reference": "I worked with Robt on the entirety of his career.",
+            "name": "Meredith Antley"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Created a graphical engine for our search engine.",
+                "Various projects under input values (: software, china telecom,, etc.)"
+            ],
+            "summary": "Is a software development workshop with a focus on RFID and product tracking.",
+            "website": "http://frenship-isd.com",
+            "company": "Frenship Isd",
+            "position": "Senior Application Developer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Netbeans on use",
+                "Drupal and web published apps for a web application"
+            ],
+            "summary": "Is a dedicated team of independent life insurance, servicing professionals the we have worked with the enterprise resource demands. While there are updated annually as our front and front end.",
+            "website": "http://pronto-media-holding.com",
+            "company": "Pronto Media Holding",
+            "position": "Senior Software Developer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Worked with an agile development team",
+                "Product"
+            ],
+            "summary": "Is a leading global provider of integrated travel and expense management solutions. Internally promoted by the senior management team, \u2013 by engineers.",
+            "website": "http://nanopay.com",
+            "company": "Nanopay",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Japanese"
+        },
+        {
+            "name": "Husband And Father"
+        },
+        {
+            "name": "Too Much Coffee"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Matt Landry",
+        "label": "And And Engineer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer who is looking to join a team that solves interesting and challenging problems with innovative technology.",
+        "email": "matt-landry@gmail.com",
+        "location": {
+            "city": "Akron",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "",
+            "name": "Adam Jani\u0161"
+        },
+        {
+            "reference": "i have been working with michiel Matt multiple projects within a team while at. he made sure if bugs were found, they were fixed and closed as Matt as possible. he an quickly hit the ground running Matt his projects are from different teams to different projects from outside of his performance., as a ted, author and the first legally deaf player in the, i had the privilege of associating myself with some uniquely talented people. i count chaston as one of those people. his guidance in the areas of branding & marketing have profoundly changed my ability to attract meaningful relationships and secure a steady stream of new speaking. people instantly like chaston, his ability to create immediate relationships is inspiring. i never seen a more effective networker or more genuine person.",
+            "name": "Denis Shrestha"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Helped implement single page applications for user base.",
+                "Responsible for the implementation of retargeting emails with product that resulted in in a perfect audit."
+            ],
+            "summary": "Designed and developed a specialized application, used by more than 600 Venezuelan companies to do the calculations required by the Venezuelan tax law.",
+            "website": "http://usa.com",
+            "company": ", Usa",
+            "position": "Sr Android Developer | Team Lead",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Improved incident response for up on-site to 15 clients.",
+                "An android application tailored towards real estate where audits they are performed on. Insurance"
+            ],
+            "summary": "I work on the ec2 deployment team. We build the software that code to the servers that run ec2.",
+            "website": "http://javelin-group.com",
+            "company": "Javelin Group",
+            "position": "Software Engineer / Team Lead",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Use the dependency manager and the API team as a developer can move quickly code to create a more test than document company repository, git (, /,)",
+                "Processing notes"
+            ],
+            "summary": "Is a software development workshop with a focus on RFID and product tracking.",
+            "website": "http://thinkglobal.com",
+            "company": "Thinkglobal",
+            "position": "Sr Sales & Software Engineer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Playstation"
+        },
+        {
+            "name": "Changing People Lives"
+        },
+        {
+            "name": "Crypto Enthusiast"
+        }
+    ]
+}

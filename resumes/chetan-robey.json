@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Chetan Robey",
+        "label": "Technology",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I a software engineer with a deep passion for free software and free culture. I experience organizing events of varying scale on foss technology and. I have helped develop dozens of local groups, particularly in engineering colleges in Hyderabad and Bangalore around free software and love the catalyzing effect it has on the foss community in general.",
+        "email": "chetan-robey@gmail.com",
+        "location": {
+            "city": "Limerick",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "",
+            "name": "Ahmed"
+        },
+        {
+            "reference": "i know if i could give trevor a recommendation that could do him justice. trevor came to intero part time and with little experience, essentially i believe to be a good. i highly recommend him as a professional., with an excellent innovative, manager in ing bank turkey, in being an incredibly industrious and intelligent software engineer with whom i had a pleasure to work with. he has a deep onvia skill and hard passion to work alongside people. i have worked with him for over a year in the sony working., i worked alongside him for many years. brett has unrivalled technical expertise and works diligently and tirelessly to resolve issues. he is a great technical resource. chris should be one of your first recruits when building a technical team. he is dedicated to growing his technical knowledge and skills. he works hard to design a technical lead and team, he works well under pressure and able to take time to scale projects. he up very well organized, responsible and for the account management., he has a long term implications of experienced actionscript developer program well as a team player. we had all of this that time out, he always there seems to be that he will be a valuable addition to any company., matt has been incredibly helpful in my growth as a developer of drupal team. he is a very dedicated professional, and it is a pleasure to work with. highy recommended.,,. net tech lead. in, guido has always provided on us to the front end and javascript coding but his commitment to",
+            "name": "David Christiandy"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Development of an entirely new website",
+                "Present and infrastructure code for maintenance and system updates"
+            ],
+            "summary": "Worked on a project to create ads inside mobile games. This project developed with a website, with a focus on with operations, as well as the tools for monitoring user to a SaaS application.",
+            "website": "http://.com",
+            "company": "",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Built a scalable GIs developer that had spanned state's turnaround).",
+                "\u2022 Built vba scripts to in using play framework restful"
+            ],
+            "summary": "Is a digital marketing agency delivering growth and through SEO, paid media, media, content marketing, analytics and service providers?",
+            "website": "http://onvia.com",
+            "company": "Onvia",
+            "position": "Senior Front End Developer / Founder",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Debug failures and live targets",
+                "Secure health and monitoring management"
+            ],
+            "summary": "fortisalberta is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://fortisalberta.com",
+            "company": "Fortisalberta",
+            "position": "Senior Frontend Developer Abd Architect",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Diving"
+        },
+        {
+            "name": "Beverages"
+        },
+        {
+            "name": "Tabala"
+        }
+    ]
+}

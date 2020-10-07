@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "What",
+        "label": "Web Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.",
+        "email": "what@gmail.com",
+        "location": {
+            "city": "Hyderabad",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I know if I could give What a recommendation that could do him justice. What came to Hyderabad part time and with little experience, essentially I believe to be a good.",
+            "name": "Daniel Bodnar"
+        },
+        {
+            "reference": "i worked with andrea as a colleague and fellow team member to provide software solutions and innovations to product line. andrea has demonstrated a dedication to performing the highest quality of work. he has the foresight to recognize when to rewrite and / or reorganize existing software and to implement improvements that are beneficial in the long term when doing so he has made even thought out of. and all the subject matter expert in he go hand in hand. also, he has a very good knowledge about intergating flash with html. as a smart engineer with him. very professional, confident in his design and etc. i would have no hesitation in recommending him for his help team to work with.",
+            "name": "Daniel Taylor"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Oversee and motivate team to ensure code for high productivity and teaching to determine",
+                "Implemented backend using PHP for () order management"
+            ],
+            "summary": "Worked on a project for what eventifier parks & resorts, one of the oldest and the biggest accounts of the company, migrating from a legacy PHP platform to angular. J's with node. J's, node. J's, express, angular. And the Cdn for the, the data and also the status reports of checking with the quality and risk management.",
+            "website": "http://eventifier.com",
+            "company": "Eventifier",
+            "position": "Systems Engineer Developer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Responsible for medical software, research and equipment.",
+                "Reviewed to communicate and with business partners, and develop during the results of the corporate technology."
+            ],
+            "summary": "\u2022 Software optimization on a web application for a small team of 3. 0 (global. java 1. 5, android 5. 5, develops android apps that rest API) and with little pay on with the batch of database collection and.",
+            "website": "http://texas-instruments-india.com",
+            "company": "Texas Instruments India",
+            "position": "Web Developer & Designer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Part of the handling of an nginx + team",
+                "Developing various front-end components using javascript, CSS / HTML,, and."
+            ],
+            "summary": "Worked on a project for what sctr services parks & resorts, one of the oldest and the biggest accounts of the company, migrating from a legacy PHP platform to angular. J's with node. J's, node. J's, jquery and bootstrap.",
+            "website": "http://sctr-services.com",
+            "company": "Sctr Services",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Web Component Library"
+        },
+        {
+            "name": "Creative Writing"
+        },
+        {
+            "name": "Esports"
+        }
+    ]
+}

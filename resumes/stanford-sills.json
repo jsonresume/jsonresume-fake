@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Stanford Sills",
+        "label": "And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer who is looking to join a team that solves interesting and challenging problems with innovative technology.",
+        "email": "stanford-sills@gmail.com",
+        "location": {
+            "city": "Fairbanks",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i worked with Stanford for several years and during that time always found Stanford to be a creative, humble and dedicated colleague. he is keen to learn and keen to apply his knowledge in any environment, always rising to the challenge put before him. when asked to take on large scale projects \u2013 such as the production of a series of gameplay \u2013 Stanford for his deliverables., if you looking for a talented developer, as well as a great team member, than look no further. highly recommended!, i had the pleasure to work Stanford while on his contract i was the highly support of our representative in. he was a quick learner and is good chap kim., Stanford has become a great friend and i constantly in awe at his excellent skills as a developer, yet also his seasoned approach to guiding and leading teams.",
+            "name": "Lydia Chee"
+        },
+        {
+            "reference": "I have been working with Stanford on multiple projects within. Stanford showed to be a perfect example of a leader instead of a manager, he has the strong skill to coach people instead of telling them what to do. This brings the best out of the people he works with. He is result driven and knows how to keep high Stanford overview whilst working on small. A pragmatic agilist in it in rich media.",
+            "name": "Keira Sharp"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Migrate warehouse application to the company / PHP using web application mysql capable of easily with multiple independent.",
+                "Implemented agile practices like code reviews, testing, debugging core and application infrastructure. Also wrote scripts in ruby to build, test suites using soap. And Jenkins"
+            ],
+            "summary": "I was given the chance to do an internship program in which it became an expert at developing the internal system that had the old system () before , inc and them was to make as much as my code. I can not all the way the migration of their code and the internal library. This included the following:",
+            "website": "http://inc.com",
+            "company": ", Inc",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Technical analysis of rules development and focus century insurance identity packages.",
+                "Worked with clients to create marketing and data science tools for using Drupal."
+            ],
+            "summary": "I was given the chance to do an internship program in which it became a sole software and designer / developer / consultant for a company. The project was responsible for key / CD. From working with various clients as required and fix support. It is an open source direction company that I designed and implemented many complex and technology experiences in our center. Net core values app that would build.",
+            "website": "http://carpet-done-right-rug-emporium.com",
+            "company": "Carpet Done Right / Rug Emporium",
+            "position": "It Support Analyst Iii",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Built a high satisfaction for an application server, which can be consumed and sketch",
+                "And ability to manage junior support developers workloads"
+            ],
+            "summary": "Developed a cms (. COM) with a focus on content across multiple social media accounts (associated press, etc.).",
+            "website": "http://tastee-gourmet.com",
+            "company": "Tastee Gourmet",
+            "position": "Software Engineer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Outdoors"
+        },
+        {
+            "name": "Tv Shows"
+        },
+        {
+            "name": "Big Data & Analytics"
+        }
+    ]
+}

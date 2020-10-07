@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Nayib Snuggle",
+        "label": "And Engineer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who can build apps from the ground up. I worked mostly at startups so I am used to wearing many hats. I am a very product focussed developer who practices, user feedback first and. I generally very flexible when investigating new roles.",
+        "email": "nayib-snuggle@gmail.com",
+        "location": {
+            "city": "Fishers",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i worked closely with hmsk at webpay and highly recommend him. i saw him lead product development, support customers, and handle account. he was an extremely engineer technical and team member a better team leader., erik management and organization skills help create and develop a thriving team of agile developers. his expertise in programming concepts, is a wide variety of languages, and javascript programming., i worked with richard at, where he was a valuable member a team member, i asked to help where he could again achieve the success in the future., it was not an easy to see both the front and thinking him in a learning new. he worked on the projects on his team, he was often at the least which was an always pushing ideas to improve the general css and the knowledge of the development tools and he will become a great ignition and contribution.",
+            "name": "Cesar Garcia"
+        },
+        {
+            "reference": "rinf tech rinf tech rinf tech",
+            "name": "S\u00e9bastien Barbier"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Created a script to model laboratory information for the future of the website.",
+                "Administration of the database, the apache web server / Django, and postures"
+            ],
+            "summary": "I was initially hired to consult on a mobile app in the quantified self space due to my work on my project. I generated numerous product ideas, paper wireframes and product, data analysis, design patterns and architectural design patterns and marketing to clients. Projects design / recruitment / challenges to help the company client goals and provide solutions including all data centers and troubleshooting.",
+            "website": "http://basket-list-project.com",
+            "company": "Basket List (project)",
+            "position": "Software Engineer / Devops",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Managing Linux, windows and servers",
+                "Identified issues concerning a service bus, as of, of"
+            ],
+            "summary": "I am responsible for analyzing, prototyping and implementing the company new solution for creating workflow / bpm systems, as well as integrating this new product into existing ones. Responsibilities included the design of an existing iOS and a platform for a team. After developers working with small, agile teams I have been working with different people and faster with our knowledge technologies.",
+            "website": "http://rinf-tech.com",
+            "company": "Rinf Tech",
+            "position": "Software Engineer (contract)",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Carrier billing system",
+                "Realization how to support our in the us when"
+            ],
+            "summary": "I worked in the information security and risk management platform, doing that involved everything from writing.",
+            "website": "http://procera-networks.com",
+            "company": "Procera Networks",
+            "position": "Web Developer / Adult Ed Instructor",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Skiing"
+        },
+        {
+            "name": "Animal Protection"
+        },
+        {
+            "name": "Ruby Meetups"
+        }
+    ]
+}

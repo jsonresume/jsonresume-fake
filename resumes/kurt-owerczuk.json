@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Kurt Owerczuk",
+        "label": "Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stack developer who can build services. I am a very product focused developer who prioritizes user feedback first. Even though I have been working at the same company, but I have various experience from lots of projects. I am generally very flexible when investigating new roles.",
+        "email": "kurt-owerczuk@gmail.com",
+        "location": {
+            "city": "Monrovia",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "",
+            "name": "Steven Chan"
+        },
+        {
+            "reference": "i worked with erik from 2015 and during this time i seen him eagerly take on new projects and challenges, fix issues caused by 3rd parties and successfully guide a small team of developers. erik eagerly helps his collegues when they encounter issues and can solve them by themselves. his schedules and work estimates have held true and problems he has encountered he made it was a delight to use., references will be provided upon request, by request, edin is an absolute ace. when we it comes to web promotion and to achieve a great things in coding way, to solve the problems he was always seemed to want to have on his team, even when being pulled in a million. over the past 2 years we worked on project with a daily basis. richard is the person who i would pick to have on any team in the future.",
+            "name": "Vladimir Vujosevic"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Worked on protocol in the API",
+                "Google apps"
+            ],
+            "summary": "I was given the chance to do an internship program over where I work on a large enterprise wide range of projects. Highlights of this support area and I built a system to maintain a clean and safe working for up.",
+            "website": "http://tds-telecom-corporate-office.com",
+            "company": "Tds Telecom Corporate Office",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Of arts & sciences at.",
+                "Worked extensively with a micro service stack"
+            ],
+            "summary": "\u2022 Responsible for third party integrations into.",
+            "website": "http://ex2-outcoding.com",
+            "company": "Ex\u00b2 Outcoding",
+            "position": "Senior Software Engineer / Remote Worker",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "New product quality and software development",
+                "Maintain and add the desired new product to inventory."
+            ],
+            "summary": "I worked in gathering requirements, technical design, implementing agile and software development.",
+            "website": "http://transportes-sas.com",
+            "company": "Transportes Sas",
+            "position": "Software Developer, Project Manager",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Music Creation"
+        },
+        {
+            "name": "Hardware"
+        },
+        {
+            "name": "Misc"
+        }
+    ]
+}

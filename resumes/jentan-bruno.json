@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Jentan Bruno",
+        "label": "Stack Development",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.",
+        "email": "jentan-bruno@gmail.com",
+        "location": {
+            "city": "Clinton",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I have been marking manager for over five years.. mark is an ideal employee with a positive attitude and a true passion for technology. He will be an extremely valuable addition to any company.",
+            "name": "Saloni Larsen"
+        },
+        {
+            "reference": "@. Com",
+            "name": "David Galyardt"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Improved customer satisfaction process by sending by%.",
+                "Developed postfix change in the future."
+            ],
+            "summary": "Developed a device that could allow vintage speedometers to work with modern web.",
+            "website": "http://technologies.com",
+            "company": "(technologies)",
+            "position": "Senior Software Engineer / Software Architect",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "System administration on solaris and windows server",
+                "Service"
+            ],
+            "summary": "\u2022 Greater operation efficiency of the it department by building the company that had already proven successful.",
+            "website": "http://national-and-kapodistrian-university-of-athens.com",
+            "company": "National And Kapodistrian University Of Athens",
+            "position": "Research Assistant In Cryptography",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Arranging courier collections",
+                "Customer satisfaction."
+            ],
+            "summary": "I was the sole ict member of staff for local market leader.",
+            "website": "http://bram-borggreve-development.com",
+            "company": "Bram Borggreve Development",
+            "position": "Lead Developer / Systems Administrator / Health & Safety Coordinator",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Nodejs"
+        },
+        {
+            "name": "Reading Non Fiction"
+        },
+        {
+            "name": "My Kids"
+        }
+    ]
+}

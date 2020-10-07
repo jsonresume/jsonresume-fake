@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Lex Malta",
+        "label": "Engineer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.",
+        "email": "lex-malta@gmail.com",
+        "location": {
+            "city": "Pune",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i worked with mark for the entirety of his career at marmalade and he proven himself time and time again in the future. he was always diligent and challenging architecture would be done a great job in the it industry., i worked with erik from 2015 and during this time i seen him eagerly take on new projects and challenges, fix issues caused by 3rd parties and successfully guide a small team of developers. erik eagerly helps his collegues when they encounter issues and can solve them by themselves. his schedules and work estimates have held true and problems he has encountered he solved quickly, and it is no he admits when he did not know something some developers do not admit when they know something.)",
+            "name": "John Meyers"
+        },
+        {
+            "reference": "michiel was a great scrum master, he was able to handle different situations within this process for multiple teams at the same time. always had the answers for any technical question. fan of upgrading to new technologies, keeping the projects to come up with the team or change, way or a learner, it is always well rounded, thought out and backed up by data experience, and he helped us to accomplish our. he is able to explain technical concepts clearly, which makes a great job the big picture which is come in a highly motivated student. his Lex skills, and written., i have worked with jasson on several different occasions in different positions he has held. when it came time to redesign my web site, he was the first i arrived. organised,, methodical, and technical. he is the one of he has a great ability to understand the whole picture and come up with a solution which fits in the need the information or team.",
+            "name": "Andreea Lign\u00e9"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Angular 2. 0.",
+                "Quickly ramped up on and contributed to the team"
+            ],
+            "summary": "Is a company that offers comprehensive and advanced services in the payment card industry.",
+            "website": "http://school-of-english.com",
+            "company": "School Of English",
+            "position": "Software Engineer (front End Engineer)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Write maintainable and performant javascript applications on desktop",
+                "Javascript /"
+            ],
+            "summary": "Is a social network for high school that give them what is happening around you feel and home delivery.",
+            "website": "http://thoughtworks-inc.com",
+            "company": "Thoughtworks Inc",
+            "position": "Computer Hardware Technician",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Integrated data into the warehouse setting using the web framework to use the repository pattern and templates",
+                "Platform design"
+            ],
+            "summary": "I was responsible for the development and management of automated online data whose data has very designed the first platform for complete their product called ibm (google engine)",
+            "website": "http://caspian-services-inc.com",
+            "company": "Caspian Services Inc",
+            "position": "Technical Lead (contract)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Maths"
+        },
+        {
+            "name": "Animal Protection"
+        },
+        {
+            "name": "Motorbike"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Charlotte Jahanbakhsh",
+        "label": "And And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stack developer who can build and operate apps from the ground up. I have a keen interest in devops and are principles and Linux systems.",
+        "email": "charlotte-jahanbakhsh@gmail.com",
+        "location": {
+            "city": "Versailles",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I worked with Charlotte for the entirety of his career at marmalade and he has proven himself time and time again in the future. He was a great professional and a fun engineer too. I have worked with him on again.",
+            "name": "Nathan Rodman"
+        },
+        {
+            "reference": "It is my pleasure to recommend, her performance working as a program engineer hoiio iqor proved that she will be a valuable addition to any company., Charlotte is an excellent full stack engineer. He implements every solution every opportunity. He is also a proactive person; a creative who can do given his way to the problem. Charlotte has also a joy to work with!",
+            "name": "Greg Carlin"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Used java analytics to perform insights along with business objects and dependencies.",
+                "Patients apps were used on the weekly market, identify market than 350 thousand of me work with google data insights"
+            ],
+            "summary": "Is a platform that allows citizens to hold government agencies and directly with the people who have your products.",
+            "website": "http://first-social-media-company.com",
+            "company": "First Social Media Company",
+            "position": "Senior Software Engineer / Scrum Master (contract)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Section of an agile excel tool, where the software, it would use as a service.",
+                "Wireless printers and other peripherals"
+            ],
+            "summary": "hoiio is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://hoiio.com",
+            "company": "Hoiio",
+            "position": "Lead Developer / Devops",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Use of 60 people added to keep our apps updated, landing pages / (PHP / ruby +)",
+                "Thesis: desktop, project"
+            ],
+            "summary": "I was responsible for the development and management of automated online data whose data is used to work for google,,",
+            "website": "http://amigos-de-los-animales.com",
+            "company": "Amigos De Los Animales",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Agile Software Design"
+        },
+        {
+            "name": "Video Game Modding"
+        },
+        {
+            "name": "Waterfowl Hunting"
+        }
+    ]
+}

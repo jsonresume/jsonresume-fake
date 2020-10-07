@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Suho Antonio Jain",
+        "label": "Computer And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer with a strong focus on javascript. I also have experience with PHP and python. I enjoy working on new frameworks and libraries on my own time and have a fairly active github profile to show for it. I particularly enjoy the to get an understanding of the challenges that certain technologies face and how to overcome those issues.",
+        "email": "suho-antonio-jain@gmail.com",
+        "location": {
+            "city": "Cranston",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "worked with my knowledge of experience some more for years now. i always found him to be very hard working on and off ideas and is a very willing to put hard work. it not just is a highly rock solid!, we engaged tom to work with us as a themer on major drupal project to an international media company. the project has been recently awarded for its innovative architecture as well as its user experience for design. he has been an outstanding immediate team player, a rare skill that often takes years to develop the top of his people skills. it is a pleasure to work with him and i recommend him to any senior pastor",
+            "name": "Pedro \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u043e\u0432\u0438\u0447"
+        },
+        {
+            "reference": "I worked with mark in the previous role. His depth of knowledge is vast and was always learning new skills. Rising to every challenge and always delivering, marks enthusiasm and commitment were second to none. I would be happy work with mark again and I know he will be successful where ever he is.",
+            "name": "Jan Van E Shen"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Performed communication through basic reports and analysis with better pattern unit and integration tools.",
+                "Approval from large codebase with 20 repositories to access, saving a high of hardware costs."
+            ],
+            "summary": "Is a technology platform for online sports information. It has created a network of schedules, stories, and stats that teams can share with fans and with other sports organizations.",
+            "website": "http://azulle.com",
+            "company": "Azulle",
+            "position": "Web Developer (consultant)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Developed using a powerful module to access to the data different branches",
+                "Developed multiple Sharepoint sites for use in the reporting"
+            ],
+            "summary": "Is a software development workshop with a focus on RFID and product tracking.",
+            "website": "http://whispir.com",
+            "company": "Whispir",
+            "position": "Senior System Developer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Developed product that would drive to enable better customer insight of products",
+                "Take ownership of the software team"
+            ],
+            "summary": "Working on a project for analytics / statistics on printers for printing on textile products. This product is designed to display many data, such as custom content, writing, analytics, delivered software to run on the browser client.",
+            "website": "http://murano-software.com",
+            "company": "Murano Software",
+            "position": "Senior Software Engineer / Scrum Master (contract)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Tv / Films"
+        },
+        {
+            "name": "Winter"
+        },
+        {
+            "name": "Playing I Love Concept Of And Of My World History And)"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Candidate Herbst",
+        "label": "Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.",
+        "email": "candidate-herbst@gmail.com",
+        "location": {
+            "city": "Radostice",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i worked with brett for more than 5 years and is a great enthusiastic & approachable leader. his mastery on api design and documentation, has been critical in launching many successfully apis in many design. i highly recommend him for any organization he will be a valuable asset to any company., i formally recognized josh for a specific activity to troubleshoot critical production bugs. he further in the ecommerce market and in all the cases, where he attended as many sessions as possible. he quickly brought himself up to speed and was able to help me deliver several key projects. i greatly appreciated would like to his work with again!, it a rare professional that. he brings great ideas to technical and problem solving skills were, both as a business and vision to work. he also is passionate about the project he has been involved in that.",
+            "name": "Ian Brenner"
+        },
+        {
+            "reference": "Aristides suggested that we should work with the version control system git. This has been very successful, and has saved us a lot of time...). The workflow suggested by Candidate has since gained wider adoption here at, also when it comes to ease development.",
+            "name": "David Browne"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Introduced to use both agile and web development, code, and usability testing of a reporting web site.",
+                "Provide analytics project at a company sponsored by client projects."
+            ],
+            "summary": " is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://.com",
+            "company": "",
+            "position": "Senior Software Engineer / Scrum Master (contract)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Integrated with telecommunication and engineering team from of.",
+                "Gained knowledge about managing"
+            ],
+            "summary": "\u2022 Maintain code repository using CVs",
+            "website": "http://randstad.com",
+            "company": "Randstad",
+            "position": "Web Developer / Designer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Clay tools for coding members of the java process with the AP (open virtual machine learning).",
+                "Individuals deploy and web application development"
+            ],
+            "summary": "Is a company that offers comprehensive and advanced services in the payment card industry.",
+            "website": "http://matchbook-creative.com",
+            "company": "Matchbook Creative",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Fintech Enthusiast"
+        },
+        {
+            "name": "Pool"
+        },
+        {
+            "name": "About And Things With I Have Raspberry"
+        }
+    ]
+}

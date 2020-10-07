@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Nadun Lassaletta",
+        "label": "And Engineer Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.",
+        "email": "nadun-lassaletta@gmail.com",
+        "location": {
+            "city": "Alexandroupolis",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "",
+            "name": "Sean Russell"
+        },
+        {
+            "reference": "I worked with Nadun for 3 years now. Over that time, he has continually proven himself as not only a developer but critical application. He was code refactoring and code reviews tests.",
+            "name": "David Hacker"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Teach the web team error focused with google API",
+                "Led the effort to create more than any content flow is in a consistent interface to be more secure."
+            ],
+            "summary": "I was the first mobile application developer hired for two. We developed and new products that will meet the founders to today",
+            "website": "http://ableton.com",
+            "company": "Ableton",
+            "position": "Technical Support Engineer / Team Lead",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Hiring innovation by all clients to 50% in a corporate website deployment",
+                "Build dynamic pages from the backend (mostly code)."
+            ],
+            "summary": "\u2022 Provide technical leadership to junior developers",
+            "website": "http://glaxosmithkline.com",
+            "company": "Glaxosmithkline",
+            "position": "Senior Software Developer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Manage clients and pitching",
+                "Experimental of service that users can be from /."
+            ],
+            "summary": "I worked as a freelance web developer, designing and coding sites for businesses and individuals, and lsbd development while",
+            "website": "http://lsbd.com",
+            "company": "Lsbd",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Writing Travel Photography Video"
+        },
+        {
+            "name": "Mmorpg Games And Their Economies"
+        },
+        {
+            "name": "It & Sciences"
+        }
+    ]
+}

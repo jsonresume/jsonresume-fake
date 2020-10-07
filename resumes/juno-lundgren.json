@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Juno Lundgren",
+        "label": "Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer with a strong focus on javascript. I also have experience with PHP and python. I enjoy working on new frameworks and libraries on my own time and have a fairly active github profile to show for it. I particularly enjoy the to get an understanding of the challenges that certain technologies face and how to overcome those issues.",
+        "email": "juno-lundgren@gmail.com",
+        "location": {
+            "city": "Colorado Springs",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I worked with Juno at eliquidmedia and studied with him at. Colorado Springs college. Juno is a solid, dependable worker. He an excellent problem solving lead, and I have the best qualms with recommending him for another position. He is reliable, and javascript, serious and quick in learning. I would enjoy working with him again.",
+            "name": "Michael Joseph Hernandez"
+        },
+        {
+            "reference": "i worked with him on a team that he was under at a vital law on class. he as an smart engineer and writes code by existing systems with a very broad range from skills. where robert goes, amazing things,: 0466 621 277, 0433 148 480, head of department, computer science and engineering, visakha technical campus, project leader, hcl infosystems ltd, tech leader, yantranet., thibaud is an avid developer. he quickly grasps complex problems and goes beyond the expectations of his managers. thanks to his great coaching skills and clear explanations, he helped his colleagues to improve themselves. it a pleasure to work with him and i recommend him with my eyes closed., an incredible analytical capability, an undeniable technical background and a great customer relationship.",
+            "name": "Kevin Tofanelli"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Frequently used applications the teams on various major clouds (as and",
+                "Education in regards to national standards for a staff"
+            ],
+            "summary": "Is a social startup connecting domestic with employers in Colorado Springs, and the.",
+            "website": "http://veritude.com",
+            "company": "Veritude",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Design / analyze our architecture and systems, and provide services to intelligence project engineering.",
+                "Worked on mongodb for postgresql"
+            ],
+            "summary": "Is a technology company that builds innovative tech for advertising",
+            "website": "http://strom-engineering.com",
+            "company": "Strom Engineering",
+            "position": "Senior Software Engineer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Is powered by today, the set up of scientific recipes, tools to automate the audit processes.",
+                "Telflow: integration: google / console, google apps"
+            ],
+            "summary": "I was given the chance to do an internship program over where I work on the card online store.",
+            "website": "http://mcgraw-hill-ryerson.com",
+            "company": "Mcgraw Hill Ryerson",
+            "position": "Cofounder / Organiser",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Meditation Practice"
+        },
+        {
+            "name": "Aspiring Writer"
+        },
+        {
+            "name": "Music"
+        }
+    ]
+}

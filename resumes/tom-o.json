@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Tom O",
+        "label": "Stack",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I a software engineer with a deep passion for free software and free culture. I experience organizing events of varying scale on foss technology and. I have helped develop dozens of local groups, particularly in engineering colleges in Hyderabad and Bangalore around free software and love the catalyzing effect it has on the foss community in general.",
+        "email": "tom-o@gmail.com",
+        "location": {
+            "city": "Visakhapatnam",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Tom is a truly outstanding senior technologist and I consider myself fortunate to have worked with him.",
+            "name": "Paul Rademacher"
+        },
+        {
+            "reference": "",
+            "name": "Tyler Hale"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Solved and coordinated policy in development.",
+                "Consistently outperformed sales goals, and integration with existing bugs"
+            ],
+            "summary": "swift medical is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://swift-medical.com",
+            "company": "Swift Medical",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Participated in building and improve legacy data solutions to facilitate improve integration workflow and efficiency",
+                "Study on an agile management process using and evaluated strategic objectives as well as tools for working with business under pressure significantly"
+            ],
+            "summary": "Provided systems administration support to end users via a strong focus on performance and usability issues.",
+            "website": "http://nationalfield.com",
+            "company": "Nationalfield",
+            "position": "Senior Software Engineer / Scrum Master (contract)",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Accessibility audit (guidelines)",
+                "Assisted meeting with clients on business and networking through the use of / 100"
+            ],
+            "summary": "I started my first company when I was 16. My friend and I developed websites for local businesses using open source tools such as technologies, javascript, nodes, angularjs, sass, less.",
+            "website": "http://gagnavarslan.com",
+            "company": "Gagnavarslan /",
+            "position": "Lead Developer / Systems Analyst",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Next Level Programming"
+        },
+        {
+            "name": "Bioinformatics"
+        },
+        {
+            "name": "Coaching"
+        }
+    ]
+}

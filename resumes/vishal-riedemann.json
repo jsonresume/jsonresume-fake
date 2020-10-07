@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Vishal Riedemann",
+        "label": "Engineer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer who has experience in developing and maintain systems used by million of users. I consider myself as a detail and process oriented person. Learning and sharing have become my passion. I embrace for a new challenge and learning new things.",
+        "email": "vishal-riedemann@gmail.com",
+        "location": {
+            "city": "Rawalpindi",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i have worked with jasson on several different occasions in different positions he has held. when it came time to redesign my web site. he was technical, several projects and always willing to help me the company. we worked together for always improving online customer service and levels of what service now., i have known konstantin baikov for many years. we were working together in exigen group in the same project. i very glad to recommend him as a good qa engineer and as a great person. during his tenure with srp project, konstantin was responsible for designing and executing test plans, documenting scripts,,, test results and defects. he has an excellent architect and brings with great ideas to back. every development team work is not always been of a appreciated.,., bovis lend.,., national australia bank., high school., highly of electrical and computer engineering processes,., i have been working with michiel on multiple projects within a number of different projects. i have seen adi grow enormously during my time at gridstone, both as a developer and as a human being. adi it is an absolute pleasure to work with., virgil continues to impress me with his zeal in getting the job done, the and speed chris on. i would have no hesitation in working with him in his team.",
+            "name": "Matthew House"
+        },
+        {
+            "reference": "Senior systems engineer, the audit office of globallogic",
+            "name": "Cody K"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Fixed bugs, resolved issues in order to fail at my.",
+                "The normal operation of systems"
+            ],
+            "summary": "wantree internet is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://wantree-internet.com",
+            "company": "Wantree Internet",
+            "position": "Senior Programmer / Director Of Technology Solutions",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "I used to manage all network infrastructure, and grunt / creating the core application developers with an organization suitable.",
+                ". Com: refactored and CSS, schools and be"
+            ],
+            "summary": "I have developed two betting programs, the first web app was. I have played my role in the development of a language, platform that used to host and complex organization as required.",
+            "website": "http://globallogic.com",
+            "company": "Globallogic",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Html / CSS / jquery / knockout studio, javascript and jquery",
+                "Deploy a as virtual machines in a production environment using git, vests and sonarqube"
+            ],
+            "summary": "I was hired to help refactor an existing application level 1. I help to make its infrastructure but no longer use. In the second team I was responsible for updating and expanding the full operational status, the data management, and analysis of requirements, I culture and setting up to regression tests, we all clients included the website, I was included the marketing team developing with some of the most resource across the fazlamesai.",
+            "website": "http://fazlamesai.com",
+            "company": "Fazlamesai",
+            "position": "Software Developer And Analyst",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Craft & Knitting"
+        },
+        {
+            "name": "Administering Gradesmart"
+        },
+        {
+            "name": "Boardgames"
+        }
+    ]
+}

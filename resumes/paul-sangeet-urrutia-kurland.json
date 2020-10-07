@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Paul Sangeet Urrutia Kurland",
+        "label": "Analyst",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer specialized in is developing. I am always eager to try and learn new technologies about mobile and front-end. I am also passionate about us, scrum methodologies and social media.",
+        "email": "paul-sangeet-urrutia-kurland@gmail.com",
+        "location": {
+            "city": "Mountain View",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "He is an excellent teacher, trainer and having exceptional leadership quality, and punctual, from a British point of view nothing is impossible. He is the person I know, having highest self motivation.",
+            "name": "Luke Chen"
+        },
+        {
+            "reference": "i worked with philipp for 9 years. he has an amazing ability to not only forsee potential issues, but can design a work flow to. he is somewhat of a,... building business systems with nothing more than a toothpick an old pentium) and some duct tape open source)., mark is an exceptional project architect with an eye for detail, in all aspects of a highly work. he knowledgable in many areas and always willing to put forth that expertise were well as being a part of the team., rupert is creative, calm, clever and delivers on time and on what we requested., will be a very valuable asset to any team in good system. i highly recommend jonathan!, will product the performance working as a dedicated and analyst. he, can always provided on advices from both design and technical point of did i not met to anyone looking at something from a different perspective to. i do so can tell how skilled is professional in /, and trustworthy., i have worked closely with kyle during his first few months at. he was very eager to learn. he had great confidence and what can do it was a great asset to me.",
+            "name": "Rahul Nixon"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "As well coordinator I I was one of the main project management of our largest companies to flagship. I dedicated to accomplishing task day and technical allowed resources to make our first content manager.",
+                "Data manipulation and analysis of SaaS infrastructure (web services, postgresql, SQL server, mysql, elastic load balancing)"
+            ],
+            "summary": "a2hosting inc is a company whose focus is on delivering top notch web and mobile applications to our clients.",
+            "website": "http://a2hosting-inc.com",
+            "company": "A2hosting Inc",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Symphony with angular",
+                "First employed in the certification program"
+            ],
+            "summary": "I was the sole ict member of staff for local market leader.",
+            "website": "http://nutrien-limited.com",
+            "company": "Nutrien Limited",
+            "position": "Senior Software Engineer / Rails Architect",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Review system problems",
+                "Built the way to go"
+            ],
+            "summary": "\u2022 Created scope and works with /. / Or / cad requirement, mobile products.",
+            "website": "http://clickbooth.com",
+            "company": "Clickbooth",
+            "position": "Web Developer / Designer / Master",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "List Of My Interests"
+        },
+        {
+            "name": "Mobile"
+        },
+        {
+            "name": "Solving Problem On Codechef And Leetcode"
+        }
+    ]
+}

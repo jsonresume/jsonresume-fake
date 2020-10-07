@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Yun Lahlali",
+        "label": "And And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a highly motivated and skilled programmer in several front and backend web technologies committed to crafting creative and maintainable solutions to problems.",
+        "email": "yun-lahlali@gmail.com",
+        "location": {
+            "city": "Changsha",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i worked with Yun for several years and during that time always found him to be a creative, humble and dedicated colleague. he is keen to learn and keen to apply his knowledge in any environment, always rising to the challenge put before him. when asked to take on large scale projects \u2013 such as the production of a series of gameplay \u2013 Yun for his deliverables., if you looking for a talented developer, as well as a great team member, than look no further. i had the pleasure of working with Yun now for over a year, and since then the quality of our code base has gone up significantly. with my eight plus year of experience Yun has separated himself from others i worked with.",
+            "name": "Michal Frystacky"
+        },
+        {
+            "reference": ".@. COM",
+            "name": "Harshavardhan Srepfler"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Implemented a comprehensive restful API for service",
+                "Fix issues for my open source and software architect."
+            ],
+            "summary": "I was in charge of building mobile web apps, web apps and mobile sites for all clients on the website.",
+            "website": "http://llc.com",
+            "company": ", Llc",
+            "position": "Junior / Web Developer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Deployed applications with azure and performing a custom integration, modified queries to find internal and employee processes",
+                "Responsible for full lifecycle management for the application and requirements"
+            ],
+            "summary": "I worked on a project which involved the creation of a web page that needed to be with all versions of and above. The page was showing a detailed of a product line with a description for each part of it",
+            "website": "http://tsentr-zainiatosti-vilnikh-liudei.com",
+            "company": "\u0426\u0435\u043d\u0442\u0440 \u0417\u0430\u0439\u043d\u044f\u0442\u043e\u0441\u0442\u0456 \u0412\u0456\u043b\u044c\u043d\u0438\u0445 \u041b\u044e\u0434\u0435\u0439",
+            "position": "Senior Software Engineering",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Earned and the customer relationships, move, / them for the junior products, in both the client and scope.",
+                "Modular home development in multiple company products"
+            ],
+            "summary": "Worked on a team to implement and integrate new customer CRM system into the existing insurance claims system",
+            "website": "http://university-of-kansas-school-of-engineering.com",
+            "company": "University Of Kansas (school Of Engineering)",
+            "position": "Senior Software Engineer / Scrum Master (contract)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Computer Engineering"
+        },
+        {
+            "name": "Startups"
+        },
+        {
+            "name": "Aquarium"
+        }
+    ]
+}

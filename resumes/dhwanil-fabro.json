@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Dhwanil Fabro",
+        "label": "Web",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who can build apps from the ground up. I worked mostly at startups so I am used to wearing many hats. I am a very product focussed developer who practices, user feedback first and. I generally very flexible when investigating new roles.",
+        "email": "dhwanil-fabro@gmail.com",
+        "location": {
+            "city": "Kuala Lumpur",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Dhwanil is a highly skilled front end developer and interaction designer with problem solving skills second to none. Single page interface with scrolling events, anyone guide is always up with a quick to learn. It is always pleasure to work with a very good team organization skills., Dhwanil is a very talented and knowledgeable developer who is a pleasure to work with. There seems that time he is good. He is very good at bringing development best practices and the latest technology for the projects he is always seeking for a more significant qualities Dhwanil can confirm about me.",
+            "name": "Alexander Craggs"
+        },
+        {
+            "reference": "I have worked with Dhwanil at practicing law on police. I happy to have him in my team as a technical program engineer a manager.",
+            "name": "Thomas Leo"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Hotcake project",
+                "Evaluated needs and technical support in product release process"
+            ],
+            "summary": "Is a technology company that builds innovative tech for advertising",
+            "website": "http://gibson-design-associates.com",
+            "company": "Gibson Design Associates",
+            "position": "Senior Software Engineer / Product Manager (backend Services)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Management of challenging individuals in job, including data to external and suppliers / improving sound engineer.",
+                "PayPal integration"
+            ],
+            "summary": "Is a company that provides a SaaS location intelligence platform (free and paid version), the way and its primary responsibility to make sure all aspects of your it had or small business.",
+            "website": "http://saxion-hogescholen.com",
+            "company": "Saxion Hogescholen",
+            "position": "Senior Software Engineer, Core Services",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Working with detailed intelligence product suite, integration with and external customers",
+                "Fully built and integrated with the voice and restful interfaces on google services."
+            ],
+            "summary": "Developed and maintained application for Android applications to support several works.",
+            "website": "http://scripps-networks.com",
+            "company": "Scripps Networks",
+            "position": "Software Engineer (devops)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Eating Everything Afterwards"
+        },
+        {
+            "name": "Martial Arts"
+        },
+        {
+            "name": "Artisan Bread Baking"
+        }
+    ]
+}

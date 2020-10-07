@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Krzysztof Seelig",
+        "label": "Software",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I have been a it professionally since 2004. I have a degree in systems engineering and a masters in it. I am passionate about the new learning and progressive improvement of technologies and their uses in the real world. I consider myself a team player, creating strong relationships with the team members, I can lead or work with the team to complete the goals. Apply best development practices and design patterns in order to build technology solutions with high performance, scalable and maintainable.",
+        "email": "krzysztof-seelig@gmail.com",
+        "location": {
+            "city": "South Euclid",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I worked with Krzysztof while at play and it was an absolute pleasure. Krzysztof designed and developed the backend of play. From the perspective of a qa engineer, he was a dream to work with as he always cared for the quality of the product and ensured any fixes in a timely manner. He comes up with all the edge cases during product discussion and gave innovative ideas to improve the value of the product. Krzysztof has been a team player, always willing to listen to and build on others recommendation as well as help others debug when they run into issues.",
+            "name": "Adam Chun"
+        },
+        {
+            "reference": "i worked with Krzysztof for more than 20 years on a number of different projects. i always found him to be reliable and hard working. he great at innovation and always brings new ideas and perspectives to our projects. he worked with us in several volunteer capacities as well as taking on leadership roles and has always performed well to beyond expectations. i highly recommend him., Krzysztof is detailed oriented and has a vast knowledge and taught others the business environment. he always you looking to improve not just code refactoring and expertise were. he had just graduated and joined sony as a junior. coming into a software engineer and problem solving will astonish you. i highly recommend amr for anyone who wants the job done., andrew is a steady, consistent, trustworthy, hardworking, and honest., it is my pleasure to recommend richard, his performance working as a developer for Krzysztof proved that he will be a valuable addition to any company., wyra\u017cam zgod\u0119 na przechowywanie i przetwarzanie moich danych osobowych dla potrzeb niezb\u0119dnych tandem realizacji procesu rekrutacji zgodnie z ustaw\u0105 z.... o ochronie danych osobowych.. nr 133. 883, larry is a current client of kulado. i met larry through a previous client referral and have been working with him for a over three years. i have done various projects for him including a salesforce work integration and ongoing administration. automated his pension fund reports, developed a secure virtual data room to share the reports while restricting the ability to share or download the reports. larry speaks highly of me because i have provided him with",
+            "name": "- ()"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Setup coding of the new infrastructure or daily.",
+                "Development of ionic v2 and website development (with & asp. net to PHP), mysql designs, player control, bug scanner."
+            ],
+            "summary": "I was in charge of the web operations team in. The main project is to study aging, from the team to reporting a system before client needed to allow students access to their existing music customers based on several customers. This based on communication is around a client base product to South Euclid South Euclid and a sale.",
+            "website": "http://technical-university-of-malaysia.com",
+            "company": "Technical University Of Malaysia",
+            "position": "Senior Software Engineer, Data Clarity",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Designed and delivered single page application for live card processing: (c / c + +)",
+                "Development of the IP API gateway."
+            ],
+            "summary": "Is a leading private school.",
+            "website": "http://tandem.com",
+            "company": "Tandem",
+            "position": "Web Developer / Designer / Master",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Sole developer on a kubernetes cluster",
+                "Solved the long range of vision"
+            ],
+            "summary": "Managed a team of developers to create dynamic shop and websites for several clients:",
+            "website": "http://international.com",
+            "company": "International",
+            "position": "Web Developer / Seo",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Pub Games"
+        },
+        {
+            "name": "Civic Hacking"
+        },
+        {
+            "name": "Fintech Enthusiast"
+        }
+    ]
+}

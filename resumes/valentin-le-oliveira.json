@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Valentin Le Oliveira",
+        "label": "And Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.",
+        "email": "valentin-le-oliveira@gmail.com",
+        "location": {
+            "city": "Tampa",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "More.",
+            "name": "Luke Benson"
+        },
+        {
+            "reference": "as a ted, author and the first legally deaf player in the, i had the privilege of associating myself with some uniquely talented people. i count Valentin as one of those people. his guidance in the areas of branding & marketing have profoundly changed my ability to attract meaningful relationships and secure a steady stream of new speaking. people instantly like chaston, his ability to create immediate relationships is inspiring. i never seen a manager with chris certainly and would be great to work with. he is truly an asset to a team member or any team, ryan has separated himself i from others worked with a great ability in. he is the kind of Valentin who you can get up to speed on and future projects and is a great enthusiastic way in it. not only is a very dedicated professional individual, and he often delivered on time and often delivered above and beyond to try out new challenges.",
+            "name": "Biko Wilburn"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Taught an disciplinary team of 10 students to develop microservices",
+                "impl\u00e9mentation on Cdn des among flagship."
+            ],
+            "summary": "software is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://software.com",
+            "company": "Software",
+            "position": "Senior Software Engineer / Scrum Master (contract)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "(Javascript, HTML, CSS, jquery json, Ajax, SQL) queries used, javascript, and spring (sap).",
+                "Got to know startup."
+            ],
+            "summary": "international first emergency (relief agency) is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://international-first-emergency-relief-agency.com",
+            "company": "International First Emergency (relief Agency)",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "IOS application development or.",
+                "Mentored new staff on our and operations for the use of. My net open source technologies."
+            ],
+            "summary": "Is a company that produce and deliver multimedia and digital content across different clients, focusing on the medical industry",
+            "website": "http://service-well-ab.com",
+            "company": "Service Well Ab",
+            "position": "Software Development Engineer Ii",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Diy"
+        },
+        {
+            "name": "Board Games"
+        },
+        {
+            "name": "Cross Stitching"
+        }
+    ]
+}

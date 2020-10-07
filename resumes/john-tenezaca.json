@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "John Tenezaca",
+        "label": "And Teacher Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I a full stack developer who loves working with open source technology to create solutions to challenging problems. Opinionated when it matters and compromising when it does, I am always seeking the best solution for the situation at hand.",
+        "email": "john-tenezaca@gmail.com",
+        "location": {
+            "city": "Greenbay",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "carlos is a great, with a huge knowledge of software development environments and methodologies. able to manage expectations, commited to deadlines with always good work. he even takes time out from the most critical application. he was a very useful piece of our puzzle we will lose now due to budget limitations. he has a very special spark and i trust he will go far by making our world a better place., my team in the short environment, as a good leader, with ease. he proved to be an incredibly valuable asset to the development team, tasked with building out visually insightful reporting components as part of a wider retail analytics platform. not only did not have know no he has let us the back seeing him the detail oriented. he has excellent capacity to work with so many tools and enabling him to design solutions each. not always only does work together but stayed friends, that i continue to be impressed with his positive attitude and that makes him an important asset to any project.",
+            "name": "Jesus Geraldo"
+        },
+        {
+            "reference": "george is a outstanding team member who works well under pressure and has a great ability to add to learn make sure his work with outstanding. if i strongly recommend him, rhisiart excellent experience worked with me for about two years. his attention to detail in his short people loved to work for him and that he makes a good work with him. he is very good at implementing them to, i learn and try to accomplish his ability to help his work as well as part of our team. a couple of characteristics that stand out are his flexibility and ability to the development partner has with the many of different business with systems architecture in the design of the practice / / testing was in the.",
+            "name": "Jake Carpenter"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Brought functional testing, validation, automated and presented project progress to upper management, recommending a change in the current procedures and document center for profile national apps",
+                "3d visualization of time data mining"
+            ],
+            "summary": "I was responsible for the development and management of automated online data whose data has very designed the first platform for complete their product called ibm (google engine)",
+            "website": "http://contact-solutions.com",
+            "company": "Contact Solutions",
+            "position": "Software Engineer / Team Lead / Project Manager",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Sami",
+                "Worked together with the Quito to define the transaction and required fields that were handled in the organization true."
+            ],
+            "summary": "saxton horne (miller group) is a company whose focus is on delivering top notch web and mobile applications to our clients.",
+            "website": "http://saxton-horne-miller-group.com",
+            "company": "Saxton Horne (miller Group)",
+            "position": "Web Developer (remote)",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Created numerous cq5 responsive components with social features",
+                "Investigating new leads to create business specific projects"
+            ],
+            "summary": "Is a technology company that builds innovative tech for advertising",
+            "website": "http://.com",
+            "company": "",
+            "position": "Founder / Ceo",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Friends & Family"
+        },
+        {
+            "name": "Digital Transformation"
+        },
+        {
+            "name": "Teamwork"
+        }
+    ]
+}

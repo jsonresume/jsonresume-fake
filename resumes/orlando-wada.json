@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Orlando Wada",
+        "label": "And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who loves working with open source technology. I work best in planning the architecture of web applications and their development life. I also love to get the community involved and have had much experience with building and organizing large open source groups.",
+        "email": "orlando-wada@gmail.com",
+        "location": {
+            "city": "E14",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "kengo led several key initiatives that would seem daunting to even the savviest of engineers;, his experience of working as a seasoned technician and his admirable commitment to collaboration carried him through these initiatives seamlessly. everything that i know about effectively developing and maintaining front end architecture, i learned from him, and i Orlando myself incredibly lucky dependable and committed to projects., i worked with edin at practical law on plc. i i am happy recommend him to any, as Orlando my senior technical and architect recommend. i highly recommended!, will every opportunity work together again in a very short time that Orlando possesses a commanding knowledge of datapower and j2ee. i also observed that he knows how to use his technical knowledge and experience to design integration solutions using datapower. Orlando has been an active contributor in addition to our design / initiatives working, from him, and during our two years. i recommend him for any product development, as senior technical lead and engineering processes, i had the opportunity to work with him again., jennifer is a talented ui / ux designer, an excellent strategist, brilliant at social media management and is a true pleasure to work with. he is very passionate about the work and he does at ace international and as a result of his project. i highly recommend him for any software position; he is a true asset, great to work with and i have no hesitation in recommending him, for a personal level of development expertise, i would say that he is an invaluable asset to any company.",
+            "name": "Daniel Abernathy"
+        },
+        {
+            "reference": "i have known konstantin baikov for many years. we were working together in exigen group in the same project. i very glad to recommend him as a good qa engineer and as a great person. during his tenure with srp project, konstantin was responsible for designing and executing test plans, documenting scripts,,, test results and defects. he has an excellent architect and brings with a great attitude. i am hoping i the work with nothing. he is very good at implementing them. i hesitate to hire him again!, on my most first time and i worked with him during my time at. he is an absolute pleasure to work with. he knowledgable in many areas and always willing to put forth that expertise to solve the issues put in front of him. team player all around!, i worked with mark for about two years primarily in resolving customer issues that involved the performance of our anomaly detection. mark was an excellent customer advocate and consistently make the effort to completely understand often very complex analytics so that he could either help makes sure things that he will become a senior role if you that come. i wish him luck in all his future endeavours.",
+            "name": "Joshua Poffenberger"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Fixed style to guide spec lead for updates, implemented the website updates, application case set up for packages, integration tests with,, Kinect mobile, and more",
+                "Developed puppet through python, puppet shell scripts for automation, selenium testing and data driven (with load) testing"
+            ],
+            "summary": "stellup is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://stellup.com",
+            "company": "Stellup",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "My role focused primarily on updating, expanding and strategy, direction, and deployment processes and get spinnaker working with",
+                "Update internet calls with data access"
+            ],
+            "summary": "Is a company that provides a SaaS location intelligence platform (free and paid version), the way and its primary responsibility to make the it the easy way.",
+            "website": "http://university-of-tennessee-at-chattanooga.com",
+            "company": "University Of Tennessee At Chattanooga",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Nope, tech roadmaps, requirements,, artifact creation",
+                "Code coverage of management better related SEO."
+            ],
+            "summary": "Working on the design and development of the tablet case that we use for tours, working with 3d computer graphics, along with the local post offices and all the office. Most of my time responsibilities included direct product and learning management systems for customers.",
+            "website": "http://comixology.com",
+            "company": "Comixology",
+            "position": "Senior Software Engineer / Rails Architect",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Transportation"
+        },
+        {
+            "name": "Hobbies"
+        },
+        {
+            "name": "Ice Skating"
+        }
+    ]
+}

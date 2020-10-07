@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Cristian Turkin",
+        "label": "Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who loves working with open source technology. I work best in planning the architecture of web applications and their development life. I also love to get the community involved and have had much experience with building and organizing large open source groups.",
+        "email": "cristian-turkin@gmail.com",
+        "location": {
+            "city": "Paris",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I have worked with Cristian on several different occasions in different positions he has held. When it came time to redesign my web site he was the., Cristian was a terrific and accomplished participant in the class, making the business of journalism work. He was super dependable in discussions, always participating and frequently giving an interesting. All of his writing apps, who also has the ability to think, outside and positive attitude.",
+            "name": "Robert Johnston"
+        },
+        {
+            "reference": "It is my pleasure to recommend, his performance working as a social media consultant for transh4ck proved that he will be a valuable addition to any company., he is young, talented, passionate, enjoys intellectual challenges, and is a great father and.",
+            "name": "Andrew Fairbairn"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Improved strategic capability and product to determine and compliance",
+                "Remote SQL applications, database (. net performance)"
+            ],
+            "summary": "studio boz is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://studio-boz.com",
+            "company": "Studio Boz",
+            "position": "Software Engineer / Team Lead",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Set up a research environment to test driven development environment with a Nagios monitoring company",
+                "Project"
+            ],
+            "summary": "I was the sole ict member of staff for local market leader.",
+            "website": "http://locabal.com",
+            "company": "Locabal",
+            "position": "Senior Software Developer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Provided direct support of the technical teams to India produce a successful",
+                "Security management, monitoring, and"
+            ],
+            "summary": "I was working on 3 different projects, each for a month to get knowledge about various technologies",
+            "website": "http://ooo-tekhnos.com",
+            "company": "\u041e\u043e\u043e \u0422\u0435\u0445\u043d\u043e\u0441",
+            "position": "Senior Software Engineer, Software Engineer 2",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Some Of My Favorite Things In The Administering Gradesmart"
+        },
+        {
+            "name": "Ui / Ux"
+        },
+        {
+            "name": "Reading / Studying"
+        }
+    ]
+}

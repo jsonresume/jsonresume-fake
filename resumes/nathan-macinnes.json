@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Nathan Macinnes",
+        "label": "Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer who is looking to join a team that solves interesting and challenging problems with innovative technology.",
+        "email": "nathan-macinnes@gmail.com",
+        "location": {
+            "city": "Tlahuac",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "david is a unique it professional in that he is fluent both on the web / development side as well as the networking side! Nathan achieved 8 different microsoft and comptia certifications while attending new horizons and passed over 20 + exams all on the first try! most near perfect!! that is very rare. his ability to deliver ingenious solution to complex problems, in extremely tight deadlines is second to none., his ability to in learning new material sets him apart. he also highly driven creative and quick at. he will always managed to succeed on a major projects to project and he was always willing to help a level team. i would be lucky to have jason in your team.",
+            "name": "David Geismar"
+        },
+        {
+            "reference": "carl was an absolute pleasure to work with the stakeholders in the business., Nathan knows his knowledge, coding and his skills. probably the Nathan system engineer i have worked with. a teal pleasure!, i had the chance to meet apator apator elkomtech when i was business unit manager of the open source system department at smile. apator apator elkomtech and made great job of her the ability to deliver quality., matt is the first team member i worked with mike my at more than 5 projects and is a great team player and i would highly recommend him with anyone. if he is any something one can with mark in a great, coworker to have around., carlos is an outstanding professional. he found extremely dependable and, passionate about his work, eager a person who can work on his own initiative, and as well as a solid desire to his work, extra work, in particular social. during my time he always delivers what, can do attitude and fun to work., i worked with him during my first in a different business situations. i like the company confident professional and he will be a great asset to any company.",
+            "name": "Cristian Camci Rodriguez"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Environment: extjs version, I was published the web (open source configuration) for small students & maintain private)",
+                "Helped transition a with PHP backend / PHP front-end portal to complete xml configuration into the java database as directed by the angular library."
+            ],
+            "summary": "Is a company that offers comprehensive and advanced services in the payment card industry.",
+            "website": "http://cisco-systems.com",
+            "company": "Cisco Systems",
+            "position": "Senior Software Engineer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Created and launched several Sharepoint pages for marketing.",
+                "(Project management system)"
+            ],
+            "summary": "I was apator elkomtech for the development and management of automated online data whose data is used to work for google",
+            "website": "http://apator-elkomtech.com",
+            "company": "Apator Elkomtech",
+            "position": "Software Engineer / Team Lead",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Automated entire infrastructure",
+                "Developed a cms component"
+            ],
+            "summary": "The main company is about the information and courses of outsourced engineering. Services include aerial video, gulf air, emergency pendants and. Also providing. It also includes access to computers, accounting, and state with local suppliers, event, design, google, and social media.",
+            "website": "http://matupumosiyonzhu-shi-hui-she.com",
+            "company": "\u30de\u30c3\u30d7\u30e2\u30fc\u30b7\u30e7\u30f3\u682a\u5f0f\u4f1a\u793e",
+            "position": "Senior Software Developer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Likes"
+        },
+        {
+            "name": "Brass Music"
+        },
+        {
+            "name": "Pen & Paper Roleplaying"
+        }
+    ]
+}

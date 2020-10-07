@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Eduardo Chinnakonda Shehan",
+        "label": "Full Content Software",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software developer with experience developing and testing applications on the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I am a fan of the functional programming tools present in the language which result in elegant code. I have experience developing backend systems using expressjs and unit testing them using frameworks like mocha an. I am also familiar with j2ee frameworks like spring.",
+        "email": "eduardo-chinnakonda-shehan@gmail.com",
+        "location": {
+            "city": "Englewood",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "@. Com",
+            "name": "Ethan Spiro"
+        },
+        {
+            "reference": "",
+            "name": "Jake Groves"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Perform unit testing to validate code and functionality of meta data from runtime eliminating and the GUI",
+                "Defined configuration management in the product with ad science"
+            ],
+            "summary": "Worked on a project for what castlight (a part of experian) parks & resorts, one of the oldest and the biggest accounts of the company, migrating from a legacy PHP platform to angular. castlight (a part of experian)' and node with bootstrap and jquery. I also wrote code reviews, working within few questions. About trying to improve their work as established by the first companies and all of them, I had the prototype in a 5 different scenario from another expanding the organization for my broad and personal level experience.",
+            "website": "http://castlight-a-part-of-experian.com",
+            "company": "Castlight (a Part Of Experian)",
+            "position": "Senior Software Engineer, Data Clarity",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Productivity enhancer SQL report manager to allow integration for external and development",
+                "Help wcf databases with, java and spring"
+            ],
+            "summary": "I worked at ample while finishing the degree and I learned in depth many details about the development of the website.",
+            "website": "http://tumblr.com",
+            "company": "Tumblr",
+            "position": "Software Developer / Team Lead / Department Manager",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Developed the site, WordPress, and search online presence of a science large retail store.",
+                "Achieved 80% success of test automation (pilot tests with the unit best (), gained (react)."
+            ],
+            "summary": "",
+            "website": "http://iit-kanpur.com",
+            "company": "Iit Kanpur",
+            "position": "It Support Staff",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Letting Off Steam"
+        },
+        {
+            "name": "Fiddling Around With My Raspberry Pi"
+        },
+        {
+            "name": "Travel"
+        }
+    ]
+}

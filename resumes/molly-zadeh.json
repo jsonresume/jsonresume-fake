@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Molly Zadeh",
+        "label": "Web",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer who is constantly tinkering, reading, and building. I love taking on new projects and further existing ones. Check out my site for more on what I am up to. I built the site in reacting with an I always happy to hear of similar architectures. I work for the road and recorded albums with a with a few different languages.",
+        "email": "molly-zadeh@gmail.com",
+        "location": {
+            "city": "Alexandria",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Molly is a dedicated individual, never ceases to amaze with what he is able to deliver better and improve himself as a developer.",
+            "name": "Alberto Loh"
+        },
+        {
+            "reference": "A fine understanding of what the world should be like and how to make it better.",
+            "name": "Aaron Smith"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Provided each project with for a bank corporate website.",
+                "Communicated with stakeholders gathering through better development and processes"
+            ],
+            "summary": "Is a leading employer and renowned specialist in enterprise application",
+            "website": "http://llc.com",
+            "company": ", Llc",
+            "position": "Lead Software Engineer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Identified and resolved issues in a level system boot for an insurance renewal spa for mobile application.",
+                "Designed and implemented a personal data visualization tool in one of the engines that ruby on rails, developed with mysql and deployed."
+            ],
+            "summary": "Is a mobile based, crowdsourcing, market information tool for agricultural in management, developed online stores, easily accessible, database and related tools with the technology.",
+            "website": "http://.com",
+            "company": "",
+            "position": "Senior Software Engineer / Scrum Master (contract)",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Documented the company recruiting for staff",
+                "New features in and contributed to board with other technologies such as docker, cabinets, docker, aws, roads,, s3, and cloudfront"
+            ],
+            "summary": "consortium is a company whose focus is on delivering top notch web and mobile applications to our clients.",
+            "website": "http://consortium.com",
+            "company": "Consortium",
+            "position": "Software Developer (consultant)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Be Active"
+        },
+        {
+            "name": "Organic Farming"
+        },
+        {
+            "name": "Being Active"
+        }
+    ]
+}

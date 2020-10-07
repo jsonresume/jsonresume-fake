@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Cole Schleutker",
+        "label": "And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer who is looking to join a team that solves interesting and challenging problems with innovative technology.",
+        "email": "cole-schleutker@gmail.com",
+        "location": {
+            "city": "Louisville",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "",
+            "name": "Samuel Santana Iii"
+        },
+        {
+            "reference": "I worked with Cole as a brightness from my student. His knowledge of PHP, and professional to beat the extreme knowledgeable., it is my pleasure to recommend, her performance working as a program engineer sailthru iqor proved that she will be a valuable addition to any company.",
+            "name": "Aaron Day"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Worked with the team of the developers in the process of issues during the early stages to improve reliability of these services using. Postgresql",
+                "Led the design and of javascript application and with the are biggest industry standard tech including resources."
+            ],
+            "summary": "Working on the product and the data center migration for the UK product called (the line)",
+            "website": "http://consultnet.com",
+            "company": "Consultnet",
+            "position": "Web Developer, System / Network Administrator",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Aided in the design and development of an audio processing service inside an application helping the bank of the job in the 2011",
+                "Responsible for / maintaining second life"
+            ],
+            "summary": "Worked on the new release of the blackberry powered operating system.",
+            "website": "http://sailthru.com",
+            "company": "Sailthru",
+            "position": "It Support Analyst Iii",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "With basic connection to ensure safety we a complex implementation of both websites where you are can no using most of.",
+                "Developed a youth library for the Bluetooth product and integrated phones with an external, internal which the help desk."
+            ],
+            "summary": "Is a leading institute in it and we company. We focus on developing your financial modelling, and it's used for it service providers and financial such as student.",
+            "website": "http://apache-software-foundation.com",
+            "company": "Apache Software Foundation",
+            "position": "Research And Development Technician",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Films"
+        },
+        {
+            "name": "Video Games"
+        },
+        {
+            "name": "Advocacy"
+        }
+    ]
+}

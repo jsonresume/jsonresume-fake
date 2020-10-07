@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Ivan Maciver",
+        "label": "Engineer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who loves working with open source technology. I work best in planning the architecture of web applications and their development life. I also love to get the community involved and have had much experience with building and organizing large open source groups.",
+        "email": "ivan-maciver@gmail.com",
+        "location": {
+            "city": "Hollis",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i worked with jake on a number of projects and found him a pleasure to work with. he has excellent technical knowledge, particularly in javascript and jquery and was the person developers went to for any ui related queries. jake had a great attitude when we were trying new ways of working and i was very pleased to see how he embraced agile and., luis montes, jeffrey hughes, john lyon, advised master thesis and wrote a paper together, on request, jeremy was diligent and in lab on a daily basis. he was enthusiastic about his project and a great colleague in the lab., mr shaw is my tutor for the open university module tm470 which is my end of degree project.",
+            "name": "Eduardo Teixeira"
+        },
+        {
+            "reference": "having vitor on our team was awesome. he always had the answers to any technical question. fan of upgrading to new technologies, doing things the right also has been involved in. he acts as a result he is a very valuable asset to any team that he is a very good team player and often delivered above and beyond his job, and often delivered above and beyond his own project to work with. he helped a lot to see both the projects and the success of his deliverables. if you seek a highly capable senior jee developer / designer you need look no further. highly recommended and a pleasure to work with!, available upon request, owner of bc, owner of swarthout recycling, corning community college mathmatics professor, one of the most talented people and i worked with a tester and test plan to build. he learns new technologies., virgil is a very talented and javascript developer. i had the pleasure of hiring working along side him at travel syndicate technologies tst). while at tst we built custom ui components using html, css, javascript, and backbone. in addition to our own work load of providing reusable components to 5 development teams and numerous customers, chris also was the first one to roll up his sleeves and sit with developers that needed help and always makes efficient solutions to what he is doing so he contributes carl., if kathy in considering working with you, consider yourself very lucky! kathy has been invaluable to our family ever and since our daughter ellie was 6 weeks old until beyond her fourth. kathy gives",
+            "name": "Eric Boshart"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Performed statistical analysis of software, data using pipelines",
+                "Deliver \u2013 software optimized for a server cluster written in c + +"
+            ],
+            "summary": "Is a mobile based, crowdsourcing, market information tool for agriculture in Hollis,. Development and robust applications, database, security, finance, data processing, and security.",
+            "website": "http://addactis-software.com",
+            "company": "Addactis Software",
+            "position": "Software Engineer / Team Lead",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Maintenance and development of a system.",
+                "Developed app."
+            ],
+            "summary": "I worked on the information security and risk management team doing all things security. Eventually I took over the development of an effort to provide contracted and engineering and can print in a 3d portal to allow  to an easy mobile application to help  and information for an insurance service allowing users to users",
+            "website": "http://.com",
+            "company": "",
+            "position": "Technical Advisor",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Introduction of all programming react, video and audio.",
+                "Responsible for all deliverables feedback on courses or on the ibm platform."
+            ],
+            "summary": "tag creative studio is a company whose focus is on delivering top notch web and mobile applications to our clients.",
+            "website": "http://tag-creative-studio.com",
+            "company": "Tag Creative Studio",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Unity"
+        },
+        {
+            "name": "Sportsing"
+        },
+        {
+            "name": "Waterfowl Hunting"
+        }
+    ]
+}

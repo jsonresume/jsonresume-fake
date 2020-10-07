@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Michal Talaga",
+        "label": "And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a passionate and ambitious developer who wants to help companies grow through the use of novel and innovative technologies. While I have recently graduated with a bachelor of mechanical engineering, I have discovered an affinity for programming and am excited to work in the world of web development. Most of my work experience is in the hospitality industry, where I have greatly developed skills in customer service, interpersonal communication and teamwork.",
+        "email": "michal-talaga@gmail.com",
+        "location": {
+            "city": "Dublin",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "@.",
+            "name": "Luis Alejandro Torres"
+        },
+        {
+            "reference": "Michal is a great colleague one can partner with ease, his knowledge and experience with a lot of his experience. His expertise is working with Michal he has been still been a truly customer strong service.",
+            "name": "Ethan Bruning"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "IOS app, for different web, software and visual parts of the service.",
+                "C + using / laravel"
+            ],
+            "summary": "I worked as a software engineer on a development and cause just management and procurement tools",
+            "website": "http://innohat.com",
+            "company": "Innohat",
+            "position": "Senior Software Engineer (java & J2ee)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Developed core to allow for% of seniors, various city schedules",
+                "Maintain and add a desired the integration, enterprise service."
+            ],
+            "summary": "Is a platform that allows citizens to hold government agency directly and publicly accountable for their actions.",
+            "website": "http://swinburne-university-of-technology-sarawak.com",
+            "company": "Swinburne University Of Technology, Sarawak",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Performed ops in the data collection process and network monitoring",
+                "Streaming and developed ape. (Enable realtime chat socket related to integration with these other services"
+            ],
+            "summary": "I was hired to help refactor an existing application level 1. developed a new API with the use of the website (PHP / mysql) through the (bootstrap) / stack that improved the API with the client database.",
+            "website": "http://com.com",
+            "company": "Com",
+            "position": "Web Developer / Seo",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Embedded Hardware Development"
+        },
+        {
+            "name": "Cooking"
+        },
+        {
+            "name": "Horology"
+        }
+    ]
+}

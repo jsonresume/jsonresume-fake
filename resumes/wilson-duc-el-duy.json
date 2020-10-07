@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Wilson Duc El Duy,",
+        "label": "Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer with a particular interest in making things simple and automating daily tasks. I try to keep up with security and best practices, and am always looking for new things to learn.",
+        "email": "wilson-duc-el-duy@gmail.com",
+        "location": {
+            "city": "Santo Andr\u00e9",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "As a ted, author and the first legally deaf player in the, I had the privilege of associating myself with some uniquely talented people. I count Wilson as one of those people. His guidance in the areas of branding & marketing has profoundly changed my ability to attract meaningful relationships and secure a steady stream of new speaking. People instantly like Chaston, his ability to create immediate relationships is inspiring. I have never seen a manager with Wilson certainly and would be great to work with.",
+            "name": "Juan Martos Martos Camilo"
+        },
+        {
+            "reference": "i worked with philipp for 9 years. he has an amazing ability to not only forsee potential issues, but can design a customers needs. he suggested that many design solutions, he has also often the scope of his java products /, he is a very valuable asset to any team that he is a very willing to learn and often delivered above and beyond his job, and he can be a valuable asset to any team., erby was instrumental in the to success of the smart device lab at. from his coworkers excellent and customer focus on is; he could always delivered on time and to take; a design, even if keep everybody tells you that you can be sure that he will become a senior developer lead in the one of the development team.",
+            "name": "Wayne"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Content on major incidents to",
+                "Created a youth library which allows users to browse using a watch or view, audit report via email, data backup and restoration"
+            ],
+            "summary": "wipro technologies limited is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://wipro-technologies-limited.com",
+            "company": "Wipro Technologies Limited",
+            "position": "Senior Software Engineer / Rails Architect",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Organized and executed, the time weekly reports for their all aspects of our guru project",
+                ":, bitbucket, and confluence of most of standard network file compilation."
+            ],
+            "summary": "I was the first mobile application developer hired for two customers from various public to use some of external for other companies. I am developing applications for some of the most private universities of the company. I have worked with client developers before it gets merged with them. I was also responsible of integrations for all applications on a specific project.",
+            "website": "http://murdoch-university.com",
+            "company": "Murdoch University",
+            "position": "Software Engineer / Team Lead",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Lead team of 10 members",
+                ", coordinating pattern, and"
+            ],
+            "summary": "Is a company that offers comprehensive and advanced services in the payment card industry.",
+            "website": "http://nautillus-design-strategy.com",
+            "company": "Nautillus Design & Strategy",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Carrom"
+        },
+        {
+            "name": "Chess Reading Rock Climbing Coaching"
+        },
+        {
+            "name": "Be Aware Of World Learning About Financial And Working Working Out Playing Squash"
+        }
+    ]
+}

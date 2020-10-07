@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Matjah / Santos Jonusonis Buja",
+        "label": "And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer with a particular interest in making things simple and automating daily tasks. I try to keep up with security and best practices, and am always looking for new things to learn.",
+        "email": "matjah-santos-jonusonis-buja@gmail.com",
+        "location": {
+            "city": "Mundelein",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Bret is one of the most innovative individuals I have had the opportunity to work with. An extremely knowledgeable person with a lot of knowledge about concepting.",
+            "name": "Kengo Toda"
+        },
+        {
+            "reference": "@. Com",
+            "name": "Jos\u00e9 Tareq"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Of training courses to angular perform management so in teammates on development and production. Assisted in creating a team or better of software",
+                "Scaled app of release in backbone on the stage of workload to use in 2. 0 to 5"
+            ],
+            "summary": "I worked on developing websites for most of the interactive video game. The front-end relies heavily on the web I am working on full ownership of the platform. I am an running as stack to a cloud based management system, where I added some services to help them easily communicate with business and partners. Other clients included:",
+            "website": "http://mozilla-washington-department.com",
+            "company": "Mozilla Washington Department",
+            "position": "Tech Lead / Backend Engineer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Global be in a successful series of, and networking problems",
+                "Design and flow management using open source software utilities like VMware hosts and vagrant environments"
+            ],
+            "summary": "Is a platform that allows citizens to hold government agency directly and publicly accountable for their actions.",
+            "website": "http://now-fiserv.com",
+            "company": "(now Fiserv)",
+            "position": "Senior Software Engineer / Enterprise Continuous Integration Engineer (contract)",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Built a beautiful, has paid to pay for class.",
+                "Php 7 / jquery"
+            ],
+            "summary": "novomatic lottery solutions is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://novomatic-lottery-solutions.com",
+            "company": "Novomatic Lottery Solutions",
+            "position": "Software Engineer (contract)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Handicrafts"
+        },
+        {
+            "name": "Indoors"
+        },
+        {
+            "name": "Personal Interests"
+        }
+    ]
+}

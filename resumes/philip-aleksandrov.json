@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Philip Aleksandrov",
+        "label": "And And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.",
+        "email": "philip-aleksandrov@gmail.com",
+        "location": {
+            "city": "Cartago",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i worked with Philip for several years and during that time always found him to be a creative, humble and dedicated colleague. he is keen to learn and keen to apply his knowledge in any environment, always rising to the challenge put before him. when asked to take on large scale projects \u2013 such as the production of a series of gameplay \u2013 Philip for his deliverables., if you looking for a talented developer, as well as a great team member, than look no further. i had the pleasure of working with Philip now for over a year, and since then the quality of our code base has gone up significantly. with my eight plus year of experience Philip has separated himself from others i worked with. in all, he was a great working relationship together, and what we needed member a. i can find without him a great friend.",
+            "name": "David Quizhpe Zuzu"
+        },
+        {
+            "reference": "Commercial assistant + 321 490)",
+            "name": "Matt West"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Quick diagnosis and repair, both and broadcasts some of large scale",
+                "Network technology requirements are used satellite VMware virtualization, oracle, Weblogic, hibernate, oracle, hibernate stored, xml, ibm software."
+            ],
+            "summary": "miss magic valley is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://miss-magic-valley.com",
+            "company": "Miss Magic Valley",
+            "position": "Senior Software Engineer / Rails Architect",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Created rack middleware for communicating with updates to employees' needs",
+                "Sass, angular jaws, agent, fabric, postgres"
+            ],
+            "summary": "Is a leading institute in east and business, we train students, develop corporate systems, networking and manage some?",
+            "website": "http://passport.com",
+            "company": "Passport",
+            "position": "Web Developer / Designer / Master",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Coordinate with client and other stakeholder in some projects to the key goals which were delivered in coding, new feature, development and production support.",
+                "Administration of all the student groups of a hybrid bonus wallet and service based on configurable fronted components with web, database, and twilio,."
+            ],
+            "summary": "I worked on the information architecture and helped build their own iOS app for our clients. We are also doing the web application rest API in 6 and.",
+            "website": "http://.com",
+            "company": "",
+            "position": "Software Engineer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Video Game Development"
+        },
+        {
+            "name": "Camping /"
+        },
+        {
+            "name": "Powerlifting"
+        }
+    ]
+}

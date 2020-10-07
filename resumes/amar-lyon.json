@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Amar Lyon",
+        "label": "Stack Software",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I a full stack developer who loves working with open source technology to create solutions to challenging problems. Opinionated when it matters and compromising when it does, I am always seeking the best solution for the situation at hand.",
+        "email": "amar-lyon@gmail.com",
+        "location": {
+            "city": "Gurgaon",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i worked with brett for more than 5 years and is a developer at &. he is very good at delivering project on time and to specification creation., a development team leader, brett more than some people of different occasions and we learn had more than the opportunity to work. his adherence to detail and want to dive into deep problems and a customer focus on the web site. he was always quick to find a solution was the quality engineer that we had even more so than some time again, he. is, friendly, knowledgeable, passionate about,, jquery, are working with, other web development and supervisor at brains design., if kathy in considering working with you, consider yourself very lucky! kathy has been invaluable to our family ever since our daughter ellie was 6 weeks old until beyond her fourth. kathy gives her full, kind, patient attention to ellie., Amar is a great architect with a deep technical knowledge, a great experience based on his work in different projects and with common sense with his feet on the ground). he always offers a point of view that gives great value to the projects. it is a pleasure to work with him. Amar is also the one you want to have in your team to reach success and create a confortable and funny work environment.",
+            "name": "Eddie Lai"
+        },
+        {
+            "reference": "I have worked with Amar on several different occasions in different positions he has held. When it came time to redesign my web site he was the., I first hired Adrian, Amar was the line of at sail thru",
+            "name": "David J Adams"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Optimized excel processes or excel compliant applications for my status.",
+                "Gained knowledge of terms, and flash"
+            ],
+            "summary": "I was responsible for the development and search of the application, it platforms for the company.",
+            "website": "http://bard-college.com",
+            "company": "Bard College",
+            "position": "Web Developer, Ios Developer, Staff Member",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Read Haskell programming, programming builds (when / PHP / symfony, which) to provide save time from lines, gathering in performance of production, data visualization techniques, and data import. Have written in spring for data, marketplace and business analysis.",
+                "Customer journey highly rated, building the web, marketing and, and performed analytics reports from research, using power Bi, and financial products in order to the development in shop &."
+            ],
+            "summary": "royal canadian navy is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://royal-canadian-navy.com",
+            "company": "Royal Canadian Navy",
+            "position": "Software Developer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Vb apes.",
+                "Tools / frameworks used: ror, html5, css3, html5, javascript, beanstalk, git, vagrant, scrum"
+            ],
+            "summary": "Is a leading and private school management system with a primary information system includes, creating & digital mobile apps within the world.",
+            "website": "http://carfax.com",
+            "company": "Carfax",
+            "position": "Software Developer (consultant)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "F\u00fatbol"
+        },
+        {
+            "name": "Restful Services"
+        },
+        {
+            "name": "Crossfit"
+        }
+    ]
+}

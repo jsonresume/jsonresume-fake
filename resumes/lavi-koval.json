@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Lavi Koval",
+        "label": "Full Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer that is constantly on the lookout for new ways to grow in the role. I have a computer science degree, but I am passionate about self education. Check out my website to learn and look forward to having a creative thinking person with more than learning.",
+        "email": "lavi-koval@gmail.com",
+        "location": {
+            "city": "Eindhoven",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "It is my pleasure to recommend, her performance working as a program engineer simplexity marketing group iqor proved that she will be a valuable addition to any company.",
+            "name": "Eric Marshall"
+        },
+        {
+            "reference": "chris was initially highly recommended to me by someone i trust. from initial contact, Lavi has been a pleasure to work with. he is an extremely competent ui architect and brings with best ideas to technical people. i have had the pleasure of working with him on my final project at dev bootcamp where we spent 100 + hours over 7 days building a fully functional web app. Lavi quickly learned new concepts, and i was impressed at how he go out of his way to level up his cohort mates in the technologies we were learning. no matter how tense the situation, Lavi always maintained a positive outlook and a light spirit. he be a great asset to the organization he is an awesome table tennis player. he will make a positive addition to any team very. we will work together again in the future and wholeheartedly recommend him for any front end or full stack project., references provided upon request, owner. com, can be reached at: keith at com, can be reached at: keith at com, can be reached at: keith at com, can be reached at: keith at com, jason@.,@. com, at, otc chief t\u00e9cnica).@ latinia. com, newshore servicios globales.. sucursal, general director.@. com, newshore servicios globales.. sucursal, general director., Lavi has a great ability to pick up new skills quickly and with regards automation to take on new projects. his work is always available to lend a hand to a large and big picture database leveraging",
+            "name": "David Wagner"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Yeoman. J's",
+                "Helping to fund and manage."
+            ],
+            "summary": "Is a company that produce and deliver multimedia and digital content across different clients, focusing on providing b2b training and administrative development in the areas of information and communication.",
+            "website": "http://simplexity-marketing-group.com",
+            "company": "Simplexity Marketing Group",
+            "position": "Senior Software Engineer / Scrum Master (contract)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                ": pentaho data integration, go, javascript, jquery, angularjs, adobe creative suite.",
+                "Migration of as infrastructure and worked on technology stack with apache, http, Kafka my language team"
+            ],
+            "summary": "I worked on the information architecture and helped to build their proprietary language for use I use sass for a global project. I also wrote a client server with / html / j's with CSS and bootstrap).",
+            "website": "http://procter-gamble.com",
+            "company": "Procter & Gamble",
+            "position": "Software Engineer / Web Developer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Configure squid tech and web width.",
+                "Assembled and configured isolated lab network for clients"
+            ],
+            "summary": "Is a company that provides a SaaS location intelligence platform.",
+            "website": "http://inc.com",
+            "company": ", Inc",
+            "position": "Software Engineer And Architect",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Experimentation And Prototyping"
+        },
+        {
+            "name": "New Ideas"
+        },
+        {
+            "name": "Concerts"
+        }
+    ]
+}

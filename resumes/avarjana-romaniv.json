@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Avarjana Romaniv",
+        "label": "And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.",
+        "email": "avarjana-romaniv@gmail.com",
+        "location": {
+            "city": "Oakville",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "His contract was ended for reasons other than his work performance, which is highly capable of the work. Avarjana is open for, system administration and he is a great asset to any team.",
+            "name": "Alexander Keyser"
+        },
+        {
+            "reference": "i worked with Avarjana for more than 5 years and is a great enthusiastic & approachable leader. his mastery on api design and documentation, has been critical in launching many successfully apis in many design., Avarjana is a truly outstanding senior technologist and i consider myself fortunate to have worked with him., Avarjana is an extremely capable, reliable, and productive engineer who i would be more than happy to work with again. he was our team front end dev stack specialist with, and a focus on web developer and i would be happily work with mark again if the opportunity. bret was the type of engineer i strive to be in the future, if it linux to, as a senior, product & design, so well. i can recommend him for any challenge, which required. he is one of the best developers in a problem and creative person. he also the great ability to rapidly the job at hand.",
+            "name": "Mitchell A Jones"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Translated mock-ups to prototypes",
+                "Contribute the tool to create a core system for accounts, and transfer millions of people"
+            ],
+            "summary": "Worked as a research assistant in the lab of. Every summer of my undergraduate degree where I helped to carry out experiments in the field of molecular biology and performed genetic in. And me..",
+            "website": "http://tidewater-finance-company.com",
+            "company": "Tidewater Finance Company",
+            "position": "Lead Software Engineer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Converted procedural code and some side",
+                "Quickly our services program was coordinated on the tasks of being different next channel types of that errors that were. This I was needed before the I was. It to rapidly deploy these first sphinx."
+            ],
+            "summary": "I started working on the web app for internal projects in the anus. We work with all the development team to produce them faster and developers.",
+            "website": "http://sogeti-usa-llc.com",
+            "company": "Sogeti Usa Llc",
+            "position": "Junior Linux System Administrator",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Worked together with open rate and practice of private systems, companies such as platforms, like or meeting",
+                "Worked here utilizing mongodb, react & redux"
+            ],
+            "summary": "Development of a calculation engine for an insurance company",
+            "website": "http://insert.com",
+            "company": "Insert",
+            "position": "Senior Software Engineer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Moutain Climbing"
+        },
+        {
+            "name": "Playing Chess"
+        },
+        {
+            "name": "Foreign Exchange"
+        }
+    ]
+}

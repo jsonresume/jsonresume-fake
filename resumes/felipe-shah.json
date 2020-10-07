@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Felipe Shah",
+        "label": "Cto Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who can build apps from the ground up. I worked mostly at startups so I am used to wearing many hats. I am a very product focussed developer who practices, user feedback first and. I generally very flexible when investigating new roles.",
+        "email": "felipe-shah@gmail.com",
+        "location": {
+            "city": "Rogers",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i worked with mark in the previous role. his depth of knowledge is vast and was always learning new skills. rising to every challenge and always delivering, marks enthusiasm and commitment were second to none. i would be rhisiart worked for a many reasons from other coworkers., james excellent work ethic is only matched by his incredible adaptiveness to any task assigned to him. his quick promotion to shift supervisor at, as well as consistent commendations at the commonwealth bank of australia is a direct mirror of this this, and i have no qualms with recommending him for any position he wishes to., james is a highly motivated person who holds expensive knowledge in his chosen area. he prides him self on being the best and is willing to put in the hard yards to achieve this. james is not a technically friendly, and talented. i would like to work with him again.",
+            "name": "Christopher Vanegas"
+        },
+        {
+            "reference": "I had the pleasure of working at crowdstrike with Felipe from 2011 to 2014 and managed him",
+            "name": "Kim"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "",
+                "Monitored within the Quito office (I, too, training sessions / technical assistance modules in (sync and job scheduler), xml file form file documents, required, building mailing systems from. Systems (,), running SQL (queries) and down servers for hosting businesses"
+            ],
+            "summary": "I worked in the information security and risk management platform, doing that graphic design for the jobs. Several distributed it platform / managed / which Linux / unix, Linux screen and was responsible for the browser its client.",
+            "website": "http://.com",
+            "company": "",
+            "position": "Senior Software Quality Engineer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Replaced the content single sign on a node. Lot standard operating management system. (Tools (), parse and built rest soap API with backend to asp. Net moves 5. this application c + and arm assembly to create and facilitate education.",
+                "Cisco ccna. I myself have selenium 4 c3 awards.."
+            ],
+            "summary": "crowdstrike is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://crowdstrike.com",
+            "company": "Crowdstrike",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Designed and developed custom themes attacks in, under the functional programming and concept. Pipeline",
+                "Transitioned manual, user testing computer to the a active roof for any state."
+            ],
+            "summary": "Is a leading institute in east and business, we train students, develop corporate systems, networking and manage some?",
+            "website": "http://shure-incorporated.com",
+            "company": "Shure Incorporated",
+            "position": "Software Engineer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Pianoforte"
+        },
+        {
+            "name": "Blockchain"
+        },
+        {
+            "name": "Origami"
+        }
+    ]
+}

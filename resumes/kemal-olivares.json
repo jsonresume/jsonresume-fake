@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Kemal Olivares",
+        "label": "Software",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I a software engineer with a mathematics and physics background and a passion for learning. Problem solver and technology enthusiast, always looking for ways to improve my craft whilst enjoying the chance to work with talented and creative people.",
+        "email": "kemal-olivares@gmail.com",
+        "location": {
+            "city": "Aalborg \u00d8st",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I worked with Kemal during almost three years at. Kemal is a passionate engineer that is able to play different kind of roles in your team. He has strong coding and to save the project.",
+            "name": "Alejandra Donley"
+        },
+        {
+            "reference": "I had the opportunity to work with Kemal for a period of two years with the faculty of faculty of 1000 lifecycle management team at sap labs,. Kemal has been a highly motivated individual with never ending enthusiasm for his work as well as a professional as well as a professional developer. He strong at work, is inspiring and gives greater ability to programmers. He mastered more.",
+            "name": "Andrew Billings"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Create functional and user strategy to test and deploy.",
+                "Reviewed vulnerability reports and data collection"
+            ],
+            "summary": "boeing,, nm is a company whose focus is on delivering top notch web and mobile applications to our clients.",
+            "website": "http://boeing-nm.com",
+            "company": "Boeing,, Nm",
+            "position": "Lead Software Engineer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Creating significant within an unreal engine",
+                "Was delivered on a tech week plan to execute and automate a Microsoft windows phone library."
+            ],
+            "summary": "Is a company that produce and deliver multimedia and digital content across different clients, focusing on providing b2b training and administrative development in the areas of information and communication.",
+            "website": "http://faculty-of-1000.com",
+            "company": "Faculty Of 1000",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Building electricity operations",
+                "Developed and launched CRM for clients using rails on java, hibernate and stored procedures in xml."
+            ],
+            "summary": "Is a company that produce and deliver multimedia and digital content across different clients, focusing on the medical industry",
+            "website": "http://ianncomm-now-message-agency.com",
+            "company": "Ianncomm (now Message Agency)",
+            "position": "Web Developer / Designer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Electronics"
+        },
+        {
+            "name": "Open Source"
+        },
+        {
+            "name": "For The Body"
+        }
+    ]
+}

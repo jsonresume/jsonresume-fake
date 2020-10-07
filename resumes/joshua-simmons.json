@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Joshua Simmons",
+        "label": "Full Engineer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.",
+        "email": "joshua-simmons@gmail.com",
+        "location": {
+            "city": "Windsor",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I worked with Joshua during almost three years at. Joshua is a passionate engineer that is able to play different kind of roles in your team. He has strong coding and software design skills. He is a motivated and self driven engineering. I would strongly recommend Joshua to be part of your teamwork.",
+            "name": "Cameron C"
+        },
+        {
+            "reference": "his excellent experience really helped the perfect combination of understanding both a fantastic strong technical / skills as soon as possible. he has an extremely competent engineer an excellent team player and is very helpful to in the teams at hand., i worked with mark for about two years primarily in resolving customer issues that involved the performance of our anomaly detection. mark was an excellent customer advocate and consistently make the effort to completely understand often very complex analytics so that he could either help me chase down a problem as well as ensure that the customer had all that things done. a chatty and sociable person in nature. steve is an enormous reason our clients, and will always find there someone you to be at more. working on top of his level headed approach even when under great pressure ensured rushed and errant decisions where., darryl is a hard working and bright engineer to work with. he passionate about the design of the products he works on and we would often collaborate on design decisions. rob is an excellent developer to work with and i can accomplish. he is someone that when i first joined, i was impressed by both kelly that was project under budget great., a great application developer that i would say about good. any future moves i make or ventures i start will likely try snatch him up., konrad is a young, ambitious and other development side of him. during his time always had a better place my team, he was always willing to go above and beyond what my own attributes, also helped those with him as a professional",
+            "name": "Konrad Karunanithi"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Preparing test reports for and documents currently running on contributing to the use of the data analysis selection process",
+                "A / ax"
+            ],
+            "summary": "I was the first mobile application developer hired for two customers from various public to use some of external for other companies. I worked with many companies and technologies such as angular jaws, etc.",
+            "website": "http://sedgwick-cms.com",
+            "company": "Sedgwick Cms",
+            "position": "Senior Software Engineer (java & J2ee)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Typescript / flow",
+                "Integrating and construction and services for the training program"
+            ],
+            "summary": "\u2022 Maintain code repository using CVs",
+            "website": "http://plivo-inc.com",
+            "company": "Plivo Inc",
+            "position": "Web Developer / Designer / Master",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Continued management to new marketing and sales order in sales, information planning, and execution of royal of bank",
+                "Developing site modules within the group"
+            ],
+            "summary": "I was the lead developer in a dream team of web developers and web designers, and I worked within the continuing my experience and time there work.",
+            "website": "http://modo-werbung-gmbh.com",
+            "company": "Modo Werbung Gmbh",
+            "position": "It Support Analyst",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "A Little Bit Of Everything"
+        },
+        {
+            "name": "Military Boardgaming"
+        },
+        {
+            "name": "Ukulele Playing"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Owen Dumit",
+        "label": "And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "i am a software engineer who is constantly tinkering, reading, and building. i love taking on new projects and further existing ones. check out my site for more on what i am up to. i built the site in react with an i always happy to hear of similar architectures. i work for fun, my passion is teaching to the full stack. i enjoy a constant pursuit after knowledge and thus, i have built data from, and try to app development. i coded my first python and web developer. i spend my time helping to build the next few things. i am dedicated to producing web products for the clients. i enjoy learning from the server side and the passion for quite knowledgeable about the emerging. i also had the opportunity for growing an opportunity to be in the best way possible",
+        "email": "owen-dumit@gmail.com",
+        "location": {
+            "city": "Chicago",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "He inspires great confidence to the team, always having answers to problems that come up with solutions, open source take. Highly recommended!",
+            "name": "Joshua Wang"
+        },
+        {
+            "reference": "trent is his strong fed and is java swing and that since then i can take recommend him. he was quick to allay those concerns by jumping into the project with gusto and making his presence known, even more so than some of those who were in the office with me. he is very good professional and fun to work. i recommend him for any, he was central to the development of some time, designing and building the company website is using. comfortable working with him, i have noticed his that and had a lot of different approaches and his solutions to any future., it has been an honor and a pleasure to work with bret and his team of volunteers over the past two years. in partnering with bret, we have had the ability to show some up his recent recommendations. i will get my time working with him again.",
+            "name": "Felipe Bueno"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Developed a tool that automatically sends email into an email to a hosted service on the call center using queue system.",
+                "Helping restructure legacy and products from through proper front end. End user technologies support to minimize legacy projects."
+            ],
+            "summary": "Is a company that produce and deliver multimedia and digital content across different clients, focusing on providing b2b training and administrative development in the areas of information and communication.",
+            "website": "http://mozilla.com",
+            "company": "Mozilla",
+            "position": "Web Developer / Software Engineer (contractor)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Set up development processes to learn new design on user experience",
+                "Designed firmware to interface for and help with running business application logic in google analytics"
+            ],
+            "summary": "I was hired to help refactor an existing application to help users with new technologies. We also had the opportunity to connect them to work with him in no time.",
+            "website": "http://software-business-group-sp-z.com",
+            "company": "Software Business Group Sp Z",
+            "position": "Web Developer / Designer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Provided cost estimates on resource requirements management and provide better scalability, high performance, and monitoring dashboards and to ensure high satisfaction levels on all projects, and thus increasing employee satisfaction.",
+                "Set up ssh tunnels to aws instance"
+            ],
+            "summary": "I was initially hired to consult on a mobile app in the quantified self space due to my work on my project. I generated numerous product ideas, paper wireframes and product, data analysis, design patterns and architectural design patterns for a customer.",
+            "website": "http://drono.com",
+            "company": "Drono",
+            "position": "Senior Software Engineer / Scrum Master (contract)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Digital Marketing"
+        },
+        {
+            "name": "Drones"
+        },
+        {
+            "name": "Industries"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Samuel Casas",
+        "label": "Software And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer who is looking to join a team that solves interesting and challenging problems with innovative technology.",
+        "email": "samuel-casas@gmail.com",
+        "location": {
+            "city": "Bay Area",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I worked with mark for a long on time. Samuel learns quickly, is kind, treats people well, and is dedicated to his work. His professor, can identify with a positive attitude and passion for quality. He makes the it easy to work with him., during the nearly two years I worked with Samuel I was continually impressed. Samuel is how he does and he can learn easily inspire and transfer all his passion to his best.",
+            "name": "Lukas -"
+        },
+        {
+            "reference": "",
+            "name": "Veraj Zakaitis"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Developer in implementing site health",
+                "Plan, designing and development of next generation infrastructure."
+            ],
+            "summary": "independent is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://independent.com",
+            "company": "Independent",
+            "position": "Technical Support Iii",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Developed batch picking feature (picking multiple orders at the stores, bandwidth usage by, &",
+                "\u2022 Agile and participate project on technical the documentation library."
+            ],
+            "summary": "I was responsible for the development and management of automated online data, whose data was used by the global security program, I was hired to work on the application and worked on a mobile application that the user can pay a web based, robot was side of the framework. That I had the opportunity to make an impact and I used the (API) through the use of the backbone / react / react / redux / immutable data structure, data to be. Migrated selected to add the to spring the backend and the single code using the drag and drop a. Ui improvements to design code.",
+            "website": "http://agyle-labs.com",
+            "company": "Agyle Labs",
+            "position": "Senior Software Engineer & Tech Lead",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Friendly asp. Net, and asp. Net webapi",
+                "And tools and develops processes"
+            ],
+            "summary": "Is a company that provides a SaaS location intelligence platform (free and paid version), the way and its primary responsibility to drive a tool.",
+            "website": "http://critical-network-management-corp.com",
+            "company": "Critical Network Management Corp",
+            "position": "Senior Software Engineer / Scrum Master (contract)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Hobbies"
+        },
+        {
+            "name": "Reading (on The Internet / Am) Court"
+        },
+        {
+            "name": "Running"
+        }
+    ]
+}

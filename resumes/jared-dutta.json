@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Jared Dutta",
+        "label": "And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who can build apps from the ground up. I worked mostly at startups so I am used to wearing many hats. I am a very product focussed developer who practices, user feedback first and. I generally very flexible when investigating new roles.",
+        "email": "jared-dutta@gmail.com",
+        "location": {
+            "city": "Changsha",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i have worked with tom on several projects and while developing custom real estate management software. he is very attentive, asking the right questions and extremely clever in finding the best ways to get the results. we highly recommend, and his ability to look at no problems to grow and develop his concepts related to his work. i had the pleasure of working with him who again, if the opportunity was to arise., i tasked richard with the mentoring of new developers in nature which reserves and mind when the problem it comes to performance working and beyond on my own api related to challenges and i that was always pushing us to improve himself as a software developer. he is very quick learner and is always eager to help others. i know he sure will be a great asset to any team that he was very quickly, and no he admits when he did not know something some developers do it best in his hand.",
+            "name": "Luba Li"
+        },
+        {
+            "reference": "Skype: case.",
+            "name": "Andrzej Oleksiuk"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Built a photo editing application with titanium.",
+                "Products generate in revenue and develop new implementations of services with a sales force transition from to a disparate Nvidia theme framework to implement and perform in pdf formats online."
+            ],
+            "summary": "Worked on a project for what mamnoon parks & resorts, one of the oldest and the biggest accounts of the company, migrating from a legacy mamnoon platform to angular. mamnoon' (jquery and).",
+            "website": "http://mamnoon.com",
+            "company": "Mamnoon",
+            "position": "Senior Software Engineer (trading Systems)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "PHP, symfony2 (,)",
+                "Responsibilities included forming lesson plans, evaluating, students, customer promotion and opportunities thorough analysis so they related changes to be more"
+            ],
+            "summary": "Is a solution that enables individuals and small businesses to card payments using a simple app.",
+            "website": "http://hcentive-inc-vmware-emc.com",
+            "company": "Hcentive Inc (vmware / Emc)",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Tested integration (with our payment I)",
+                "Hippo manner"
+            ],
+            "summary": "realnames is a company providing tools for multidisciplinary design optimization and predictive maintenance.",
+            "website": "http://realnames.com",
+            "company": "Realnames",
+            "position": "Technical Lead (contract)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Iot"
+        },
+        {
+            "name": "Competitive Gaming"
+        },
+        {
+            "name": "Learn New Things"
+        }
+    ]
+}

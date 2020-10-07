@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Dariusz Paruthi",
+        "label": "Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stack developer who loved to code and interested in the development of digital., hard worker and able to work with a team or individual.",
+        "email": "dariusz-paruthi@gmail.com",
+        "location": {
+            "city": "Woodbridge",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "@. Com",
+            "name": "Daniel Velez"
+        },
+        {
+            "reference": "A fine understanding of what the world should be like and how to make it better.",
+            "name": "Abdelrhaman Rajakumar"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Servicing 100 productions and a test team to identify high availability for insurance company products",
+                "Facilitated all communications, procedures and related materials to help (complex and software platforms under a high of standard test services"
+            ],
+            "summary": "Worked on an asp. The net core project that creates / resources to azure.",
+            "website": "http://classlink.com",
+            "company": "Classlink",
+            "position": "Sr Software Engineer / Devops / Architect (remote)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Creating and maintaining scripts for data and processing systems like databases.",
+                "Tools and server development in java"
+            ],
+            "summary": "clebinfosys is a company providing tools for multidisciplinary design optimization (SEO, localization services, and CRM).",
+            "website": "http://clebinfosys.com",
+            "company": "Clebinfosys",
+            "position": "Web Developer / Designer / Master",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Was responsible in several developer on the transition of the existing website from using scratch.",
+                "Delivered and training sessions for the Microsoft Azure team"
+            ],
+            "summary": "I was responsible for the development and management of automated online data platforms. The key contributions from both guests and up the coming from during the time.",
+            "website": "http://sitespect.com",
+            "company": "Sitespect",
+            "position": "Senior Software Engineer / Software Architect",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Freestyle Skiing"
+        },
+        {
+            "name": "Writing Travel Photography And Video"
+        },
+        {
+            "name": "Hiking"
+        }
+    ]
+}

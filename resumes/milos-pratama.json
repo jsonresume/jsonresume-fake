@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Milos Pratama",
+        "label": "Software Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a developer who has a passion for technology and an affinity for software craftsmanship. I am dedicated to creating clean, readable, and reusable code, and have a deep interest in technological automation. I love spending time with my wife and children, and am a firm believer that people should not work with software, software should work with people.",
+        "email": "milos-pratama@gmail.com",
+        "location": {
+            "city": "Atlanta",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I was working with Milos on our software development workflow at sole sole source and found him to be very professional and fun to work with. Our company is better for his involvement",
+            "name": "M Nguyen"
+        },
+        {
+            "reference": "I have worked with tom on several projects and while we were contracted at the of what I was impressed by both kelly attitude that was under at an getting the time employee again and the it was easy to communicate and with outstanding.",
+            "name": "David Willie"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Glass,",
+                "Helped teach junior students how to the team around the building out cooking service."
+            ],
+            "summary": "Is a software development workshop with a focus on RFID and product tracking.",
+            "website": "http://sole-source.com",
+            "company": "Sole Source",
+            "position": "Senior Software Developer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Worked extensively and an excel with the active directory enabling the ad network to keep track changes",
+                "Currently which project also worked with other teams to deliver the software platforms as per client"
+            ],
+            "summary": "Is a digital marketing agency delivering growth through SEO, paid media, & social media, content marketing analytics, & analytics marketing.",
+            "website": "http://yoyo.com",
+            "company": "Yoyo",
+            "position": "Software Engineer (contract)",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                ":, printer, working, service, sales, initiative & developed with enhancements.",
+                "Managed development environments for auto stream ingestion"
+            ],
+            "summary": "\u2022 as3 development for product focus site",
+            "website": "http://american-specialty-health.com",
+            "company": "American Specialty Health",
+            "position": "Senior Software Engineer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Mountain Bike"
+        },
+        {
+            "name": "Cubes"
+        },
+        {
+            "name": "Rick And Morty"
+        }
+    ]
+}

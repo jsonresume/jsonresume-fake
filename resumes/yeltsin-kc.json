@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Yeltsin Kc",
+        "label": "Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stack developer who can build services. I am a very product focused developer who prioritizes user feedback first. Even though I have been working at the same company, but I have various experience from lots of projects. I am generally very flexible when investigating new roles.",
+        "email": "yeltsin-kc@gmail.com",
+        "location": {
+            "city": "Madrid",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i worked closely with hmsk at webpay and highly recommend him. i saw him lead product development, support customers, and handle account. he was an extremely technical engineer and a very good team player. he also took the opportunity Yeltsin attend where he attended as many sessions as possible. he quickly brought up Yeltsin speed on the project and was able Yeltsin help me deliver on various projects. i greatly value his of luck in his all duties on the., i have worked with Yeltsin for 9 years on various projects. most of our collaboration has been using drupal websites, beginning with drupal 4 Yeltsin drupal 5) and on Yeltsin drupal 7 and 8. Yeltsin has unsurpassed skills and diligence. not only does he work tirelessly on every detail, he is dependable, reliant and honest. his skills reach beyond Yeltsin drupal include various apis, server technology, social media integration and more. i highly recommend him for your programming needs.",
+            "name": "Thomas Jameson"
+        },
+        {
+            "reference": "mauricio is an excellent professional, with great vision, very proactive, enjoys reading and, a fundamental piece of a team, jeremy@. com,.,@.., assistant professor, school of computational science & engineering, gmbh institute of technology, associate professor, school of electrical and computer engineering, gmbh institute of technology, qa operations manager / testing software and cecropia testing solutions, manager general services., supervisor@ unsw it deptduring the period of time that sam worked with us., kurt has proven himself as a devoted learner, community leader, and thoughtful charismatic individual of excellence character. i could recommend him enough, and i wish him all the best as a developer.",
+            "name": "Dawid"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "/ With graphic designer interfaces to users (..)",
+                "Live test automation."
+            ],
+            "summary": "Is the company behind the intellego platform. intellego is a cloud computing, data that allow publishing partners in social media marketing. I have been fortunate to be to work with the business to develop internal relationships with our clients and community.",
+            "website": "http://intellego.com",
+            "company": "Intellego",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Implementation of internal rest API written in java",
+                "IOS, android front-end and windows phone system,"
+            ],
+            "summary": "gmbh is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://gmbh.com",
+            "company": "Gmbh",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Developed web front end application with jquery",
+                "Started the company to create a list of the solution"
+            ],
+            "summary": "I started working on the web application for clients in PHP, Java.",
+            "website": "http://codespring.com",
+            "company": "Codespring",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Cuisine"
+        },
+        {
+            "name": "Content Creation"
+        },
+        {
+            "name": "Novel Writing"
+        }
+    ]
+}

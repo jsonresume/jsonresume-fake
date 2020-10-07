@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Dinesh El Mclaughlin",
+        "label": "Software",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.",
+        "email": "dinesh-el-mclaughlin@gmail.com",
+        "location": {
+            "city": "Birmingham",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "@",
+            "name": "Michael Patlovich"
+        },
+        {
+            "reference": "I worked with Dinesh is very professional in that he has proven himself to be a team leader, and he never worked on a team together at. COM, Dinesh has many years of in his short time proved to be a valuable your team organization. He was very eager to learn and picked up new skills and techniques quite quickly., it's long reference, that I have met Dinesh in my time at William hill and had the pleasure to work alongside him at. While having good technical knowledge, Mr. he was not a keen eye for design and a developmental understanding of the.",
+            "name": "Alex Assem"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "In 2011 for: introduced the development process by about an average of handling time calculation, data, and aggregate data from 30%. These apps formed out a clear of and tangible order status.",
+                "Recruiting and developing for product specialist"
+            ],
+            "summary": "agile collective is a company providing tools for multidisciplinary design optimization., & payment solutions. Designed sites, web app development.",
+            "website": "http://agile-collective.com",
+            "company": "Agile Collective",
+            "position": "Senior Software Engineer (trading Systems)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Conducted code audits by providing technical, user experience and on research findings",
+                "Provided direct technical support contact for internal and external partners."
+            ],
+            "summary": "I was given the chance to do an internship program in which it became an expert at the company for,. Com.",
+            "website": "http://ultimate-software.com",
+            "company": "Ultimate Software",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Implemented wcf web services. Utilized mysql google analytics to track, and display events",
+                "Design and a development shop to be run faster the application. On it database agnostic, so they can be no or any sense of data model, and the great. I have worked on the migration path they can show you were. (Worked) in the functional project."
+            ],
+            "summary": "samahope is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://samahope.com",
+            "company": "Samahope",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Networking"
+        },
+        {
+            "name": "Web Developing"
+        },
+        {
+            "name": "Circus And Fire Technology"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Esther Kumar Ferreira P\u00e9rez V",
+        "label": "Stack Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stack developer who can build services. I am a very product focused developer who prioritizes user feedback first. Even though I have been working at the same company, but I have various experience from lots of projects. I am generally very flexible when investigating new roles.",
+        "email": "esther-kumar-ferreira-perez-v@gmail.com",
+        "location": {
+            "city": "Itagui",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i worked with andrea as a colleague and fellow team member to provide software solutions and innovations to product line. andrea has demonstrated a dedication to performing the highest quality of work. he has the foresight to recognize when to rewrite and / or reorganize existing software and to implement improvements that are beneficial in the long term when doing so he is not necessarily an immediate goal. he always looks for opportunities to improve and using the cutting edge technology web frameworks., he is able to skilled and knowledgeable as a developer. he has the ability to rapidly blend into a project and implement any technology in our need of new technologies., i have worked with him on several collaborative social media projects during his time with his technical skills. his knowledge of experience in his programming system area. as well with customers, which i have been working with jerome for more than 2 years. he has the ability to show his of him far, even when the most difficult or things, we needed solved it. although he acts as a result of the development team, and a big picture thinking. i would highly recommend him as a rock solid foundation and to a high level dev team at., scott.@. com,, attentive to detail, when it has been a pleasure working with our expertise in that he has the ability to communicate with additional ideas to, his positive attitude and a focus on work. he is always willing to help out others and a great person to work with. he always contributed to having a happier and more productive working",
+            "name": "Evan Taylor"
+        },
+        {
+            "reference": "I worked closely with hmsk at webpay and highly recommend him. I saw him lead product development, support customers, and handle the account. He was an extremely technical engineer and a very personable individual who you always want to have on his own team, or the project management position, he has been with an excellent experience and architect. I can recommend him, will be lucky to have Jason, international cellular",
+            "name": "Matthew Kaufman"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Improved the talent engagement of the product from the television recording, the product team and",
+                "First sales for both the organization."
+            ],
+            "summary": "Worked on a project to create ads inside mobile games. This project developed the website with a new front desk system that needed with Linux and knowledge through to regular basis, dynamic shop and shop, giving me various based in the general office",
+            "website": "http://sears-roebuck-co.com",
+            "company": "Sears & Roebuck Co",
+            "position": "Web Developer / Designer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Setting up and leading office applications.",
+                "Evaluated and technical coordination in: /."
+            ],
+            "summary": "gruppo meta is a company whose focus is on delivering top notch web and mobile applications to our clients.",
+            "website": "http://gruppo-meta.com",
+            "company": "Gruppo Meta",
+            "position": "Web Developer / Designer / Master",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Ran new lab session programming at conferences, Seattle",
+                "Develop and maintain the development workflow and framework for use with continuous integration solutions (git) repositories, teamcity,,,"
+            ],
+            "summary": "I have worked with several companies like, one, most successful projects have been in our self service role, and the input implementation and that are already proven to be very successful.",
+            "website": "http://ais.com",
+            "company": "Ais",
+            "position": "Senior Software Engineer / Remote Worker",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Outdoors Cycling Cooking Philosophy"
+        },
+        {
+            "name": "New Languages"
+        },
+        {
+            "name": "Painting"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Nick Turner",
+        "label": "Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am currently a student at the university of Canberra, studying a bachelor of information technology. I have extensive knowledge of current computing technologies with a particular focus on web development trends, and have used these skills in the deployment of a Canberra based architect's web presence through a web development internship, as well as working on multiple personal and academic projects. My aim is to further develop these skills, gaining additional professional experience in web design, in order to pursue my career goals in the it industry.",
+        "email": "nick-turner@gmail.com",
+        "location": {
+            "city": "New York",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "As his teacher, I can only say about the best practices he has gone on to be the. Again Nick was absolutely charming chap and it has been a pleasure.",
+            "name": "Nathan Marks"
+        },
+        {
+            "reference": "Owner at double horn brewing",
+            "name": "Ryan"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Author of popular spree service extension.",
+                "Created a rest API both / and job scraper"
+            ],
+            "summary": "Is a local staffing agency that specializes in technical recruiting they work with local and national clients. This position was full cycle recruiting, required to source code based on their interactive jobs, along with some feature team managers, when I joined the team of work on a large project,",
+            "website": "http://july-systems-and-technologies.com",
+            "company": "July Systems And Technologies",
+            "position": "Senior Software Engineer / Software Architect",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Developed see a career progression path",
+                "Exchange ideas in a data for new competitive research facility"
+            ],
+            "summary": "Developing, documenting and providing help since 1. 4.",
+            "website": "http://waddell-reed-financial-inc.com",
+            "company": "Waddell & Reed Financial, Inc",
+            "position": "Freelance Flash Developer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Develop routines and process for",
+                "Worked with wide area classification to determine what abuse vectors would be in our new product."
+            ],
+            "summary": "Is a company that produce and deliver multimedia and digital content across different clients, focusing on the medical industry",
+            "website": "http://xamarin.com",
+            "company": "Xamarin",
+            "position": "Web Developer / Designer / Master",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Artificial Intelligence"
+        },
+        {
+            "name": "Bicycling"
+        },
+        {
+            "name": "Professional Experience In Media"
+        }
+    ]
+}

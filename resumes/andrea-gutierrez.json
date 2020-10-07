@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Andr\u00e9a Gutierrez",
+        "label": "And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software developer with experience developing and testing applications on the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I am a fan of the functional programming tools present in the language which result in elegant code. I have experience developing backend systems using expressjs and unit testing them using frameworks like mocha an. I am also familiar with j2ee frameworks like spring.",
+        "email": "andrea-gutierrez@gmail.com",
+        "location": {
+            "city": "Akron",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I worked with Andr\u00e9a for more than 5 years and is a great enthusiastic & approachable leader. His mastery on API design and documentation, has been critical in launching many successfully appears in many designs.",
+            "name": "Nguyen Quoc"
+        },
+        {
+            "reference": "Andr\u00e9a knows every latest technologies and information and collaborates with others very well.",
+            "name": "James Hughes"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Built small and customer facing app.",
+                "International team working with a development team"
+            ],
+            "summary": "I worked in the information security and risk management platform for an iOS application that was not having a scrum methodology for product called ibm (. ibm. COM) using PHP and mysql to browser tested. This data is required to serve the client to the sites.",
+            "website": "http://xpo-logistics.com",
+            "company": "Xpo Logistics",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Blocking system to the CRM system (directly with survey data values, and unix as proxy",
+                "Helped write and automated test various regression tests"
+            ],
+            "summary": "I developed a workflow automation system that helped process engineering.. I implemented and maintained the application",
+            "website": "http://bedrock-technology.com",
+            "company": "Bedrock Technology",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Built website, with no form control and more to serve on the value stored",
+                "Express, docker, postgresql, prototype"
+            ],
+            "summary": "I worked as a freelance web developer to build engineer in the areas of information systems, including live web.",
+            "website": "http://synertech-echotech.com",
+            "company": "Synertech / Echotech",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Amateur Photography"
+        },
+        {
+            "name": "Independent Research"
+        },
+        {
+            "name": "Minecraft With Kids"
+        }
+    ]
+}

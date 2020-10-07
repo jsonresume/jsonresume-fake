@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Josh Schrader",
+        "label": "Senior Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer with a particular interest in making things simple and automating daily tasks. I try to keep up with security and best practices, and am always looking for new things to learn.",
+        "email": "josh-schrader@gmail.com",
+        "location": {
+            "city": "Neuss",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I worked with Josh for a year and a year with Josh has and patience, always to give my highest recommendation. I can do that is necessary for a problem, that even when the most difficult things or possible.",
+            "name": "Erik Thorselius"
+        },
+        {
+            "reference": "Michal at work is inspiring, he walks the fine line between perfectionism and. His commitment to work is second to nothing and he always available to liaise with the team and help others. The satisfaction he derives from a job well done is simple.",
+            "name": "Travis Jarosz"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Integrated online with Sharepoint 2010 making use of on a custom rules engine",
+                "Created and launched both print training materials and responsive web content site."
+            ],
+            "summary": "I was named marketing manager in April 2018, in addition to software product development, a scheduling system for handling of printing and publishing concepts.",
+            "website": "http://com.com",
+            "company": "Com",
+            "position": "Software Engineer (job)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Part of development of the project. Net apps solutions built. In prowl for new front end",
+                "Used jsf in, by troubleshooting, analysis, problems, tests and their relevant information uses between expectations and development."
+            ],
+            "summary": "freelance is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://freelance.com",
+            "company": "Freelance",
+            "position": "Lead Software Engineer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Invoicing July when development",
+                "Contributed"
+            ],
+            "summary": "I worked on the information security risk management product team and one of the biggest retail events in the area.",
+            "website": "http://abnote.com",
+            "company": "Abnote",
+            "position": "Senior Software Engineer, Core Services",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Acoustics"
+        },
+        {
+            "name": "Rock Climbing (bouldering)"
+        },
+        {
+            "name": "Guitar Playing"
+        }
+    ]
+}

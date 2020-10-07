@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Justin Cantu",
+        "label": "And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer with a strong focus on javascript. I also have experience with PHP and python. I enjoy working on new frameworks and libraries on my own time and have a fairly active github profile to show for it. I particularly enjoy the to get an understanding of the challenges that certain technologies face and how to overcome those issues.",
+        "email": "justin-cantu@gmail.com",
+        "location": {
+            "city": "Springfield",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "He possesses an incredibly excellent technical and drive a bespoke. As he part of just a, project manager., Justin worked hard and long on an ambition project. He was a great team member, his code is good and he was a keen problem solved. Thank you for your effort over a long period of time.",
+            "name": "Alexander Plavinski"
+        },
+        {
+            "reference": "Cto at, + 8723 2811",
+            "name": "Mitchell Hess"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Used machine learning and big technologies such as as angular jaws, and angularjs",
+                "This period of three months in, and"
+            ],
+            "summary": "Working on the product and the data center migration to the system, the next generation of swinburne university of technology, sarawak living legacy to the customer.",
+            "website": "http://swinburne-university-of-technology-sarawak.com",
+            "company": "Swinburne University Of Technology, Sarawak",
+            "position": "Lead Developer / Devops",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Established customer processes, tools and workflows",
+                "Increased server efficiency by migrating to us and created web services in postgresql"
+            ],
+            "summary": "Is a digital platform (app) that people who have an exclusive available parking place?",
+            "website": "http://mindful-meerkats.com",
+            "company": "Mindful Meerkats",
+            "position": "Lead Developer / Systems Administrator",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Technical leader of 18 java months.",
+                "Created multiple test reports using the cloud help boost in vision"
+            ],
+            "summary": "Created a couple of web application using PHP and worked on a flash website for.",
+            "website": "http://celestica-thailand-limited.com",
+            "company": "Celestica (thailand) Limited",
+            "position": "Senior Software Engineer / Scrum Master (contract)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Gatsby"
+        },
+        {
+            "name": "Communications"
+        },
+        {
+            "name": "Model Plaines"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Ak Lam",
+        "label": "And Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who loves working with open source technology. I work best in planning the architecture of web applications and their development life. I also love to get the community involved and have had much experience with building and organizing large open source groups.",
+        "email": "ak-lam@gmail.com",
+        "location": {
+            "city": "Fairbanks",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "denys estuvo con nosotros durante 1 a\u00f1o y 3 meses, en ese, realizo tareas de programaci\u00f3n, an\u00e1lisis y comunicaci\u00f3n directa con el cliente. destaco en su pro actividad y en su nivel de aprendizaje de nuevos frameworks., durante 14 meses denys a realizado trabajos de programaci\u00f3n y analista para proyectos bajo plataforma web de nuestra. en el desempe\u00f1o de dicho trabajo ha demostrado un alto nivel de iniciativa,, seriedad y compromiso con los proyectos asignados, icomcept innovative computing concepts gmbh thomas.@ icomcept. de +, i worked with brett as part of the api developer program at a &, where he provide guidance and direction towards the api architecture and design for apis. many talented as he well with a great people skills second to none. single page interface with scrolling events, anyone guido is an asset to any team that he., it is my pleasure to recommend, his performance working as a consultant for pt esphere techno corindo proved that he will be a valuable addition to any company., technical director at mobile5 media ltd., in terms of performance, pau is unparalleled. his work is always of the highest quality and the successful outcome of any project is able to see his big picture and many customers, which he is a positive attitude, and i truly appreciate contribution to our team.",
+            "name": "Phillipe Pereira"
+        },
+        {
+            "reference": "Ak can handle any task with thorough consideration of the impact of the task design and efficiency on the details make the be a trusted to a licensed game product. Moreover, Ak leads a small prototyping team in the creation of a Vietnam war top down arcade game demo. It would be impressed at COM, no matter how he skilled is and much more than the sum of each part... broad technical skills are only matched by his far design and look forward to work as well as part of his team.",
+            "name": "Alexander Lobunets"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Setting up process improvements to build new websites and screens",
+                "Responsible for development on developing and features of upon zabbix."
+            ],
+            "summary": "Is a company that offers comprehensive and advanced services in the payment card industry.",
+            "website": "http://education-inc.com",
+            "company": "Education Inc",
+            "position": "Software Engineer (contract)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "With stakeholders to design a system for integration workflows that are predicted",
+                "Provided user training sessions for new employees on the product, providing them and databases"
+            ],
+            "summary": "Is a company that provides it training from professionals for professionals",
+            "website": "http://vubiquity.com",
+            "company": "Vubiquity",
+            "position": "Web Developer / Designer / Master",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Recruit the team the speed of several building tools in and",
+                "Developed a / b testing using selenium with junit"
+            ],
+            "summary": "Is a technology Colombian company founded with the idea of changing the way of doing software.",
+            "website": "http://of-engines-and-combustion-university-of.com",
+            "company": "Of Engines And Combustion (university Of)",
+            "position": "Senior Software Engineer, Technical Project Lead & Onsite Coordinator",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Dungeons & Experienced Podcasting"
+        },
+        {
+            "name": "Learn New Things"
+        },
+        {
+            "name": "Monochrom Photography"
+        }
+    ]
+}

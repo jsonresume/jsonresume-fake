@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Julian Lawley",
+        "label": "Software",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stack developer who can build and operate apps from the ground up. I have a keen interest in devops and are principles and Linux systems.",
+        "email": "julian-lawley@gmail.com",
+        "location": {
+            "city": "Colorado Springs",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "ryan is an expert in his field. both projects that we worked on together were delivered on time, within budget and with great documentation. as a very good engineer as a classmate during our mba was a experience and his neat experience vision to and be other a capable leader., it was not an easy to learn. his performance working as a software engineer for main fluentgrid limited company proved that he will be a valuable addition to any company., technical director at mobile5 media ltd., in terms of performance, pau is unparalleled. his work is always of the highest quality and the successful outcome of any project is his pride and his in his technical field. he will be a valuable addition to any company., upon request, myspace vice president, owner. com, brandon knowledge and insight has always impressed me. when analyzing a given problem, i frequently arrived at the big picture least which was he is always a joy to work with. not only does he bret have a strong team player, but also a good team member to provide leader and you with a more., senior technology strategy specialist, international cellular, mr. j., senior lecturer at university of technology, mauritius, i have known konstantin baikov for many years. we were working together for his own, but also internal processes., he is a young talented, it developer who just like really fun. this is very good problem solving and lead developer capabilities make him a great asset to any team.",
+            "name": "Michael Mullen"
+        },
+        {
+            "reference": "nilanga is a valuable team member who worked with Julian for about his work and his attention to Julian in his programming, ability to technical concepts and push his audience into consideration, writing travel articles for Julian benefit, by finding new travel experiences and rejuvenating the hot spots with new angles and perspectives. i glad to have his contributions and recommend him Julian a travel writer to anyone to looking help anyone who asks for his assistance., i have studied under jason for about one years time now, and his methodology of instruction is clear and creative. jason is able to instruct both basic advanced concepts and in programming Julian well. he is a dedicated to teaching and educating his coworkers and clients. and always open to learning new things work on. he would be an asset to any organization!, brett is an extremely capable developer and reliable team member, his team spirit made every day enjoyable to work. Julian a professional with an excellent manager of who always backed his staff 100. chris is inventive and very reliable., virgil is an excellent ict technical architect and technical lead. he is good team player and android!), proactive and is an excellent colleague someone who i would trust from him. it Julian been an honor and a pleasure to work with him again., cto at citia, lead frontend engineer at citia, ios developer, consultant for., available on request., mr. katznelson proved to be a valuable team member, handling numerous tasks that require both high level of creativity and getting things done attitude., contact information",
+            "name": "Vuong Joshua"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Implement SQL queries to pull down all data of sources, save and tag them",
+                "Sharing workstation installation and maintenance using windows and client."
+            ],
+            "summary": "faria systems is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://faria-systems.com",
+            "company": "Faria Systems",
+            "position": "Founder And Ceo",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Implement and managed the visual training of code",
+                "350 high school students of public about 20 interact with a computer science, projects to design. Maintain control hybrid software workflow, ensuring improvements that were across the services team in the functional objectives."
+            ],
+            "summary": "hashdog is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://hashdog.com",
+            "company": "Hashdog",
+            "position": "Senior Research Officer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Made an interactive of the new intranet website:. COM, using PHP.",
+                "Extensive and troubleshooting complex css3 animations"
+            ],
+            "summary": "Is a company providing communications it largest clients in the world.",
+            "website": "http://nsigma.com",
+            "company": "Nsigma",
+            "position": "Software Developer (contractor)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Physical And Mental Fitness"
+        },
+        {
+            "name": "Raspberry Pi"
+        },
+        {
+            "name": "Graphic / Design"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Varun Lymber",
+        "label": "Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.",
+        "email": "varun-lymber@gmail.com",
+        "location": {
+            "city": "Moscow",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "ausy strasbourg ausy strasbourg ausy strasbourg",
+            "name": "Alex Pearson"
+        },
+        {
+            "reference": "i worked with andrea as a bright from engineer. he has outstanding forward and how to design. he is a dedicated professional individual who always works collaboratively with all parties to get the best results from whatever mission he has. a good support engineer and an excellent php developer. i strongly recommend him!, i have worked with jasson on several different occasions in different positions he has held. when it came time to redesign my web site, he was the first code to, he has strong technical skill and often to understand both the business requirements and work with again. it was a pleasure working with him., brett worked on my team, and wholeheartedly recommend him for any front end, or the end developer i have ever worked with some people. i would recommend him for any engineering opportunity to., bret knowledge and knows how to drive his team., i worked with brett for more than 5 years and a previous experience. he is very knowledgeable about how modern enterprise java solutions should actually be implemented, picking the right design, tools and libraries. he can guide a team to improve their practices to deliver with higher productivity and solution quality. lieven is an always looking for fun to work, with his customers on., trent is a strong fed and is confident in his skills. trent confidence translates into successful customer communications as he can help customers feel comfortable in the ability in hand. i would definitely recommend olcay to any organisation.",
+            "name": "Sam Havens"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Form as the administrative team (2. 1. 0",
+                "Developed apps for clients using google to replace legacy new endpoints"
+            ],
+            "summary": "A web development company that time using. Worked as a full stack web developer (with Moscow), I am responsible for all aspects of the platform, including authentication, and API designer.",
+            "website": "http://ausy-strasbourg.com",
+            "company": "Ausy Strasbourg",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Taught history and skills while maintaining",
+                "Develop of functionality using PHP and nodes"
+            ],
+            "summary": "I worked as a cashier at Walmart",
+            "website": "http://bauer-perfect.com",
+            "company": "Bauer Perfect",
+            "position": "Software Engineer / Team Lead / Project Manager",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Work closely with ibm cooperation with external consultants from external customer's network to support the resolve customer requests. I included marketing and maintaining budget writing requirements",
+                "Provided boilerplate node in nodes.,"
+            ],
+            "summary": "Is a consulting company, part of a group of administrators that managed, & royal from japan, documents and trained client to staff and organizations to create and run their marketing.",
+            "website": "http://emind-creative-solutions.com",
+            "company": "Emind Creative Solutions",
+            "position": "Software Engineer / Team Lead / Project Manager",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Hobbyist Game Developer"
+        },
+        {
+            "name": "Theater Film Stand Up Comedy"
+        },
+        {
+            "name": "Sporting"
+        }
+    ]
+}

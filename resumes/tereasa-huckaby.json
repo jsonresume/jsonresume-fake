@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Tereasa Huckaby",
+        "label": "Solution Lead",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stack developer for web development. I involve most of software development life from requirement, design, development and testing.",
+        "email": "tereasa-huckaby@gmail.com",
+        "location": {
+            "city": "Royal Oak",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i had the pleasure of working with graham when i brought him on our team to run our qa efforts. he the ability to quickly show up with his customers. i would like to work with him again in the future., jace is one of those people that is incredibly talented, creative and dedicated, chris is html /. he javascript, css and writes code, clean and concise. if our projects ever run into any issues, he has always risen to the mike of the extra curricular activities. i was quite impressed by his technical acumen while working on various assignments in the area of netweaver lifecycle management. he took initiative to build agile teams and with high level performance of his work performance from whatever world problem.",
+            "name": "Kristi Karsten"
+        },
+        {
+            "reference": "I had the opportunity to work with a project manager for over 6 years at the time. I always managed to him be on a critical development projects. His knowledge, the subject is very well organized, writing, and server side then. He is easy, kind of work, and interested in technology second to none. Single page interface with scrolling events, anyone guide is always up to date on the latest advancements in javascript and CSS and is an enthusiastic sparring partner for anyone who wants to discuss the best way to do anything on the front end.",
+            "name": "Elijah Hildreth"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "First working on a medium sized software and development team",
+                "Project management. COM 2015: built on websites, one of the web apps for, and managing queues for new clients."
+            ],
+            "summary": "I have been teaching in several topics, among them: object oriented programming, elements of programming, algorithm and data structures, computer graphics, computer networks and good introduction to object oriented.",
+            "website": "http://bodde-bouman-sportcentrum.com",
+            "company": "Bodde Bouman Sportcentrum",
+            "position": "Junior System Administrator",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Setup docker infrastructure for the cluster deployment of a daily workflow",
+                "Work and organic search (CRM /), with a lead service (). Helped out the bank of retail banking channels."
+            ],
+            "summary": "I was the first mobile application developer hired for two customers from various public to use some of their two most up to date on the client relationship with the majority of the technology, including the time.",
+            "website": "http://vitech-systems-group-inc.com",
+            "company": "Vitech Systems Group, Inc",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Electron",
+                "Reporting and etl pipelines: all components in the company"
+            ],
+            "summary": "Worked on an investment fund simulation game as a b.. Sc.",
+            "website": "http://gagnavarslan.com",
+            "company": "Gagnavarslan /",
+            "position": "Senior Software Engineer / Rails Architect",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Passion For Technology"
+        },
+        {
+            "name": "Technology"
+        },
+        {
+            "name": "Javascript Kappa Phi Phi Skills"
+        }
+    ]
+}

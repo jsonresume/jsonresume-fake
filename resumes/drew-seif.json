@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Drew Seif",
+        "label": "Stack",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stack developer who can build services. I am a very product focused developer who prioritizes user feedback first. Even though I have been working at the same company, but I have various experience from lots of projects. I am generally very flexible when investigating new roles.",
+        "email": "drew-seif@gmail.com",
+        "location": {
+            "city": "Greenbay",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "It is my pleasure to recommend kandarp Dave, his performance working as a CEO of my current company, but they still have to work with good as someone ridiculously efficient efficient. His professional and work with very complex environments and business systems.",
+            "name": "Jeremy Moseley"
+        },
+        {
+            "reference": "",
+            "name": "Amanda"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Designed and developed all aspects of the station individual campaigns within the business, a user experience, and couchbase displaying",
+                "Prepared sales reports"
+            ],
+            "summary": "worked on the new release of blackberry powered android operating system",
+            "website": "http://neustar.com",
+            "company": "Neustar",
+            "position": "Software Engineer (android), Core Developer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Implemented a highly scalable scheduling system based on the clustered radius system for a geographically dispersed team of members.",
+                "Handled direct communication when developing banking API solutions."
+            ],
+            "summary": "Worked on the various internal and developed firmware and team for a design and the design firms that the need. Tasks based on a prior performance to scale.",
+            "website": "http://north-american-bancard.com",
+            "company": "North American Bancard",
+            "position": "Lead Ios Engineer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "PH of 5 / saps on iPhone",
+                "Troubleshooting and resolution of tickets escalated issues with"
+            ],
+            "summary": "Worked as a freelancer fulfilling various various roles",
+            "website": "http://nexjoy.com",
+            "company": "Nexjoy",
+            "position": "Software Developer / Consultant",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Outdoor Adventure"
+        },
+        {
+            "name": "Carhacking"
+        },
+        {
+            "name": "Computer Networking"
+        }
+    ]
+}

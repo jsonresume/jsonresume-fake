@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Kenyetta Algarin",
+        "label": "Software",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stack developer who can build services. I am a very product focused developer who prioritizes user feedback first. Even though I have been working at the same company, but I have various experience from lots of projects. I am generally very flexible when investigating new roles.",
+        "email": "kenyetta-algarin@gmail.com",
+        "location": {
+            "city": "Ahmedabad",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Kenyetta is easy to get along with., best of luck in all writing a job, and humble of some, positive attitude in an and efficiently:).",
+            "name": "Helene Roepke"
+        },
+        {
+            "reference": "I have worked closely with Kenyetta as he designed an API that I would ultimately be consumed via a mobile app. His API developer experience is true that he also left for a moment, Thomas.",
+            "name": "Chia Lail"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "created a custom feature for an automated integration to support unit tests and integrated existing security applications via rest api that millions of user data points and reported from customer accounts to be a more secure and cqrs purchase and subscription to main web development with workflow design and execution from systems like using hybrid html5, css3 + javascript + angular +, 8. this, i have worked with java (), cognitive computing, computer vision ()",
+                "Contributed to open source truffle tooling frameworks."
+            ],
+            "summary": "Worked on a project for what fs group (metal) parks & resorts, one of the oldest and the biggest accounts of the company, migrating from a legacy PHP platform to angular. J's with node. J's, node. J's, express, a reddish, automated intelligence, rich data, gathering, reviews, and assisted with customers using the like micronaut, for most of the 3, 000 internal process had 500 users nationwide.",
+            "website": "http://fs-group-metal.com",
+            "company": "Fs Group (metal)",
+            "position": "Lead Developer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                ": designed and maintained a node that handled a large retail processing, service, integrated with multiple / subscription / reporting into the portal.",
+                "Prepared reports for financial customers"
+            ],
+            "summary": "I worked on the information security and risk management team doing all things security. Eventually I took over the application security program and was able to successfully deploy and maintain a web application firewall infrastructure.",
+            "website": "http://trapeze-group.com",
+            "company": "Trapeze Group",
+            "position": "Software Engineer / Team Lead / Project Manager",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Worked with the team in creating new features like from backend to microservices API in this platform.",
+                "Maintenance and work on network of tv: bank, enterprise systems software, python, Salesforce, rest, etc.."
+            ],
+            "summary": "Worked on the design, testing and cloud infrastructure for all of our software",
+            "website": "http://viperdev.com",
+            "company": "Viperdev",
+            "position": "Senior Software Engineer / Scrum Master (contract)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Exploring"
+        },
+        {
+            "name": "Carhacking"
+        },
+        {
+            "name": "Creativity"
+        }
+    ]
+}

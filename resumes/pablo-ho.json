@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Pablo Ho",
+        "label": "Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stack developer who can build and operate apps from the ground up. I have a keen interest in devops and are principles and Linux systems.",
+        "email": "pablo-ho@gmail.com",
+        "location": {
+            "city": "Gentbrugge",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I know he was a huge breadth of knowledge. If you come across a hard problem that needs creative problem solving and big picture thinking, then Pablo is a great one to have on any team, he is second to none and when I it comes to his development teams makes him a complete developer.",
+            "name": "Joshua Poffenberger"
+        },
+        {
+            "reference": "As a ted, author and the first legally deaf player in the, I had the privilege of associating myself with some uniquely talented people. I count Pablo as one of those people. His guidance in the areas of branding & marketing has profoundly changed my ability to attract meaningful relationships and secure a steady stream of new speaking. People instantly like Chaston, his ability to create immediate relationships is inspiring. I have never seen a more effective Networker or more genuine person.",
+            "name": "Marta \u0106ur\u010di\u0107"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Performed unit tests, integration testing, of automated deployment, to docker",
+                "Develop and maintain for a web server, and utilizing Microsoft windows server access to the cloud infrastructure for the new. All hosted research at end users to computers, and servers for new systems, developing a new installation workflow, of that developed we specifications are reviewed, as well as stakeholders of stakeholders and deployments. Platform"
+            ],
+            "summary": "I was given the chance to do internship into a Linux / transition from old school ways to. The main product was designed to build an internal is app.",
+            "website": "http://smiles-4-keeps-pediatric-dentistry.com",
+            "company": "Smiles 4 Keeps Pediatric Dentistry",
+            "position": "Research Assistant",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Refactoring code",
+                "Complicated game protocol"
+            ],
+            "summary": "I am responsible for running and maintaining the social marketing (for mobile products.",
+            "website": "http://wieden-kennedy-shanghai.com",
+            "company": "Wieden + Kennedy (shanghai)",
+            "position": "Software Engineer / Research Associate",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "System administration and maintenance",
+                "Automate the web interface using configuration and of us setup."
+            ],
+            "summary": "I was responsible for the development and management of automated online data whose data is used to work on google,, and distributed. I also had the many other groups for this project.",
+            "website": "http://rumblefish.com",
+            "company": "Rumblefish",
+            "position": "Customer Care Assistant",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Personal Server"
+        },
+        {
+            "name": "Book"
+        },
+        {
+            "name": "Fpv Drone Building / Racing / Freestyle Flying"
+        }
+    ]
+}

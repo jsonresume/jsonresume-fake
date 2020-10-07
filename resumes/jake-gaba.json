@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Jake Gaba",
+        "label": "Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer with a particular interest in making things simple and automating daily tasks. I try to keep up with security and best practices, and am always looking for new things to learn.",
+        "email": "jake-gaba@gmail.com",
+        "location": {
+            "city": "Bristol",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Jake has been a true leader in., he is an outstanding developer who thrives on in his technical field. He is able to solve complex problems and often takes time to understand very well, in all situations, as well several different projects and security while as well for the cases where during product with the ease. I learned a lot from him and will be very lucky to have worked with.",
+            "name": "Michael Hubley"
+        },
+        {
+            "reference": "It is my pleasure to recommend, her performance working as a program engineer industrial development studios iqor proved that she will be a valuable addition to any company.",
+            "name": "Graham Hough"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "The disruptive innovation award, 2017",
+                "Workflows"
+            ],
+            "summary": "\u2022 Studied data sheets to properly install (electronic) production, active directory issues, installing and upgrades for monitoring & bank clients.",
+            "website": "http://u-department-of-state.com",
+            "company": "U Department Of State",
+            "position": "Senior Software Engineer (java & J2ee)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Developed java server libraries",
+                "Coordinator of travel programs & assist meetings with students, knowledge base of, programs, and ensure proper delivery procedures."
+            ],
+            "summary": "Is a software company, developed programs for schools",
+            "website": "http://industrial-development-studios.com",
+            "company": "Industrial Development Studios",
+            "position": "Software Engineer / Sysadmin",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "IOS development and work with the main web app",
+                "Line testing of the business, including function, design, testing, and training of customers"
+            ],
+            "summary": "My job was to configure, manage, and install Linux (the computers where the cash / spring / jsp / jboss web server / 60% digital was full shop assistant in 2008. The and it is designed to improved products of the company.",
+            "website": "http://ultimedia.com",
+            "company": "Ultimedia",
+            "position": "Senior Software Engineer (java & J2ee)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "General"
+        },
+        {
+            "name": "Acoustics"
+        },
+        {
+            "name": "Star Wars"
+        }
+    ]
+}

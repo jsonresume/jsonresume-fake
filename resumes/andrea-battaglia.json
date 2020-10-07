@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Andrea Battaglia",
+        "label": "Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a well rounded programmer who loves everything open source. I learned a lot from looking at and making programs inspired by open source technology.",
+        "email": "andrea-battaglia@gmail.com",
+        "location": {
+            "city": "Atlanta",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Andrea encyclopedic knowledge of network equipment is an incredibly useful resource. He always seems to have time to help and it was a genuine pleasure working with him.",
+            "name": "Michael Gearhardt"
+        },
+        {
+            "reference": "I worked with Andrea for several years and during that time always found Andrea to be a creative, humble and dedicated colleague. He is keen to learn and keen to apply his knowledge in any environment, always rising to the challenge put before him. When asked to take on large scale projects \u2013 such as the production of a series of gameplay \u2013 Andrea for his deliverables.",
+            "name": "Andrew Ho"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Maintain and add new features to existing software and apps using apache, jsp, and servlets. Technologies used and git, as programming python, go programming language, (python)",
+                "Write operations list sites on the website"
+            ],
+            "summary": "Worked on the new release of the blackberry powered operating system.",
+            "website": "http://imperto-eiendomme.com",
+            "company": "Imperto Eiendomme",
+            "position": "Senior Software Engineer / Scrum Master (contract)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Provided training as a memcached implementation, and provide guidance to stakeholders across the teams.",
+                "Appointed project leader for for use in google apple domain. Suite creates a visual profile messaging system"
+            ],
+            "summary": "I was the first mobile application developer hired for two customers from various to the latest technologies. Their main tools are to build and manage large many integrations into our custom cms.",
+            "website": "http://early-career.com",
+            "company": "Early Career",
+            "position": "Software Engineer, Consultant",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Development of new products such as discovery workshops and maintained PHP the high performance on the job, reducing the number of, activities and support",
+                "Managed inventory fulfilled by Amazon the technical, / order to diagnose involved problems, making it panel tickets"
+            ],
+            "summary": "Is a leading institute in it and we company for public and private organizations in the world of open and collaborate with global brands strategic, retirement.",
+            "website": "http://nixys.com",
+            "company": "Nixys",
+            "position": "Software Engineer / Senior Software Engineer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Beer Brewing"
+        },
+        {
+            "name": "Personality"
+        },
+        {
+            "name": "Development"
+        }
+    ]
+}

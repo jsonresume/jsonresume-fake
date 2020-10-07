@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Mike Al R De G\u00f3mez",
+        "label": "Engineer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.",
+        "email": "mike-al-r-de-gomez@gmail.com",
+        "location": {
+            "city": "Paoli",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "",
+            "name": "Michael Joseph Dimino"
+        },
+        {
+            "reference": "While working with him I was taught many things in a fair, clear and concise manner but never. Mike always wanted me to understand why and what we were doing so I could think on my feet.",
+            "name": "Jeffrey Berm\u00fadez Briceno"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Strong mongodb, openstack puppet, cradle, docker, and vagrant.",
+                "I guided on technical recruitment. Hired and trained engineers in the weekly sprint planning for the product"
+            ],
+            "summary": "Designed and built the integration services layer between the legacy erp, eCommerce systems, and oracle suite being implemented by.",
+            "website": "http://fielding-dsp.com",
+            "company": "Fielding Dsp",
+            "position": "Software Engineer (contract)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Worked on different system features and apps as part of the whole web service",
+                ", Postfix mail server monitoring systems"
+            ],
+            "summary": "I was hired to help refactor an existing application level 1. developed a new app from concept to use in the three rails. A 1 year project, the project management team, which had a common for why I developed in the 3 projects. Developed special pages and features to a mobile product with view their calls.",
+            "website": "http://clear-measure.com",
+            "company": "Clear Measure",
+            "position": "Senior Software Engineer / Scrum Master (contract)",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "More, \u0441, \u0437\u0430.",
+                "Migrated radios and rails backend."
+            ],
+            "summary": "I was given the chance to do an internship program in which applied an internship and setting up a resource as (internal).",
+            "website": "http://searchmetrics-gmbh.com",
+            "company": "Searchmetrics Gmbh",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Role Playing"
+        },
+        {
+            "name": "Ukulele Serenading"
+        },
+        {
+            "name": "Humanitarianism"
+        }
+    ]
+}

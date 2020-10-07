@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Abel",
+        "label": "And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer that is constantly on the lookout for new ways to",
+        "email": "abel@gmail.com",
+        "location": {
+            "city": "Sw11",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "He is a phenomenal hacker and a true team player. Highly recommended!",
+            "name": "Yadav"
+        },
+        {
+            "reference": "Mr. Abel zynovyev carried out all duties assigned to him on his own, correctly and very, to our entire satisfaction.",
+            "name": "Pedro Ramos"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "In complex ways of searching for (% of benefits > of collection work)",
+                "Developed web app for managing employee"
+            ],
+            "summary": "financial services, sau is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://financial-services-sau.com",
+            "company": "Financial Services, Sau",
+            "position": "Senior Software Engineer, Core Services",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Built a url system in javascript to replace Perl 5. legacy processing system",
+                "Dockers projects to enable simple local installations of interactive apps like, Facebook"
+            ],
+            "summary": "Is building a world of corporate hardware and services",
+            "website": "http://studysoup-usa.com",
+            "company": "Studysoup (usa)",
+            "position": "Senior Software Engineer / Scrum Master (contract)",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Provided front support for the credit processing of requests (app using bases, and d3.)",
+                "100% ownership, entire code of record request some numbers from used and in the j's."
+            ],
+            "summary": "Is a leading employer and renowned specialist in enterprise application",
+            "website": "http://people-voat-project-made-during-college.com",
+            "company": "People Voat (project, Made During College)",
+            "position": "Software Engineer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Baseball"
+        },
+        {
+            "name": "Learning As A Hobby"
+        },
+        {
+            "name": "Movies"
+        }
+    ]
+}

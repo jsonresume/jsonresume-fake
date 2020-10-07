@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Josh Ailin",
+        "label": "Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "i am a software engineer with a strong focus on javascript. i also have experience with php and python. i enjoy working on new frameworks and libraries on my own time and have a fairly active github profile to show for it. i particularly enjoy the achievement of the software engineer and that am the same passion. i am currently a student, i get to attend the first class honours in 2013. i am a very visual thinker first and. during my studies i was given the chance to study web development i can learn and try to new things and further student. i look to use my knowledge and apply it to support as a company.",
+        "email": "josh-ailin@gmail.com",
+        "location": {
+            "city": "\u6df1\u5733",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Senior systems engineer",
+            "name": "Ryan"
+        },
+        {
+            "reference": "",
+            "name": "Pedro Ordaz"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Implemented mock-ups and open source development tools techniques",
+                "Built responsive cms website with"
+            ],
+            "summary": "I was given the chance to do an internship program in 2010. This experience opened the office of the major marketing tools, I was a fast-track engineer for. The ability to manage a team of 16,., and.",
+            "website": "http://lokconnect.com",
+            "company": "Lokconnect",
+            "position": "Senior Software Engineer / Rails Architect",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "File feature structure and service applications. As database this store was up and billing to x86 assembly TCP / / software which have a provided increased client performance.",
+                "Researching and reporting web goals to ensure efficiency and coordination, preparation of quarterly reports with unit testing and browsers"
+            ],
+            "summary": "Is an American video game publisher based in,.",
+            "website": "http://hay-group.com",
+            "company": "Hay Group",
+            "position": "Head Of Professional Service",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Web developer experience working around a Microsoft framework 7. included advanced software development process with jquery, and asp to node and nodes.",
+                "Engaged in my corporate tech portal change request, providing quality and weekly users through integrating their voice product"
+            ],
+            "summary": "nextmedia is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://nextmedia.com",
+            "company": "Nextmedia",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Ultimate"
+        },
+        {
+            "name": "Trying Out New Technologies"
+        },
+        {
+            "name": "Next Level Systems"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "David Bernhard",
+        "label": "Full Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software developer with experience developing and testing applications on the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I am a fan of the functional programming tools present in the language which result in elegant code. I have experience developing backend systems using expressjs and unit testing them using frameworks like mocha an. I am also familiar with j2ee frameworks like spring.",
+        "email": "david-bernhard@gmail.com",
+        "location": {
+            "city": "Clinton",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I had the pleasure of working with David when I brought him on our team to run our qa efforts. He the ability to quickly show up with his clients on our team. Never a fully \u00e1geis the highly complex recommended., I will continue to have his radiant positivity as part of the team, but al was the to program well that had a fresh outlook to and a work individual. In all that he was always a joy to work with on time and within budget.",
+            "name": "David Garc\u00eda"
+        },
+        {
+            "reference": "I worked with David during almost three years at. David is a passionate engineer that is able to play different kind of roles in your team. He has strong coding and software design skills. He is a motivated and self driven engineering. I would strongly recommend David to be part of your team work and I would highly recommend him.",
+            "name": "David Soto"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Automation of the system (rational clearcase)",
+                "Addressed security issues"
+            ],
+            "summary": "institute of telecommunications is a company whose focus is on delivering top notch web and mobile applications to our clients.",
+            "website": "http://institute-of-telecommunications.com",
+            "company": "Institute Of Telecommunications",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Teach customers how to leverage fundamental technologies",
+                "Internal communication skills: developed for the it application to track and lead the inventory management modules in order."
+            ],
+            "summary": "Is a technology platform for online sports information. It has created, efficient, maintenance, issue and related tooling and create user interface experiences.",
+            "website": "http://coworkers.com",
+            "company": "Coworkers",
+            "position": "Lead Developer / Devops",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Writing maintainable code with extensive documentation",
+                "Wrote standardized docker layers."
+            ],
+            "summary": "Is a company that provides a SaaS location intelligence platform help sales process to individuals, business and businesses expand their marketing and platform.",
+            "website": "http://and-a-car-for-india.com",
+            "company": "And A Car For India",
+            "position": "Technical Support",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Arts"
+        },
+        {
+            "name": "Pc Games"
+        },
+        {
+            "name": "Distributed Architecture"
+        }
+    ]
+}

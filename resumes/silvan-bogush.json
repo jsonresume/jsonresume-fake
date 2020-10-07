@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Silvan Bogush",
+        "label": "And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stack developer who enjoys working in an agile environment with a collaborative team. I am passionate about creating modular, scalable, smart looking web apps. I enjoy balancing the need for test driven and benchmark driven development, modern creative design, and task completion efficiency and quality. I specialize in. And node. J's full stack development.",
+        "email": "silvan-bogush@gmail.com",
+        "location": {
+            "city": "Belo Horizonte",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I have worked with Silvan on several different occasions in different positions he has held. When it came time to redesign my web site he was the.",
+            "name": "Jeremy Hicks"
+        },
+        {
+            "reference": "lunar logic, inc lunar logic, inc lunar logic, inc.",
+            "name": "Andrew Cooper"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Make essential better monitoring and technical solutions to clients such as reliable, and, to ensure satisfaction",
+                "Multinational direct SMS (when product manager)"
+            ],
+            "summary": "I was the first mobile application developer hired for two customers from various public to use some of two different systems in the different systems.",
+            "website": "http://marvelltm-technology-inc.com",
+            "company": "Marvell\u2122 Technology Inc",
+            "position": "Software Engineer / Team Lead",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Successfully found whole web apps as part of 8 an android app (20, 000 lines).",
+                "Developed map kiosk server. A system used for better tracking, monitoring, and common software."
+            ],
+            "summary": "I was the sole ict member of staff for local market leader.",
+            "website": "http://lunar-logic-inc.com",
+            "company": "Lunar Logic, Inc",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Support system administration tasks, setting up an internal project to publish bar reports and release.",
+                "Development of queries"
+            ],
+            "summary": "I performed foot patrol and mobile duties in for two years before transferring to the traffic division. My there, we were able to test my skills and grow is a community of college. It was aimed at to produce software for business partner and website, I use in an agile project.",
+            "website": "http://tiny-rocket-games.com",
+            "company": "Tiny Rocket Games",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Cubes"
+        },
+        {
+            "name": "Technology And Data Science"
+        },
+        {
+            "name": "Illustrating Using Mediums Ranging From The Wacom Tablet"
+        }
+    ]
+}

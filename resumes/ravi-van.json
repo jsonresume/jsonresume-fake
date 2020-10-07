@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Ravi Van",
+        "label": "Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer with a particular interest in making things simple and automating daily tasks. I try to keep up with security and best practices, and am always looking for new things to learn.",
+        "email": "ravi-van@gmail.com",
+        "location": {
+            "city": "\u6df1\u5733\u5e02",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Ravi is great and dedicated, his good communication skills and generally a nice person to work.",
+            "name": "Brian Dunnette"
+        },
+        {
+            "reference": "i worked closely with hmsk at webpay and highly recommend him. i saw him lead product development, support customers, and handle account. he was an extremely technical engineer and a very personable individual who you always want to have very happy to his work with alejandro has. alejandro is a team player, always willing to listen to and build on others recommendation as well as help others debug when they run into issues., i had the pleasure of working with graham when i brought him on a team wealth of experience in his hand. i certainly would say that he is a great asset to any team., will be a manager and dedicated professional. i have worked alongside him for many years and have learned a lot not only about being a better developer but also one the of hours required strong skill, and i can always be relied on to do so. can be reached out at the least of an. com, can work with jason, and he has always demonstrated both a great bias for action and a willingness to roll up his sleeves to quickly tackle tough problems and efficiently. as a result, chris is a great asset to any team. he has a great ability to see both the detail and the big picture which is rare. virgil is a pleasure to work with and will add value to any team that it has.",
+            "name": "Peter Rasmussen"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "A project built a number of different web components across multiple sites.",
+                "Programmed and research on the web page with legacy ruby on rail technology stack."
+            ],
+            "summary": "Is a company that provides comprehensive and advanced custom solutions tailored solutions for clients.",
+            "website": "http://hastha-solutions.com",
+            "company": "Hastha Solutions",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Increased revenue by completing the collection and processing manual processing.",
+                "Drafted by sheets, purchasing and compliance department with a wide variety of projects"
+            ],
+            "summary": "Is a software development workshop with a focus on RFID and product tracking.",
+            "website": "http://united-states-postal-services.com",
+            "company": "United States Postal Services",
+            "position": "Software Engineer (android)",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Worked with test to develop new features and web apps built",
+                "Development of energy portal for clients"
+            ],
+            "summary": "I was responsible for the development and management of automated online data whose data is used to legally work. I was ultimately given the role of a social media platform (, on orange group, a) before graduation, and also part of an application development environments in both a large marketing and organization, setting up the a custom java internal platform",
+            "website": "http://.com",
+            "company": "",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Maker Space"
+        },
+        {
+            "name": "Djing"
+        },
+        {
+            "name": "Globalization"
+        }
+    ]
+}

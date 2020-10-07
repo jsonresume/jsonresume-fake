@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Sacha Jay",
+        "label": "Web Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer that is constantly on the lookout for new ways to",
+        "email": "sacha-jay@gmail.com",
+        "location": {
+            "city": "Flora",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i am privileged to write in support of my, he was my student for three years, during that time i witnessed his tremendous growth and development. this development came not only in the area of business achievement and leadership, but in maturity and character as well. he could always be tagged the as the best of our web development and product manager, open source code for system department., roamtech solutions limited, david has many years of experience in his field. the two years of the now was always up able to work on the project and was always willing to put forth ideas which were to find a highly positive contribution in the outcomes that he took advantage of expertise both our.",
+            "name": "Tereasa Huckaby"
+        },
+        {
+            "reference": "i have worked with jasson on several different occasions in different positions he has held. when it came time to redesign my web site he was the., i recently worked with brett on the design for anz gomoney where he showed an incredible amount of creativity and thoughtfulness when crafting design solutions. attention to detail, user centered focus, knowledge of tools and methods are his. i am hoping i get the chance to work with brett again., hugo is a committed person. he sure works to get the best results from whatever mission he has. a good support engineer and an excellent php programmer. at an it inspiring manager that he is always a joy to work with.",
+            "name": "Brenton Eckhoff"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "I contributed to maintain a / medium rolling application a magazine an award for the company.",
+                "Led the talent development engagement for inventory, and purchasing marketing."
+            ],
+            "summary": "is a company that provides a saas location intelligence platform () help with their customer service and allowing them to focus on performance and provide metrics that are not possible. while here, he was interesting services when i was made a of ui the design jobs, also sales system has decisions that has been used to publish and all the on the actual stack. we used to work with the mobile app and one which allowed users from the general perspective all relevant aspects of communication, the results lab, i was able to learn new skills and new programming languages, such as mentorship to go to help the software websites to create improve their products, they need search and marketing strategies to their clients.",
+            "website": "http://pixar-animation-studios.com",
+            "company": "Pixar Animation Studios",
+            "position": "Web Developer / Designer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Planning manager for a new project",
+                "Google apps"
+            ],
+            "summary": "Worked on a project for what delphi automotive parks & resorts, one of the oldest and the biggest accounts of the company, migrating from a legacy PHP platform to angular. J's with node. J's, node. J's, express, angular. A web API, the desktop, used the app was I and extended functionality of those. Apps (used the 3) for several projects, led development of a high emphasis on website and automation. (Java), mobile versions, assisted and designing new applications developed with a custom cms called (iPhone / digital project).",
+            "website": "http://delphi-automotive.com",
+            "company": "Delphi Automotive",
+            "position": "Personal Assistant To Company President",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Built at a profitable startup through the python into the software process faster",
+                "Drove engineering certification process"
+            ],
+            "summary": "market lab at naspers / media24 is a company whose focus is on delivering top notch web and mobile applications to our clients.",
+            "website": "http://market-lab-at-naspers-media24.com",
+            "company": "Market Lab At Naspers / Media24",
+            "position": "Senior Software Developer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Learning As A Hobby"
+        },
+        {
+            "name": "Outdoor Life"
+        },
+        {
+            "name": "General"
+        }
+    ]
+}

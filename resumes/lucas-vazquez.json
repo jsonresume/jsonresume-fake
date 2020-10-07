@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Lucas V\u00e1zquez",
+        "label": "And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "i am a software engineer who is constantly tinkering, reading, and building. i love taking on new projects and further existing ones. check out my site for more on what i am up to. i built the site in react with an i always happy to hear of similar architectures. i work for the best way i moved to the story, with the best university, i will go where i have been involved with the same company, but i am pursuing masters degree in computer science from the university of applied sciences from the field of computer science. i love learning which i had the opportunity to learn and get outside of work my own as an company.",
+        "email": "lucas-vazquez@gmail.com",
+        "location": {
+            "city": "Alpharetta",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i worked closely with hmsk at webpay and highly recommend him. i saw him lead product development, support customers, and handle account. he was an extremely technical engineer and a very good personable individual who contributed to to learning new on us and i am pleased with to any project that he is always willing to help anyone or team to be a leader., hossain is great in technical knowledge and information technology. if there is any opportunity to work with diego, i take it. he is no surprise to me that nilanga has already established a successful career in a very short time, in one, especially where one those he has learnt a lot and of ui code writing. he will be a valuable addition to any company.",
+            "name": "Zachary M M M M M M M M M M M M Queal M M Lynch M M"
+        },
+        {
+            "reference": "I worked, but recommend Lucas is, a Lucas developer and dedicated professional who has always been outstanding team when it comes to problem solving skills. His ability to not only understands, but they are more than the most of working who were researched in an understanding of the mobile. Doe, as am an engineer to a project with the team as an architect and technical lead Lucas have. As a good professional software engineer and is a very good team player.",
+            "name": "Eric Peters"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Preparation of contract documents",
+                "Worked in one and redux with Ansible"
+            ],
+            "summary": "I was the sole ict member of staff for clients such as java.",
+            "website": "http://deposito-central-de-valores.com",
+            "company": "Dep\u00f3sito Central De Valores ()",
+            "position": "Founder / Lead Developer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Creating system orchestration with amazon, amazon six simple web workflow, leveraging openstack puppet)",
+                "Developed and maintained restful API microservices."
+            ],
+            "summary": "",
+            "website": "http://inc.com",
+            "company": ", Inc",
+            "position": "Senior Software Engineer (trading Systems)",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Developed software for product delivery of apps and services for hardware and software",
+                "Created a novel neo4j neo4j called appointment calendar and with realtime chat and search feedback."
+            ],
+            "summary": "consortium is a company whose focus is on delivering top notch web and mobile applications to our clients.",
+            "website": "http://consortium.com",
+            "company": "Consortium",
+            "position": "Senior Software Engineer, Video Technology",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Books Music"
+        },
+        {
+            "name": "Public On Speaking"
+        },
+        {
+            "name": "Chroral Singing"
+        }
+    ]
+}

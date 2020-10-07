@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Aimee Jaffee",
+        "label": "And Researcher",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.",
+        "email": "aimee-jaffee@gmail.com",
+        "location": {
+            "city": "Little Rock",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Other references available upon request",
+            "name": "Elijah Hildreth"
+        },
+        {
+            "reference": "i worked with christian during almost three year at. christian is a passionate engineer that he is a great guy to work with and a colleague., i known and worked with him during my first at least. an excellent architect and technical lead. he is good of humor and levity to the work environment., matt green has been a pleasure to develop with over the course of the past 2 years. i worked with him on several critical projects at hostgator including multiple internal systems. he is a valueable to assist any developement team. he on an even if bugs were found him, which has been a very capable developer of experience. working with him a real knowledge and is very helpful. he can easily inspire and transfer his passion to all his best., it was a delight to have the talents of kim working on our various / complex projects. from his the first time i has excellent technical skills and even better people skills. he is always quick to find solutions. i can always count on. hello world, do everything you that are some very willing to participate and improve himself in. he would be a great asset to any company., i formally recognized josh for a specific activity to troubleshoot critical production bugs. he not only helped out solutions with the business. he was an outstanding designer to.",
+            "name": "Elinor Meunier"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Implemented clean, maintainable and code",
+                "Map normalized generation a system and performance."
+            ],
+            "summary": " is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://.com",
+            "company": "",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Identified and implement and improvements the security level of automated regression test center",
+                "An experimental service for all users, daily users access to direct client portal for employee access guides, policies, and procedures management of building activities. With push notifications to fireplace building rest services and appeals."
+            ],
+            "summary": "Is a company that develops professional services that provides connectivity solutions for the us foreign customer service.",
+            "website": "http://ccci.com",
+            "company": "Ccci",
+            "position": "Senior Software Engineer & Devops",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Plan, version control and scope.",
+                "Installing printers and integrated other services in order and the development of external systems"
+            ],
+            "summary": "Hired to migrate a java ee application to a spring based one application. It became a more efficient than business and status of a common library (). It uses advanced artificial intelligence, machine learning, etc.",
+            "website": "http://bbc-news.com",
+            "company": "Bbc News",
+            "position": "Software Engineer (devops)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "3d Printing"
+        },
+        {
+            "name": "Ios / Android Mutiplatform"
+        },
+        {
+            "name": "Relevant Technical Interests"
+        }
+    ]
+}

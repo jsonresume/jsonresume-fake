@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Michael Acreman",
+        "label": "And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stack engineer having over 5 years of experience building apps. I enjoy creating great user experiences and solutions to unique problems. I love automating workflows and build processes while keeping an eye out for a clean user experience and uncluttered code.",
+        "email": "michael-acreman@gmail.com",
+        "location": {
+            "city": "Poznan",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I worked with Michael for several years in the, including in the same office for a time. Michael learns quickly, is kind, treats people well, and is that probably other than best developer, he will be a valuable addition to any team.,.. wang@. COM, Michael is hands down brilliant. His perspective has been without equal and I could always depend on him to meet challenging deadlines without compromising quality.",
+            "name": "Eric Baranowski"
+        },
+        {
+            "reference": "dale has provided technical advice and assistance to myself and with colleagues. john is a deep, goal oriented and program manager for ux well. i have learned a very innovative developer and keen chris is detailed oriented and goal oriented. he has excellent technical skills and is a friendly person to., very nice. friendly and is an easy to work with., second time i worked with chisel at a company. his forward thinking working with him is clear that he shares the companies goals, vision and work ethic to go above and beyond a team member of dealing with different. i highly recommend amr for anyone who wants to discuss the best way possible to do anything.",
+            "name": "Dan Nowotnik"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Migrated legacy websites for unix, utilizing command line and API and data analytics. Platform",
+                "Maintain and improve support sales assistance and government portal for clients every 3 months is in a 4 person per year"
+            ],
+            "summary": "",
+            "website": "http://jumyapps.com",
+            "company": "Jumyapps",
+            "position": "Senior Software Engineer / Software Architect",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Support and generic management of database systems",
+                "Server administration for large Greek language (network and,, HP, printers, Cisco nas, security). Included extensive testing, white box."
+            ],
+            "summary": "Worked on several life sciences accounts in a variety of roles, including media and competitor monitoring, writing and distributing press releases, too, liaising with key stakeholders and ensuring smooth running of various in Poznan Poznan.",
+            "website": "http://enevasys.com",
+            "company": "Enevasys",
+            "position": "Software Engineer / Sysadmin",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Provide better and further analysis",
+                "Tech: angular, nodes, typescript, npm,"
+            ],
+            "summary": "I worked as a freelance web developer to build a private web application, using WordPress for more than asp. Net and javascript.",
+            "website": "http://game-5x20.com",
+            "company": "Game 5x20",
+            "position": "Software Development Engineer In Test Ii",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Linkeddata"
+        },
+        {
+            "name": "Planting Hot Peppers"
+        },
+        {
+            "name": "Drums"
+        }
+    ]
+}

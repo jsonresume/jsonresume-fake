@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Srikanth Mittapally",
+        "label": "And And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer with a strong focus on javascript. I also have experience with PHP and python. I enjoy working on new frameworks and libraries on my own time and have a fairly active github profile to show for it. I particularly enjoy the to get an understanding of the challenges that certain technologies face and how to overcome those issues.",
+        "email": "srikanth-mittapally@gmail.com",
+        "location": {
+            "city": "Stockport",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "CEO, indochino indochino disease association",
+            "name": "Sean Conrad"
+        },
+        {
+            "reference": "",
+            "name": "Pedro Camacho"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Contributed to related nodes, with microservices in ruby on rails, python or angular 2. 0.",
+                "Implementing sop for we the have on the time management. We did this work with the big banks, we is used by mobile phones, and web servers for amazon web services. I have worked with Facebook to google apps for video on player events in school"
+            ],
+            "summary": "Is a company that offers comprehensive and advanced services in the payment card industry.",
+            "website": "http://indochino.com",
+            "company": "Indochino",
+            "position": "Senior Software Engineer / Scrum Master (contract)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Managed the final stages of a Soc 2 service. (One java and spring 8 which minutes are to be supported by 25 that 000 are 000 as possible.",
+                "Practice TDD & scrum methodology"
+            ],
+            "summary": "ark global is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://ark-global.com",
+            "company": "Ark Global",
+            "position": "Consultant, Senior Consultant",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Provided guidance for international team.",
+                "Hired in the and"
+            ],
+            "summary": "I was lukoil technology services for the development and management of automated online data whose data is used to work for google,,.",
+            "website": "http://lukoil-technology-services.com",
+            "company": "Lukoil Technology Services",
+            "position": "Senior Software Engineer / Rails Architect",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Driving"
+        },
+        {
+            "name": "Yoga Jigsaw"
+        },
+        {
+            "name": "Book"
+        }
+    ]
+}

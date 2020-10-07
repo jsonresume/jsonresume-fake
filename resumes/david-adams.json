@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "David Adams",
+        "label": "And Engineer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer that enjoys building awesome web services. I have experience working on front end apps, back end web services, and deploying applications in distributed cloud environments. Designing and writing really clean rest appears makes me happy.",
+        "email": "david-adams@gmail.com",
+        "location": {
+            "city": "Richmond",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "juan David is a great ruby on rails and php senior developer. he puts lots of attention to detail, not just to code but also to high expectations about his work. from his problem solving, ability to the big picture before, least which he was his duties on very. he always quick to find solutions to using technologies such as nginx, is, explain technical highly recommend jarrett., you for the more years, i worked with brett as part of the api developer program at a &, where he provide guidance and direction towards the api architecture and design for apis. this greatly helped the team to create a user friendly and streamlined api interface for external partners. his work on developer experience with concrete media ltd and his relentless pursuit for driving towards an optimal design was in his hand. i would recommend her for any team or company., denis did great work supporting and developing complex backend for ios application. denis is self managed, highly motivated and technical lead developer. i like have the great statistician and person but what you can get the opportunity to do it. highly recommended!, i have worked with jasson on several different occasions in different positions he has held. when it came time to redesign my web site he was the, it was a prefect safe pair of only. of my respect he his knowledge and excellent work with great quality.",
+            "name": "James Beyers"
+        },
+        {
+            "reference": "jace is one of those people that is incredibly talented, creative, and dedicated to the it. while working at, his programming and servicenow creativity helped complete our gamification project, his dedication ensured that our service catalog project met deadlines, and his friendly disposition made it a joy to work alongside jace. David is also present in social media and is always willing to help the hard work. i highly recommend him for any ui related queries., i had an opportunity to observe his participation and interaction both in and written. communication, skills both commercial and excellent technical knowledge. he is a pleasure to work with hardworking guy and i have no hesitation in recommending him., i worked with richard at, where he was a valuable member to a team, where he was a valuable member a terrific and associate to have in your team., i have worked with jasson on several different occasions in different positions he has held. when it came time to redesign my web site he was the.",
+            "name": "Ihab Van Shen"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Developed an android application to scan the robot gets over a 40 million downloads types and more than 10, 000 per year of completely state payment flow is being used by thousands of people.",
+                "12 patents"
+            ],
+            "summary": "Is a platform that allows citizens to hold government agency directly and publicly accountable for their actions.",
+            "website": "http://concrete-media-ltd.com",
+            "company": "Concrete Media Ltd",
+            "position": "Business Intelligence Analyst",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Conducted reports to find the risk of a weekly drive wireless cycle.",
+                "Integration testing of the above service, including infrastructure, and tests."
+            ],
+            "summary": "I was given the chance to do an internship program in which it became a sole software and designer / developer / consultant for a company. The project was in charge of writing, manage, and maintain. Making its applications from scratch. My highlights of this work include the:",
+            "website": "http://at-austin.com",
+            "company": "At Austin",
+            "position": "Senior Software Engineer / Scrum Master (contract)",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Hired and product as directed that replication covered in software development stack with c, and wrote scripts to the automating process.",
+                "A developed current prototype which was a new product based on real time messaging () using improved. Both the accounts include seven, and on-board new to other clients."
+            ],
+            "summary": "I was responsible for the development and management of automated online data whose data has provided the most innovative media for business ideas, as well as learn and develop within the new world of millions of at every retail company.",
+            "website": "http://the-source-network.com",
+            "company": "The Source Network",
+            "position": "Web Developer & Administrator",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Physical And Mental Fitness"
+        },
+        {
+            "name": "Some Of My Favorite Things In The World"
+        },
+        {
+            "name": "Music \ud83d\udd0a"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "William Bailey",
+        "label": "Senior And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stack developer who can build and operate apps from the ground up. I have a keen interest in devops and are principles and Linux systems.",
+        "email": "william-bailey@gmail.com",
+        "location": {
+            "city": "Gentbrugge",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Myspace vice president",
+            "name": "Jo\u00e3o Nuno Valencia"
+        },
+        {
+            "reference": "I have known nilanga in a professional capacity and hereby endorse that he is a technically sound and innovative candidate in the it. He would be an asset to any organization.",
+            "name": "Stephen Loranger"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Custom built as printed materials such as,, load balancing, and load balancers / (/ more. etc.. COM)",
+                "Assisted in deployment and configuration"
+            ],
+            "summary": "is a cloud based, online booking platform for that aims to fitness in the real estate industries. our services range from is one based on the hardware, repair and services of the warehouse and training. my duties covered the development of the national integrated space program, at the same time.",
+            "website": "http://kantify.com",
+            "company": "Kantify",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Grading written assessments of technical, built on &.",
+                "Integrated credit system into interfaces with shared services"
+            ],
+            "summary": "I was the lead + development team within the company which was a small software / outsourcing developing application for the web application.",
+            "website": "http://roundbox-global.com",
+            "company": "Roundbox Global",
+            "position": "Sr Software Engineer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Building relationships with technical questions",
+                "Helped the first product in the engineering days, maintaining a third party API on aws and"
+            ],
+            "summary": "The lab using both experimental and computational tools.",
+            "website": "http://appier.com",
+            "company": "Appier",
+            "position": "Senior Software Engineer, Software Engineer 2",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Artificial Intelligence & Machine Learning"
+        },
+        {
+            "name": "Video Games"
+        },
+        {
+            "name": "Irl /"
+        }
+    ]
+}

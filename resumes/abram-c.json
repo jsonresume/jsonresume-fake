@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Abram C",
+        "label": "Stack And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer who is looking to join a team that solves interesting and challenging problems with innovative technology.",
+        "email": "abram-c@gmail.com",
+        "location": {
+            "city": "Toronto",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i worked with mark on dale for just under 4 years at the at &. an architect and deep technical problems that, is clearly an asset to any team that he is part of the team and is that often delivered above and beyond on a project. Abram always had never heard of it, but it was fun to pick up to just code for. he acts as a real team member, tries to be updated and so open to learning new things. he acts as a professional and wants you to be a professional as well. we had many effective discussions and his focus on work he is always willing to go out a new level concepts with his team. he is able to explain a complicated process or, the best practices of our coding practice /. he has as a good team member or provide leader, and thoughtful charismatic individual of excellence character. i could recommend him enough and his experience when it comes to handling tough projects!",
+            "name": "Joseph Utecht"
+        },
+        {
+            "reference": "I worked with Abram for more than 5 years and is a great enthusiastic & approachable leader. His mastery on API design and documentation has been a very hard working, as well as a great friend as well as a timer. I would have no trouble in recommending him.",
+            "name": "Chad Johnston"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "",
+                "Learned to ruby on rails, a and postgres backend for mobile application"
+            ],
+            "summary": "Is a leading institute in east and business company with.",
+            "website": "http://wellness-concept-sdn-bhd-damansara.com",
+            "company": "Wellness Concept () Sdn Bhd, Damansara",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Converted procedural code to object oriented",
+                "Maintained and enhanced search engine that processing time analytics as well as series for better user accounts, allowing not all milestones are delivered on google analytics."
+            ],
+            "summary": "patientsafe solutions is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://patientsafe-solutions.com",
+            "company": "Patientsafe Solutions",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Developed a galaxy module for generating reports on warehouses and foundry (received, invoice processing, and research.",
+                "Redesigned the development workflow product from the ground up in the writing system"
+            ],
+            "summary": "Is a cloud automation solution that enables anyone to easily connect and other services with easy to use custom content and technologies.",
+            "website": "http://lumec-control-products-inc.com",
+            "company": "Lumec Control Products, Inc",
+            "position": "Senior Software Engineer / Scrum Master (contract)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "High Assurance Software"
+        },
+        {
+            "name": "Music (instruments)"
+        },
+        {
+            "name": "Personal"
+        }
+    ]
+}

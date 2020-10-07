@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "J\u00e4rvel\u00e4",
+        "label": "Software Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stack developer who can build and operate apps from the ground up. I have a keen interest in devops and are principles and Linux systems.",
+        "email": "jarvela@gmail.com",
+        "location": {
+            "city": "Belgrade",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "High school.",
+            "name": "David Browne"
+        },
+        {
+            "reference": "I worked with J\u00e4rvel\u00e4 during almost three years at. J\u00e4rvel\u00e4 is a passionate engineer that is able to play different kind of roles in your team. He has strong coding and software design skills. He is a motivated and self driven engineering. I would strongly recommend J\u00e4rvel\u00e4 to be part of your team work and I would highly recommend him.",
+            "name": "Mayank"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Administrated amazon ec2 instances and systems and plugins",
+                "Field and international: learning, mongodb, PHP, javascript, CSS, git"
+            ],
+            "summary": "Is a startup that sells tickets for events integrating with our best personal experience on the next generation web platform.",
+            "website": "http://beatfreer.com",
+            "company": "Beatfreer",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Different Unix based servers",
+                "Sphinx"
+            ],
+            "summary": "I have worked with several companies like, artists, designers, and other financial companies.",
+            "website": "http://gogii-lighthouse-studios-inc.com",
+            "company": "Gogii Lighthouse Studios Inc",
+            "position": "Software Engineer (contract)",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Experience with dealing with a backing engineer for our product, usage software and other features",
+                "Integration and development of the data center configuration application system () used in java, hibernate, tomcat, SQL server, and automate it deployment tools, SQL server, reporting, and db2 (soap, hibernate, xml, mariadb, and openstack)"
+            ],
+            "summary": "Is a platform that allows citizens to hold government agency directly and publicly accountable for their actions.",
+            "website": "http://platige-image-a.com",
+            "company": "Platige Image A",
+            "position": "Senior Software Engineer / Rails Architect",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Gaming Tabletop"
+        },
+        {
+            "name": "General"
+        },
+        {
+            "name": "Fermentation"
+        }
+    ]
+}

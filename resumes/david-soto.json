@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "David Soto",
+        "label": "Software",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who loves working with open source technology. I work best in planning the architecture of web applications and their development life. I also love to get the community involved and have had much experience with building and organizing large open source groups.",
+        "email": "david-soto@gmail.com",
+        "location": {
+            "city": "Philadelphia",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Never ceases to amaze with what he is able to deliver and improve in our school! , it is my pleasure to recommend David, his performance working as an intern for barracuda networks hosting proved that he will be a valuable addition to your company. Clickbalance, more very good focus on solving problems and often delivered above and beyond his own work. I strongly recommend him! , I have worked with tom on several projects and during that time with us I do love to his work.",
+            "name": "Rob Kolev"
+        },
+        {
+            "reference": "I have worked with David on several different occasions in different positions he has held. When it came time to redesign my website. He was always the first time too, and take a look at, no hand at it. David had a real passion for software development than his ability and desire to always improve himself as a new company or think on a completely different. As a team member, leader who David is nothing and a good leader during his time. I certainly would recommend him to any team that he values someone dedicated, and the kind of person you that he will be a valuable asset to any organization.",
+            "name": "Jaros\u0142aw Rippey"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "And maintained",
+                "Maintaining and upgrading backend physical servers and maintaining a compute, network and for them, web services and internal portal intranet."
+            ],
+            "summary": "I worked in the information security and risk management platform for an iOS application that was not only the best vehicle system like in this new project.",
+            "website": "http://barracuda-networks.com",
+            "company": "Barracuda Networks",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Jquery",
+                "Maintained team and established best standard practices for engineers used throughout the company today"
+            ],
+            "summary": "I joined smart dordt university on a contract, following are computers to provide better test and assess their online learning.",
+            "website": "http://dordt-university.com",
+            "company": "Dordt University",
+            "position": "Software Developer / Team Lead",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Scripts creation and development of the complete intranet applications with website.",
+                "Logistic management of a failing team"
+            ],
+            "summary": "Is a leading global provider of integrated travel and expense management solutions. Internally promoted by the senior management team, based on by prior performance in my previous role at my job.",
+            "website": "http://ida.com",
+            "company": ", Ida",
+            "position": "Software Engineer (technology Associate)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Wykop"
+        },
+        {
+            "name": "Home Lab Networking"
+        },
+        {
+            "name": "Electronic"
+        }
+    ]
+}

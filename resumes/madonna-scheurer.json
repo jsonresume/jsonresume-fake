@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Madonna Scheurer",
+        "label": "And Toronto",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stack developer who can build services. I am a very product focused developer who prioritizes user feedback first. Even though I have been working at the same company, but I have various experience from lots of projects. I am generally very flexible when investigating new roles.",
+        "email": "madonna-scheurer@gmail.com",
+        "location": {
+            "city": "Ulm",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Madonna is a voracious learner. He is very professional, confident in that his knowledge, he has a good experience as a seasoned technician and his admirable commitment to collaboration carried him through these initiatives seamlessly. Everything that I know about effectively developing and recommend him.",
+            "name": "Deandre Duquette"
+        },
+        {
+            "reference": "I worked with Madonna as a colleague and fellow team member a team leader. He is very passionate about his work and competent developers. I have been extremely lucky to work with him.",
+            "name": "Viviana Sledge"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Meeting weekly contact desk support regarding its infrastructure in workflow, applying core and develops skills to automate many roles of processes",
+                "Web development and optimization"
+            ],
+            "summary": "Is a platform that allows citizens to hold government agency directly and publicly accountable for their actions.",
+            "website": "http://ai.com",
+            "company": "Ai",
+            "position": "Software Developer Trainee",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Coordinated with students and performing evaluations of the applications",
+                "Launched need for speed edge."
+            ],
+            "summary": "Is a company that provides a SaaS location intelligence platform help sales process to individuals business and businesses.",
+            "website": "http://the-fly-fisher-place.com",
+            "company": "The Fly Fisher Place",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Server installation",
+                "Design / deploy and microservices based via amazon web services."
+            ],
+            "summary": "I was hired to help refactor an existing application level 1. helper developed by the following international community.",
+            "website": "http://archlinux.com",
+            "company": "Archlinux",
+            "position": "Senior Software Engineer / Rails Architect",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Natural History & Geology"
+        },
+        {
+            "name": "Cooking Comics"
+        },
+        {
+            "name": "Energy"
+        }
+    ]
+}

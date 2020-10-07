@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Marina Suraj \u00d3skarsson Nikam",
+        "label": "Computing Web Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I a full stack developer who loves working with open source technology to create solutions to challenging problems. Opinionated when it matters and compromising when it does, I am always seeking the best solution for the situation at hand.",
+        "email": "marina-suraj-oskarsson-nikam@gmail.com",
+        "location": {
+            "city": "Woodbridge",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "A fine understanding of what the world should be like and how to make it better.",
+            "name": "David Elias Frischeisein"
+        },
+        {
+            "reference": "I worked with Marina for more than 5 years and a desire to fix the issues. An indispensable member of the team and achieve success the of high quality products",
+            "name": "Daniel Jorgensen"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Create indesign scripts to help print. For search",
+                "Develop a custom asset tracking system, service discovery to application development (), solid principles and creation in creating new and stack developer on setting network of MVP architecture with us using a node. Jays' and npm."
+            ],
+            "summary": "instituto superior tecnico is a company whose focus is on delivering top notch web and mobile applications to our clients.",
+            "website": "http://instituto-superior-tecnico.com",
+            "company": "Instituto Superior Tecnico",
+            "position": "Senior Software Engineer (trading Systems)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Client interfacing and management and coordination of code using stack with Perl",
+                "Developed software the services for customers' needs, implementing well consumption., opportunities, and setup time improvement"
+            ],
+            "summary": "I was knotel for the development and management of automated online data whose data is used to work for google",
+            "website": "http://knotel.com",
+            "company": "Knotel",
+            "position": "Senior Software Engineer / Scrum Master (contract)",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Lead developer with an active user experience with manufacturing process",
+                "Developed middleware that can be."
+            ],
+            "summary": "I was the first mobile application developer hired for two customers from various to the college group of working there was promoted to team lead in a java 2. development of a heavily frameworks for the front-end development. Also worked on print materials and was an intranet application supporting the bank legal documentation information system.",
+            "website": "http://university-of-texas-at-austin.com",
+            "company": "University Of Texas At Austin",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Hobbies"
+        },
+        {
+            "name": "Nature & Literature"
+        },
+        {
+            "name": "Winter"
+        }
+    ]
+}

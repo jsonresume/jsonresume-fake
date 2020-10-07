@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Yuri K Peterson",
+        "label": "Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I a full stack developer, entrepreneur and writer. I build products to last and work with startups helping them achieve their goals.",
+        "email": "yuri-k-peterson@gmail.com",
+        "location": {
+            "city": "Antibes",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "",
+            "name": "Jorge Alejandro Cruz"
+        },
+        {
+            "reference": "Worked on request",
+            "name": "Tony Landek"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Part of the supply chain, and remote team and responsibility of the business intelligence",
+                "Deployment using graphite, radios, and API"
+            ],
+            "summary": "Is a company that builds rewards and booking engines for large corporations. My role as part of the architecture team was to research and write project scale the experience.",
+            "website": "http://binah-interactive.com",
+            "company": "Binah Interactive",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Migrated from physical to perform production search, support of DNS requests for health services in applications and deployed them as needed by a per fraud.",
+                "Linux and operating systems"
+            ],
+            "summary": "I started the company with main business opportunities, I have while doing software & business analytics through its business.",
+            "website": "http://playtech-estonia.com",
+            "company": "Playtech Estonia",
+            "position": "Software Developer (as Freelance In An Internship)",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                ": ember 2. 0 & with",
+                "Generated story ideas, and creating documents from * both coordinator, radios, and oracle"
+            ],
+            "summary": "Worked on an investment fund simulation game as a b.. Sc. project",
+            "website": "http://.com",
+            "company": "",
+            "position": "Senior Software Developer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "University Programming Council"
+        },
+        {
+            "name": "Innovation & Technological Evolution"
+        },
+        {
+            "name": "Green Energy"
+        }
+    ]
+}

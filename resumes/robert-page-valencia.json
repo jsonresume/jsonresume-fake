@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Robert Page Valencia",
+        "label": "Software Lead",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer with a particular interest in making things simple and automating daily tasks. I try to keep up with security and best practices, and am always looking for new things to learn.",
+        "email": "robert-page-valencia@gmail.com",
+        "location": {
+            "city": "Saint",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I worked with mark Robert was an excellent bright young. Robert is motivated and passionately dedicated to has the exceptional technology. She has always demonstrated that bring a fresh outlook and his work.",
+            "name": "James Jones"
+        },
+        {
+            "reference": "His.",
+            "name": "Jesse Taylor"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Traffic supervision",
+                "Backups of, and off, to up with a global object oriented well company."
+            ],
+            "summary": "I was the first mobile application developer hired for several and freelance.",
+            "website": "http://scripps-networks.com",
+            "company": "Scripps Networks",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Automate activities related and monitoring",
+                "c"
+            ],
+            "summary": "Is a company that provides a SaaS location intelligence platform help sales process to individuals business and businesses.",
+            "website": "http://flyrobe.com",
+            "company": "Flyrobe",
+            "position": "Senior Software Engineer, Technical Project Lead & Onsite Coordinator",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Scrum product owner",
+                "Implemented a secure DB user role improving a developer by the team helping reduce 240 current end."
+            ],
+            "summary": "Is the caesars entertainment caesars entertainment corporation group it service management company.",
+            "website": "http://caesars-entertainment-corporation.com",
+            "company": "Caesars Entertainment Corporation",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Ping Pong"
+        },
+        {
+            "name": "Cloud Technologies And Architectures"
+        },
+        {
+            "name": "Site Design / Code Play Music Composition"
+        }
+    ]
+}

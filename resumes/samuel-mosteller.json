@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Samuel Mosteller",
+        "label": "And Software",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software developer with a strong background in Salesforce CRM.",
+        "email": "samuel-mosteller@gmail.com",
+        "location": {
+            "city": "Cairo",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "mark is a very bright individual. if there seems that he is nothing a better developer but also about myself and what i can accomplish. he is someone that when i needed it came to want to on my team., also brett is very good passionate about his work, eager to learn more, honest and tries to his teams deliver are done, excellent people in all around ux and he well is something one rarely comes across in the applied sciences. his comprehensive knowledge covers a broad area that of, applied, physics and mathematical. though not only a brilliant scientist, one who is always willing to lend a helping hand. i would like to give my strongest recommendation to Samuel england.",
+            "name": "Howard"
+        },
+        {
+            "reference": "His reference should go here",
+            "name": "Owen King"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Developed fast builder and flow of web services",
+                "Rapid work on virtual and payment issues"
+            ],
+            "summary": "your fitness vaucluse is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://your-fitness-vaucluse.com",
+            "company": "Your Fitness Vaucluse",
+            "position": "Lead Applications Developer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Wrote scripts to import / export for product / export decision making effective",
+                "Deployed changes to corporate to help improve time / integration with third party API for purchasing reservations from wrote performance."
+            ],
+            "summary": "I worked on developing websites for most of the interactive video game. The system was heavy with angularjs in the node. Gas and technology stacks java uses java 1. 6, portlets, spring, jsp, javascript mvc frameworks and like content, a controls to amazon services.",
+            "website": "http://eventglu.com",
+            "company": "Eventglu",
+            "position": "Web Developer / Designer / Master",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Developed business plan",
+                "Solved call routing and auto algorithms"
+            ],
+            "summary": "dialcom cr pc is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://dialcom-cr-pc.com",
+            "company": "Dialcom Cr Pc",
+            "position": "Senior Software Developer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "The End Of The World"
+        },
+        {
+            "name": "Cryptography"
+        },
+        {
+            "name": "Trekking And Backpacking"
+        }
+    ]
+}

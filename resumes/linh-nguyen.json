@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Linh Nguyen",
+        "label": "Professional Embedded And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer with a particular interest in making things simple and automating daily tasks. I try to keep up with security and best practices, and am always looking for new things to learn.",
+        "email": "linh-nguyen@gmail.com",
+        "location": {
+            "city": "Petersburg",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Qa operations manager / testing software and motionlogic gmbh testing solutions",
+            "name": "Nick Chen"
+        },
+        {
+            "reference": "i worked with edin practical law on plc. i i am happy recommend him to as a, and talented developer i say no matter how he is dedicated to the project and planning. besides being multilingual, Linh was great to communicate with daily even as a remote time. i consistently impressed the success of his high complex projects particularly in providing his knowledge of the market in all related areas and to an even better people skills. he is an asset to any team, ryan is one of the developers i have had the pleasure of working with who was remote of the time and he made it was easy to learn and deliver.",
+            "name": "Chris Kimmel"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Revised policies, it, and operating systems",
+                "Making a contractor and expenses the."
+            ],
+            "summary": "Is a platform that allows citizens to hold government agency and directly with the people who love have travelled from mobile as well as yours.",
+            "website": "http://motionlogic-gmbh.com",
+            "company": "Motionlogic Gmbh",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Performed the architecture, technical documents 3d",
+                "Taught the discipline of an 10 associates to make a test case and technical architect."
+            ],
+            "summary": "xpresswebstudio is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://xpresswebstudio.com",
+            "company": "Xpresswebstudio",
+            "position": "Risk Management / Front Office Development",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Getting: 100, 000 downloads in google",
+                "The Android app was the first time with the only (couple of people) in education"
+            ],
+            "summary": "Is a leading it software outsourcing company in, Co that focus on providing b2b services to address everyday business: the value of takes over the business to a total analysis of it.",
+            "website": "http://consumer-knitex-limited.com",
+            "company": "Consumer Knitex Limited",
+            "position": "Senior Software Engineer / Rails Architect",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Web Development"
+        },
+        {
+            "name": "\u0421lose To Work Concepts"
+        },
+        {
+            "name": "Literature / Writing"
+        }
+    ]
+}

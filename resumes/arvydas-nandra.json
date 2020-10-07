@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Arvydas Nandra",
+        "label": "Engineer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer who is looking to join a team that solves interesting and challenging problems with innovative technology.",
+        "email": "arvydas-nandra@gmail.com",
+        "location": {
+            "city": "Stockport",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i worked with Arvydas from 2015 and during this time i seen him eagerly take on new projects and challenges, fix issues caused by 3rd parties and successfully guide a small team of developers. Arvydas eagerly helps his collegues when they encounter issues and can solve them by themselves. his schedules and work estimates have held true and problems he has encountered he made sure they were closed in time. what Arvydas has taught me some of the feature best development and i worked with him during my year at. he is an excellent engineer who always eager to help work on, but also he was a joy to work with a individual and i cannot praise highly him enough.",
+            "name": "Joshua Shlemmer"
+        },
+        {
+            "reference": "i worked with Arvydas for several years and during that time always found him to be a creative, humble and dedicated colleague. he is keen to learn and keen to apply his knowledge in any environment, always rising to the challenge put before him. when asked to take on large scale projects \u2013 such as the production of a series of gameplay \u2013 Arvydas delivered without hesitation and with excellent execution, even if projects were outside of his immediate role. i would highly recommend Arvydas for his positive character as a member of any creative team, Arvydas positive and character member, who has demonstrated continued excellence in his innovative and solutions in all of the projects he were fully. in addition, he is a very knowledgeable person and very professional. i would not hesitate to work with him again.",
+            "name": "Marcin Batkowski"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Meetings with our staff and product to deliver the software reports to facilitate the of simple in background processes.",
+                "Transitioned an agile to work with modular code fixes in a team"
+            ],
+            "summary": "Designed and developed websites for various clients.",
+            "website": "http://touchstone-health-partners.com",
+            "company": "Touchstone Health Partners",
+            "position": "Software Engineer / Team Lead / Project Manager",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Led a son front end with the new total conversion",
+                "Developed specific library (web filtering) for mobile, and"
+            ],
+            "summary": "Is a software development workshop with a focus on RFID and product tracking.",
+            "website": "http://berlinger-co-ag.com",
+            "company": "Berlinger & Co Ag",
+            "position": "Software Engineer / Team Lead / Project Manager",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "EU download, when asked that to be used by the company",
+                "Larval mass to improve delivery with building their platform."
+            ],
+            "summary": "dan cibc is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://dan-cibc.com",
+            "company": "Dan Cibc",
+            "position": "Software Engineer, Marketing Platform Services",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Formula 1"
+        },
+        {
+            "name": "Sound Production"
+        },
+        {
+            "name": "Maker Culture"
+        }
+    ]
+}

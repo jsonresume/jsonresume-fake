@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Ben Rodr\u00edguez Ortiz",
+        "label": "Engineer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who can build apps from the ground up. I worked mostly at startups so I am used to wearing many hats. I am a very product focussed developer who practices, user feedback first and. I generally very flexible when investigating new roles.",
+        "email": "ben-rodriguez-ortiz@gmail.com",
+        "location": {
+            "city": "Washington",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i had the pleasure of working with lavi on multiple projects at. he is a solid engineer and writes performant javascript, css and react components that functioned well and were always delivered by the deadline. i even though he was part of the team and instilled respect respect in every interaction. i can recall key instances his when site releases and maintenance jobs in between. and it helps my point that of view along with his dedication to problem solving were vital to the completion of our advanced research project., i have worked with jasson on several different occasions in different positions he has held. when it came time to redesign my web site he was the, he has won shown me a great truly collaborative dev team, scott. has very always quick to find me a good team.",
+            "name": "Jonathan De Souza"
+        },
+        {
+            "reference": "I worked with Ben on at least 5 projects already. Ben speaking, it would be really hard on those ones without his knowledge, expertise and efforts. He has excellent experience, always wheeling and able to give advice and provide help, put the work process on the right. Ben has a clean eye detail on, supreme architecture team knowledge, and can be trusted with a lot of different approaches and to be a significant asset to any team that I wish him all the best.",
+            "name": "Sean J"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Research and new projects with an audience",
+                "Migrated internal gitlab projects by development for engineering teams, including, content, handling and customer support users through engagement with informational and server resources / systems."
+            ],
+            "summary": "Is a startup based in Washington which focuses on mobile application aims to fitness and by making it, social, mobile web applications, or software.",
+            "website": "http://switzerland-geneva-mission.com",
+            "company": "Switzerland Geneva Mission",
+            "position": "Product Engineer Junior",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Offshore overcame a team of senior developers in the development of an intern understanding system and was written in and.",
+                "I maintained the company platform tests that would be added a lot of."
+            ],
+            "summary": "I started working on the web application for an iOS application on a project called which a group is PHP.",
+            "website": "http://shanghai-langyan-optoelectronic-t-co.com",
+            "company": "Shanghai Langyan Optoelectronic & T Co",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Delivered sales strategies, refactoring, and other compliance to drive the quality assurance plan workflow with identifying actionable opportunities.",
+                "Scrum automated with continuous integration"
+            ],
+            "summary": "markmonitor | london is a company whose focus is on delivering top notch web and mobile applications to our clients.",
+            "website": "http://markmonitor-london.com",
+            "company": "Markmonitor | London",
+            "position": "Technical Support",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Mobile App Development"
+        },
+        {
+            "name": "Guitars"
+        },
+        {
+            "name": "Magic Trikcs And Illusions"
+        }
+    ]
+}

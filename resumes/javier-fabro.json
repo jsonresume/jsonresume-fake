@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Javier Fabro",
+        "label": "Software And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "Javier is a developer that has been programming for most of his life. He started learning markup at six, and built his first website three months later. It looked like a six year old had pieced it together in three months. A few years later, Javier started attending hackathons and began to learn various languages and within a year mastered several.",
+        "email": "javier-fabro@gmail.com",
+        "location": {
+            "city": "Rawalpindi",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I am known work with him for about two years at. He is a solid engineer and writes performance javascript, CSS and react components that functioned well and were always delivered by the deadline. I would recommend him to any company who needs a, reliable and talented developer. I am constantly working, Javier is on a kind, positive, leader in his individual. I have never seen a more effective Networker or more genuine person.",
+            "name": "Chun Chen"
+        },
+        {
+            "reference": "Need to locate my old pdf refs from dst days...",
+            "name": "James Sugrono"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Developed an integration approach for embedded and systems software using react native, javascript, groovy, Jenkins",
+                "Designed and maintained all aspects of the order to ensure patient safety and their easier with no management time from 3 million well within 5 months"
+            ],
+            "summary": "Worked on a project for what twilio parks & resorts, one of the oldest and the biggest accounts of the company, migrating from a legacy PHP platform to angular. J's with node. J's, node. J's, express, angular. And a Cdn for the community web sites, based on the time sales force.",
+            "website": "http://twilio.com",
+            "company": "Twilio",
+            "position": "Lead Developer / Systems Administrator / Health & Safety Coordinator",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Created custom resources for component development",
+                "Manage code base, a daily basis"
+            ],
+            "summary": "I was responsible for the development and management of automated online data whose data is used to work in three a single environment. My role involved the design of Linux system (mostly java ee) and a heterogeneous combination of server, escalation support.",
+            "website": "http://dst.com",
+            "company": "Dst",
+            "position": "Senior System Analyst",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Jquery",
+                "Worked with classified material"
+            ],
+            "summary": "Is a software company based in., my role consists of managing the department as updating network and server support to core development services itself?",
+            "website": "http://various-freelancing-work-done-in-college.com",
+            "company": "Various Freelancing Work Done In College",
+            "position": "Software Developer & Seo Consultant",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "The Outdoors"
+        },
+        {
+            "name": "Outros"
+        },
+        {
+            "name": "Sociology"
+        }
+    ]
+}

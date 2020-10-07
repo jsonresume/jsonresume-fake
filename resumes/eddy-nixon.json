@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Eddy Nixon",
+        "label": "Stack",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer with a particular interest in making things simple and automating daily tasks. I try to keep up with security and best practices, and am always looking for new things to learn.",
+        "email": "eddy-nixon@gmail.com",
+        "location": {
+            "city": "Bay Area",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "",
+            "name": "Michael Truell"
+        },
+        {
+            "reference": "",
+            "name": "Teagan M Glenn"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Work with data analysts to formalize the project",
+                ","
+            ],
+            "summary": "rocketfuel studios is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://rocketfuel-studios.com",
+            "company": "Rocketfuel Studios",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Implement and maintain company's web applications for several consulting",
+                "Created text is tagging a component and a website using react spa and angular to be"
+            ],
+            "summary": "I was the sole ict member of staff for clients such as.",
+            "website": "http://metaphores-sa-and-freelance.com",
+            "company": "M\u00e9taphores Sa And Freelance",
+            "position": "Senior Software Engineer, Software Engineer 2",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Support of several web on large datasets and cloud",
+                "Working with two commercial experience in building sites and google apps *"
+            ],
+            "summary": "I was the first mobile application developer hired for two customers and various projects as the web team.",
+            "website": "http://lahore.com",
+            "company": "Lahore",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Contests"
+        },
+        {
+            "name": "Sauna"
+        },
+        {
+            "name": "Reading Physics Articles"
+        }
+    ]
+}

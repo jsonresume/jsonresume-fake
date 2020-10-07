@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Shrinithi Kumar",
+        "label": "And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer who has experience in developing and maintain systems used by million of users. I consider myself as a detail and process oriented person. Learning and sharing have become my passion. I embrace for a new challenge and learning new things.",
+        "email": "shrinithi-kumar@gmail.com",
+        "location": {
+            "city": "Katy",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Red hat",
+            "name": "Parker"
+        },
+        {
+            "reference": "Executive director of open institute",
+            "name": "Alexander Korotkikh"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Social and media, the API used views for the catalogue system",
+                "My professional tutoring"
+            ],
+            "summary": "",
+            "website": "http://bank-of-america-merrill-lynch.com",
+            "company": "Bank Of America Merrill Lynch",
+            "position": "Senior Software Engineer / Product Manager (backend Services)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Developed curriculum",
+                "Developing a neural network to help classify product information from and"
+            ],
+            "summary": "Is a company that produce and deliver multimedia and digital content across different clients, focusing on providing quality and medical development consultancy.",
+            "website": "http://internet-solutions.com",
+            "company": "Internet Solutions",
+            "position": "Software Developer, Project Manager",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Design dependency injection (DI), builder pattern, script and dependency injection",
+                "Reviewed patents to determine value"
+            ],
+            "summary": "Is a leading institute in east and business, we train students, develop corporate systems, networking and manage some?",
+            "website": "http://eos-it-specialists.com",
+            "company": "Eos It Specialists",
+            "position": "Senior Software Developer / Consultant",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Forex"
+        },
+        {
+            "name": "See New Technologies"
+        },
+        {
+            "name": "Schools Outreach"
+        }
+    ]
+}

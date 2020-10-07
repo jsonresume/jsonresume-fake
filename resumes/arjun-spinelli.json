@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Arjun Spinelli",
+        "label": "Full Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stack developer who can build and operate apps from the ground up. I have a keen interest in devops and are principles and Linux systems.",
+        "email": "arjun-spinelli@gmail.com",
+        "location": {
+            "city": "Causeway Bay",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Arjun encyclopedic knowledge of network equipment is an incredibly useful resource. He always seems to have time to help and it was a genuine pleasure working with him.",
+            "name": "Sean Follis"
+        },
+        {
+            "reference": "i worked closely with hmsk at webpay and highly recommend him. i saw him lead product development, support customers, and handle account. he was an extremely technical engineer and a very personable individual who you always want to have very happy with him, brandon hubbard was a fantastic person to work with, he is very, and talented it., i worked with Arjun for several years and during that time always found him to be a creative, humble and dedicated colleague. he is keen to learn and keen to apply his knowledge in any environment, always rising to the challenge put before him. when asked to take on large scale projects \u2013 such as the production of a series of gameplay \u2013 Arjun delivered without hesitation and with excellent execution, even if projects were outside of his immediate role. i would highly recommend Arjun for his positive character as a member of any creative team, when i am writing to the it tremendous job in and in this to use cutting edge of technology. easily i can recommend him with his enough and software development.",
+            "name": "Suresh Thornquest"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Developed an in-house dashboard and responsible of the times in order to the use with the machine language, tracking, bug triaging incoming,, and research sessions",
+                "Managed the of his reporting ()"
+            ],
+            "summary": "",
+            "website": "http://kwik-dollar-llc.com",
+            "company": "Kwik Dollar Llc",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Delivering guided products through online / education",
+                "Tools and frameworks used I usually over several million dollar large numbers to production and errors"
+            ],
+            "summary": "I was responsible for the development and management of automated online data whose data is used to work for google,,",
+            "website": "http://soler-photo.com",
+            "company": "Soler Photo",
+            "position": "Web Developer / Designer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Underwent study of each it and an it integration engagements for bringing over the an state service in",
+                "Support and created numerous soap, using Arjun appears, and."
+            ],
+            "summary": "Is a company that provides a SaaS location intelligence platform.",
+            "website": "http://symbioun-solutions-pvt-ltd.com",
+            "company": "Symbioun Solutions Pvt Ltd",
+            "position": "Ios Developer And Scrum Master",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Keeping Fit And Healthy"
+        },
+        {
+            "name": "Freedom Campers And Mountains"
+        },
+        {
+            "name": "Causes"
+        }
+    ]
+}

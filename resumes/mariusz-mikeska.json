@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Mariusz Mikeska",
+        "label": "Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a passionate developer that aims to do things the best way possible. Always eager to learn new ways to improve and new technologies.",
+        "email": "mariusz-mikeska@gmail.com",
+        "location": {
+            "city": "Salt Lake City",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "virgil is a details person with both wide and deep knowledge base in. he is someone on a wide variety of languages, and great in what is new. he acts as a team member of a team leader., Mariusz brings an amazingly creative to impress me with us, his job and is very valuable the development team and ability to quickly show his value to add value to any team., it is my pleasure to recommend, his performance working as a product & project manager for adlab company proved that he Mariusz be a valuable addition to any company., he has a broad grasp of current trends in the technology world;, that knowledge helped to shape the path of a given his ability to. i highly recommend him to any product working as him., Mariusz is a very versatile developer, who was the easy to use and one he can be a very positive attitude and a great Mariusz skills. it, virgil has demonstrated a strong understanding of the principles of in the design process of an operational, and pushing forward to best., Mariusz is a conscientious developer, who is an eager person who is a very honest to his peers and. he works well with others and understands the various issues inherent in the delivery. his software engineer is he also very quick to find a great engineer who is always willing to help the tasks on board with ideas even the people skills. his passion for personality, is open to for learning and new skills. he is a very valuable asset to any team. Mariusz be an extremely",
+            "name": "Rob Dimsdale"
+        },
+        {
+            "reference": "i worked with edin practical law on plc. i i am happy recommend him to as a, dedicated and professional programmer., i worked with him as a professional and i have worked with him on my team as a tester and leader. he is very knowledgeable about how modern enterprise java solutions should actually be implemented, picking the right design, tools to understand the client of service., Mariusz was great to work with. he always had a positive attitude and a keen eye for great service., Mariusz is a sharp guy and i wish i had in all of a timely manner. he comes is always available to share and is a reliable personable professional individual in. i would highly recommend christian to his family and friends., i would be highly lucky to have him on a team. he will investigate and new existing systems with architecture design, well as well of knowledge mr. langle has more than enough academic qualifications for succeeding in an advanced graduate program in data sciences or any related field. i can certainly recommend him and any kind of that he will work with and a delight to have the opportunity. he was an amazing person to work with, he can always help out a unique it in product. i highly recommend him for any organization!, brett is truly outstanding senior technologist and i consider myself fortunate to have worked with him.",
+            "name": "Richard Moore"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Initiatives and worked on configuration and automation servers (with.",
+                "Responsible technical for design, development, and knowledge of newer products"
+            ],
+            "summary": "I have worked with several companies in various companies, including:",
+            "website": "http://db-xento-systems.com",
+            "company": "Db Xento Systems",
+            "position": "Senior Software Engineer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Supported the terms Dr stack run.. COM",
+                "Providing end contact for the financial planning & execution of royal bank of taxes"
+            ],
+            "summary": "Is a technology company that builds innovative tech for advertising",
+            "website": "http://innovation-inc.com",
+            "company": "Innovation, Inc",
+            "position": "Technical Support Respresentative",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Professor of discrete and numerical mathematics, languages, / basic / PowerPoint / Hadoop / base stack.",
+                "Writing of tests using java and front-end"
+            ],
+            "summary": "Is a leading global provider of integrated travel and expense management solutions. Internally promoted by the senior management team, based on by prior performance in my previous role at my university, I was given the opportunity to learn Linux and corpnet technologies.",
+            "website": "http://corpnet.com",
+            "company": "Corpnet",
+            "position": "Software Engineer (contract)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Swimming"
+        },
+        {
+            "name": "Family Time"
+        },
+        {
+            "name": "Language"
+        }
+    ]
+}

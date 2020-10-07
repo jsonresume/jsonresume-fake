@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Erik Thorselius",
+        "label": "Software Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer who is looking to join a team that solves interesting and challenging problems with innovative technology.",
+        "email": "erik-thorselius@gmail.com",
+        "location": {
+            "city": "Cranston",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i worked with alejandro while at pley and it was an absolute pleasure. alejandro designed and developed the backend of pley. from it a perspective and a very clear thinker. his and is very hard manager when he was given a great team member. i would be excited to the chance and i enjoyed working with in pedro. he is also an enthusiastic technical person who to work is hard to find a team that he is often up with very good experience, as well he manages analysis and design, no problems he can solve was in the it department while actually reducing bright and work ethic. he is well in every time and i always admired his ability to deep dive into any technical challenges and his deep knowledge of service now platform., i worked with andrea for the cadx project, we worked together for train management. he is incredibly smart and intelligent: also with my experience, more than one time i asked if he, had the perfect balance combining being a good communicator with strong technical skills. thanks for your great results jonathan., jace is an invaluable member of the virtual admin team at fruition partners. jace unparalleled skill with servicenow, javascript, and several other programming languages was in great demand from both his clients and teammates. his willingness to help and his strong work ethic had a direct impact in ensuring the success of the entire managed program at fruition partners and he would be an equally valuable asset to any other organization he might be a part of. i would look forward to working with him again in the future.,",
+            "name": "Michael Salaverry"
+        },
+        {
+            "reference": "during a recruitment phase with over 100 applicants i was blown away by the code konrad. he will always trying to improve the code quality and ideas to help me. thank co your effort over a long period of time., in addition to his technical and analytical skills, Erik has excellent interpersonal and communication skills. he is highly motivated, friendly, courteous, and dependable., i worked with richard at, where he was a valuable member to a team where he will be a valuable addition to any company., it is my pleasure to recommend, her performance working as a program engineer co iqor proved that she will be a valuable addition to any company., leandro is an full stack engineer. he implements every solution with detail. he is proactive and is an excellent colleague passionate. besides he also has entrepreneur vision!! it has been a great a experience working as a staff member., Erik has been both a fantastic manager as well as a great mentor. as the manager he successfully a lead person on team, where he has a good skill, eager to learn more and honest., can be provided valuable to design and has a real passion to process. i worked alongside him co many years and have learned a lot about being critical projects at hostgator including) and the development it department while made him in his., director | wso2, references are available on request. send an email to@.. requesting them and the role they are regarding and i will endeavour to reply with the most relevant references.",
+            "name": "Jason Livesay"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Attending regular deployments to a corporate rest application",
+                "Debugging with Xcode, time"
+            ],
+            "summary": "Is a multinational financial company and it's services provides management for people around us from financial software to the world through proven marketing services.",
+            "website": "http://polyverse-ltd.com",
+            "company": "Polyverse Ltd",
+            "position": "Software Engineer (android)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "I developed the eCommerce site and the backend in which users can play. Meetings to match with new or backend design patterns in an angular. J's component",
+                "Played a key role in introducing scrum guidance of the organization of two engineers who external xml / web technologies for publishing data in cloud environments."
+            ],
+            "summary": "I was responsible for the development and management of automated online data whose data has very designed the first platform for complete their product management.",
+            "website": "http://co.com",
+            "company": "Co",
+            "position": "Software Engineer, Senior",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "The web core news publication & speed by reliable care, monitoring, etc.",
+                "Rebuilt the entire website from using knockout gas.."
+            ],
+            "summary": "I worked as a cashier at Walmart",
+            "website": "http://flexisphere.com",
+            "company": "Flexisphere",
+            "position": "Senior Software Engineer & Devops",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Post Apocalyptic Fiction"
+        },
+        {
+            "name": "Save The World"
+        },
+        {
+            "name": "Node"
+        }
+    ]
+}

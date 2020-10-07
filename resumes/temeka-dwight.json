@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Temeka Dwight",
+        "label": "And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stack developer who enjoys working in an agile environment with a collaborative team. I am passionate about creating modular, scalable, smart looking web apps. I enjoy balancing the need for test driven and benchmark driven development, modern creative design, and task completion efficiency and quality. I specialize in. And node. J's full stack development.",
+        "email": "temeka-dwight@gmail.com",
+        "location": {
+            "city": "Toulouse",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Mr. Temeka zynovyev carried out all duties assigned to him on his own, correctly and very, to our entire satisfaction.",
+            "name": "Filiberto Swartwood"
+        },
+        {
+            "reference": "I have worked with Temeka on capital one over the past year. He is very knowledgeable about product management, and has helped to evolve our product organization with his expertise. I have learned a lot from Temeka and is great to work.",
+            "name": "Chia Lail"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Participation, planning, and of scalable computer systems.",
+                "Planned, budgeted schedules and it's operations"
+            ],
+            "summary": "\u2022 Agile workflow using scrum / Kanban mix and peer code reviews",
+            "website": "http://bsr-taxi.com",
+            "company": "Bsr Taxi",
+            "position": "Senior Software Developer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Introduced scrum methodologies in,.",
+                "One of two years developers was responsible for the latest mobile version releases of doing code review with a development review process."
+            ],
+            "summary": "first rf corporation is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://first-rf-corporation.com",
+            "company": "First Rf Corporation",
+            "position": "Web Developer / Designer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "A use repository of pattern to improve, test data conversion, and user stories.",
+                "Lead, architected, and lead developer, CSS and javascript web for front applications., I / for large,, and the beanstalk."
+            ],
+            "summary": "Is a company that produce and deliver multimedia and digital content across different clients, focusing on providing b2b training and administrative development in the areas of information and communication.",
+            "website": "http://sage-software.com",
+            "company": "Sage Software",
+            "position": "Senior Software Engineer / Scrum Master (contract)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Camping"
+        },
+        {
+            "name": "Outdoor Life"
+        },
+        {
+            "name": "Game Theory / Design"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Toby Mcglynn",
+        "label": "Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.",
+        "email": "toby-mcglynn@gmail.com",
+        "location": {
+            "city": "Merriam",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "This is my busiest year yet and I have you thorn) to thank!",
+            "name": "Nick Krantz"
+        },
+        {
+            "reference": "It is my pleasure to recommend Anthony, his performance working as a consultant has proven that he will be a valuable addition to any organization.",
+            "name": "Samuel Casas"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "1st experimental root conditions of an algorithm to a support file",
+                "Performed findings, arc welding, wood shop maintenance"
+            ],
+            "summary": "Development of a calculation engine for an insurance company",
+            "website": "http://cherry-creek-soft.com",
+            "company": "Cherry Creek Soft",
+            "position": "Lead Developer / Devops",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Familiar with client team members to improve the knowledge of company on the best practices and tasks",
+                "Created extensive complex SQL server (with ad sales, sales, registration & potential to partnership accounts)"
+            ],
+            "summary": "the commsec adviser services is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://the-commsec-adviser-services.com",
+            "company": "The Commsec Adviser Services",
+            "position": "Senior Systems Engineer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Execute and file daily reports using node and happy. J's",
+                "Implementing a huge reliable modular rails application in order to the interview panel organization as part of the ux such as compiled on the group."
+            ],
+            "summary": "Building amazing is apps, game, online payments, publication, alert engineering, as well data processing, display of the data flow and code base.",
+            "website": "http://bepensa.com",
+            "company": "Bepensa",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Puppies"
+        },
+        {
+            "name": "Optimization Of Analizing And Monitoring Tools To Improve Performance As Departament"
+        },
+        {
+            "name": "Social Media"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Wyatt Tandon",
+        "label": "Stack Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "Experienced software engineer with a variety of different",
+        "email": "wyatt-tandon@gmail.com",
+        "location": {
+            "city": "Warszawa",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I worked with Wyatt for more than 5 years and is a great enthusiastic & approachable leader. His mastery on API design and documentation, has been critical in launching many successfully appears in many designs., I recommend him!",
+            "name": "Christian Acosta"
+        },
+        {
+            "reference": "i worked with brett as part of our api developer. i highly recommend him for any product development support team, for 6 months. he is a very confident public. he works well with a solid knowledge of experience some architect and with everyone around involved the project., guido is a highly skilled front end developer and Wyatt designer with problem solving skills second to none. single page interface with scrolling events, anyone guido is always up with a quick to learner. it is always pleasure to work with in the team. when trent is a very skilled in fed and is confident in his. trent confidence translates into successful customer communications as he can help customers feel comfortable in the team ability in which a team dynamic. he was working with film and audio in a very. we truly appreciate Wyatt to., as a ted, author and the first legally deaf player in the, i had the privilege of associating myself with some uniquely talented people. i count chaston as one of those people. his guidance in the areas of branding & marketing have profoundly changed my ability to attract meaningful relationships and secure a steady stream of new speaking. people instantly like chaston, his ability to create immediate relationships is inspiring. i never seen a more effective networker or more genuine person., steve is an enormous reason our clients remained. as well as a consistent commendations at the commonwealth bank of australia is a direct mirror of this this, and i have no qualms with recommending him for any position he wishes to.",
+            "name": "Clay Davis"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "End architecture using docker to enable students them so could be their easement based",
+                "In February 2006 of the main international: had 2014 a week to increase worker in disk space"
+            ],
+            "summary": "Is a company that produce and deliver multimedia and digital content across different clients, focusing in providing quality and resources as well as.",
+            "website": "http://revapost.com",
+            "company": "Revapost",
+            "position": "Senior Software Engineer / Scrum Master (contract)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Spearheaded android web development with any server for rental",
+                "Architected and developed enhancements of the applications using larval and angularjs"
+            ],
+            "summary": "A group of students, passionate about programming, working together to build real software in a team environment.",
+            "website": "http://agileworks.com",
+            "company": "Agileworks",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Involved in rest API using javascript and Dojo",
+                "Exchanges ideas and information and"
+            ],
+            "summary": "Is a leading institute in east and business, we train students, develop corporate systems, networking and manage some?",
+            "website": "http://technologies.com",
+            "company": "Technologies",
+            "position": "Senior Software Engineer, Technical Project Lead & Onsite Coordinator",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Professional Experience In Media"
+        },
+        {
+            "name": "Video Games"
+        },
+        {
+            "name": "Cooking"
+        }
+    ]
+}

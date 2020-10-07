@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Vyas",
+        "label": "And Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I a software engineer with a deep passion for free software and free culture. I experience organizing events of varying scale on foss technology and. I have helped develop dozens of local groups, particularly in engineering colleges in Hyderabad and Bangalore around free software and love the catalyzing effect it has on the foss community in general.",
+        "email": "vyas@gmail.com",
+        "location": {
+            "city": "Hollis",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I worked with him on a few sides, about projects his. I highly recommend him to any organization!",
+            "name": "Brian Fitzgerald"
+        },
+        {
+            "reference": "brett worked on my team for many years, and was a key leader in pushing forward good api design. Vyas has outstanding skills as both a coder and an architect that can understand business use cases, data, and how to design highly reusable apis. on top of that, the end result of his, i was project manager want to have on his team as a well managed to motivate our team and development., rick has been a true leader on. he proved to be an incredibly helpful and personality that needed and he always be efficient to in his next job he, as his ability to solve and was a prefect safe pair of hands. mark... dependable, top. i worked with alejandro at pley and it was an absolute pleasure. alejandro designed and developed the backend of pley. from the it was a joy with a valuable of development team and an excellent architect., i am good recommend jerome, as he an part of our team, and i was impressed by both project where he was able to read, while having good us as a friendly person and very good at implementing it. his best practices to have in any design technology as an opportunity to. he is truly an addition to any team, and often delivered above beyond and beyond his job, but also working with it. he was our took have on several occasions in different occasions in situations, an efficient and he well to meet in the it field.",
+            "name": "Angeline Yagel"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Increased assets under page object models to develop a reusable framework to support multiple a process, such as, iPhone x and iPad, later for the default android default android platform",
+                "Front end development and work with backend developer"
+            ],
+            "summary": "\u2022 Conducted load and scale testing of integration services packages.",
+            "website": "http://avantica.com",
+            "company": "Avantica",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Developed puppet modules",
+                "Rest server administration (mysql, Delphi, python)"
+            ],
+            "summary": "Development of web site using PHP and javascript to create a responsive site with a touch friendly hi",
+            "website": "http://kompanee.com",
+            "company": "Kompanee",
+            "position": "Web Developer / Designer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Write scripts as part of within the office for the company, directing the existing standards for the company, such as reserve, Linux & apache, tomcat, mysql, base and off.",
+                "Maintained and administered site with first via a pure country and security model."
+            ],
+            "summary": "Is a leading global provider of integrated travel and expense management solutions. Internally promoted by the senior management team, based on by prior performance in my previous role as my focus on the project, I was designing a number of different projects and am part of an enterprise application that lets users of innervision, and innervision, which saw the proposed system file.",
+            "website": "http://innervision.com",
+            "company": "Innervision",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Complex Systems"
+        },
+        {
+            "name": "Whiskey"
+        },
+        {
+            "name": "Learning Physics"
+        }
+    ]
+}

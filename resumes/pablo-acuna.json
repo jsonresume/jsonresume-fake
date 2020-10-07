@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Pablo Acu\u00f1a",
+        "label": "Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer with more than four years of experience in the application development process and database analysis. I have been involved in many different projects to make sure the standard quality. I am a very product focussed developer, very motivated and very eager to learn new stuff.",
+        "email": "pablo-acuna@gmail.com",
+        "location": {
+            "city": "Qu\u00e9bec",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "the microsoft stack is matt bread and butter and he was in his element when he was on the hunt for a solution to a challenging issue the team was facing. it was a blast working with him on the pulse team and i be more than happy to call him a team member again on a future project., matt can handle any task with thorough consideration of the impact of the task design and efficiency on existing systems. his expertise were working as well as several disney mobile, as ios developer and ios on developer. his in learning as well as a consistent commendations at the commonwealth bank of australia is a direct mirror of this this, and i have no qualms with recommending him for any position that he is, and an incredible asset.",
+            "name": "Sam Clark"
+        },
+        {
+            "reference": "i worked with andrey on at least 5 projects already. frankly speaking it would be really hard on those ones without his knowledge, expertise and efforts. he has the ability to remain remarkably focused, despite the volume of work he work. he is also very easy to work with!, marko has excellent technical skills. trent is also a very good professional in. besides being multilingual, Pablo was great to communicate with daily even as a remote time. i consistently impressed him the success of, his professionalism and great personality is someone who i can count on. on all the projects he was always worked on. i would definitely recommend him to my team.",
+            "name": "- ()"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Lead the development of major analytics platform for the company. Worked on website with them to design a hybrid",
+                "Cents, verizon, wireless, networking, & etc."
+            ],
+            "summary": "Is a leading it software outsourcing company in Qu\u00e9bec, we always continue, making our core values and bringing happiness to our clients.",
+            "website": "http://wordwright-web.com",
+            "company": "Wordwright Web",
+            "position": "Software Developer / Architect",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "School captain and hiring of executive staff",
+                "Wrote strategy for modules and pages for applications, improving efficiency"
+            ],
+            "summary": "Is a platform that allows citizens to hold government agency directly and publicly accountable for their actions.",
+            "website": "http://factset-research-systems-inc.com",
+            "company": "Factset Research Systems Inc",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Saw how other the ad tech resources. Built by socket city other in other over people",
+                "Mobile apps."
+            ],
+            "summary": "Maintain and improve a personal finance tool, focus on performance and security",
+            "website": "http://crux-consultores-a.com",
+            "company": "Crux Consultores A",
+            "position": "Software Engineer / Team Lead / Project Manager",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "General"
+        },
+        {
+            "name": "Women And Pwd Empowerment"
+        },
+        {
+            "name": "Tech Enthusiast"
+        }
+    ]
+}

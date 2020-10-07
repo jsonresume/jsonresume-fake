@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "\u8521\u98de\u98de",
+        "label": "And And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "i am an extremely adaptable developer with an aptitude for delivering solutions that exceed expectations. i strive to stay on the bleeding edge of current technology and look to continually enhance my skillset. over the course of my career i have had the privilege to work with emerging technologies on mission critical projects. this has resulted in a flair for developing robust, manageable solutions. with a history in creating computer graphics (3d and 2d), i have a keen eye for good design and ux which enables me to see potential problems that many developers do not. along with being completely at home administering servers in the terminal via, this is what makes me confident in calling myself a full stack developer.",
+        "email": "cai-fei-fei@gmail.com",
+        "location": {
+            "city": "\u6df1\u5733\u5e02",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "leonid kuznetsov was working at orlando science center on a project mycloud for western digital. the scope of his responsibilities was writing code for android and ios on reactnative framework. he was using javascript / java / swift. also, he was writing unit / integration tests to confirm quality and, communicate with customer on others. leonid is also passionate about his writing job and testing was like how to use he will deliver is absolutely. we so thankful to have him to create a technically while around him, while i working with chris again in the one., andrey is a quick learner, and brought a unique sense of humor, and never push worked on development. jasen always found adam time to help me when i needed help it. he is always quick to find the best out of the people and is committed to the work more he does. afraid to do so best we managed to be on his own little did, he with our first team.",
+            "name": "Juan Carlos Carlos Carlos Martins De De De De De De Oliveira"
+        },
+        {
+            "reference": "",
+            "name": "Sean Russell"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Use of agile practices like Jenkins, subversion, and vagrant vms tenacity as, with a.. COM, i. created a database system to server model continuous integration server.",
+                "Interviews"
+            ],
+            "summary": "Worked on a project for what orlando science center parks & resorts, one of the oldest and the biggest accounts of the company, migrating from a legacy PHP platform to angular. A Jays' and node with bootstrap and javascript query based",
+            "website": "http://orlando-science-center.com",
+            "company": "Orlando Science Center",
+            "position": "Web Developer / System Administrator",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Analysis of the application in the market",
+                "The single managed and distributed work team to identify, and resolve technical issues and procedures to develop ensure timely accurate and sales."
+            ],
+            "summary": "pace plc is a company whose focus is on delivering top notch web and mobile applications to our clients.",
+            "website": "http://pace-plc.com",
+            "company": "Pace Plc",
+            "position": "Jr Network Administrator",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Was one of the first three apps in the WordPress",
+                "Worked on the main react app, developing a pouch restful web based services"
+            ],
+            "summary": "Is a platform for secure SMS messaging for bitcoin transactions.",
+            "website": "http://rtickle8-studios.com",
+            "company": "Rtickle8 Studios",
+            "position": "Software Engineer / Infrastructure Engineer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Reading Non Fiction"
+        },
+        {
+            "name": "Discussing Film + Literature"
+        },
+        {
+            "name": "Applications"
+        }
+    ]
+}

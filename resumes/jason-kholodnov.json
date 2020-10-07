@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Jason Kholodnov",
+        "label": "Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer with three years of professional experience as full stack web development. In that period I have worked on back and front end, was in charge of dev and developmental tasks, developed micro service and monolith architectures. I say I am an expert in those, as I still learn new things every day, but I think I have a decent overall knowledge of how things work, how they should work, and why they. I believe in balance of new technologies and good old principles.",
+        "email": "jason-kholodnov@gmail.com",
+        "location": {
+            "city": "Uzhhorod",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Jason is a great team lead. Not only is a truly full stack developer. He has the combination of skills and an excellent architect pretty soon.",
+            "name": "Rachel Huffine"
+        },
+        {
+            "reference": "Jason encyclopedic knowledge of network equipment is an incredibly useful resource. He always seems to have time to help and it was a genuine pleasure working with him., Jason is an extremely capable developer, and productive together for a developer. He gives you for completely ability through an important asset to the project and always toiling through the inevitable hard times and building a startup perspective to that encourages an innovation process and a. highly recommended!",
+            "name": "David J Maciejewski"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Implemented a scalable PC environment which involved in installation, / / operation, maintenance, and updates.",
+                "Led dev team responsible for and new the product innovation center"
+            ],
+            "summary": "Worked on a variety of projects, mostly by web design and implementing new features.",
+            "website": "http://codix.com",
+            "company": "Codix",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Developed metrics departmental pivots to scrape data from social data from to a Bluetooth device",
+                "Design and development and development of a new team around the 100 developers performance. Plan the release and billing was monitor of average the 10 men per year."
+            ],
+            "summary": "I was given the chance to do my internship in Uzhhorod Uzhhorod, Uzhhorod Uzhhorod, and many network",
+            "website": "http://skyrr-skyrr-now-advania.com",
+            "company": "Sk\u00fdrr (sk\u00fdrr) (now Advania)",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Define and implement new content features using Apache, PHP, mysql database, mongodb, cakephp, prediction API, data, and monitoring / presentations, executive management / mobile devices, etc.",
+                "Moved servers with git"
+            ],
+            "summary": "I started working on a freelance website with. J's, but required assistance for the project required. As the company grew, I was able to establish a robust system that runs the tool to be used in our spa.. as a /, I used the of this prototype for a startup based on the project, based on specific hardware. We also worked with different roles. This technical project, an open source, I really need to search engine (but now with people) from around us design, Linux and black limited servers.",
+            "website": "http://black-limited.com",
+            "company": "Black Limited",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "/ Linux"
+        },
+        {
+            "name": "Ham Radio"
+        },
+        {
+            "name": "Foodie"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Dragan Waltz",
+        "label": "Stack",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer with strong technical leadership and management experience. I believe my main strength is the ability to align engineering practices with the organizational goals. Over the past few years, I have been spending time in my time in javascript, but in this position in a variety of, I decided to learn new things and I enjoy to stay constantly tinkering with different ways to expand my knowledge and improve existing work in order to pursue my high availability is the industry.",
+        "email": "dragan-waltz@gmail.com",
+        "location": {
+            "city": "Colombo",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I worked with Dragan year and a year with christian I learned a lot about not. He was great at getting the things done time and my work with him again., Dragan is a talent with a rare combination of programming ability and an aesthetic eye. I appreciate his expertise and admire how he makes his job look easy to work with.",
+            "name": "Bernardo De La De Oliveira"
+        },
+        {
+            "reference": "I worked with Dragan for the entirety of his career at marmalade and he has proven himself time and time again in the it related to an it and I was always impressed the ability to not deliver results with.",
+            "name": "Robert Lee"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Develop, maintain and manage customer service plans, including sales, over, and.",
+                "Transitioned an the adoption of version of the application that and was delivered in use of the touch devices in the daily use"
+            ],
+            "summary": "Is a leading institute in east and business, we train students, develop corporate systems, networking and manage some?",
+            "website": "http://finleap-gmbh.com",
+            "company": "Finleap Gmbh",
+            "position": "Web Developer / Designer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Discoverer reports to evaluate the migration of technical tasks",
+                "Developed user interface for (... COM) using codeigniter larvae and"
+            ],
+            "summary": "\u2022 Provide technical leadership to junior developers",
+            "website": "http://mobak.com",
+            "company": "Mobak",
+            "position": "Lead Software Engineer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Redesigned menu traffic.",
+                "Analyzed arm core requirements"
+            ],
+            "summary": "Is a platform that allows citizens to hold government agency directly and publicly accountable for their actions.",
+            "website": "http://eprize-now-known-as.com",
+            "company": "Eprize (now Known As)",
+            "position": "Senior Software Developer, Agile & Scrum Coach",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Avid Offshore Bros"
+        },
+        {
+            "name": "New Technology"
+        },
+        {
+            "name": "Short Form Science Fiction"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Belshaw Krutewicz",
+        "label": "Engineer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "i am a software engineer with three years of professional experience as full stack web developer. in that period i have worked on back and front end, was in charge of dev and devops tasks, developed microservice and monolith architectures. i say i am an expert in those, as i still learn new things every day, i think i have made principle of rtfm, and have. have some experience with over the last three people throughout my life, i am constantly looking for a new challenge and try to bring the solution which may of employment. i consider myself an engineer that work on a smart work and be looking for ways to make things i discovering new things creative.",
+        "email": "belshaw-krutewicz@gmail.com",
+        "location": {
+            "city": "Birmingham",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "",
+            "name": "Dale V V V R"
+        },
+        {
+            "reference": "not only does jimmy have fantastic technical skills, but also he possesses a drive for constant improvement and a willing desire to learn and embrace new technologies. be discouraged by his chemistry background, he has to his demonstrated strong team spirit in making an incredible positive energy and the ability to communicate and push the projects to completely develop top of this that makes the entire team stronger., brian has shown a passion and mature skill set to support customers. i have been managing mark for the last two years at. he always receives 100 satisfaction ratings from our customers and that is not an easy to use., one of the best technically talented people i have come across in / history., it was a great pleasure working with kim. the project we worked on had very tight deadlines and kim management working him for a qa analyst. he worked on really enjoyed having his ability on a team and was able to learning understand and new highly complex problems, in situations, where he was able to take up on tough development and challenges, regardless of the subject matter. i have no hesitation in recommending him to anyone.",
+            "name": "Johnson"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Assisted customers in developing a micro service architecture for strategic front, and provided its support to the general operations utilized.",
+                "Designed original content based in"
+            ],
+            "summary": "snapsho is a company whose focus is on delivering top notch web and mobile applications to our clients.",
+            "website": "http://snapsho.com",
+            "company": "Snapsho",
+            "position": "Web Developer / Designer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "The optimized delivery game plays framework in.",
+                "Team management app for the.. a developer terraform community / play. Growing knowledge from just in the two stack with react.. i. I wrote some the I for my team, designing prototypes, and designing reusable a framework for the oracle adf and Weblogic platform."
+            ],
+            "summary": "I worked in the information security and risk management platform for an iOS application that was not having a very keeping the on high quality audio API.",
+            "website": "http://elin-duxus.com",
+            "company": "\u00c9lin Duxus",
+            "position": "Software Engineer (gis)",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Assisted customers with the digital loss in the field",
+                "Started and helped transition to an open source library java called visual radio."
+            ],
+            "summary": "Worked on a variety of projects for clients such as,, as health, and more.",
+            "website": "http://healthtrio-inc.com",
+            "company": "Healthtrio Inc",
+            "position": "Sr Software Engineer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Letting Off Steam"
+        },
+        {
+            "name": "Cycling"
+        },
+        {
+            "name": "Music Performance And Production"
+        }
+    ]
+}

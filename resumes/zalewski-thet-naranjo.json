@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Zalewski Thet Naranjo",
+        "label": "And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stack developer who enjoys working in an agile environment with a collaborative team. I am passionate about creating modular, scalable, smart looking web apps. I enjoy balancing the need for test driven and benchmark driven development, modern creative design, and task completion efficiency and quality. I specialize in. And node. J's full stack development.",
+        "email": "zalewski-thet-naranjo@gmail.com",
+        "location": {
+            "city": "Bhubaneswar",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "It is my pleasure to recommend, her performance working as an SEO for petdom proved that he will be a valuable addition to any company.",
+            "name": "Patrick Pullman"
+        },
+        {
+            "reference": "",
+            "name": "Matt Lebel"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Created design and development training for the apple stores.",
+                "Programming and developed API for various business landing pages"
+            ],
+            "summary": "Worked on project for Walt Disney parks & resorts with angularjs and node. Gas technology to build a generic components to be on the site and others in the form of systems and built the site with PHP",
+            "website": "http://kimono-labs.com",
+            "company": "Kimono Labs",
+            "position": "Web Development Intern",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Started as green room with the 5. daily planning agile cycle principles, including solid creation, and development of execution, which was helping develop to ensure the brand strategy from an towards publishing. 60 using jira stack. I learned c + + on code that were from the full stack in the issue at hand. I also have worked with a tester to plan store for all the game content types.",
+                "Wrote the unit tests for test java components (unit testing, testing frameworks, creating and code) through several frameworks, including migration from a procedural code base to, more, and"
+            ],
+            "summary": "\u2022 Provide technical leadership for junior developers, use to company more specific",
+            "website": "http://nepal-rastriya-bank.com",
+            "company": "Nepal Rastriya Bank",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Html email and photo shop",
+                "Design"
+            ],
+            "summary": "As I was responsible for developing and designing android application, using technologies like android and rest API",
+            "website": "http://exchange-inc.com",
+            "company": "Exchange, Inc",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Mentoring"
+        },
+        {
+            "name": "F1 Racing"
+        },
+        {
+            "name": "Political Art And Illustration"
+        }
+    ]
+}

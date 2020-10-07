@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Nayib \u00c7a\u011fl\u0131n",
+        "label": "And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.",
+        "email": "nayib-caglin@gmail.com",
+        "location": {
+            "city": "Berlin",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I worked closely with hmsk at webpay and highly recommend him. I saw him lead product development, support customers, and handle the account. He was an extremely technical engineer and a very good team player., I had the pleasure to work with Nayib over a year at Chris. He has an excellent using heart and for the company. Nayib consistently brings fresh perspective and ideas to a new level team.",
+            "name": "Chris Funderburg"
+        },
+        {
+            "reference": "I had the opportunity Nayib work with Gilberto for four years. During that time he exposed not only all his excellent knowledge about coding, but his commitment Nayib get the best result for the project we were working on. He did not an even easy Nayib get up with the expected of. He would be an asset Nayib any organization! , I am known for a long time, references. Are only from the, most talented it, he was doing the same thing for everyone on the team, but still never missed a meeting, nor an important deadline despite the complicated and often tough environment.",
+            "name": "Sean"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Increased yearly revenue records to determine a major site, with stock and trading hardware algorithms",
+                "Updating code, debugging, test, and test scenarios"
+            ],
+            "summary": "Is a company that provides a SaaS location intelligence platform.",
+            "website": "http://accenture-dublin-ireland.com",
+            "company": "Accenture, Dublin, Ireland",
+            "position": "Senior It Engineer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Overseas working directly with other nations' military forces",
+                "Qa testing"
+            ],
+            "summary": "I was responsible for the development and management of automated online data and platforms.",
+            "website": "http://wave-financial.com",
+            "company": "Wave Financial",
+            "position": "Sr Software Engineer / Devops / Architect (remote)",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Customer relationship development (CRM relationship)",
+                "Recruited and interviewed prospective adult volunteers."
+            ],
+            "summary": "Development of web site using PHP and javascript to create a responsive site with a touch friendly hi",
+            "website": "http://fabrika-online.com",
+            "company": "Fabrika Online",
+            "position": "Senior Web Developer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Technology In Education"
+        },
+        {
+            "name": "Snowboarding"
+        },
+        {
+            "name": "Musics"
+        }
+    ]
+}

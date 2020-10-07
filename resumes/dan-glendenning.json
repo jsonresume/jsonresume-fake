@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Dan Glendenning",
+        "label": "Student",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who loves working with open source technology. I work best in planning the architecture of web applications and their development life. I also love to get the community involved and have had much experience with building and organizing large open source groups.",
+        "email": "dan-glendenning@gmail.com",
+        "location": {
+            "city": "Tx",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "ben@. COM",
+            "name": "Alexey Gonzalez"
+        },
+        {
+            "reference": "steve is an enormous reason our clients remained. as well as a consistent commendations at the commonwealth bank of Tx is a direct mirror of this, this and software developer)., i have worked with jasson on a challenging project. we have implemented a digital platform for an international media company. the project has been recently awarded for its innovative architecture as well as its user experience. Dan has skill and great communication skills with were both the very technically intelligent, and i was impressed by making him listening and many customers. i would recommend him for any engineering opportunity., bret knowledge of all aspects of information technology is second to none.... bret technical skills are only matched by his personal skills. he has the ability to build relationships with customers and coworkers. i would recommend him for any engineering opportunity and to work. he is result driven and knows how to keep his teammates. his willingness to take on time out, his solutions and focus on solving the problems. he is result driven and knows how to keep high level overview whilst working on small. a pragmatic agilist in it in it my best form of blogs as well as various articles for., Dan has many years of experience in it under his. i had an easy time alongside such a bright developer. i do hope we will cross paths again in the future., i continue to have the up most confidencein in him as a knowledgeable and professional programmer as well as a talented interactive web designer. the most impressive quality about him is how he continues to",
+            "name": "Patrick A Shanahan"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Works to discover for usage and configuration of software servers.",
+                "Reduced required costs of all products and email created 2. 0 for school district systems of computing (including offshore) for various modules in the company"
+            ],
+            "summary": "Is a leading institute in east and business, we train students, develop corporate systems, networking and manage some?",
+            "website": "http://services.com",
+            "company": "Services",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Required to understand how different application logic to solve bugs",
+                "Worked on SMTP / solution for receiving files from unix and windows 7."
+            ],
+            "summary": "Development of web site to manage the contract hosted by the plumb development azure team",
+            "website": "http://plumb-development.com",
+            "company": "Plumb Development",
+            "position": "Lead Developer / Devops",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Preparing test plan technical documents and requirements required. Knowledge with development teams.",
+                "Performed real estate website functionalities to the customer to be more efficient of traffic over 600 being a + of challenging ibm big push infrastructure."
+            ],
+            "summary": "I was john studio for the development and management of automated online data whose data is used to work on google, to deliver beautiful, effective websites for architects a PHP based general application.",
+            "website": "http://john-studio.com",
+            "company": "John Studio",
+            "position": "Senior Software Engineer (trading Systems)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Wearables"
+        },
+        {
+            "name": "Computer Games"
+        },
+        {
+            "name": "Playing Drums"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Jakub Heagney",
+        "label": "And And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "i am a software engineer with three years of professional experience as full stack web developer. in that period i have worked on back and front end, was in charge of dev and devops tasks, developed microservice and monolith architectures. i say i am an expert in those, as i still learn new things every day, i think i have made principle of rtfm, and not. i have a job offers so for research and design for hours to come from the best university of. i am dedicated to producing web software / application developer, have the opportunity to learn and explore new technologies to expand my knowledge and learn.",
+        "email": "jakub-heagney@gmail.com",
+        "location": {
+            "city": "Burnaby",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Jakub is a pleasure to work with a theme. I would have any team trouble that. Worked with him on my team at sap labs, product owner in Burnaby, cto at intermax, it was easy to see how focused, and thoughtful jack while seeing his work over the last year. He always the first to approach a problem and share his insights in the product knowledge.",
+            "name": "Daniel Bautista"
+        },
+        {
+            "reference": "His ability to and look forward to working with him again in the future.",
+            "name": "Gaurav Gajjar"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Led development team in test automation to the a framework to go long that can be available one hundred of thousand.",
+                "Provide direction of the center"
+            ],
+            "summary": "\u2022 Maintained accurate food & labor costs during shifts",
+            "website": "http://amdocs.com",
+            "company": "Amdocs",
+            "position": "Technical Support",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Logger and monitoring, creating and tracking website for implementations of the network.",
+                "Created payment gateway for use of on the legacy pages"
+            ],
+            "summary": "gocar tours san francisco is a company whose focus is on delivering top notch web and mobile applications to our clients.",
+            "website": "http://gocar-tours-san-francisco.com",
+            "company": "Gocar Tours San Francisco",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "I core infrastructure support, it's team, requirements, and support",
+                "Led legal case opportunities, design, and develop asp. Net web services to users over 10 to 50 raise more java"
+            ],
+            "summary": "I worked on a project which involved the creation of the best practices group, maintained an innovative server architecture to digital media and web development.",
+            "website": "http://a-n-d-technologies-inc.com",
+            "company": "A N D Technologies, Inc",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Design And Ui / Ux"
+        },
+        {
+            "name": "Development"
+        },
+        {
+            "name": "Twitter Bots"
+        }
+    ]
+}

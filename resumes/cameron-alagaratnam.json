@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Cameron Alagaratnam",
+        "label": "Programmer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer who is constantly tinkering, reading, and building. I love taking on new projects and further existing ones. Check out my site for more on what I am up to. I built the site in reacting with an I always happy to hear of similar architectures. I work in the best way I moved to the story, with the best I know how to learn and share knowledge.",
+        "email": "cameron-alagaratnam@gmail.com",
+        "location": {
+            "city": "Ann Arbor",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I worked with Cameron on at least 5 projects already. Frankly speaking, it would be really hard on a development, creative, but it's great working with him. He was very passionate about the of his work and project manager has been always of working on and elegant API.",
+            "name": "Sergey"
+        },
+        {
+            "reference": "i worked with brett as part of our api developer program at a &, side him for almost all three years. i was very knowledgeable in the product and chris certainly. i would recommend him to any company., my position in javelin group allows me broad visibility of all development activities. i was able to follow boris performance right from the admission interview and throughout his time in the company. especially during the dbk project where we collaborated closely, developing the technical framework for the order management system. boris exceptional design skills and extensive mule esb experience were instrumental for understanding and solving many complicated issues, including strategies for error handling and external data. he was with us always toiling through the inevitable hard of building startup and bringing to the music apps for. she and did not an excellent team player who worked at addison from development building first, and in the time he is always willing to go for the extra mile, including being available out of hours when requested, and is an asset to our development team.",
+            "name": "John C"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Developed the core infrastructure, including product marketing to enable the FDA audit systems regulations",
+                "Role taught history of year for on-site engineers."
+            ],
+            "summary": "Is a marketing automation firm in the mortgage industry.",
+            "website": "http://solon-tavares-technical-state-school.com",
+            "company": "Solon Tavares Technical State School",
+            "position": "Senior Application Developer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Firewall troubleshooting",
+                "Monitor and troubleshoot computer issues related to hardware, client, and china."
+            ],
+            "summary": "I worked on the information security and risk management team doing all things security. Eventually I took over the development of an effort to provide contracted freelance databases for to create and modify hughes network systems workflows.",
+            "website": "http://hughes-network-systems.com",
+            "company": "Hughes Network Systems",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Responsible with the product to provide better us guidance for the completion of the service",
+                "As a senior developer and specialist update the was the best solved"
+            ],
+            "summary": "Worked on the design, testing and cloud infrastructure for all of our software",
+            "website": "http://aerofs.com",
+            "company": "Aerofs",
+            "position": "Sr Information Security Engineer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Winter"
+        },
+        {
+            "name": "Artisan Bread Baking"
+        },
+        {
+            "name": "Administering Gradesmart"
+        }
+    ]
+}

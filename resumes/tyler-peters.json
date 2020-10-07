@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Tyler Peters",
+        "label": "Software At",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stack developer who can build services. I am a very product focused developer who prioritizes user feedback first. Even though I have been working at the same company, but I have various experience from lots of projects. I am generally very flexible when investigating new roles.",
+        "email": "tyler-peters@gmail.com",
+        "location": {
+            "city": "Aalborg \u00d8st",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i have known konstantin baikov for many years. we were working together in exigen group in the same project. i very glad to recommend him as a good qa engineer as a dev team for a great team., references will be provided upon request,... seeing the potential in this young man, we decided to ask pan to help us create stories for our new products and communicate with the customers. with passion and creativity, in fact that, he applied to his new skills in all things, kevin desire to serve people is clearly evident., from my time knowing kevin, i know him to be a man of integrity who intelligent, honest, considerate, and values living from the deep meaningful things in life., kevin perrine is creative, passionate, enjoys intellectual challenges, and is a great father and., other references will be provided upon request., email:@. is to, head of a, creative, learning new skills and has always been a great addition to any team., Tyler adds value to every team he is a part of. he is very good at delivering project on time and to specification.",
+            "name": "Clay Cobb"
+        },
+        {
+            "reference": "Modular labs too,: 0466 621 277",
+            "name": "Alexander Wolden"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Built a script to generate bill images automatically with a random number of that of progress users",
+                "\u4f7f\u7528 framework python (Django)"
+            ],
+            "summary": "Developed front-end and backend for a case search module using ruby on rails (backend).",
+            "website": "http://institute-of-telecommunications.com",
+            "company": "Institute Of Telecommunications",
+            "position": "Senior Software Engineer / Rails Architect",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Managed team members",
+                "Consult and systems for scripting and best operational for related customer needs, including liaising with external suppliers () and technical support staff."
+            ],
+            "summary": "I worked as a member of a multidisciplinary team developing advanced diagnostic and prognostic solutions for most military applications.",
+            "website": "http://hmts.com",
+            "company": "Hmts",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Lead builds of some encryption features four main products.",
+                "Developed quality assurance plan for a library."
+            ],
+            "summary": "Worked with a team of four developers. Created spring appears, enabling third parties to request vehicle history and information used. Technologies: go, PHP, mysql,,, selenium, bash, chrome, webdriver,, git, Jura, and always, grunt, reddish",
+            "website": "http://unisys.com",
+            "company": "Unisys",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Socializing"
+        },
+        {
+            "name": "Sport Activities"
+        },
+        {
+            "name": "Craft & Knitting"
+        }
+    ]
+}

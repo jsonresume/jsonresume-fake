@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Valentin Le",
+        "label": "Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a passionate developer focused on delivering high quality, maintainable solutions with my team.",
+        "email": "valentin-le@gmail.com",
+        "location": {
+            "city": "Louisville",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "So I can say he is the right good.",
+            "name": "Daniel Sj\u00f6str\u00f6m"
+        },
+        {
+            "reference": "I know he was doing the same thing for everyone on the team, but still never missed a meeting, nor an important deadline despite the complicated and often tough environment.",
+            "name": "Juliano Wilson"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Successfully launched multiple databases to production as capable of providing insight of service to work efficiently in a production environment",
+                "Assisted interview, research and inventory, and procedures to ensure the timely and accurate of sales, order for the print marketing strategy, and department stores."
+            ],
+            "summary": "",
+            "website": "http://mor.com",
+            "company": "Mor",
+            "position": "Software Engineer / Team Lead / Project Manager",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Implement photography studio such as angular spa, css3, html5, and javascript.",
+                "COM technology: distributed vendor platform using"
+            ],
+            "summary": "Is an independent manufacturer located in Louisville, university.",
+            "website": "http://musicmatch.com",
+            "company": "Musicmatch",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Customer support",
+                "Conducted research and innovation days."
+            ],
+            "summary": "tutorific is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://tutorific.com",
+            "company": "Tutorific",
+            "position": "Software Developer And Analyst",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Fractals"
+        },
+        {
+            "name": "Experimentalmusic"
+        },
+        {
+            "name": "Independent Games"
+        }
+    ]
+}

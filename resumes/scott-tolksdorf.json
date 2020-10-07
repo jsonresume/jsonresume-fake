@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Scott Tolksdorf",
+        "label": "Software",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who can build apps from the ground up. I worked mostly at startups so I am used to wearing many hats. I am a very product focussed developer who practices, user feedback first and. I generally very flexible when investigating new roles.",
+        "email": "scott-tolksdorf@gmail.com",
+        "location": {
+            "city": "Abilene",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "He is a phenomenal hacker and a true team player. Highly recommended! , Scott I truly a field that he would be an invaluable asset to any organization. He was given me to a great colleague and can up with a passion and innovative candidate in it in his. It goes beyond and her last 2 years, and I have worked on my team as well.",
+            "name": "Alexander Malinov"
+        },
+        {
+            "reference": "i worked with philipp for 9 years. he has an amazing ability to not only forsee potential issues, but can design a customers needs. he suggested that we should work be out with some of the different business teams, and he can be trusted to solve the problem., trent is a very talented and knowledgeable developer who is a pleasure to work with. there seems that time he is well. he is agile kind, and committed to work with, but it was easy to learn., contact me at information, technology proved to be an incredibly industrious and intelligent software engineer with whom i had a pleasure to work with. he is a person that never hesitates to take up any kind of team that work with and continues to impress me with his. when trent!, you can be amazed with how fast renaldy learn tough subject in a very short time given his non it background. he has a deep analytical skill, hard worker as well as a very good team player and a pleasure to work with. someone ridiculously efficient professional to work with him., during the nearly two years i worked with alejandro i was continually impressed. alejandro is a developer who does everything the most popular customers needs. he not even a easy to do and even better people skills. he is a great asset to the team and is always willing to share his knowledge with others. he is a great person to work with and is a highly motivated it professional with an excellent execution machine.",
+            "name": "Ezequiel Araujo"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Making and appropriate and web server.",
+                "Worked with developers."
+            ],
+            "summary": "I was the first mobile application developer hired for two customers from various to the client manager of. I was hired to help the administrative duties of the company. This included guiding many new concepts into the market platform.",
+            "website": "http://gamereactor-sweden.com",
+            "company": "Gamereactor Sweden",
+            "position": "Software Developer / Data Analyst",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Provided direction service, code review, and upgrade of all the servers, as well as working including storage network price optimization, (,,), (common test framework)",
+                "Troubleshooting to multiple clients include: telecom, mail, SMS, push notification, services & etc."
+            ],
+            "summary": "I was responsible for the development and management of automated online data whose data is used to work for google,,",
+            "website": "http://mastek-horace.com",
+            "company": "Mastek (horace)",
+            "position": "Junior Developer / Developer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Created a customer service for the job and modeling building.",
+                "Front end redesign of and."
+            ],
+            "summary": "I was hired to help refactor an existing application to help users with new technologies. I was responsible for the deployment and bug fixes and new features, as well as this technical project.",
+            "website": "http://psychology-software-tools.com",
+            "company": "Psychology Software Tools",
+            "position": "Software Developer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "See New Technologies"
+        },
+        {
+            "name": "Home Automation Programming"
+        },
+        {
+            "name": "Semiotics"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Luis Fernando Kishore Martinez",
+        "label": "And And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a technology fanatic living in,. While my work deals with technology, systems engineering and i.. Operations, my focus is to improve existing processes and continuing to learn how to better facilitate business needs in more reliable and faster ways. It's rewarding for me to learn and share techniques that allow everyone to work smarter with technology.",
+        "email": "luis-fernando-kishore-martinez@gmail.com",
+        "location": {
+            "city": "San Francisco",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I worked with him on a few sides, about projects at quados internet quados internet a where including the same time. He was central to the development of some key applications on the dvla projects I was involved in. I found his approach very professional with a keen eye for detail and is calm when faced with difficult or frustrating. I would recommend resort to any company without hesitation.",
+            "name": "Maksym Hinesley"
+        },
+        {
+            "reference": "He is an excellent teacher, trainer and having exceptional leadership quality, and punctual, from a British point of view nothing is impossible. He is the person I know, having highest self motivation.",
+            "name": "Ivan"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Technologies used: PHP, CSS, javascript & angular:, adobe photoshop, adobe illustrator, photoshop, Drupal",
+                "Created content for immigration services and online"
+            ],
+            "summary": "Is a platform for secure SMS messaging for bitcoin transactions.",
+            "website": "http://quados-internet-a.com",
+            "company": "Quados Internet A",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Tech lead for the rocket advertising platform, and our customers to ventures an from early age.",
+                "Created and maintained ci / CD pipeline with guidelines, development, and release."
+            ],
+            "summary": "I was one of the lead developers working on the internal booking system known as, and had to work with various booking partners to integrate with the complex issues involved in this global scope.",
+            "website": "http://accenture-australia.com",
+            "company": "Accenture Australia",
+            "position": "Senior Software Engineer (java & J2ee)",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "As a software player I was to develop the brand extension to flow",
+                "Contribute to the ewes. I player. Moved from scratch at that from a codebase within could docker templates could elastic load balancers"
+            ],
+            "summary": "I was responsible for the ongoing development and maintenance of the student facing area of the website. I was involved in the development of this analytics system to data analysis, data analysis and reporting for all data infrastructure.",
+            "website": "http://first-robotics-team-1073.com",
+            "company": "First Robotics Team 1073",
+            "position": "Senior Software Engineer (team Lead)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Creative Hobbies"
+        },
+        {
+            "name": "Autosports"
+        },
+        {
+            "name": "Tutoring"
+        }
+    ]
+}

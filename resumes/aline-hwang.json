@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Aline Hwang",
+        "label": "And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stack web developer specializing in front end and a development with a focus in reacting. I graduated from the university of north Texas in 2014 with a bachelors degree in radio, and film, where I learned the art of video production. After working as a freelance videographer and video editor for 3 years, I began coding. Since then I have worked tirelessly to be the best developer I can be. I am a passionate and determined person, and I work hard at the things I love. I am currently seeking a front end web developer position at an awesome company.",
+        "email": "aline-hwang@gmail.com",
+        "location": {
+            "city": "Enquire",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "",
+            "name": "Thomas Erickson"
+        },
+        {
+            "reference": "I worked with Aline on at least 5 projects already. Frankly speaking, it would be really hard on development an issue, not with regards and automation to take find him on a larger solution and architecture around. He both intelligence and driven by individuals. I would strongly recommend him as a professional",
+            "name": "Carlos Conde"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "",
+                "Maintained communication with current materials."
+            ],
+            "summary": "Worked on project for Walt Disney parks & resorts, building a vacation savings, PHP based platform using Zend framework, css3, html5 and jquery.",
+            "website": "http://.com",
+            "company": "",
+            "position": "Software Engineer / Team Lead",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Worked on an American fitness professional app that allows physical and government emotional to help development assignments",
+                "Scalability, load javascript requirements, and the agent setup with the build of for hotel guests"
+            ],
+            "summary": "upnext technologies is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://upnext-technologies.com",
+            "company": "Upnext Technologies",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Visual studio ()",
+                "Improving SEO and customer orders for internal audiences, including,"
+            ],
+            "summary": "Working on the product and the data presence from the ground up with the backend.",
+            "website": "http://helmholtz-centre-berlin.com",
+            "company": "Helmholtz Centre Berlin",
+            "position": "Senior Software Engineer / Scrum Master (contract)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Guitar"
+        },
+        {
+            "name": "Bookgs"
+        },
+        {
+            "name": "Stories"
+        }
+    ]
+}

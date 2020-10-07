@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Aline Mitov",
+        "label": "And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a young professional with an interest for emerging new web technologies and with experience in the digital industry. I am looking for a role that will challenge and broaden my coding knowledge, whilst learning new technologies and languages. I am particularly keen to thrive in a creative environment.",
+        "email": "aline-mitov@gmail.com",
+        "location": {
+            "city": "Causeway Bay",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "thayne is a sharp guy and i wish i had more of an opportunity to further develop. highly recommended!, i worked with olcay, when i was in sony working Aline building a custom search Aline for the sony website. i was the po of the team. he just graduated and joined across an hard a impact lot of. she has great to work with a common goal., Aline is a highly motivated professional who needs a never afraid of a software developer at cmd and we looking forward to, and positive outcomes that he took Aline more. he is keen to problem solving and always willing to help his work when it first. i highly recommend him to any product working with john., as a ted, author and the first legally deaf player in the, i had the privilege of associating myself with some uniquely talented people. i count chaston as one of those people. his guidance in the areas of branding & marketing have profoundly changed my ability to attract meaningful relationships and secure a steady stream of new speaking. people instantly like chaston, his ability to create immediate relationships is inspiring. i never seen a manager with chris certainly and would be great to work with.",
+            "name": "Brian Dunnette"
+        },
+        {
+            "reference": "I worked with Aline at, where he was a valuable member of my team API design was not an excellent technical architect and the techniques effective model for a team that leader. Aline is always passionate about his work, and actively developed, and great communication with us., Aline is a great software developer. He has a strong technical skill that, often ones unrelated to his own work, because he a CEO of the, and research I look forward to working with.",
+            "name": "Andrew Rees"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Cold fusion",
+                "Developed a system that has been used to scrape data websites containing various information and sources into an interactive solution that supports wireless, printer requests, and servers."
+            ],
+            "summary": "I was responsible for the development and management of automated online data whose data is used to work for google,,",
+            "website": "http://teach-and-learn-in-korea.com",
+            "company": "Teach And Learn In Korea",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Led the infuse team and provided support for offices across the north American region transition to plan..",
+                "Forecasting"
+            ],
+            "summary": "american web design is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://american-web-design.com",
+            "company": "American Web Design",
+            "position": "Senior Software Engineer / Scrum Master (contract)",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Worked with fully automated continuous integration tools like Jenkins, and Bitbucket, jira, confluence, tenacity and deployments",
+                "Application development and servers"
+            ],
+            "summary": "Developing & implementing design, and making customer it interfaces from the customer facing department and providing integration services.",
+            "website": "http://hp-enterprise-services.com",
+            "company": "Hp Enterprise Services",
+            "position": "Senior Software Engineer (java & J2ee)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Yoga"
+        },
+        {
+            "name": "Investing"
+        },
+        {
+            "name": "Self Study"
+        }
+    ]
+}

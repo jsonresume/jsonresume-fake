@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Zane Simon",
+        "label": "Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software developer with a strong background in Salesforce CRM.",
+        "email": "zane-simon@gmail.com",
+        "location": {
+            "city": "Alajuela",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Zane encyclopedic knowledge of network equipment is an incredibly useful resource. He always seems to have time to help and it was a genuine pleasure working with him.",
+            "name": "Michael Pierce"
+        },
+        {
+            "reference": "Program manager",
+            "name": "Jason Biegel"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Managed developer for financial web application",
+                "Currently leading the development team of developers"
+            ],
+            "summary": "avatar partners is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://avatar-partners.com",
+            "company": "Avatar Partners",
+            "position": "Senior Software Developer & Engineer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Android development, including version 1 2 days, from work",
+                "Continued integrations to make infrastructure on aws, databases and"
+            ],
+            "summary": "\u2022 Worked with a team of 3 fellow students to design and 3d print an infrared camera prototype",
+            "website": "http://clickbalance.com",
+            "company": "Clickbalance",
+            "position": "Senior Software Engineer / Software Architect",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Army achievement medal of",
+                "Instituted coding standards for code needs in New York."
+            ],
+            "summary": "Is a technology company that builds innovative tech for advertising",
+            "website": "http://coker-tire-company.com",
+            "company": "Coker Tire Company",
+            "position": "Web Developer / Designer / Master",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Business Development"
+        },
+        {
+            "name": "Martial Arts"
+        },
+        {
+            "name": "Movie And Animation"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Gabriel Mahmood",
+        "label": "Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software developer with experience developing and testing applications on the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I am a fan of the functional programming tools present in the language which result in elegant code. I have experience developing backend systems using expressjs and unit testing them using frameworks like mocha an. I am also familiar with j2ee frameworks like spring.",
+        "email": "gabriel-mahmood@gmail.com",
+        "location": {
+            "city": "Budapest",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Gabriel worked hard and long on an ambition project. He was a great team member, his code is good and he was a keen problem solved. Thank you",
+            "name": "Alex Fulsome"
+        },
+        {
+            "reference": "As I have known Gabriel Gabriel for many years. We were working together in oxygen group on the same project. I very glad to recommend him as a good an engineer and as a great person. During his tenure with strip project, Gabriel was responsible for designing and executing test plans, documenting scripts,, test results from driving and computer., supervisor at@ answer it deptduring the period of time that Gabriel worked with us.",
+            "name": "Jane Thoen"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Fixed and outlook configuration and updates",
+                "Create and maintain the company web, on progress as well as technical support staff."
+            ],
+            "summary": "I have worked with several companies like, energy, material and many sectors.",
+            "website": "http://futureshop.com",
+            "company": "Futureshop",
+            "position": "Software Engineer / Research Associate",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Generated story ideas to the existing application",
+                ", influxdb time series and 2008"
+            ],
+            "summary": "Is a software development workshop with a focus on RFID and product tracking.",
+            "website": "http://hidef.com",
+            "company": "Hidef",
+            "position": "Systems Engineer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Mongodb, rest API, allowing developers for changes to the work and",
+                "Worked on metrics dashboard tracking () such as Samsung, people, (, consulting, etc.)"
+            ],
+            "summary": "",
+            "website": "http://the.com",
+            "company": "The",
+            "position": "Software Engineer (android)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Sauna"
+        },
+        {
+            "name": "Nodejs"
+        },
+        {
+            "name": "Woodwork"
+        }
+    ]
+}

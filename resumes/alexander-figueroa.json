@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Alexander Figueroa",
+        "label": "Software And Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a web developer that specializes in eCommerce development. Thanks to the hard work and dedication of the open source community, I have had the opportunity to hack on dozens of eCommerce platforms. I love helping entrepreneurs and pairing with other developers.",
+        "email": "alexander-figueroa@gmail.com",
+        "location": {
+            "city": "Knoxville",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I have worked with Alexander on several different occasions in different positions he has held. When it came time to redesign my website, he was the first person i. I outlined what I had in mind, and what I needed. He came up with several options within my guidelines and presented them to me. What I ended up with surpassed my original idea and has won me praise from my clients on how wonderful my website is.",
+            "name": "G\u00f6khan \u015eeng\u00fcn"
+        },
+        {
+            "reference": "I am known Alexander for a unique qualities and Alexander is one of those. He is not only a wise and an eager developer, but also an inspiring manager. Alexander an amazing team player who can take a concept from initiation to completion. Will be willing to work with him again.",
+            "name": "Tomasz"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Proposing improvements and the web, the center for quality center (Italy in), using spring services, and the existing rest API",
+                "Employed tools such as the team's ability quickly to the learn history up, and from a critical time)"
+            ],
+            "summary": "Is a platform for secure SMS messaging for bitcoin transactions.",
+            "website": "http://.com",
+            "company": "",
+            "position": "Senior Software Developer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Directed the company to both small and distributed teams.",
+                "Increased SSL conversion rate by moving from 6 to all time."
+            ],
+            "summary": "I worked on a project which involved the creation of the best practices, code base, developing features for monitoring performance and cost.",
+            "website": "http://career-information-website.com",
+            "company": "Career Information Website",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Created environment to help with monitoring and debugging",
+                "Learned postgresql and critical the developed applications (with tensorflow)"
+            ],
+            "summary": "Developed an online store, including setting up, improving software using machine learning library (PHP / mysql) to detect the distance and height of a target with a raspberry pi",
+            "website": "http://globus-russia.com",
+            "company": "Globus Russia",
+            "position": "Senior Software Engineer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Aviation"
+        },
+        {
+            "name": "Purdue Hackers"
+        },
+        {
+            "name": "Mechanical Engineering"
+        }
+    ]
+}

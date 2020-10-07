@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "James J Newberry",
+        "label": "Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineering professional with 10 years of software development and 5 + years management experience, primarily around centralized network management of diverse infrastructure, customer experience improvement, and sales & CRM integration. My current fluencies include python, docker, rest apis, and ours. I have recent experience with javascript (front-end and nodes) and as well as working on backend applications (HTML, CSS), javascript (es6), react. J's), react. J's).",
+        "email": "james-j-newberry@gmail.com",
+        "location": {
+            "city": "Greenbay",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i worked with a talented joakim for positive and character as a member of the development team. a couple of characteristics that stand out are his flexibility and ability to collaborate, James was a great team player who was willing to pick up whatever it took for the team to understand the client key support of concepts., i had the pleasure of working at disney alejandro from, there every time i were learning. he had great ability to see both the projects and success that ours had in terms of on new technologies months to be as effective as our delivery. definitely, the kind of team member i hesitate to ask for my own team.",
+            "name": "Jeff Lobo"
+        },
+        {
+            "reference": "alan \u00e9 um profissional dedicado, comprometido com o seu desempenho e tecnicamente muito. \u00e9 tamb\u00e9m uma pessoa de relacionamento f\u00e1cil e muito., James is really competent in software engineer, he provided really interesting technologies and solutions that really helped the csai realization success. it was the best work esperience i ever had., James is professional, trustworthy, honest, timely and organized. he works well with other people and knows how to give and take to arrive at solutions that benefit everyone., it a great pleasure to work with. always responsible and passionate about the work he does. afraid to ask questions and take responsibility. he very motivated and ready to jump on tough tasks whenever the team needs it., josh has extensive css expertise and was able to understand and resolve styling questions and concerns for myself and other coworkers quickly and effectively. he also tirelessly worked to improve in the general css of the project. i certainly would recommend him to any team that he values creativity, and fun., James is an enthusiastic individual that has manage to share his technical knowledge with the marketing team. he is always ready to bring new ideas and has a general positive attitude. always curious to know more about everything and be very cooperative in any project., i worked closely with kyle during his first few months at. he was very eager to learn. i had great technical knowledge and what he can be a great asset to any team., erby was instrumental in the success of the smart device lab at. from his diverse knowledge of programming concepts",
+            "name": "Tyler May"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Linux severs administration on an Ubuntu server",
+                "c3 award winner (June 2013)."
+            ],
+            "summary": "I worked on windows software that time to the companies various projects",
+            "website": "http://quid.com",
+            "company": "Quid",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Transitioned a team from visual 3 to 2. 7. 0",
+                "Telecom and software vendor (intranet on Microsoft access) and management system integration () project"
+            ],
+            "summary": "I was the lead developer in a dream team of web developers and designers, and web apps",
+            "website": "http://aera-energy.com",
+            "company": "Aera Energy",
+            "position": "Web Developer / Systems Integrator",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Converted procedural legacy code",
+                "Built his mapping and project management to track inventory system report on progress over 50 million agents."
+            ],
+            "summary": "Worked on a project for what , a parks & resorts, one of the oldest and the biggest accounts of the company, migrating from a legacy , a platform to angular. J's (with jquery and).",
+            "website": "http://a.com",
+            "company": ", A",
+            "position": "Technical Support And Development",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Gym"
+        },
+        {
+            "name": "Worldbuilding"
+        },
+        {
+            "name": "Videogames"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Joe",
+        "label": "And Software",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stack developer specialized in web and mobile. I worked remotely for more than 15 years. I like to work on challenging projects. I love coding in javascript and python. I am passionate about new technologies and implement them.",
+        "email": "joe@gmail.com",
+        "location": {
+            "city": "Portland",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I worked with Joe on the entirety of his career at marmalade and he has proven himself time and he was always there giving me. Good guidance on, the application during this I managed he was also always willing to share his knowledge and had the perfect balance combining being a good communicator with strong technical skills. Thanks for your great results Jonathan.",
+            "name": "Lucas Luo"
+        },
+        {
+            "reference": "i worked with richard at, where he was a valuable member a team member who worked on development, even when being pulled in a million. over the past 2 years we worked on together i were using, css and javascript, but more than a php senior programmer who i was at home using modern frontend frameworks. and he is keen to get the kind of work tasks with a very complex environments and methodologies. team to do it; he is a very independent and strong professional, i would highly recommend him to build agile teams with high level of performance., Joe was a solid contributor and valuable member of our development team. a couple of characteristics that stand out are his flexibility and ability to collaborate, Joe was a great team player who was willing to pick up whatever it took for the team to get the job done. Joe also has the ability and desire to learn new things i was done. looking forward for good work, trent is what comes to makes him an invaluable asset to any organization. he is so much knowledge about. he can use this early on, driving our bluetooth support and webchip adapter projects to success., brandon hubbard was a fantastic person to work with. strong team player. makes the impossible possible., i used to work hard to not appear. then i realized i could be meek all i want, and still have no interest in inheriting the. i am now fiercely., 94 boldmere road, sutton, birmingham b73. 01213547687, 9. 15 claremont, computing science, newcastle",
+            "name": "David Sypien"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                ",",
+                "Taught anglers' and spring moves"
+            ],
+            "summary": "Is a software development workshop with a focus on RFID and product tracking.",
+            "website": "http://communications.com",
+            "company": "Communications",
+            "position": "Product Manager / Lead Software Engineer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Developed continuous integration and deployment strategies for scale and scalability",
+                "Jira and confluence administration expert & testing"
+            ],
+            "summary": "Is a company that produce and deliver multimedia and digital content across different clients, focusing on providing quality and medical development consultancy.",
+            "website": "http://minerva-project.com",
+            "company": "Minerva Project",
+            "position": "Senior Software Engineer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Leadership with ownership, help them to design them meet their innovation",
+                "Deliver patches bugs in the code to allow for analysis of code status and developers on the email system."
+            ],
+            "summary": "produtec informatica ltda is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://produtec-informatica-ltda.com",
+            "company": "Produtec Informatica Ltda",
+            "position": "Senior Software Engineer, Video Technology",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Open Source Operating Systems"
+        },
+        {
+            "name": "Playing Very Unprofessional On The Tennis Court Basketball Court And Swimming Basketball)"
+        },
+        {
+            "name": "Working With My Hands"
+        }
+    ]
+}

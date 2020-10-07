@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Erik Rosemberg",
+        "label": "Testing",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who can build apps from the ground up. I have worked at Intuit since graduation for the past 11 years. Being from intuit, customer empathy and product focus are ingrained into my approach to building software. I generally very flexible when investigating new roles.",
+        "email": "erik-rosemberg@gmail.com",
+        "location": {
+            "city": "Fremont",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Erik is an extremely capable, reliable, and productive engineer who I would be more than happy to work with again. He was our team front end dev specialist, with a focus and is probably the best I have ever worked with.",
+            "name": "Anthony Tran"
+        },
+        {
+            "reference": "",
+            "name": "Brad Nelson"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Create cloud reports utilizing amazon and apes",
+                "Ce pipeline \u0441 e2e testing \u043d\u0430 tenacity \u0441 2, \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0438"
+            ],
+            "summary": "Is a platform for secure SMS messaging for bitcoin transactions.",
+            "website": "http://rmg-connect.com",
+            "company": "Rmg Connect",
+            "position": "Technical Support Iii",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "The first online shop application is composed surveys team from to.",
+                "Prepared scripts for reports and transfer (algorithms, data structures)"
+            ],
+            "summary": "Is a software development workshop with a focus on RFID and product tracking.",
+            "website": "http://pixar-animation-studios.com",
+            "company": "Pixar Animation Studios",
+            "position": "Software Developer (lead From Mar 2016)",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Developed procedures to standardize common software (tasks, etc in).",
+                "Served as a feature of the product on the bank of America manufacturing data."
+            ],
+            "summary": "com is a company providing tools for multidisciplinary design optimization and predictive maintenance.",
+            "website": "http://com.com",
+            "company": "Com",
+            "position": "Senior System Software Engineer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Cryptography"
+        },
+        {
+            "name": "Argentine Tango"
+        },
+        {
+            "name": "Tech Gear"
+        }
+    ]
+}

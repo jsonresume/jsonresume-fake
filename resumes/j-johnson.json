@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "J Johnson",
+        "label": "Software",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer with a strong focus on javascript. I also have experience with PHP and python. I enjoy working on new frameworks and libraries on my own time and have a fairly active github profile to show for it. I particularly enjoy the to get an understanding of the challenges that certain technologies face and how to overcome those issues.",
+        "email": "j-johnson@gmail.com",
+        "location": {
+            "city": "Rawalpindi",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "",
+            "name": "Peter Bautista"
+        },
+        {
+            "reference": "during the time i worked with enzo, the efficiency and quality of his development continually surpassed my expectations. additionally, his communication and thought process was very well done. his time working together with react, if only he does not an easy. he is motivated and hard working on., thanks for all your hard work! on his day an independent worker and as a very proactive leader. she took ownership of a project i proposed to her and did a superb job at it. she oversaw the work of other students, organized and delegated the work and provided continuous communication throughout the project. it was a pleasure to work with karey and recommend her highly.",
+            "name": "Derek Zeng"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Centralized apes.",
+                "Refinement of the 1c functionality marketing, introduced accounting, the practice collaboration, and product delivered"
+            ],
+            "summary": "I was given the chance to do an internship program in which it became a sole software and designer, with the main website. I worked with several client companies like angular, development and marketing teams. I have been doing development work on several other projects. I have the opportunity to work with a number of projects, but also with my team and solve tasks supporting other developers.",
+            "website": "http://pix-administradora.com",
+            "company": "Pix Administradora",
+            "position": "Senior Software Developer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Contributed to. Design a process for two nodes a micro service stack in with the backend (soap. I learned) with some nodes API.",
+                "Online evaluation of an access portal for 24 / 7"
+            ],
+            "summary": "Is a software development workshop with a focus on RFID and product tracking.",
+            "website": "http://nepta.com",
+            "company": "Nepta",
+            "position": "Technical Support Operator",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Developed basic ticket handling procedures for all based the functions (open / CSS, and javascript hardware)",
+                "Lead team of 10 members on a commercial product offering solution, design, and implementation of a logistics management system with integration"
+            ],
+            "summary": "Worked on the implementation of new parallel algorithms to surface evolution over millions of years",
+            "website": "http://itv-border.com",
+            "company": "Itv Border",
+            "position": "Sr Software Engineer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Hardware Tinkering"
+        },
+        {
+            "name": "Graphql"
+        },
+        {
+            "name": "Folk Music"
+        }
+    ]
+}

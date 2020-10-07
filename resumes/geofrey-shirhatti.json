@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Geofrey Shirhatti",
+        "label": "",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.",
+        "email": "geofrey-shirhatti@gmail.com",
+        "location": {
+            "city": "Taipei",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I worked with Geofrey on at least 5 projects already. Frankly speaking, it would be really hard on a development, creative, but learning about new things and is always willing to put forth ideas to which provide elegant, efficient solutions in.",
+            "name": "Pedro Henrique Fau"
+        },
+        {
+            "reference": "A fine understanding of what the world should be like and how to make it better.",
+            "name": "Nick Rook"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Discover use cases to improve user experience",
+                "Cut process costs by over 10 000 per year"
+            ],
+            "summary": "Responsible for all faculty computer networks, server infrastructure, internal learning system maintenance, project manager and business partners.",
+            "website": "http://14-it-bvba.com",
+            "company": "14 It Bvba",
+            "position": "Senior Solution Integrator",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Electrical engineering, via.",
+                "Develop / optimize application using a lamp"
+            ],
+            "summary": "national central university is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://national-central-university.com",
+            "company": "National Central University",
+            "position": "Software Developer And Researcher",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Implemented cross device protocols off.",
+                "Normalized an existing electronic ticketing system, sales, payment issues and information"
+            ],
+            "summary": "I was responsible for the development and management of automated online data whose data is used to work on all new 1.",
+            "website": "http://dws.com",
+            "company": "Dws",
+            "position": "Senior Developer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Interests"
+        },
+        {
+            "name": "Pets I Have"
+        },
+        {
+            "name": "Powerlifting / Olympic Lifting"
+        }
+    ]
+}

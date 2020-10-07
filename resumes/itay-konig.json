@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Itay K\u00f6nig",
+        "label": "Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a passionate technology enthusiast and actively out new technologies and stay up to date on industry trends and advancements. My objective is to obtain the position of responsibilities that utilizes my skills and keen to work in an environment where I can enrich my knowledge. I believe in smart work, deliver smart work & ready to stretch to achieve my goals. Believe in myself and confident about the things I do.",
+        "email": "itay-konig@gmail.com",
+        "location": {
+            "city": "Capitol Heights",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "@. Com",
+            "name": "Victor Tostes"
+        },
+        {
+            "reference": "Owner of BC",
+            "name": "Jake Clarkson"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Learned vba and taught classes on flash and development through. I",
+                "Contribute to multiple product teams as an upper management how to find and manage the income / basis (from / transfer in) to the end users."
+            ],
+            "summary": "Is a company that provides it training from professionals for professionals",
+            "website": "http://lucent.com",
+            "company": "Lucent",
+            "position": "Web Designer / Developer + Perl Engineer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Troubleshooting problems",
+                "Testing in different (,)"
+            ],
+            "summary": "Is a platform that allows citizens to hold government agency directly and publicly accountable for their actions.",
+            "website": "http://active-solutions-ltd.com",
+            "company": "Active Solutions Ltd",
+            "position": "Senior Software Engineer / Software Architect",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "SQL server management and maintenance \u2013 system.",
+                "Trained staff on angular and python"
+            ],
+            "summary": "Is a mobile based, crowdsourcing, market information tool for agriculture in Capitol Heights, based in,. My role was as the lead developer was responsible for the customer portal, providing technical direction and the integration platform.",
+            "website": "http://markmonitor-london.com",
+            "company": "Markmonitor | London",
+            "position": "Software Developer / Team Lead / Department Manager",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Online"
+        },
+        {
+            "name": "Brazilian Jiujitsu"
+        },
+        {
+            "name": "Tsos Tofu"
+        }
+    ]
+}

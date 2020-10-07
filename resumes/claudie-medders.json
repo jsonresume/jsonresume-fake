@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Claudie Medders",
+        "label": "Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a driven programmer with a real enthusiasm for creating exemplary solutions to everyday and business problems. Through a range of roles in the industry I have developed a wide range of expertise. I take great pleasure watching an idea become a product and working alongside the people that make that happen.",
+        "email": "claudie-medders@gmail.com",
+        "location": {
+            "city": "Montevideo",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Claudie encyclopedic knowledge of network equipment is an incredibly useful resource. He always seems to have time to help and it was a genuine pleasure working with him.",
+            "name": "Calandra Osuna"
+        },
+        {
+            "reference": "@. Com",
+            "name": "Julieta Cress"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Implemented svn version control / deployment to git workflow",
+                "Generated better production documents running &"
+            ],
+            "summary": "I was responsible for the development and management of automated online data whose work is done 100, integration and tools to provide data analysis service. It was for active duty.",
+            "website": "http://click2care.com",
+            "company": "Click2care",
+            "position": "It Consultant",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Providing emotional language and support to clients",
+                "Optimisation of the existing sea, including filtering, using 1c integration, proxy service provider, jams, common charts, and particle effects"
+            ],
+            "summary": "Worked on a project to create ads inside mobile games. This project developed a range of promotional materials and with services for customers.",
+            "website": "http://dangote-cement-ghana-limited.com",
+            "company": "Dangote Cement Ghana Limited",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Produced automation of the daily management, testing process and detection of the system.",
+                "Implemented verification flow to use digital platforms for information to the company."
+            ],
+            "summary": "Was a leading electronic design automation software provider for the electronic industry, which was later acquired by inc..",
+            "website": "http://pictune.com",
+            "company": "Pictune",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Public Speaking"
+        },
+        {
+            "name": "Intercultural Studies"
+        },
+        {
+            "name": "Drinking Some Coffee"
+        }
+    ]
+}

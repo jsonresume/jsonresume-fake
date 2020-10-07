@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Ryan Ferreira Gray",
+        "label": "Stack Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who loves working with open source technology. I work best in planning the architecture of web applications and their development life. I also love to get the community involved and have had much experience with building and organizing large open source groups.",
+        "email": "ryan-ferreira-gray@gmail.com",
+        "location": {
+            "city": "Kathmandu",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "the microsoft stack is matt bread and butter and he was in his element when he was on the hunt for a solution to a challenging issue the team was facing. it was a blast working with him on the pulse team and i be more than happy to call him a team member again on a., it was a pleasure working with kim. the project we worked on had very tight deadlines and kim management working as a junior software developer who. he has worked with a great ability in learning new technologies. i have no doubt that erik will quickly pick up whatever skills will be an asset to any team., matt can handle any task with thorough consideration of the impact of the task design and efficiency on the details make him the product have to be shown as awesome as possible. i will investigate seeing all the many parties of a key resource on complex projects in the project. i highly recommend michiel and hope to be working as a hard working with diego at. he will be a great addition to any company.",
+            "name": "Aaron Murphy"
+        },
+        {
+            "reference": "i worked with philipp for 9 years. he has an Ryan ability to not only forsee potential issues, but can design a work flow to. he is somewhat of a,... building business systems with nothing more than a toothpick an old pentium) and some duct tape open source)., mark is an exceptional project architect with an eye for detail, in all aspects of a technology development that team, leading and growing our development processes in a number of ways, including jira process and, code quality and review, as well as specific tooling. boris communicates well with third parties, including hybris managed services, and manages those interactions effectively. and independently boris like we work with him and often have a unique angle on which is a big plus., pellegrino is a very competent developer and test engineer. we worked together in pair at some projects at. com. he has good communication skills and can always find a creative references can be from the technical standpoint with his problem solving. i always the requirements of working with john is. john is consistently, fresh perspective and a very good team member of. i would eagerly work with alejandro in the future.",
+            "name": "James Geiger"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "An enhanced shopping and checkout experience to store for new content",
+                "Developed the security system used by administrators while making personal recommendations."
+            ],
+            "summary": "cyso is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://cyso.com",
+            "company": "Cyso",
+            "position": "Senior Software Engineer / Software Architect",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Development of websites (OS setup) for mobile application, from platform to push down to work on the client.",
+                "Upgraded and secured internet network infrastructure on desktop remote environments."
+            ],
+            "summary": "I was the manager of a software development team (8 +) coding, integration for a scrum master, manual configuration and tracking web application development projects required. On various projects using, and the creation of mobile and mobile solutions.",
+            "website": "http://resource-tecnologia.com",
+            "company": "Resource Tecnologia",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Used agile to standard software tools",
+                "Worked in marketing, sales and tests help capture execute results"
+            ],
+            "summary": "I worked on developing websites for most of the interactive video game. The project was received reviews using scrum).",
+            "website": "http://datapipe.com",
+            "company": "Datapipe",
+            "position": "Lead Developer / Devops",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Poetry"
+        },
+        {
+            "name": "Almost Everything"
+        },
+        {
+            "name": "Electric Vehicles"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Chad Lancheros",
+        "label": "Stack Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.",
+        "email": "chad-lancheros@gmail.com",
+        "location": {
+            "city": "Cluj Napoca",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "jason is a hard working reliable personable expert it in his field. the it Chad been a pleasure with a broad range of skills. from the main interest in a doubt that i would ultimately be consuming via a mobile app. i his confident public!!, available Chad request, owner of bc, owner of swarthout recycling, corning community college mathmatics professor, one of the most talented people i worked with. he quick at finding solutions to complex problems, very tidy in his daily work, intelligent and extremely proactive., he inspires great confidence to the business challenges, explain technical and technical problem solving skills. he is also an excellent communicator, technical and vision to execute on on ideas. he is always proactive in communication. he is a great guy to work with and is a better developer. i would highly recommend aidan to work as a hesitation with in a clean and excellent team.",
+            "name": "Alvis Sinha"
+        },
+        {
+            "reference": "Escuela de ingenier\u00eda en, legal representative.@. COM",
+            "name": "Tom Johansson"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Code review with stakeholders",
+                "Upcoming software releases"
+            ],
+            "summary": "Worked on web application implemented in ruby on rails running on amazon web services (including)",
+            "website": "http://clink-finance.com",
+            "company": "Clink Finance",
+            "position": "Senior Software Engineer, Core Services",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Led study in the development agency for the strict while maintaining the quality control of the process and making the web app that will be used to quickly specifications and able to create business services to manage users and track, the new system, which gave a user friendly page allowing, for maintainability, flexibility, and.",
+                "Basic was stored in one API using java (and git)"
+            ],
+            "summary": "truper herramientas (mexico) is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://truper-herramientas-mexico.com",
+            "company": "Truper Herramientas (mexico)",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Wrote unit tests for new graphics using a javascript mvc framework",
+                "Scrum, Kanban master, design, and responsive development of 60 parsers based on based on a"
+            ],
+            "summary": "The main company is about the media apps of the world",
+            "website": "http://sutherland-global-services.com",
+            "company": "Sutherland Global Services",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Fascinations"
+        },
+        {
+            "name": "Software And Data Science"
+        },
+        {
+            "name": "Ux"
+        }
+    ]
+}

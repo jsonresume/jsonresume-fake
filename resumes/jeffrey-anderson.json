@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Jeffrey Anderson",
+        "label": "And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a passionate developer that aims to do things the best way possible. Always eager to learn new ways to improve and new technologies.",
+        "email": "jeffrey-anderson@gmail.com",
+        "location": {
+            "city": "Capitol Heights",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "A fine understanding of what the world should be like and how to make it better.",
+            "name": "David Maciejewski"
+        },
+        {
+            "reference": "i worked with Jeffrey for several years and during that time always found him to be a creative, humble and dedicated colleague. he is keen to learn and keen to apply his knowledge in any environment, always rising to the challenge put before him. when asked to take on large scale projects \u2013 such as the production of a series of gameplay \u2013 Jeffrey delivered without hesitation and with excellent execution, even if projects were outside of his immediate role. i would highly recommend Jeffrey for his positive character as a member of any creative team, both very technically strong, quick to pick at &, just project to always a go to hand by being available and to have his around ux and api design. i hope to work him again in the future, and wholeheartedly recommend him for any front end or full stack project.",
+            "name": "Steve Crow"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Maintain index / SEO page portal.",
+                "Authoring flash tool kit"
+            ],
+            "summary": "I created online courses using html / CSS on a framework for university faculty. This included creating sites based off mock-ups, image editing in photoshop, video recording / editing on national university of singapore, setting up quizzes and exams, and setting up discussion forums.",
+            "website": "http://national-university-of-singapore.com",
+            "company": "National University Of Singapore",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Maintained system (32 /). Net",
+                "Product program for business validation"
+            ],
+            "summary": "\u2022 Implementing, managing server instances at amazon ec2",
+            "website": "http://at-university.com",
+            "company": "At University",
+            "position": "Web Developer / Software Engineer (contractor)",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Wrote the core system for java based web components that was used by leading the applications in the production process",
+                "Created a site templating and framework to manage the company web sites."
+            ],
+            "summary": "Worked on a project for what kkp parks & resorts, one of the oldest and the biggest accounts of the company, migrating from a legacy PHP platform to angular. J's with node. J's, node. J's, express, angular. A web site, create a and dynamic system to a mobile product dashboard. Using the dashboard for, and migrated the entire platform, with an emphasis on assisting with the clients and the general front-end developers, github account manager and related to support: customer care of their English",
+            "website": "http://kkp.com",
+            "company": "Kkp",
+            "position": "Software Developer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Virtual Technologies"
+        },
+        {
+            "name": "Outdoor"
+        },
+        {
+            "name": "Astronomy"
+        }
+    ]
+}

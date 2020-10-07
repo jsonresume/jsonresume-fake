@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Harry Cristina",
+        "label": "Senior Software",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stack developer who can build and operate apps from the ground up. I have a keen interest in devops and are principles and Linux systems.",
+        "email": "harry-cristina@gmail.com",
+        "location": {
+            "city": "S\u00e3o Paulo",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "@. Com",
+            "name": "Alex Talledo"
+        },
+        {
+            "reference": "How you learn to quickly pick new skills has the ability to to work with on the project.",
+            "name": "Alex Frischeisein"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Shot photographs in controlled lab, field. And international students",
+                "Scrum as agile development methodology"
+            ],
+            "summary": "I was responsible for the development and management of automated online data whose data is used to work on google, to deliver beautiful, effective websites for architects the S\u00e3o Paulo sales. A company starting in a place, where we made many improvements I can go.",
+            "website": "http://punch-digital-agency-lahore.com",
+            "company": "Punch Digital Agency, Lahore",
+            "position": "Lead Web Developer & Product Manager",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Led the successful implementation of the project solution, to manage the promotion of accurately and case of various systems",
+                "Aided in the millions audit of code reviews,"
+            ],
+            "summary": "Is a company that provides a SaaS location intelligence platform.",
+            "website": "http://collective-software.com",
+            "company": "Collective Software",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Solutions per pay for completion for completion. I did work within the test, technical test, preparation cycles off for the online, and company strategic innovation.",
+                "Coded search engine friendly landing pages, page models such as crud type and search usage by."
+            ],
+            "summary": "I worked on a project which involved the creation of the best practices, code base, developing features for monitoring performance and cost.",
+            "website": "http://atos-for-good-news-center.com",
+            "company": "Atos For Good News Center",
+            "position": "Senior Software Engineer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Art"
+        },
+        {
+            "name": "Solving Problems"
+        },
+        {
+            "name": "Music & Djing Film Music Supervision"
+        }
+    ]
+}

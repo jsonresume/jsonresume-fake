@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Tristan Satalkar",
+        "label": "And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who loves working with open source technology. I work best in planning the architecture of web applications and their development life. I also love to get the community involved and have had much experience with building and organizing large open source groups.",
+        "email": "tristan-satalkar@gmail.com",
+        "location": {
+            "city": "Wilen Bei Wollerau",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "",
+            "name": "Shawn Pereira"
+        },
+        {
+            "reference": "i worked with philipp for 9 years. he has an amazing ability to not only forsee potential efficiency, a development, and can do it. this is not a very skilled natural professional, and has a very good skills. we often paired together for together and i always love of what he does. it goes over the last year, she has been a great asset for us. all, ollin has been my student in three courses in statistics at the master program in data science at instituto tecnologico autonomo de mexico). in all my courses, ollin has distinguished himself as the best student in the class. from my point of view and that has covers tech that business, and also a subject matter expertise with. he is an asset to any team., brian has a consistent with a great professional can only a very nice combination of skills. an excellent communicator who has always makes the right questions to his motivation to new challenge. virgil has excellent skills but also he makes a great friend.",
+            "name": "Jason French"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Cleaned up Drupal code",
+                "Handled 200 interns in a team and made a for the week of computer"
+            ],
+            "summary": "webfusion is a company providing tools for multidisciplinary design optimization and predictive maintenance.",
+            "website": "http://webfusion.com",
+            "company": "Webfusion",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Deployment of platform based application on key requirements",
+                "Commands: back in elasticsearch, data and cloud development."
+            ],
+            "summary": "sandhills publishing is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://sandhills-publishing.com",
+            "company": "Sandhills Publishing",
+            "position": "Software Developer (consultant)",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Created from web pages for physician order entry utilizing html / CSS, query were used to add features in the vision",
+                "Coordinate the work directly with business plan, resulting in hundreds of both companies popular standard appropriate web services by other technologies like, solutions such as well, and problems."
+            ],
+            "summary": "Developing and maintaining several. Net web applications and SQL etl processes and methodologies.",
+            "website": "http://com.com",
+            "company": "Com",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Multimedia"
+        },
+        {
+            "name": "Gaming"
+        },
+        {
+            "name": "Gourmet Cooking"
+        }
+    ]
+}

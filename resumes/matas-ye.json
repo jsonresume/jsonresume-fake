@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Matas Ye",
+        "label": "Senior Full Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who loves working with open source technology. I work best in planning the architecture of web applications and their development life. I also love to get the community involved and have had much experience with building and organizing large open source groups.",
+        "email": "matas-ye@gmail.com",
+        "location": {
+            "city": "Tokyo",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i worked with richard at, where he was a valuable member a team member, than look no further. i had the pleasure of working with him on my final project at dev bootcamp where we spent 100 + hours over 7 days building a fully functional web app. brian quickly learned new concepts, and i was impressed at how he go out of his way to help level up with his expertise. i would like to give my strongest recommendation to david england., reference will be furnished upon request., adrian reference will be furnished upon request., adrian and is a conscientious developer who strong work ethic. he had a great ability to problem solve and the most important it is that he does. we worked together often delivered above and beyond his own time with excellent work. i wish him nilanga in his best as well.",
+            "name": "Tyler Harms"
+        },
+        {
+            "reference": "Matas is a conscientious developer who can do great things to work with. He brought a vast amount of knowledge beyond just flash development that really helped learn and solutions with an excellent balance of our business impact of the technical world. This he is able to learn and his best way to solve is an invaluable member of the. I would recommend Matas to any company or project.",
+            "name": "Dawid Van Page"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Worked with the black grid supercomputer cluster",
+                "Implemented vast and vapid specifications to us."
+            ],
+            "summary": "I was the first mobile application developer hired for two different applications for it to support, but grew. Several projects using PHP, javascript frameworks and front end development.",
+            "website": "http://becki-true-consulting-dba-viking-technology-partners.com",
+            "company": "Becki True Consulting, Dba Viking Technology Partners",
+            "position": "Senior Software Engineer, Core Services",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Development and deployment of activities like Jenkins android / release",
+                "Created unit tests for existing and implementing rest API"
+            ],
+            "summary": "Worked on a project for what monetize group parks & resorts, one of the oldest and the biggest accounts of the company, migrating from a legacy PHP platform to angular. monetize group' (jquery) and wrote restful api's (spring), and single codebase over all software call. Used a of this project, building a react / redux / immutable stacks angular templates, assisted, designing and building data backup / solutions for the data access database.",
+            "website": "http://monetize-group.com",
+            "company": "Monetize Group",
+            "position": "Software Engineer / Team Lead",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "The and building windows tools on the server (networking) environments.",
+                "Setting up architecture for all aspects of company standards in the business use library."
+            ],
+            "summary": "Is a startup company that streamlines checkout and creates a shopping assistant.",
+            "website": "http://tyler-technologies.com",
+            "company": "Tyler Technologies",
+            "position": "Senior Software Engineer / Product Manager (backend Services)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Computer Animation"
+        },
+        {
+            "name": "Crypto Enthusiast"
+        },
+        {
+            "name": "University Programming Council"
+        }
+    ]
+}

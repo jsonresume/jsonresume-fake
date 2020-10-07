@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Hi\u1ec3n Filip Mclaughlin",
+        "label": "And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer with a strong focus on javascript. I also have experience with PHP and python. I enjoy working on new frameworks and libraries on my own time and have a fairly active github profile to show for it. I particularly enjoy the to get an understanding of the challenges that certain technologies face and how to overcome those issues.",
+        "email": "hien-filip-mclaughlin@gmail.com",
+        "location": {
+            "city": "Teresina",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Thayne is a sharp guy and I wish I had more of an opportunity to further develop. Highly recommended!",
+            "name": "Matthew Butler"
+        },
+        {
+            "reference": "",
+            "name": "Sam Low"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "And presented what clients need. Take for main clients and websites within the company.",
+                "An interface engine to implement the new network market, research groups, consulting, and research to track customers' needs"
+            ],
+            "summary": "Is a leading global provider of integrated travel and expense management solutions. Internally promoted by the senior management team, \u2013 by engineers.",
+            "website": "http://escrow-com.com",
+            "company": "Escrow Com",
+            "position": "Senior Software Engineer (java & J2ee)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "A web app project using anglers' and angular. J's.",
+                "Drupal development"
+            ],
+            "summary": "Is a company that provides a SaaS location intelligence platform (free, paid version, search and the company cloud platforms and cloud computing and the health technology industries. Our core technology is proven, reliable, and wrote restful services.",
+            "website": "http://.com",
+            "company": "/",
+            "position": "Senior Software Engineer, Core Services",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Handled support android and us in 1 year, 2. 5 million in.",
+                "Introduced new engineering data to production."
+            ],
+            "summary": "I was the lead developer in a dream team of web developers and web designers, while we are providing them to do development account managers and develop their projects related to.",
+            "website": "http://altkom-software-consulting.com",
+            "company": "Altkom Software & Consulting",
+            "position": "Project Manager",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Coding And Design"
+        },
+        {
+            "name": "Cubes"
+        },
+        {
+            "name": "Video Encoding"
+        }
+    ]
+}

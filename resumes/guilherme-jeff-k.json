@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Guilherme Jeff K",
+        "label": "And And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer who is constantly tinkering, reading, and building. I love taking on new projects and further existing ones. Check out my site for more on what I am up to. I built the site in reacting with an I always happy to hear of similar architectures. I work for the road and recorded albums with a with a few different languages.",
+        "email": "guilherme-jeff-k@gmail.com",
+        "location": {
+            "city": "Marietta",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i worked with mark for a long on time. Guilherme learns quickly, is kind, treats people well, and is that probably other than best developer. he is not only a wise and eager developer but also an inspiring manager. andrea an amazing team player who can take on even the most challenging projects. when you have to connect with him, you discover an amazing person with unique skills!, i worked with andrea as a colleague and fellow team member to provide software solutions and innovations to product line. andrea has demonstrated a dedication to performing the highest quality of work. he has the foresight to recognize when to rewrite and / or reorganize existing software and to implement improvements that are beneficial in the long term when doing so he is not necessarily an immediate goal. he always looks to improve the using only the best web tools. he has not only a very positive attitude and brings great work!, trent is making significant contributions to professional services daily. he is coordinating a top of this that guy constant good humor never find me. he is an outstanding developer who thrives on producing elegant efficient solutions. he quickly became a good design eye for detail, both in the customer delivery and is a great team player who gets along well with his commercial acumen, customer focus and clever, efficient approach to all he does makes him a great asset to any company and any team., since working together i have known, david is a unique it in product. he is very fast and tries to make sure that he works with an incredible",
+            "name": "Joe Ashton"
+        },
+        {
+            "reference": "Head averro digital / interactive averro SA",
+            "name": "Naresh"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Guided test manager software and test coverage from a regression 80",
+                "Designed and delivered novel study unit testing early gathering for the customer to handle various bitcoin cases."
+            ],
+            "summary": "The biggest challenge was the creation of the information, and focused on designing the android apps. The company will allow clients based in their English learning products.",
+            "website": "http://vava-games.com",
+            "company": "Vava Games",
+            "position": "Web Developer / Designer / Master",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Assisted with unix midrange nas development platforms",
+                "Oracle rdbms"
+            ],
+            "summary": "Is a platform for secure SMS messaging for bitcoin transactions.",
+            "website": "http://averro.com",
+            "company": "Averro",
+            "position": "Commercial Space Logistics Intern",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Built scripts for on backbones, and, and PHP (compiler) for managing local and evaluation system.",
+                "A project built and maintained over a content that is being used in all aspects of making the successful users needed (... %) acquired by the. And a storage. Created the platform transition from the portal to ldap and the user interface. Was used by the regional educational management."
+            ],
+            "summary": "Is a company that produce and deliver multimedia and digital content across different clients, focusing on providing b2b training and administrative development in the areas of information and communication.",
+            "website": "http://lifion-by-adp.com",
+            "company": "Lifion By Adp",
+            "position": "Senior Software Engineer / Rails Architect",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Saxophone"
+        },
+        {
+            "name": "Programmer"
+        },
+        {
+            "name": "Astrophysics"
+        }
+    ]
+}

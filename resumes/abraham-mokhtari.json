@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Abraham Mokhtari",
+        "label": "Full Engineer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.",
+        "email": "abraham-mokhtari@gmail.com",
+        "location": {
+            "city": "Belo Horizonte",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "",
+            "name": "David Glaeseman"
+        },
+        {
+            "reference": "Abraham is a very talented developer who just gets it. He is going to do great things and to work with everyone on the company. He would be an asset to any organization in his.",
+            "name": "David Soto"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Worked with classified material.",
+                "Responsible for technical support for new clients. Scheduling area"
+            ],
+            "summary": "Is a cloud based, online booking platform for that aims to fitness in the real estate industries., they only an online travel website for social impact.",
+            "website": "http://javelin-group.com",
+            "company": "Javelin Group",
+            "position": "Senior Software Engineer / Rails Architect",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Created a feature that allowed the ability to students requesting extra classes with a of a way.",
+                "Developed or update payment processing system to allow for state of sensitive information through google to millions of users / part of new business / requirements for end users"
+            ],
+            "summary": "madison college is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://madison-college.com",
+            "company": "Madison College",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Sphinx",
+                "Took orders on a human website"
+            ],
+            "summary": "The biggest challenge was the creation of the information and systems infrastructure of functional programming languages.",
+            "website": "http://puppybox.com",
+            "company": "Puppybox",
+            "position": "Senior Software Engineer / Rails Architect",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Gadgets & Technologies"
+        },
+        {
+            "name": "Playing Video Games"
+        },
+        {
+            "name": "Trail Running Alpine Climbing Climbing Mountain Biking"
+        }
+    ]
+}

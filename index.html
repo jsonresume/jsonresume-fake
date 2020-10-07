@@ -1,0 +1,116 @@
+<html>
+  <head>
+    <title>Almost Real Resume</title>
+    <style>
+      html,
+      body {
+        margin: 0;
+        padding: 0;
+      }
+      iframe {
+        width: 100vw;
+        height: calc(100vh - 120px);
+        margin: 0;
+        padding: 0;
+        outline: none;
+        border: none;
+        margin-top: 120px;
+      }
+      .header {
+        font-family: Ubuntu;
+        position: fixed;
+        height: 120px;
+        width: 100vw;
+        top: 0;
+        left: 0;
+        background: #fff18f;
+        box-shadow: -2px 4px 2px yellowgreen;
+      }
+      .viewcode {
+        text-decoration: none;
+        font-size: 13px;
+        color: #000000;
+        background-color: #4caf50;
+        padding: 6px 14px;
+        box-shadow: -1px 2px 1px yellowgreen;
+      }
+      .title {
+        max-width: 600px;
+        margin: auto;
+        display: flex;
+        justify-content: space-between;
+        padding: 10px;
+      }
+      .byline {
+        padding: 10px;
+        font-size: 11px;
+        max-width: 600px;
+        margin: auto;
+      }
+    </style>
+    <script type="application/javascript">
+      function setIframeHeight(iframe) {
+        if (iframe) {
+          var iframeWin =
+            iframe.contentWindow || iframe.contentDocument.parentWindow;
+          if (iframeWin.document.body) {
+            iframe.height =
+              iframeWin.document.documentElement.scrollHeight ||
+              iframeWin.document.body.scrollHeight;
+            // iframe.width = 300;
+          }
+        }
+      }
+      window.onload = function () {
+        setIframeHeight(document.getElementById("iFrame1"));
+      };
+    </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+  </head>
+  <body>
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Ubuntu:400,500,700"
+      defer
+    />
+    <div class="header">
+      <div class="title">
+        <div>
+          <span style="font-weight: 600;">ALMOST REAL RESUME</span>
+          <br />
+          <span style="color: #555; font-size: 10px;"
+            >use this for your next job application, maybe not.
+          </span>
+        </div>
+
+        <a
+          class="viewcode"
+          href="https://github.com/jsonresume/jsonresume-fake"
+          target="_blank"
+          >VIEW CODE</a
+        >
+      </div>
+      <div class="byline">
+        All the contents below are generated using a machine learning based
+        neural network.
+        <p>Reload this page for your next almost real resume!</p>
+      </div>
+    </div>
+
+    <iframe id="iFrame1" src="https://fake.jsonresume.org/resume"></iframe>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=UA-74754546-3"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "UA-74754546-3");
+    </script>
+  </body>
+</html>

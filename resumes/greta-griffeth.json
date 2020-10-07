@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Greta Griffeth",
+        "label": "And And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stack developer who enjoys working in an agile environment with a collaborative team. I am passionate about creating modular, scalable, smart looking web apps. I enjoy balancing the need for test driven and benchmark driven development, modern creative design, and task completion efficiency and quality.",
+        "email": "greta-griffeth@gmail.com",
+        "location": {
+            "city": "Los Angeles",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Greta worked on my team for many years, and was a key leader in pushing forward good knowledge to action. Greta is the kind of person that people to work with. He was a huge breadth of knowledge. If you come across a hard problem that needs creative problem solving and solution were to be met in her even when the outcome desired by our clients or creative.",
+            "name": "Chia Lail"
+        },
+        {
+            "reference": "",
+            "name": "Yolanda Alonzo"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Worked extensively with objective c frameworks",
+                "Admin product manager and management"
+            ],
+            "summary": "Is a consulting company, mostly industrial technologies and consulting services, working with CSS development and data analysis to small medium projects in their projects.",
+            "website": "http://knowledge-to-action.com",
+            "company": "Knowledge To Action",
+            "position": "Web Developer / Designer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Developing, testing and implementing software for the system, and validation, formatting the layout, and.",
+                "Certification of chef"
+            ],
+            "summary": "As a senior consultant, I help solve client issues by gaining insight of their business and goals of life internal equipment and facilities.",
+            "website": "http://sportsbet.com",
+            "company": "Sportsbet",
+            "position": "Software Developer (freelance)",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Application development and deployment of some soap solutions used for web (PHP).",
+                "Analyzed possibility to implement better better performance by using language and activity."
+            ],
+            "summary": "netjets inc is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://netjets-inc.com",
+            "company": "Netjets Inc",
+            "position": "Senior Software Engineer (trading Systems)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Brewing"
+        },
+        {
+            "name": "Pen & Paper Rpgs"
+        },
+        {
+            "name": "Weightlifting"
+        }
+    ]
+}

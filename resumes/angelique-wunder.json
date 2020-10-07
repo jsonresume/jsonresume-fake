@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Angelique Wunder",
+        "label": "Information Of",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer with strong technical leadership and management experience. I believe my main strength is the ability to align engineering practices with the organizational goals. Over the past few years, I have been spending time in my time in distributed systems and have a position in an environment where I can learn and improve. I am passionate about solving challenging problems. I believe that is usable and leadership I also can learn something new or working with a team.",
+        "email": "angelique-wunder@gmail.com",
+        "location": {
+            "city": "\u6df1\u5733",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I worked with mark for a long on time and brightest development senior projects in his team. I have known him for a long time. Angelique can do a great guy to work with!",
+            "name": "Allan Parkes"
+        },
+        {
+            "reference": "Angelique was diligent and in the lab on a daily basis. He was enthusiastic about his project and a great colleague in the lab.",
+            "name": "Tonette London"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Built into the front end of the rest API in the javascript moves 5.",
+                "Made improvements / projects that alerts the, the issue, then 300 live / business intelligence"
+            ],
+            "summary": "Is a leading institute in east and business, we train students, develop corporate systems, networking and manage some?",
+            "website": "http://right-angle-engineering.com",
+            "company": "Right Angle Engineering",
+            "position": "Senior Software Engineer / Scrum Master (contract)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Facility understanding of how / object oriented design pattern.",
+                "Maintained and enhanced visual basic applications for business services to use business under 3 a remote search engine friendly environment"
+            ],
+            "summary": "cogini hong kong ltd is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://cogini-hong-kong-ltd.com",
+            "company": "Cogini Hong Kong Ltd",
+            "position": "Software Engineer ()",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Created a custom Linux distribution system for service, base user activity, and communicate with our managers, provided support, research and other public provided with Spanish mobile carriers.",
+                "Created tools for (a test data driven)"
+            ],
+            "summary": "I worked on the information security and risk management team doing all things security. Eventually I took over the development of an effort to provide the required assistance for both projects and required. The project was made by over the years on until site I decided to make an edge understanding of older applications using technologies such as the only google maps information is about the insurance companies, all the company which was made by another engineer.",
+            "website": "http://taiwan-co-ltd.com",
+            "company": "Taiwan Co, Ltd",
+            "position": "Web Developer / Designer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Relevant Technical Interests"
+        },
+        {
+            "name": "Ux"
+        },
+        {
+            "name": ""
+        }
+    ]
+}

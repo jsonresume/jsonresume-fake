@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Nguy\u1ec5n Valing",
+        "label": "Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer who is looking to join a team that solves interesting and challenging problems with innovative technology.",
+        "email": "nguyen-valing@gmail.com",
+        "location": {
+            "city": "Faridabad",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "",
+            "name": "Conor Brady"
+        },
+        {
+            "reference": "I worked with Nguy\u1ec5n for more than 5 years and a half of knowledge of a developer. If Nguy\u1ec5n in considering working you with you, consider yourself very lucky! Nguy\u1ec5n has been invaluable to our family ever since our daughter Nguy\u1ec5n was 6 weeks old until beyond her fourth. Nguy\u1ec5n gives her full, kind, patient attention to Ellie.",
+            "name": "Kyle Petan"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Used html, javascript, SQL and Adobe Lightroom enhance to enhance developer.",
+                "Inquiries maintained a product called customer."
+            ],
+            "summary": "Is a Brazilian professional services company.",
+            "website": "http://institute-of-analytics.com",
+            "company": "Institute Of Analytics",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Twitter analyzer based",
+                "Leading a team of 5 developers"
+            ],
+            "summary": "Is a company that provides comprehensive financial messaging service in the video and the bay area and new Faridabad. Its services include border control, user graphics, online and risk management",
+            "website": "http://friday-labs.com",
+            "company": "Friday Labs",
+            "position": "Lead Software Engineer / Sysadmin",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Europe",
+                "Transitioned away from + websites from devices"
+            ],
+            "summary": "I was given the chance to do an internship program in which it became a sole software and designer / developer / consultant for a company. I worked on a number of projects, including media security.",
+            "website": "http://mundio-mobile.com",
+            "company": "Mundio Mobile",
+            "position": "Web Developer / Designer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Figure Skating"
+        },
+        {
+            "name": "Typing"
+        },
+        {
+            "name": "Open Source"
+        }
+    ]
+}

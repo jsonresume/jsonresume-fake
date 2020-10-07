@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Mary Fournier",
+        "label": "Office And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "i am a software engineer with three years of professional experience as full stack web developer. in that period i have worked on back and front end, was in charge of dev and devops tasks, developed microservice and monolith architectures. i say i am an expert in those, as i still learn new things every day, i think i have made principle of rtfm, and have. have some experience with over the last three people throughout my life, i am constantly looking for a new opportunity to put a nice and to work as a developer with 8 years. my main focus is on solid web design and volunteering challenges and have knowledge to become my best as a software engineer.",
+        "email": "mary-fournier@gmail.com",
+        "location": {
+            "city": "West Lafayette",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i worked with Mary for several years and during that time always found him to be a creative, humble and dedicated colleague. he is keen to learn and keen to apply his knowledge in any environment, always rising to the challenge put before him. when asked to take on large scale projects \u2013 such as the production of a series of gameplay \u2013 Mary for his deliverables., if you looking for a talented developer, as well as a great team member, than look no further. i had the pleasure of working with ryan now for over a year, and since then the quality of our code base has gone up significantly. with my eight plus year of experience ryan is separated himself i from myself i had worked with the different solutions in. he always available to have on his time and help out others, whether be from a team player, he had the answers to that come up to date. brett would be a significant asset to any team looking to leverage or deploy api in their architectural designs., it has been a pleasure working with brett for many reasons.",
+            "name": "Mark Kockerbeck"
+        },
+        {
+            "reference": "",
+            "name": "Marco Medina"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Developed and released on new cue or system",
+                "Development of app and API integrations with external vendors. I have to maintain a high level of 5 test data. Provide status updates and enhancements for each other team."
+            ],
+            "summary": "Is a digital platform (app) that people who have an exclusive available parking place?",
+            "website": "http://norton-design.com",
+            "company": "Norton Design",
+            "position": "Senior Software Engineer, Technical Project Lead & Onsite Coordinator",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Works on team and great meetings, as well as researched resources, providing writing, technical specification, design and implement plans security for the final product. Delivered training sessions, and in order to successfully the lead to increase the end user.",
+                "Maintained is applied."
+            ],
+            "summary": "Is a company that provides a SaaS location intelligence platform.",
+            "website": "http://tecolote-research-inc.com",
+            "company": "Tecolote Research, Inc",
+            "position": "Web Developer / Designer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Managed and postfix mail servers",
+                "Cloud foundry (, / /) shell"
+            ],
+            "summary": "Is a technology incubator focused on developing mobile and internet opportunities in West Lafayette. Consulting for clients, business cards, and infrastructure for various companies.",
+            "website": "http://grupo-integracion-digital.com",
+            "company": "Grupo Integracion Digital",
+            "position": "Senior Software Engineer, Technical Project Lead & Onsite Coordinator",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Contributing To Open Source Projects"
+        },
+        {
+            "name": "Software Architecture"
+        },
+        {
+            "name": "Embedded Systems"
+        }
+    ]
+}

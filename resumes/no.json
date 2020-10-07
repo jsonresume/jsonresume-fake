@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "No",
+        "label": "And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer with a particular interest in making things simple and automating daily tasks. I try to keep up with security and best practices, and am always looking for new things to learn.",
+        "email": "no@gmail.com",
+        "location": {
+            "city": "Faridabad",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Assistant brew master at save the world",
+            "name": "Saad Si Pavlenko"
+        },
+        {
+            "reference": "Janusz was carrying out his duties very reliably, contributing with many valuable and unique ideas. I convinced that he is a person who will rise to many more No challenges in other companies.",
+            "name": "Daniel Larner"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Usability: over, all aspects of my designers and analytics.",
+                "Defined test automation framework"
+            ],
+            "summary": "Development of web site using PHP to javascript, html, CSS, Jason, SQL and more.",
+            "website": "http://codemymobile.com",
+            "company": "Codemymobile",
+            "position": "Senior System Developer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Built with Drupal and web based lamp server for, quotes, introduction and testing or more about search.",
+                "Modular home (care page) for the power generation and procurement of advanced reports based reporting engine, history. Specific reports and writing agents (view within the business)."
+            ],
+            "summary": "Is a leading institute in east and business, we train students, develop corporate systems, networking and manage some?",
+            "website": "http://arrend-leasing.com",
+            "company": "Arrend Leasing",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Engineering and quality of production applications to automate the production is company applications",
+                "Development of test tools"
+            ],
+            "summary": "I joined smart ibtech on a contract, following are a local community of hospitality brands. We have developed in the ruby and gas team. Developed web pages for several customers like for the efficiency and monitoring systems to their customers the using.",
+            "website": "http://ibtech.com",
+            "company": "Ibtech",
+            "position": "Full Stack Developer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Illustrations"
+        },
+        {
+            "name": "Free Internet / Online Privacy"
+        },
+        {
+            "name": "Xymurgy"
+        }
+    ]
+}

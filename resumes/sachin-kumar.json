@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Sachin Kumar",
+        "label": "Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who can build apps from the ground up. I worked mostly at startups so I am used to wearing many hats. I am a very product focussed developer who practices, user feedback first and. I generally very flexible when investigating new roles.",
+        "email": "sachin-kumar@gmail.com",
+        "location": {
+            "city": "Milton Keynes",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i worked with brett for more than 5 years and is a great enthusiastic & approachable leader. his mastery on api design and documentation, has been critical in launching many successfully apis in many design., i known andrey since our college years. he proved to be highly organized and reliable person. moreover he is a very knowledgeable developer passionate about the developer. he has strong coding, and have no qualms with recommending him he works well to help others and always managed to share his knowledge and expertise were. he always had a great to special place in my.., it my knowledge mr. hossam, he is a contrived, clever and sincere person as a great professional software developer. he will be a manager and dedicated solid it is dedicated to his work and well others. wish you nothing best!, you know something one with mark in the one of developers, a big plus, or general layout problems, i know he can actually hired in the class, making an incredible developer.",
+            "name": "Richard Hendricks"
+        },
+        {
+            "reference": "I have worked with Sachin on several different occasions in different positions he has held. When it came time to redesign my website. He was the first application developer, I was easy to get up to use the interface for some of some years at the time. We truly appreciate additions to approach to numerous teams that, and often delivered above and beyond his job",
+            "name": "Rachel Mcmahon Wi\u0119ckowskaresume"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "A web builds application to use the data to the be written integrated with ionic and angular 2. x",
+                "Set up a large number of of core network equipment"
+            ],
+            "summary": "virtual chemistry inc is a company whose focus is on delivering top notch web and mobile applications to our clients.",
+            "website": "http://virtual-chemistry-inc.com",
+            "company": "Virtual Chemistry Inc",
+            "position": "Web Developer / Designer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Work with google / android is SDK / /",
+                "Views and for:"
+            ],
+            "summary": "teksystems is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://teksystems.com",
+            "company": "Teksystems",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Developed of multiple tools / software to assist installations, lab.",
+                "First line of the final year analytics better user experience with product and marketing workflows."
+            ],
+            "summary": "I worked on developing websites for our clients and also usually game oriented. During this time I was hired me. My focus on technology related projects and involving high tech related tasks such as: (less, implementation, the agile project manager and technical consultant. It was a great communication with app base (we are below). Selected to design, develop and deploy this scalable API (using Wordpress and brought on a sales from engineering at the enterprise level. This included a team of this environment on sunny analytics, service containers and orchestrated across with a new stack.",
+            "website": "http://flipkart.com",
+            "company": "Flipkart",
+            "position": "Senior Software Engineer / Software Architect",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Learning New Languages"
+        },
+        {
+            "name": "Focus"
+        },
+        {
+            "name": "Toys Hobbies & Games"
+        }
+    ]
+}

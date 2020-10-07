@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Rodrigo Matheus",
+        "label": "Full And And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer with strong technical leadership and management experience. I believe my main strength is the ability to align engineering practices with the organizational goals. Over the past few years, I have been spending time in my time in distributed systems and have a position in an environment where I can learn and improve. I am passionate about solving challenging problems with a team.",
+        "email": "rodrigo-matheus@gmail.com",
+        "location": {
+            "city": "Heredia",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I worked with the Rodrigo practical law on police. I myself am happily recommend him to as a",
+            "name": "Daniel Velez"
+        },
+        {
+            "reference": "One can almost see all the lights going on in their heads as they internally analyze, and reorganize the idea and begin to present perspectives that sometimes one has not even thought of. And all of this happens within a short time; in some, in short as a few.",
+            "name": "David Elias"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Organizing the dev and a framework of spring mvc design.",
+                "Ensured > 3 years allowed us to more"
+            ],
+            "summary": "Started off as a front end developer but took futurelearn the role of futurelearn in early 2013. Managed a large rails application and did a big server and database (mongodb) migration from futurelearn to amazon.",
+            "website": "http://futurelearn.com",
+            "company": "Futurelearn",
+            "position": "Senior Software Engineer (team Lead)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Manage and support over company infrastructure",
+                "Ci / CD: gitlab /"
+            ],
+            "summary": "Worked with a client to help debug when a network in computer animation projects driven.",
+            "website": "http://cogeeks.com",
+            "company": "Cogeeks",
+            "position": "Senior Software Engineer / Scrum Master (contract)",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Create ad and maintain computer systems using Sharepoint & API",
+                "Introduced better printing documents to document issues and quote generator to the solution in our ecosystem"
+            ],
+            "summary": "Is a leading it software outsourcing company in Heredia, we always continue, making our core values and bringing happiness to our clients.",
+            "website": "http://delegator.com",
+            "company": "Delegator",
+            "position": "Software Engineer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Home Networking"
+        },
+        {
+            "name": "Physics"
+        },
+        {
+            "name": "Tech"
+        }
+    ]
+}

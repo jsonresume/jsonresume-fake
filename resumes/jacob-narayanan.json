@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Jacob Narayanan",
+        "label": "Engineer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who can build apps from the ground up. I worked mostly at startups so I am used to wearing many hats. I am a very product focussed developer who practices, user feedback first and. I generally very flexible when investigating new roles.",
+        "email": "jacob-narayanan@gmail.com",
+        "location": {
+            "city": "Eau Claire",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "The ability to quickly pick up new skills on the real world problem and always looking to improve not only develop applications to meet the client. Cannot wait to work together again., contact available on request., available on demand, the heron is a very solution driven employee \u2013 who systematically solves complex problems and is capable of getting the results that were aimed for. Works well in a team and gives good reasons for his points of view as well as receive good reasons from coworkers.",
+            "name": "Jason Livesay"
+        },
+        {
+            "reference": "I worked with mark in the previous role. His depth of knowledge on the backend development team, because of his writing code for system. Highly",
+            "name": "Michael Hamson"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Spearheaded a team of developers and providing direction of the development access committee to manage the client server, reducing manual, and delivering different integration points",
+                "Pushed how to query forward and a custom legacy application written in c + + java in java ee."
+            ],
+            "summary": "match rider ug is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://match-rider-ug.com",
+            "company": "Match Rider Ug",
+            "position": "Senior Application Architect",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "An assist with integration project on the as and docker.",
+                "This successfully won an award for the state hire."
+            ],
+            "summary": "Is a technology company that builds innovative tech for advertising",
+            "website": "http://diy-events.com",
+            "company": "Diy Events",
+            "position": "Senior Software Engineer / Rails Architect",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Created app for sales by learning on how to parse millions of xml files and public databases (including... COM) in the front end.",
+                "Performed basic computer maintenance"
+            ],
+            "summary": "Is a company that provides services for the financial sector.",
+            "website": "http://hogskolan-sweden.com",
+            "company": "H\u00f6gskolan, Sweden",
+            "position": "Sr Software Engineer (platform Team)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Crypto Enthusiast"
+        },
+        {
+            "name": "Electronic Tinkering"
+        },
+        {
+            "name": "Cooking And Eating"
+        }
+    ]
+}

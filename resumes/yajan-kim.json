@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Yajan Kim",
+        "label": "And Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.",
+        "email": "yajan-kim@gmail.com",
+        "location": {
+            "city": "Parkville",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "",
+            "name": "Felix"
+        },
+        {
+            "reference": "Yajan is a details person with both wide and deep knowledge base in a., he is a phenomenal hacker and a true team player. Highly recommended! , Yajan is truly a full stack developer. If there is any opportunity to work with Diego, I take it to find. The first",
+            "name": "Daniel Vargas"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "In charge of maintaining game account and data persistence systems (mysql,) and web services",
+                "Html email and photo shop"
+            ],
+            "summary": "char bar, beer kc is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://char-bar-beer-kc.com",
+            "company": "Char Bar, Beer Kc",
+            "position": "Senior Software Engineer, Core Services",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Software architecture consulting for various cms",
+                "Worked with team planning on important features."
+            ],
+            "summary": "Development of automobile sales software to manage stock and advertisements using asp. Net moves, jquery, jquery angularjs, working with user workflow such as as a scrum master.",
+            "website": "http://swensonhe.com",
+            "company": "Swensonhe",
+            "position": "Senior Software Engineer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Spearheaded the move of new 3d printed documentation: / customization of system / architecture.",
+                "Offer translations for mobile."
+            ],
+            "summary": "In this role, I assisted in marking student assignments. This involved me marking assignments written in a wide variety programming languages such as Scala and javascript and with a wide variety of programming languages such as Scala and javascript and build scripts.",
+            "website": "http://bi-systems.com",
+            "company": "Bi (systems)",
+            "position": "It Consultant",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Clubs"
+        },
+        {
+            "name": "The Environment"
+        },
+        {
+            "name": "Group Climbing"
+        }
+    ]
+}

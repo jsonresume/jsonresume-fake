@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Nishanth Jeakins",
+        "label": "Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who can build apps from the ground up. I worked mostly at startups so I am used to wearing many hats. I am a very product focussed developer who practices, user feedback first and. I generally very flexible when investigating new roles.",
+        "email": "nishanth-jeakins@gmail.com",
+        "location": {
+            "city": "Porto Alegre",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "An incredible developer.",
+            "name": "Donald Singh"
+        },
+        {
+            "reference": "david is a unique it professional in that he is fluent both on the web / development side as well as the networking side! Nishanth achieved 8 different microsoft and comptia certifications while attending new horizons and passed over 20 + exams all on the first try! most near perfect!! that is very rare. his ability to deliver ingenious solution to complex problems, in extremely proactive and design,) who was a quick learner and goal driven. it is easy to see my and he also got a lot of. in addition, he is a very person, friendly, helpful and personality that needed. he is an inspiring manager that he always works well with others. it is easy to work with and i greatly admire his skills as a developer., Nishanth is an excellent young it professional with bundles of a enthusiasm and a genuine affinity for technology. if he it not early on. he is always available to on top notch design and is always ready to new think things, the kind of key a variety of digital technologies demonstrates a great capacity for learning. highly recommended will hire again!, i know if i could give trevor a recommendation that could do him justice. trevor came to intero part time and with little experience, essentially i believe to be a. level programmer. little did we know that he would adapt to the work, the process of the and most critical change., kelly was an asset to the team. with briefs being passed in to him a variety of, sam was quick to work out. as a",
+            "name": "Anthony J H"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Created software and standards still within initiative to use as a demo library the solution. Implemented in this document applies. C / c for / performance testing.",
+                "Agile certified scrum master"
+            ],
+            "summary": "bensussen deutsch & associates is a company whose focus is on delivering top notch web and mobile applications to our clients.",
+            "website": "http://bensussen-deutsch-associates.com",
+            "company": "Bensussen Deutsch & Associates",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Android development",
+                "Assure packages, every month and consultancy creating a new revenue stream of a company product"
+            ],
+            "summary": "I was responsible for the development and management of automated online data whose data is used to work for google,,",
+            "website": "http://room-key.com",
+            "company": "Room Key",
+            "position": "Senior Software Engineer, Software Engineer 2",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Parts of many php4 installations, applications",
+                "Led the security of blizzard installation games as a database management system."
+            ],
+            "summary": "Helped in promoting music by managing ruby on rails websites about live. Using the API was able to connect a coding standard, to implement google web app using as well as heavy.",
+            "website": "http://penn-state-state-milton-hershey-medical-center-pathology-department.com",
+            "company": "Penn State State Milton Hershey Medical Center Pathology Department",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Problem Solving"
+        },
+        {
+            "name": "Learning As A Hobby"
+        },
+        {
+            "name": "Star Wars"
+        }
+    ]
+}

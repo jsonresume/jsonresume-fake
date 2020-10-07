@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "John Meyers",
+        "label": "Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I a full stack developer who loves writing graceful code and designing compelling user experiences. I spent time exploring paths to help the most influencing actors of the industry solving their pains. I am technology agnostic to always be on the edge of our changing world.",
+        "email": "john-meyers@gmail.com",
+        "location": {
+            "city": "Stockholm",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "John developed digital systems to establish a central calendar and revamped website and smartphone app for dosavannah that put the savannah morning news on the map as a trusted resource for mainstream and alt events in the area that appealed to locals and visitors.",
+            "name": "Daniel Bodnar"
+        },
+        {
+            "reference": "A fine understanding of what the world should be like and how to make it a better product.",
+            "name": "Pongsak Kwan L\u00f3pez Saavedra"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Rowed principles () web application, website development ()",
+                "* regression analysis testing"
+            ],
+            "summary": "pharma is a company whose focus is on delivering top notch web and mobile applications to our clients.",
+            "website": "http://pharma.com",
+            "company": "Pharma",
+            "position": "Sr Web Developer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Extended query functionality using Magento",
+                "Developed system to process, by category video metadata, identified printers and easily via a command line tool"
+            ],
+            "summary": "I worked on the information security and risk management team doing all things security. Eventually I took over the development of an effort to provide the required assistance for both a new project based on customer management application.",
+            "website": "http://sycle.com",
+            "company": "Sycle",
+            "position": "Application Development And Technical Analyst",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Establish the front-end work using the application.",
+                "Ensured compatibility across browsers and devices."
+            ],
+            "summary": "Is a company that provides comprehensive solution and services for businesses in enterprise, enterprise mobility management, healthcare, enterprise and digital marketing strategies to its access in person and nationally information.",
+            "website": "http://accella-llc.com",
+            "company": "Accella Llc",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Scouts Canada"
+        },
+        {
+            "name": "Outdoor Sports"
+        },
+        {
+            "name": "Jazz Piano"
+        }
+    ]
+}

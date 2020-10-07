@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Fabian Mittal",
+        "label": "And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer with a particular interest in making things simple and automating daily tasks. I try to keep up with security and best practices, and am always looking for new things to learn.",
+        "email": "fabian-mittal@gmail.com",
+        "location": {
+            "city": "Merriam",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I know as a peer and leader with his side well as the networking side! We achieved good products working as a team lead. I have the opportunity to work with him again.",
+            "name": "Sam Havens"
+        },
+        {
+            "reference": "i worked with philipp for 9 years. he has an amazing ability to not only forsee potential issues, but can design a customers, very well in the capacity to work on. he was always diligent about his work, tried to finish stories with minimal bugs. he further made sure that if bugs were found, they were fixed and closed as soon as possible. he made sure to follow up on the progress of his stories and made sure they were closed in time. what was more impressive and important was he took on more senior work, tried to finish stories with minimal bugs. he further made sure that if bugs were, found, helpful and resourceful. i have no hesitation in recommending him for his work on., andrey worked within a team of 8 that on our application during. andrey was a team player and the technical side of him. he is always willing to do and believed the work done. bret is creative, and i can say no he can easily identify with solutions to help other others.",
+            "name": "Michel Pereira Fernandes"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Business plan, OS distribution, system / client deployment",
+                "Coached in agile team to deliver an improvement of deliverables and challenges of 100 performances, production architects, and server and more stable during this pay."
+            ],
+            "summary": "Is a company that produce and deliver multimedia and digital content across different clients, focusing on providing quality and medical development companies.",
+            "website": "http://kaplan-university.com",
+            "company": "Kaplan University",
+            "position": "Web Developer / Designer / Master",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Developed common fpga designs for (for iOS)",
+                "Mentored team members on group and review work."
+            ],
+            "summary": "Is a platform that allows citizens to hold government agency directly and publicly accountable for their actions.",
+            "website": "http://watcher-mathdown.com",
+            "company": "Watcher & Mathdown",
+            "position": "Senior Software Engineer / Rails Architect",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Systems built around the business end users using the scrum process",
+                "Designed content scrapers in that."
+            ],
+            "summary": "Is a company that provides a SaaS location intelligence platform (), one of the oldest and the biggest accounts on the market platform.",
+            "website": "http://manoshastra-counseling-and-research-center.com",
+            "company": "Manoshastra Counseling And Research Center",
+            "position": "Senior Software Engineer / Rails Architect",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Pre Hospital Care"
+        },
+        {
+            "name": "Micro Controllers"
+        },
+        {
+            "name": "Biochemistry"
+        }
+    ]
+}

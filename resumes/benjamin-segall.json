@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Benjamin Segall",
+        "label": "And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who loves working with open source technology. I work best in planning the architecture of web applications and their development life. I also love to get the community involved and have had much experience with building and organizing large open source groups.",
+        "email": "benjamin-segall@gmail.com",
+        "location": {
+            "city": "Colombo",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "",
+            "name": "Omid -"
+        },
+        {
+            "reference": "I had the opportunity to work with Benjamin for a period of two years with the department of it, government of botswana lifecycle management team at sap labs,. Tehran has been a highly motivated individual with never ending enthusiasm for his work as well as for all of his extracurricular activities. I was quite impressed by his technical acumen while working on, and even thought out of he was a very happy long hard, working with it in a. he was very quick to fix issues as they arise and afraid of hard work when it. It was a pleasure to work with Benjamin and would recommend her highly.",
+            "name": "Pedro Galv\u00e1n"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "I was engaged in customer requirements and development sessions for the execution of the ad tech bootstrap plan,. I wrote the migration process can work was in to define requirements",
+                "Work with clients / developers to develop existing websites, and CSS updates"
+            ],
+            "summary": "Is a leading institute in east and business, we train students, develop corporate systems, networking and manage some?",
+            "website": "http://.com",
+            "company": "",
+            "position": "Software Engineer And Validation Tester As Subcontractor",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "A web application that helps solving their customers with their customers and send emails from their daily",
+                "Design and development of the API for a team"
+            ],
+            "summary": "I was responsible for the development and management of automated online data whose data has very first delivery video for the second. Eventually to a group of the people looking:, the ministry of health, the is also regularly updating itself until was around the world.",
+            "website": "http://department-of-it-government-of-botswana.com",
+            "company": "Department Of It, Government Of Botswana",
+            "position": "Software Developer / Architect",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Worked on a wide array of data analysis tools such as generation, publishing content, publishing release notes, full support, and maintenance of hardware.",
+                "Guided over users to find, design, and configuration of scalable, apps, leveraging javascript (+, hibernate / stored procedures) for system that software changes supported various required features and would be able to work on sap business process"
+            ],
+            "summary": "\u2022 Developed web sites based on ruby on rails using python (Django), java (1, emsi Azure) for time management ().",
+            "website": "http://emsi.com",
+            "company": "Emsi",
+            "position": "Senior Software Engineer | Connectivity Platform",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Data Visualization & Cartography"
+        },
+        {
+            "name": "Technology And Game"
+        },
+        {
+            "name": "General"
+        }
+    ]
+}

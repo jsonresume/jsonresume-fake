@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Korrawit Jahanbakhsh",
+        "label": "Stack Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer that is constantly on the lookout for new ways to grow in the role. I have a computer science degree, but I am passionate about self education. Check out my website to learn and look forward to having a creative thinking person with more than learning.",
+        "email": "korrawit-jahanbakhsh@gmail.com",
+        "location": {
+            "city": "Livingston",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Korrawit is a very talented and smart engineer who loves a challenge. Korrawit has been never afraid to learn and looking at something from a new perspective or challenging existing methods or design decisions.",
+            "name": "O De Garcia"
+        },
+        {
+            "reference": "I worked with Korrawit for several years at tiny rocket games, when we were in our high growth phase. As the chief architect, I saw that he made a great contribution to our internet banking user interface design. Korrawit had a real passion for a software development and project than an architect. I am confident that will be lucky to have him., can be reached out at: COM, can work with this very focus on and delivering both business systems in the design process. I highly recommend him to any organization he will be a valuable asset to any organization.",
+            "name": "Jake Matteson"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Checks whether all the stages into: java programming, spring boot, video. Gas, react, redux, ui, node. J's, oracle, angular, python, node. J's, html5, angularjs, node. J's, gulp, angularjs, node. J, react and node. J's. Parsed stock API and the backend API, ruby / ruby on rails / mobile application for hosting mobile clients.",
+                "Development and angularjs web app with java, struts 2. 0."
+            ],
+            "summary": "I worked in the information security and risk management platform for an iOS application that was not having a serious performance in this project. The agency was developed, but do & with SQL server technologies and was also built in a scheduling system for handling the data migration process of the 3 to help their better their jobs.",
+            "website": "http://eg-plus-worldwide-mexico-city-mexico.com",
+            "company": "Eg Plus Worldwide, Mexico City, Mexico",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Ownership of the supply chain network, the, and of our second platform",
+                "Guided automation on the software platform, which allowed as a large professional development environment."
+            ],
+            "summary": "Worked with a team of four developers. Created spring appears, enabling third parties to request vehicle history and information used.",
+            "website": "http://tiny-rocket-games.com",
+            "company": "Tiny Rocket Games",
+            "position": "Lead Developer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Technical consulting work on rpms",
+                "Technical lead for tom project with four leads"
+            ],
+            "summary": "I worked on the information security and risk management team doing all things security. Eventually I took over the development of the mesh communication software development.",
+            "website": "http://global-space-balloon-challenge.com",
+            "company": "Global Space Balloon Challenge",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Forests"
+        },
+        {
+            "name": "Freecad"
+        },
+        {
+            "name": "Offshore Api Orchestra"
+        }
+    ]
+}

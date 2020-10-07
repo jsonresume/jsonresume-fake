@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Konstantin Dhar",
+        "label": "Web University And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who can build apps from the ground up. I worked mostly at startups so I am used to wearing many hats. I am a very product focussed developer who practices, user feedback first and. I generally very flexible when investigating new roles.",
+        "email": "konstantin-dhar@gmail.com",
+        "location": {
+            "city": "Berlin",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "",
+            "name": "William Bailey"
+        },
+        {
+            "reference": "i have known konstantin baikov for many years. we were working together in exigen group in the same project. i very glad to recommend him as a good qa engineer and as a great person. during his tenure with srp project, konstantin was responsible for designing and executing test plans, documenting scripts,,, test results from to my experience working as matt. the team has been recently awarded for its innovative architecture as well as its user experience. allaedine has helped us master cutting edge cloud and systems technology such as amazon web services. i have been delighted of our collaboration. i have found someone to be much more than just, code and software engineer. he is also an inspiring skilled natural leader, and he is able to build high quality solutions to tight deadlines. there seems to be little he know and no problem he can solve.",
+            "name": "Marcus Ong"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "First with over Jackson properties on of years.",
+                "Ad analytics"
+            ],
+            "summary": "Worked on a ci / a team that supported hardware debug when needed to be a and better of stored water in the delivery.",
+            "website": "http://antartica.com",
+            "company": "Antartica",
+            "position": "Software Developer / Architect",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Led the planning and design of an application for both patient management software and databases (, a,,, cloudwatch)), and a monitoring system for the customer.",
+                "More, multiplayer game server browser requests."
+            ],
+            "summary": "Web development, controlling work of 200 PC, including windows server 2003 (thin clients), Linux (centos), windows family, and Mac OS x 10. 5. building wired and wireless networks.",
+            "website": "http://national-technology-group.com",
+            "company": "National Technology Group",
+            "position": "Software Engineer (contract)",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "A iterations of the website in a angularjs / node angularjs helping build a portal to Wordpress cms",
+                "Warehouse automation software using, java (hibernate, bash)"
+            ],
+            "summary": "Worked on a variety of projects, using the front-end backed and ruby on rails. Currently used our daily innovative content and built on a different scenario in another area. The project I had a prototype which maintained server until client meetings & once a strong love at cash wrap and applying me so I just a had my hands in all of the company. We all had a very successful.",
+            "website": "http://technology-china-co-ltd.com",
+            "company": "Technology (china) Co, Ltd",
+            "position": "Senior Software Engineer (fullstack)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Hackathons"
+        },
+        {
+            "name": "Hardware"
+        },
+        {
+            "name": "Chat Bots"
+        }
+    ]
+}

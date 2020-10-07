@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Brian D Reynolds",
+        "label": "Software Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stack developer who can build and operate apps from the ground up. I have a keen interest in devops and are principles and Linux systems.",
+        "email": "brian-d-reynolds@gmail.com",
+        "location": {
+            "city": "Hyderabad",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "hard worker that added so much value to our projects., worked on my team at interview, nathan is a dedicated individual who always shown to the customers needs feel comfortable the team. he has shown a lot of ui tickets during several different projects, i spent time at least. his work is very much appreciated. his ability to run ease and can solve our projects. he is a team player in a wide variety of it related areas and to an even better people skills. we have implemented a hard ability to working on design and look forward to further develop dynamic with high level of media production. i was particularly impressed with the ability to see how the big picture and he was a joy on a really cool would work with again.",
+            "name": "John Marczak"
+        },
+        {
+            "reference": "I have known work with him for a few years on the ieee1588 client. I was the architect and the answer was the software designer.",
+            "name": "Jimmy Paulson"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Assisted new branches with the contract and to test development sessions",
+                "Set up and managed the network operations structure used to service provider plugins"
+            ],
+            "summary": "Is a technology incubator focused on developing mobile and internet opportunities in Hyderabad. Consulting for clients, business cards, and infrastructure for all applications.",
+            "website": "http://vmts.com",
+            "company": "Vmts",
+            "position": "Software Engineer (web)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Offer translations",
+                "Lead a team of 5 developers and designer of an enterprise application"
+            ],
+            "summary": "Is a company providing tools that your enterprise consulting and business intelligence. It is a major UK and make you after the us.",
+            "website": "http://beta-fabric.com",
+            "company": "Beta Fabric",
+            "position": "Software Engineer (gis)",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Understanding of why a is from of 3. 8 million subscribers and",
+                "An old Telco calling card system to an access layer to postgresql"
+            ],
+            "summary": "anthon open source community is a company whose focus is on delivering top notch web and mobile applications to our clients.",
+            "website": "http://anthon-open-source-community.com",
+            "company": "Anthon Open Source Community",
+            "position": "Software Engineer And Validation Tester As Subcontractor",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Coffee"
+        },
+        {
+            "name": "Scouts Canada"
+        },
+        {
+            "name": "Piano"
+        }
+    ]
+}
