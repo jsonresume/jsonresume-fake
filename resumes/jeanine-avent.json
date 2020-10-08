@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Jeanine Avent",
+        "label": "Software Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who can build apps from the ground up. I worked mostly at startups so I am used to wearing many hats. I am a very product focussed developer. I am a very product focussed developer who practices, user feedback first and. I generally very flexible when investigating new roles. I believe in perfection and excellence and.",
+        "email": "jeanine-avent@gmail.com",
+        "location": {
+            "city": "Vila Do Conde",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "",
+            "name": "Meredith Antley"
+        },
+        {
+            "reference": "I know. He will have a great ability to see the big picture and he is constantly willing to help out, whether or the team that helps champion the new ideas and is always providing accurate solutions in difficult environments, it is my to team and has a real passion for passion and personality that is a very honest dedicated to a person. He will be a great addition to any company.",
+            "name": "Micki Ruby"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Integrated windows services into more efficient (stock and management).",
+                ": printer service requests for internal / external users (), such as equity, derivatives and trading)"
+            ],
+            "summary": "I was given the chance to do an internship program in which it became a sole software, and after school around the world who really need. So I just continued to work with.",
+            "website": "http://hugsmidjan.com",
+            "company": "Hugsmi\u00f0jan",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Development of test automation designs and framework testing",
+                "Converted procedural code to object oriented"
+            ],
+            "summary": "Is a medication adherence software application.",
+            "website": "http://epiq-systems.com",
+            "company": "Epiq Systems",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Grpc side in the front end application developed with javascript, modular and web application.",
+                "After was closed and we started on my own crash of the system from the companies it"
+            ],
+            "summary": "deeptarget is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://deeptarget.com",
+            "company": "Deeptarget",
+            "position": "Software Engineer / Team Lead / Project Manager",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Theater & Film Enthusiast"
+        },
+        {
+            "name": "Illustration"
+        },
+        {
+            "name": "Ice Bit Systems"
+        }
+    ]
+}

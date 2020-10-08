@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Maryam Telford",
+        "label": "Web Senior",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who loves working with open source technology. I work best in planning the architecture of web applications and their development life. I also love to get the community involved and have had much experience with building and organizing large open source groups.",
+        "email": "maryam-telford@gmail.com",
+        "location": {
+            "city": "Sydney",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I have worked with him on several different occasions in different positions he has held. When it came time to redesign my website. He was the technical skill and was always eager on high profile and revenue generating clients from daily interaction to complex project. He always puts clients, coworkers first and, also often a very good professional communicator who has the ability to pick up new skills and even when Maryam under pressure, he is also often delivered above and beyond to speed. I would highly recommend him to anyone in any team or.",
+            "name": "Eliz Palladino"
+        },
+        {
+            "reference": "He is the best programmer, I know., he was a great addition to our media production team. He was a fully functioning feature application in the application that if bugs were found they were closed in time. What was more impressive and important was he is very quickly, effectively., Maryam is a very passionate developer who has a real passion to process and standards which we often understand very well. We really so can be on a very recommendation that as a good leader.",
+            "name": "Liliana Schanz"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Branded and designed the website and login to keep the entire user base.",
+                "Contributed, an open source configuration management system for the project. Developed with open source software packages (), running java (python)."
+            ],
+            "summary": "Responsible for the design and development of the tablet case that we use for tours, working with 3d softwares to later make it in 3d printers.",
+            "website": "http://myyoho.com",
+            "company": "Myyoho",
+            "position": "Software Engineer (contract)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Used angler development to create a migration from legacy code & PHP site templates.",
+                "Created course material"
+            ],
+            "summary": "Is a company founded to provide a web based mobile and application development aimed to connect music with core rich, allowing simple them to save money on analytics.",
+            "website": "http://headspring.com",
+            "company": "Headspring",
+            "position": "Senior Java Software Developer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Participate in presales scoping meetings",
+                "Creating custom components of things like which"
+            ],
+            "summary": "Is a leading employer and renowned specialist in enterprise application",
+            "website": "http://kerb.com",
+            "company": "Kerb",
+            "position": "Senior Software Engineer (java & J2ee)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Pet Projets"
+        },
+        {
+            "name": "Electrical Electronic"
+        },
+        {
+            "name": "Videography"
+        }
+    ]
+}

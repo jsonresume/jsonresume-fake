@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Kathrine Lovejoy",
+        "label": "Software At",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stack developer who can build and operate apps from the ground up. I have a keen interest in devops and are principles and Linux systems.",
+        "email": "kathrine-lovejoy@gmail.com",
+        "location": {
+            "city": "Sabanagrande",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "daniel has been a valued member of my team as web design and development executive for 15 months. during that time his performance and commitment to his work has been of a consistently high standard. his achievements have included creating graphics and, with designing and building the company website using wordpress and integrating this with a complex microsoft dynamics crm platform. he has risen to every challenge and enthusiastically taken personal responsibility to learn new skills in coding and web development when needed for a project. he has an effective authentic in coding, coding, and his interest him is a very clear desire to always improve upon. his work is truly contagious which helped to build a positive and encouraging enterprize. the favourite thing i like young is truly an customer. resource i have had the pleasure of working with him and developing a custom real estate software. company is any kind of, he treats very well, but critical in the area of. as a good qa engineer and he was a great ability to understand the work and it despite the his professional and work ethic he was needed., a pleasure to work with good ideas, and even as being a skilled in it, i look forward to working with him again.",
+            "name": "Maryam Telford"
+        },
+        {
+            "reference": "gilberto is a great coworker to have around. he contagiously passionate about technology and has a great attitude towards. his technical skills problem solving skill and often takes years to develop the top of things that we did not know something., Kathrine rare that you come across standout talent like Kathrine in all of the areas he always had the of his ability to understand work on his project and start being productive on day to a where better product not. he even when carl himself as a team leader, he took initiative to the company and meet project goals in an efficient and cost effective manner. he is quick to explain technical concepts when needed and a desire to improve will all existing products to the requirements. he during a projects and always found his fun to., i have worked closely with Kathrine in delivering integration solutions using datapower at anz. Kathrine became clear to me in a short time that Kathrine possesses a commanding knowledge of datapower and j2ee. i also observed that he knows how to use his technical knowledge and experience to design integration solutions using datapower. Kathrine has been an active contributor in addition to our design / initiatives working, chris on some pretty much complex, projects where or to do it., while good as he arrived. organised, methodical and technical, and he has the good ability to see problem the solution and he quickly learn and is new things in that he is a good guy and with a great experience., he is young., Kathrine is an absolute pleasure to work with alejandro at disney. alejandro has excellent",
+            "name": "Halley Salvia"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Signal fixes",
+                "Multiple Perl / jquery / html5, javascript, jquery, apache."
+            ],
+            "summary": "Is a leading private school.",
+            "website": "http://federal-aviation-administration.com",
+            "company": "Federal Aviation Administration",
+            "position": "Senior System Engineer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Worked on shell scripting",
+                "Built an automated system functional tests for android / using the API"
+            ],
+            "summary": "I worked on the information security and risk management team doing all things security. Eventually I took over the development of the mesh communication software development.",
+            "website": "http://myndshft.com",
+            "company": "Myndshft",
+            "position": "Sr Software Engineer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Experience with design and development of the finance department, making it",
+                "Dealt with live data issues."
+            ],
+            "summary": "Is a leading private school.",
+            "website": "http://vmts.com",
+            "company": "Vmts",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Electronics Tinkering"
+        },
+        {
+            "name": "Reading Physics Articles"
+        },
+        {
+            "name": "Fine Arts"
+        }
+    ]
+}

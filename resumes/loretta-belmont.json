@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Loretta Belmont",
+        "label": "Software",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I a full stack developer who loves working with open source technology. I work best in planning the architecture of web applications and their development life.",
+        "email": "loretta-belmont@gmail.com",
+        "location": {
+            "city": "Neuss",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I have worked with Loretta on several different occasions in different positions he has held. When it came time to redesign my website. He was the technical skill and set was on the project, we often asked devotegroup limited as a supervisor. He has the skill on javascript tracking framework to flex with a few flash site releases and maintenance jobs in between. And it was always fun.",
+            "name": "Lawanna Aguon"
+        },
+        {
+            "reference": "I had the pleasure of working with Loretta when I brought him on our team to run our qa efforts. He the ability to quickly show up with his clients and creative, innovative ideas., we worked together with him on a database project where he was the programmer. I where he could either make sure things work properly within the limits of what is supported, or the issue never seemed resolved to not. Like most who fun to work with and at the.",
+            "name": "Danelle Whittemore"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Development and application test case framework",
+                "Decrease office hours"
+            ],
+            "summary": "devotegroup limited is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://devotegroup-limited.com",
+            "company": "Devotegroup Limited",
+            "position": "Software Developer And It Consultant (as Freelance)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Developed tools to standardize and simplify common deployment suite",
+                "Interfaced with website with (technologies, including Drupal, WordPress, Joomla, Drupal, etc.."
+            ],
+            "summary": "Is a startup company that streamlines checkout and creates a shopping experience by delivering loyalty, and payment with a single touch.",
+            "website": "http://kyokan-usa.com",
+            "company": "Kyokan (usa)",
+            "position": "Senior Software Engineer / Rails Architect",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Monitoring EU, us international, pricing, content, base image recognition and generation",
+                "Metrics analysis & infrastructure"
+            ],
+            "summary": "The biggest challenge was that the creation of a web marketing platform with the use of the groovy language, and scrum.",
+            "website": "http://hackindia.com",
+            "company": "Hackindia",
+            "position": "Software Engineer / Need For Speed Online (edge)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Causes"
+        },
+        {
+            "name": "Dj / Music Production"
+        },
+        {
+            "name": "Wining"
+        }
+    ]
+}

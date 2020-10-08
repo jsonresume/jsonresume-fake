@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Halley Salvia",
+        "label": "Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer with a strong focus on javascript. I also have experience with PHP and python. I enjoy working on new frameworks and libraries on my own time and have a fairly active github profile to show for it. I particularly enjoy the to get an understanding of the challenges that certain technologies face and how to overcome those issues.",
+        "email": "halley-salvia@gmail.com",
+        "location": {
+            "city": "Pasadena",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "mr. Halley is a true agile developer. he has strong leadership skills and is very easy going to do. thank you will be amazed with how to level. sad face andrea is leaving us!, andrea worked in a field of the major drupal details make him a pleasure to work with. he was a person to work with, both and excellent level of technological expertise. and this is a valuable asset to any team that he., has been an incredibly useful feedback to very broad and global training management me., i have been working with michiel on multiple projects within a team. he is very focused and adapts quickly to new technologies. i am comfortable recommending his work to any that he will be a good leader on team., brett is an extremely capable developer and reliable team member. he works well with other people and knows how to give and take to arrive at solutions that benefit everyone., it a great pleasure to work with. always responsible and passionate about the work because he of his outstanding work. he is a very professional developer who takes a very positive attitude, and has a great sense for of humour. it been a pleasure to work with him. Halley is also a, team member who worked with a passion for other developers combined. a company would be crazy not to hire him if they only give my best practices and we have asked for a better. if he there want to have an amazing software development engineer.",
+            "name": "Vernita Sim"
+        },
+        {
+            "reference": "alejandro is an extremely hard working and bright engineer to work with. he was always willing to sit down and work with us on the front end to make sure our needs were being met and usually found him exceeding our expectations. he has great communication skills and was always a joy to work with. when it came to solving tough problems he was always there ready to think outside the box and was always happy to share and work out ideas until we had a working solution. i would be excited to get the chance to work with alejandro again on any project!, alex is a very determined programmer. he strives to make his code clean and run efficiently. he enjoys getting his code reviewed and quickly makes any adjustments if necessary. i even receive emails about how to use his code to help speed richard, he was able to explain this well to customers, in fact that guy.",
+            "name": "Pandora Beahm"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Facebook",
+                "Communicate regularly with corporate stakeholders throughout six departments."
+            ],
+            "summary": "merj is a company whose focus is on delivering top notch web and mobile applications to our clients.",
+            "website": "http://merj.com",
+            "company": "Merj",
+            "position": "Software Engineer / Team Lead",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Created a tool to parse millions of xml files and public schema databases.",
+                "Remote functions in production for multiple contracts, the systems, and shopping"
+            ],
+            "summary": "Worked on many ruby projects. Mostly written in rails. Tutored in classes, reviewed their code.",
+            "website": "http://symbiotic-software-llc.com",
+            "company": "Symbiotic Software Llc",
+            "position": "Lead Application Developer Consultant",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "architected, test, and developed and maintain infrastructure and systems for a management system for, and human corporate including infrastructure, development and maintenance of hardware and infrastructure, using infrastructure as the internal network connectivity, and approach utilising new technologies to allow to metrics, the / commands to the /, such as. And.",
+                "Designed / developed release pipelines for many legacy applications."
+            ],
+            "summary": "i worked on the information security and risk management platform for an internal that allows you to book courier, where in the dual capacity of.. the main goal was to build the website with the internal cms and also with experienced shared products, hosting, service containers, and utilized customized various open source tools for products, using to get the use of internal and external tools. Using technologies like: javascript, angular, etc. has dynamic reports, solutions beyond tech support.",
+            "website": "http://business-school.com",
+            "company": "Business School",
+            "position": "Lead / Senior Devops Engineer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Green Energy"
+        },
+        {
+            "name": "Entrepreneurship"
+        },
+        {
+            "name": "Learning As A Hobby"
+        }
+    ]
+}

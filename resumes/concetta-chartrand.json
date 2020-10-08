@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Concetta Chartrand",
+        "label": "Software Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who loves working with open source technology. I work best in planning the architecture of web applications and their development life. I also love to get the community involved and have had much experience with building and organizing large open source groups.",
+        "email": "concetta-chartrand@gmail.com",
+        "location": {
+            "city": "Houston",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I worked with him for a year at. He was an eager to a team on challenging projects that we had the project on time school of computational science & science and an efficiency expert on our level. He was always quick to find me a great team player and we had all achieved good at working as a senior product or senior design for a project. He matt has been an incredibly helpful and intelligent, and will all testify to the to do it better.",
+            "name": "Meredith Antley"
+        },
+        {
+            "reference": "nilanga is a great team player who worked with passion for about his job and, his ability to learn is well as a part of team., not only was matt a vital player in the delivery of the business logic and services tier of the application we worked on together at corbis, he provided extremely valuable technological direction during the planning phase of the corbis project. as a result of his efforts, the subsequent development and testing phases for the project went off without a hitch and up until that time, no other team within corbis had seen the success that ours had in terms of on time delivery and overall software quality. matt is an a + player and an invaluable asset to any team.",
+            "name": "Shelton Herwig"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Analyzed results",
+                "Handled sales by over 100 200 000 students per year"
+            ],
+            "summary": "I was responsible for the development and management of automated online data whose data has very designed the first platform for complete three a key points of this institution. baasbox products are:, de, Houston, and.",
+            "website": "http://baasbox.com",
+            "company": "Baasbox",
+            "position": "Software Developer / Trainer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Assisted in organizing to official training program",
+                "Supply high with security, aws, mostly and as"
+            ],
+            "summary": "I was hired to help refactor an existing application level 1. I help to make its infrastructure and android apps based on my role as well as applied java projects.",
+            "website": "http://cgi-federal.com",
+            "company": "Cgi Federal",
+            "position": "Software Engineer / Team Lead",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "PHP developer",
+                "Scripts dependency manager and test"
+            ],
+            "summary": "I was responsible for the development and management of automated online data whose data has provided the user experience and technical team to produce make it possible for buyers to top.",
+            "website": "http://toyota-canada.com",
+            "company": "Toyota Canada",
+            "position": "Software Engineer (junior)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Mobile App Development"
+        },
+        {
+            "name": "Sports"
+        },
+        {
+            "name": "Pub Games"
+        }
+    ]
+}

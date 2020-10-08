@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Rosalba Fluharty",
+        "label": "And Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "",
+        "email": "rosalba-fluharty@gmail.com",
+        "location": {
+            "city": "Odense",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "lloyd gets it. he has an internal drive to succeed yet appears easygoing on the outside. lloyd can jump into the technical weeds where appropriate and then come back and focus on driving measurable business outcomes with. i certainly expect that lloyd successes will continue on any team. highly recommended., i worked with Rosalba for several years and during that time always found him to be a creative, humble and dedicated colleague. he is keen to learn and keen to apply his knowledge in any environment, always rising to the challenge put before him. when asked to take on large scale projects \u2013 such as the production of a series of gameplay \u2013 Rosalba delivered with were an invaluable comments and feedback. kim expertise in javascript is impeccable and overall a role model supporting the train. he would go to out of his full time, when we requested some changes require for our website we immediately changes it. i would say he is a highly recommended web developer.",
+            "name": "Stefani Carwile"
+        },
+        {
+            "reference": "john is a great colleague one Rosalba partner with easily, his knowledge and experience with a good problem solving skills and always delivered on projects and new challenges. his pragmatic approach to problem solving and always fun to solve the creative problem. with his ability to solve problem the person i known and most needed it to be Rosalba is a highly effective communicator. his ability to articulate and explain problems at hand really help streamline our projects and making them the successful ones. Rosalba brings a lot of value to our projects particularly well with his unique perspective in. he a very smart way, a very good knowledge and experience. very good at prototyping solving problems and to work as he has proven those there someone who were always seemed to the answer questions of his significant qualities in development that many projects, under tight deadlines and kim is one. he will be an asset to any team that he is a part of. i would look forward to working with him again in the future.",
+            "name": "Aimee Harp"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Myself, built on a & production",
+                "Updated (elasticsearch, mysql, nginx)"
+            ],
+            "summary": "honeywell technology solutions is a company whose focus is on delivering top notch web and mobile applications to our clients.",
+            "website": "http://honeywell-technology-solutions.com",
+            "company": "Honeywell Technology Solutions",
+            "position": "Software Engineer, Senior Software Engineer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "As a web client evangelist, of company how to see what the users.",
+                "Developed dashboard for email tracking system ()"
+            ],
+            "summary": "fraunhofer institute for applied information technology is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://fraunhofer-institute-for-applied-information-technology.com",
+            "company": "Fraunhofer Institute For Applied Information Technology",
+            "position": "Software Engineer / Vp Of Product Development",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Wrote functions to make changes in our app using access",
+                "Worked tracked system and technology."
+            ],
+            "summary": "virtual chemistry inc is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://virtual-chemistry-inc.com",
+            "company": "Virtual Chemistry Inc",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Spare Time"
+        },
+        {
+            "name": "Almost Everything"
+        },
+        {
+            "name": "Sportsing"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Dierdre Vannostrand",
+        "label": "Full Senior And Student",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "A software engineer with vast experience in the art domain.",
+        "email": "dierdre-vannostrand@gmail.com",
+        "location": {
+            "city": "Vila Do Conde",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Dierdre encyclopedic knowledge of network equipment is an incredibly useful resource. He always seems to have time to help and it was a genuine pleasure working with him.",
+            "name": "Pandora Beahm"
+        },
+        {
+            "reference": "It is my pleasure to recommend, her performance working as a program engineer tvo iqor proved that she will be a valuable addition to any company.",
+            "name": "Danelle Whittemore"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Presented network findings to live data analysis and on products.",
+                "With Xen and to set up and used for the managing internal network teams."
+            ],
+            "summary": "Is a digital platform (app) that people who have an exclusive available parking place?",
+            "website": "http://brainbridge.com",
+            "company": "Brainbridge",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Establishing a mathematical model to define the hybrid jobs efficiency and implement",
+                "Mentored and diverse on conversions and, for and enrollment to ensure high levels of uptime for reference."
+            ],
+            "summary": "I worked in gathering requirements, technical design, implementing agile and software development for up tv expertise: the development of real estate. Projects included the conference, privacy, international,, and. Maintained the new virtual network infrastructure, migration of a tvo exchange server admin of all services, network configuration management, systems software, networking and entertainment / technology",
+            "website": "http://tvo.com",
+            "company": "Tvo",
+            "position": "Sr Software Engineer / Devops / Architect (remote)",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Provide guidance through code reviews for workflow changes.",
+                "Design exercises to help mentor teammates becoming the codebase with users"
+            ],
+            "summary": "Is a leading global provider of integrated travel and expense management solutions. Internally promoted by the senior management team, based on by prior performance in my previous role at my career, where I gained during the internship, I learn, that go, and then repeating.",
+            "website": "http://.com",
+            "company": "",
+            "position": "Senior Software Engineer (trading Systems)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Music And Multimedia"
+        },
+        {
+            "name": "Creativity"
+        },
+        {
+            "name": "Lifestyle"
+        }
+    ]
+}

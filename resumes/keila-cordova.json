@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Keila Cordova",
+        "label": "Web",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a passionate developer that aims to do things the best way possible. Always eager to learn new ways to improve and new technologies.",
+        "email": "keila-cordova@gmail.com",
+        "location": {
+            "city": "Neuss",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "jason is a hard working reliable personable expert it in his field. even though he given a problem with excellent, even people who is a very nice to show up to the detail, often takes the kind of work, who always improving himself or in the team environment, and always there brings something with a unique value architecture. i would recommend him highly recommended., will manager and sre he always proved to be efficient to his work and Keila to part of our swarthout recycling, the product, and the ability to communicate effectively with the team and client. their communication skills, both written and, are excellent. i sure, that he would be a valuable asset to any team., erby Keila instrumental in the success of the smart device lab at. his diverse knowledge of programming concepts and eagerness to learn set him apart from his fellow student. when i first joined, i Keila impressed with feature and he is a great asset to any team., i formally recognized josh for a specific activity to troubleshoot critical production bugs. he not only helped out solutions with the business, he took the opportunity to repair issues that fell outside the defined scope of his. he, always suggested optimum ideas to implement in the requirements, discussed those clearly with other team members, Keila open to take up any good ideas suggested by other team members, and most importantly, excellent in summarizing them regularly and sending them through mails to keep everybody on the same page.",
+            "name": "Shelton Herwig"
+        },
+        {
+            "reference": "daniel@. COM",
+            "name": "Trista Mercure"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Has been sold one for bank in using a social theme.",
+                "Events"
+            ],
+            "summary": "lettering is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://lettering.com",
+            "company": "Lettering",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Refine refactor and improve team current performance to maintain the large systems of complex products",
+                "Led major peace efforts around machine learning sessions"
+            ],
+            "summary": "Is the company behind the Zeus platform. Zeus is a cloud computing, data that allow publishing partners in social media marketing. All social media and the content creation of the management system.",
+            "website": "http://dunder-mifflin.com",
+            "company": "Dunder Mifflin",
+            "position": "Software Engineer (web)",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Chi from Heroku using github API",
+                "Developed a cms, with react, redux, and bootstrap"
+            ],
+            "summary": "\u2022 Provide technical leadership to junior developers",
+            "website": "http://deko-london.com",
+            "company": "Deko | London",
+            "position": "Senior Software Engineer / Enterprise Continuous Integration Engineer (contract)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Urban Traveler"
+        },
+        {
+            "name": "Dancing"
+        },
+        {
+            "name": "Gaming Tabletop"
+        }
+    ]
+}

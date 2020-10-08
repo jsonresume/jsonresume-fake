@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Joel Revard",
+        "label": "Software And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I a full stack developer, entrepreneur and writer. I build products to last and work with startups helping them achieve their goals.",
+        "email": "joel-revard@gmail.com",
+        "location": {
+            "city": "Monterrey",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I worked with him on a few sides, about projects at ricoh business ricoh business solutions including multiple internal systems. He is a valuable assist to any development team.",
+            "name": "Eliz Palladino"
+        },
+        {
+            "reference": "A fine understanding of what the world should be like and how to make it better.",
+            "name": "Armanda Cloutier"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Developed websites in WordPress including integration with Drupal, yahoo and sales force.. COM",
+                "Led the effort in of java 8 pages / for the / b styles and kid."
+            ],
+            "summary": "I was responsible for the development and management of automated online data whose data is used to work for google,,",
+            "website": "http://ricoh-business-solutions.com",
+            "company": "Ricoh Business Solutions",
+            "position": "Technical Support Specialist Iii",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Deliver customer journey, information, and other cloud platform",
+                "Remediation through alerts the using a new productivity tool."
+            ],
+            "summary": "Worked on a variety of projects to create web projects for clients and also as a member of over 200: javascript, jquery, angularjs, html, CSS / less, javascript and jquery.",
+            "website": "http://stratacloud.com",
+            "company": "Stratacloud",
+            "position": "Software Engineer, Senior",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Developed the booking and process of the applications from scratch using ruby on rails and angularjs.",
+                "Representative present at various level events, and external company wide area. Knowledge management of offshore vendor (and)."
+            ],
+            "summary": "Is a leading private school.",
+            "website": "http://fontis.com",
+            "company": "Fontis",
+            "position": "Lead Software Engineer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Exploring"
+        },
+        {
+            "name": "Cloud Computing"
+        },
+        {
+            "name": "Travel / Mountaineering"
+        }
+    ]
+}

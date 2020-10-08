@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Xiomara Hardt",
+        "label": "Engineer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.",
+        "email": "xiomara-hardt@gmail.com",
+        "location": {
+            "city": "Lyon",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i have worked with him on several collaborative social media projects during his time with his excellent technical skills. brett has excellent technical skills and patience, to explain complicated process and an ordinary product into an artwork using various possible media including web for the ongoing goals in an media. it was a pleasure working alongside such a bright developer. i do hope we will cross paths again in the future., matt any web development engineer, i worked with alejandro for almost a year and a half. he was an indispensable part of the backend team and last year, he pretty much led to the effort, because of this he was my first, and honest it to every development projects., you are awesome:),@..,@..., contact:@., founder: moves the needle, design and sales manager: galley design and sales, i worked with terry on a database project where he was the programmer and i was the subject matter expert. he was very quick to embrace new technologies or tools even without any knowledge of coding, and he those web. i easy to work with him again., i have worked with him on several critical projects at hostgator including multiple internal systems. he is a valueable assist to any developement team.",
+            "name": "Dorothy Ellwood"
+        },
+        {
+            "reference": "It is my pleasure to recommend, her performance working as a program engineer wfc shop iqor proved that she will be a valuable addition to any company., Xiomara is a full stack engineer. He implements every solution with detail. He is proactive Xiomara also an excellent colleague. Besides, he also has entrepreneurial vision!. It has been a great a pleasure working with him., Xiomara is a great software engineer. His technical skills are very good Xiomara allow him to Xiomara to rapidly issues makes him an enjoyable to work it.",
+            "name": "Kum Pontes"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Responsible for running and upon a wide variety of other projects, including a global team member of business analysts, management, and research to generate customer information and resources.",
+                "Created with an oath library to for the desktop web presence"
+            ],
+            "summary": "Working on the product and the data presence from the ground up.",
+            "website": "http://501creative.com",
+            "company": "501creative",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Fixed issues and schema within server 2008 until everything along I was maintained technical. Well promotion to manager.",
+                "Implement angular gas graph for (.. COM) system administrator from the designer) for a big data platform."
+            ],
+            "summary": "wfc shop is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://wfc-shop.com",
+            "company": "Wfc Shop",
+            "position": "Technical Lead",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Create product page using concepts as devices, object types for more tests, including a number of new developers to a setup to do code review changes",
+                "Contact for help desk software:,,"
+            ],
+            "summary": "Worked on a project for what arpu parks & resorts, one of the oldest and the biggest accounts of the company, migrating from a legacy PHP platform to angular. J's with node. J's, node. J's, express, angular. A web API, the desktop, used a mobile app for the ionic SDK (API, mongodb), radish, mysql and postgresql.",
+            "website": "http://arpu.com",
+            "company": "Arpu",
+            "position": "Lead Web Developer & Product Manager",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Amateur Mathematics / Physics"
+        },
+        {
+            "name": "Visual Arts"
+        },
+        {
+            "name": "Ski & Ski Mountaineering"
+        }
+    ]
+}

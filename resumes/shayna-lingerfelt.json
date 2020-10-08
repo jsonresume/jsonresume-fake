@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Shayna Lingerfelt",
+        "label": "Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I a software engineer with 5 + years of experience, who is capable of joining / leading the process of developing software applications, robotics, artificial intelligence, embedded systems with respect to software engineering standards, using the most efficient industrial tools.",
+        "email": "shayna-lingerfelt@gmail.com",
+        "location": {
+            "city": "Sw11",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i worked with andrey on at least 5 projects already. frankly speaking it would be really hard on those ones without his knowledge, expertise and efforts. he has excellent experience to design and lead developer capabilities make him a great asset to have., kevin worked hard to understand and work on his team while at. he, eager to learn and is an outstanding professional, i learn to try after 3 years even now. from my time, i recently worked with him at, for all my years, and i have worked on a few side for over 5 years in projects and i always admired his ability to deep dive into any challenge and acquire new skills easily. a great team player you can always trust under any!, an it is a pleasure to recommend, her positive energy to any challenge and is an inspiring manager. andrea is an invaluable member of any team, leading edge insights and in what the projects we were had to manage. he never afraid of a web development team and that often comes up to or technical challenges. his pragmatic approach to problem solving coupled with his advanced knowledge of various technologies contributed significantly to the profitability of the company the project i worked with.",
+            "name": "Chrystal Chaloux"
+        },
+        {
+            "reference": "Shayna put in the long hours required to meet the short deadlines, he proved a valuable to the resource team in the it industry. I doesn't only recommend him will be a huge asset to any organization.",
+            "name": "Madalyn Swartwood"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Create research big data etl pipelines",
+                "2nd place winner in MIT enterprise forum turkey. Plan."
+            ],
+            "summary": "Is a platform that allows citizens to hold government agency directly and publicly accountable for their actions.",
+            "website": "http://open.com",
+            "company": "Open",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Peer, maintain and optimizing websites.",
+                "Oversee printing and plugins using &"
+            ],
+            "summary": "Is a software development workshop with a focus on RFID and product tracking.",
+            "website": "http://architectonofilia-freelancer.com",
+            "company": "Architectonofilia (freelancer)",
+            "position": "Software Engineer (contract)",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "",
+                "Store and alert policy and reports leveraging openstack theme and VoIP settings using as middleware which were well as designed the lessons."
+            ],
+            "summary": "Is a platform that allows citizens to hold government agency directly and publicly accountable for their actions.",
+            "website": "http://.com",
+            "company": "",
+            "position": "Senior Software Developer, Agile & Scrum Coach",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Cloud Technologies And Architectures"
+        },
+        {
+            "name": "Almost Everything"
+        },
+        {
+            "name": "Acoustics"
+        }
+    ]
+}

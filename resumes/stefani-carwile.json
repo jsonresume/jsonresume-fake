@@ -1,72 +1,72 @@
 {
     "basics": {
         "name": "Stefani Carwile",
-        "label": "And",
+        "label": "And Developer",
         "image": "https://www.thispersondoesnotexist.com/image",
-        "summary": "I am a full stack developer who can build and operate apps from the ground up. I have a keen interest in devops and are principles and Linux systems.",
+        "summary": "I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.",
         "email": "stefani-carwile@gmail.com",
         "location": {
-            "city": "Tangerang",
+            "city": "Itagui",
             "countryCode": "US"
         }
     },
     "references": [
         {
-            "reference": "i have worked with Stefani on Stefani different occasions in different positions he has held. when it came time to redesign my web site. he was the technical skill of journalism work, he was., Stefani was always maintained a common goal., he is a brilliant and wonderful human being and i would love to see him have the chance to live and learn while in the united., carl was a terrific and accomplished participant in the class, making the business of journalism work. he was super dependable in discussions, always participating and frequently giving an interesting of all the best ways to., Stefani is a conscientious developer, skilled, humble, and patient. usually you have to pick just one or two of those things. trent is that makes him an invaluable resource to positively impact the. she has been a great pleasure working with rhisiart and i would highly recommend him.",
-            "name": "Kasie Romeo"
+            "reference": "Mr. Stefani zynovyev carried out all duties assigned to him on his own, correctly and very, to our entire satisfaction.",
+            "name": "Leonie Antonio"
         },
         {
-            "reference": "i worked with richard at, where he was a valuable member a team member who worked on development, even when being pulled in a million. over the past 2 years at, we worked on a project where i was to mention that first, a great team member who worked with him. i cannot recommend aidan highly enough him to work with!, i known worked with him for a more than three years, during that time i always found him to be a creative, humble and dedicated colleague. he is keen to learn and keen to apply his knowledge in any environment, always rising to the challenge put before him. when asked to take on large scale projects \u2013 such as the production of a series of gameplay \u2013 Stefani for his innovative and plan to build your hard work on. i would highly recommend Stefani for his positive character as a member of any creative team.",
-            "name": "Stanford Sills"
+            "reference": "References are available upon request.",
+            "name": "Mckenzie Halpern"
         }
     ],
     "work": [
         {
             "highlights": [
-                "Built various tools with angular / nodejs for the microservices from scratch (using webdriver).",
-                "Maintained and enhanced eligibility and enrollment system"
+                "A, using the ones. And control skit for two telecom companies.",
+                "Development of a graphical rewrite process for the angular. 0, node. J's, rails API, javascript and backbone angular. J's"
             ],
-            "summary": "Is a creative and design agency focused on leading public relations, research, loyalty, social, and publishing?",
-            "website": "http://taylor-corporation.com",
-            "company": "Taylor Corporation",
-            "position": "Web Developer (website)",
+            "summary": "",
+            "website": "http://the-walt-disney-company.com",
+            "company": "The Walt Disney Company",
+            "position": "Senior Network Response Team Engineer",
             "startDate": "2018-01-08",
             "endDate": "2020-09-08"
         },
         {
             "highlights": [
-                "Maintain authorization and system changes using or.",
-                "Made improvements the of processes: over 2 years, managing 50 servers running in 20 + Linux, windows performing, installation, first, as for possible customer service delivery."
+                "Used Django, radios, and query to create a key user interface flow between cms, using java and mysql.",
+                "Extensive spec testing, implementation using &."
             ],
-            "summary": "Worked as a freelancer fulfilling various various roles",
-            "website": "http://justnine-co-ltd.com",
-            "company": "Justnine Co Ltd",
-            "position": "Senior Software Engineer, Corporate Applications",
+            "summary": "I worked on a project which involved the creation of the best practices, system integration and planning with the management platform.",
+            "website": "http://fortinet.com",
+            "company": "Fortinet",
+            "position": "Software Engineer ()",
             "startDate": "2015-02-07",
             "endDate": "2018-01-01"
         },
         {
             "highlights": [
-                "Teamwork and management",
-                "Created a tool to parse millions of xml files and databases generated from CSV files for xml database files, as well as reporting on the analytics platform."
+                "Build environment, troubleshooting, and prototype application written in a research environment.",
+                "Comparing and pitching"
             ],
-            "summary": "Worked on a project with universal studio marketing team with the awesome things team. Constantly receiving complicated issues in jira and space. This was small to medium sized businesses that I needed to make the students as possible.",
-            "website": "http://hugsandi-menn.com",
-            "company": "Hugsandi Menn",
-            "position": "Project Manager",
+            "summary": "Responsible for assisting senior developer in building scheduling software for organizations.",
+            "website": "http://euvic.com",
+            "company": "Euvic",
+            "position": "Senior Software Developer",
             "startDate": "2014-09-01",
             "endDate": "2015-01-01"
         }
     ],
     "interests": [
         {
-            "name": "Cool Tech"
+            "name": "Arts And Crafts"
         },
         {
-            "name": "Indoor Activities"
+            "name": "Bussiness"
         },
         {
-            "name": "Software Development And Technology"
+            "name": "Game Development Tennis Making Shorts Movies Photography Maths"
         }
     ]
 }

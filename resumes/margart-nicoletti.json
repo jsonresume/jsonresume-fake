@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Margart Nicoletti",
+        "label": "And And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stack developer who can build and operate apps from the ground up. I have a keen interest in devops and are principles and Linux systems.",
+        "email": "margart-nicoletti@gmail.com",
+        "location": {
+            "city": "\u6df1\u5733",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I have worked with Margart on several different occasions in different positions he has held. When it came time to redesign my website, he was the first person i. I would be excited to get the chance to work with Margart again on any project!",
+            "name": "Lawanna Aguon"
+        },
+        {
+            "reference": "Top notch technical university of berlin expertise, or leadership qualities as a lot of his system implementation project I manage as a report. By project to support system Jonathan, as a big query project and was not always been a capable of getting the chance.",
+            "name": "Florida Dykema"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Worked on a team of projects that handled the data access layer",
+                "Worked on an engine of new platforms: designed and to existing open source"
+            ],
+            "summary": "Is a company that provides a SaaS location intelligence platform help sales process to individuals business and businesses.",
+            "website": "http://onebip.com",
+            "company": "Onebip",
+            "position": "Senior Software Engineer (fullstack)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Supported the production enterprise running application on scale, apache http web servers and web services.",
+                "Worked as / a / b testing results with writers COM completion and projects"
+            ],
+            "summary": "I developed a workflow automation system that helped process leading teams to independently, and provide a training new for local and remote. Support in the company: control system, and systems access to produce plans and deliver dynamic reports that products and maintaining environments to clients' business goals. I worked with html, along with marketing and to target for clients.",
+            "website": "http://technical-university-of-berlin.com",
+            "company": "Technical University Of Berlin",
+            "position": "Software Engineer (android)",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Creation and development of new functionalities with the four iOS, android & is",
+                "Authoring java processing, using spring framework and hibernate available."
+            ],
+            "summary": "I was the lead developer in a dream team of web developers and web designers, and I joined many other publishers include (. net), branding, mobile web development and content. I served as the lead developer and manager for the cloud infrastructure.",
+            "website": "http://inc.com",
+            "company": ", Inc",
+            "position": "Software Engineer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Aeronautics"
+        },
+        {
+            "name": "Smart Home Devices"
+        },
+        {
+            "name": "Monitoring Since Of My Physical & Improve Efficiencies"
+        }
+    ]
+}

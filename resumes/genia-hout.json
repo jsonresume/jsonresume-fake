@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Genia Hout",
+        "label": "And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer that is constantly on the lookout for new ways to grow in the role. I have a computer science degree, but I am passionate about self education. Check out my website to learn and look forward to having a creative thinking person with more than learning.",
+        "email": "genia-hout@gmail.com",
+        "location": {
+            "city": "",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I studied and worked jos\u00e9 Genia not on a project in school. His responsibilities were the done code he is never on a problem. He went out of his way will be a very bright from to the development team.",
+            "name": "Cassaundra Amann"
+        },
+        {
+            "reference": "",
+            "name": "Luisa Crossno"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Performed able to provide technical support to end customers via an API sales",
+                "Created and enhanced standalone swing and utility applications"
+            ],
+            "summary": "Worked with a team of four developers. Created spring appears, enabling third parties to request vehicle history and information used. Technologies: go, PHP, mysql,,, spring,, selenium, bash, chrome webdriver,,,,,,,,, 18 meetings, among others. My first role as communication is first trial funding within the analysis of the enterprise whose technology school is now we provide the best to players the in various data visualization for each change and a better.",
+            "website": "http://atiba-llc.com",
+            "company": "Atiba Llc",
+            "position": "Senior Software Developer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                ", and scene of fully automated transparency in development of new work",
+                "Backup manager system"
+            ],
+            "summary": "metamoto is a company whose focus is on delivering top notch web and mobile applications to our clients.",
+            "website": "http://metamoto.com",
+            "company": "Metamoto",
+            "position": "Web Developer / Systems Integrator",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Configure and update systems software on (new hardware)",
+                "Distributed crawler (), converting rest, custom search engine, friendly web authentication pages, allowing for an easy path they or limited to manage search. Drive the attention scores using advanced and monitoring."
+            ],
+            "summary": "Is a technology company that builds innovative tech for advertising",
+            "website": "http://national-instruments.com",
+            "company": "National Instruments",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Coffee"
+        },
+        {
+            "name": "Cryptocurrency"
+        },
+        {
+            "name": "Football"
+        }
+    ]
+}

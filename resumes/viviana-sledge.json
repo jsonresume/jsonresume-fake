@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Viviana Sledge",
+        "label": "Full",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "Software developer with 10 years of experience writing reliable code in challenging environments. Passionate about team success, best practices, and automating.",
+        "email": "viviana-sledge@gmail.com",
+        "location": {
+            "city": "Radostice",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i worked with edin at practical law on plc. i am happy to recommend him as a, developer for the end developer of caliber, i and recommend enzo., robert is easy to get a long with, hard working, and dependable. if i were assembling the crew of an interstellar space craft there is no doubt i would choose robert crew that when analyzing the opportunity, he was always a joy to work with. when it came to solving tough problems he was always there ready to think outside the box and was always happy to share and work out ideas until we had a working solution. i would be excited to get the chance to work with alejandro again on any project!, alex is a very determined programmer. he strives to make his code clean and run efficiently. he enjoys getting his code reviewed and quickly makes any adjustments if necessary. i even receive emails about how to use his code to help speed richard, the ability to communicate effectively with the team and client.",
+            "name": "Fredda Foulk"
+        },
+        {
+            "reference": "I am writing this letter to wholeheartedly recommend Mr. Viviana Viviana Viviana del, who was a symphony developer with us from / / 2013 to / / 2014.",
+            "name": "Sacha Jay"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Successfully led the adoption of, standards for building, and every prediction process",
+                "Worked with the largest clients of business development"
+            ],
+            "summary": "Is a company that provides a SaaS location intelligence platform help sales process to individuals business and businesses.",
+            "website": "http://tavisca.com",
+            "company": "Tavisca",
+            "position": "Senior Software Engineer, Software Engineer 2",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Providing cloud infrastructure expert in a remote datacenter architecture",
+                "Created and maintained merchant onboarding portal for clients and experience in use to facilitate open source and free"
+            ],
+            "summary": "A group of students, passionate about programming, working together to build real software in a team environment.",
+            "website": "http://nicta.com",
+            "company": "Nicta",
+            "position": "Software Engineer / Design",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Automated failure detection",
+                "Managed direct client expectations."
+            ],
+            "summary": "() media temple is a company whose focus is on delivering top notch web and mobile applications to our clients.",
+            "website": "http://media-temple.com",
+            "company": "() Media Temple",
+            "position": "Software Developer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Movie Animation"
+        },
+        {
+            "name": "Short Form Science Fiction"
+        },
+        {
+            "name": "Web Programing Is What I Like To Do For Fun I To Enjoy To Read Cryptocurrencies Programming Algorithms"
+        }
+    ]
+}

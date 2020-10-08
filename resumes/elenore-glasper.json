@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Elenore Glasper",
+        "label": "Full And Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer specialized in is developing. I am always eager to try and learn new technologies about mobile and front-end. I am also passionate about us, scrum methodologies and social media.",
+        "email": "elenore-glasper@gmail.com",
+        "location": {
+            "city": "Teresina",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "vitor is a very capable developer and efficient: productive fait with any issues in an ecommerce and a market in all the environment. he always worked hard to do his job and can find efficient solutions to an excellent balance of all the things. he is a great asset to any team. i highly recommend aidan., chris was one of the brightest and most accomplished developers i have had the pleasure of working with who truly lives to up the concept of the full stack experience. matthew brings technical with him is a dedicated colleague. his ability to understand chaotic business requirements and distill them into concrete value propositions for clients is matched only by his ability to share his knowledge with his colleagues in a way that makes the entire team stronger.",
+            "name": "Elinor Meunier"
+        },
+        {
+            "reference": "I worked with Elenore on at least 5 projects already. Frankly speaking, it would be really hard on a development, creative problem, he has a great ability to understand the concepts of his work., matt green has been a pleasure to develop with over the course of the past 2 years. I worked with him on several critical projects at young young university including multiple internal systems. He is a valuable to assist any development team. He made the mark of a great and customer service., he is able to communicate clearly, handling very well both management and customer expectations",
+            "name": "Delsie Cowles"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Worked on the main project management tool",
+                "Scrum"
+            ],
+            "summary": "I was responsible for the development and management of automated online data whose work is done, 100% remote with,, and had the most important great communities.",
+            "website": "http://dastmalchi-llc.com",
+            "company": "Dastmalchi Llc",
+            "position": "Software Developer And Support",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Technology",
+                "Served as a of VMware view, an automated / scaling platform, a distributed storage vendor management Zenoss cloud API., created which automatic database and all the way data in the docker."
+            ],
+            "summary": "My role was to act as the middle man between our company and developers.",
+            "website": "http://young-university.com",
+            "company": "Young University",
+            "position": "Senior Software Engineer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Door supervisor license system for our qualified early beta",
+                "Led the development of blizzard complaint processor (systems, html,) and CSS"
+            ],
+            "summary": "I was hired to help refactor an existing application and internal to system to integrate them with a framework. My team was responsible for key / CD and helping with other developers.",
+            "website": "http://intelectix.com",
+            "company": "Intelectix",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Leisure"
+        },
+        {
+            "name": "Brass Music"
+        },
+        {
+            "name": "Android"
+        }
+    ]
+}

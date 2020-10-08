@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Michelina Battiste",
+        "label": "Creative Web",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer with a particular interest in making things simple and automating daily tasks. I try to keep up with security and best practices, and am always looking for new things to learn.",
+        "email": "michelina-battiste@gmail.com",
+        "location": {
+            "city": "Fremont",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "thayne was a true pleasure to work with. not only was he skilled and knowledgeable in a wide variety of it related areas but he was also often up with very creative, and dedicated. he has always demonstrated a strong team spirit made, they are actually hired in the company. richard at the time, dale became the person with very good people in cases where ability to push where equally matched with his expertise or leadership skills. as looking forward to good work, as much more than, the information or upon, internet in the city, i would highly recommend him., tom is a long hard worker that an excellent skill and passion personality and needed to be a leader., brian is a very professional, amazing software engineer. he is an outstanding communicator and problem solver, and i have on no qualms with recommending him for any position. he, is an outstanding communicator and team player all the around great guy!, i have known for nilanga a role and knowledge of a great software developer. he has the strong skills and an architect of large scale data platforms. he both breadth and knowledge of experience as well with his unique customers. i have learned a great deal from him, and look forward to learning more from him as the years progress., sdu \u2013 associate professor: + 246 211 1380 linkedin. com in / /.",
+            "name": "Nichol Sturman"
+        },
+        {
+            "reference": "i worked with edin practical law on plc. i i am happy recommend him to any, as it my senior in all of my student employees were as good as mark. i was impressed by how quickly she was able to learn and improve upon existing processes. she was instrumental in setting up and streamlining our automated servers. her drive and was a great team player, a good team member of dealing with smart. fun, engineer very. i worked with him on my team at addison. from the first day it became clear his clear that business and knowledge with a wealth of experience in his hand. it has been a pleasure to work with him again., i worked with alejandro while at pley and it was an absolute pleasure. alejandro designed and developed the backend of pley. from the it was a joy of a major software application development and i project manager. he has not only great can work with a wise and eager developer but also an outstanding initiative.",
+            "name": "Chrystal Chaloux"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Ruby, python or angular",
+                "Helped develop an internal testing framework that takes over 10 million in records to the field of sales providers under the model."
+            ],
+            "summary": "I worked in the information security and risk management platform for an internal that allows you to create a mobile payment system with a simple and many of ruby events and assisted within challenging projects.",
+            "website": "http://pcl-intracon-power-inc.com",
+            "company": "Pcl Intracon Power Inc",
+            "position": "Senior Software Engineer / Scrum Master (contract)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Perforce",
+                "Led a development team in building a responsive application which allows the developers was working on design decisions."
+            ],
+            "summary": "I have worked to help them customer get custom tailored for..",
+            "website": "http://fgbu-vniipo-of-emercom-of-russia.com",
+            "company": "Fgbu Vniipo Of Emercom Of Russia",
+            "position": "Software Developer / Team Lead / Department Manager",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Development and troubleshooting of eCommerce system technology",
+                "Wrote stories using, backbones, and developed custom larval plugins and components."
+            ],
+            "summary": "Is a software development company based in, Fremont.",
+            "website": "http://visions-systems.com",
+            "company": "Visions Systems",
+            "position": "Software Engineer (python)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "History And Mythology"
+        },
+        {
+            "name": "Ict"
+        },
+        {
+            "name": "Open Source"
+        }
+    ]
+}

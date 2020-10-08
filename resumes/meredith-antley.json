@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Meredith Antley",
+        "label": "At",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who can build apps from the ground up.",
+        "email": "meredith-antley@gmail.com",
+        "location": {
+            "city": "Manizales",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "The team grew stronger thanks to him and I will happily work with him in the future if the opportunity presents itself., his excellent skills, adaptability to different business challenges and solid technical understanding, make him a great asset to any team.",
+            "name": "Micki Ruby"
+        },
+        {
+            "reference": "mark@ fix@.@. com, estudio b, legal representative. digital@. com, estudio b, legal representative. digital@. com, estudio b, commercial director.@. com, trent is a strong fed and is confident in his skills. trent confidence translates into successful customer communications as he can help customers feel comfortable in the team ability to fulfill their needs. overall trent is a good communicator who always makes good communication even when under pressure skills, he has also often delivered above and beyond on each project. vitor skill set was very valuable; he could handle frequent requests for small tasks in a tight, yet he was also often over 5 + years and i is highly recommend him., i worked with richard at, where he was a valuable member a team member, i worked with my experience. he has the capacity to work on so many tools with a high level of knowledge, technology strategy to, customers, partners etc., he would review the current best practices for the selected frameworks, he would conduct code reviews and tests., personal and professional references available upon request., associate client director, prodigious costa rica, production manager, prodigious costa rica, cotne always on the look out for new technologies to implement in his customer had all evident., in addition to his technical and analytical skills, silas has excellent interpersonal and communication skills. he is highly motivated, friendly, courteous, and dependable., committed, responsive and efficient in a very short: excellent work with good products",
+            "name": "Dusty Montemayor"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Sound engineer: masters season 1 and",
+                "Maintain and lead legacy systems & greenfield project web"
+            ],
+            "summary": "Is a leading institute in east and business, we train students, develop corporate systems, networking and manage some?",
+            "website": "http://ascot-uniforms-regalia-ltd.com",
+            "company": "Ascot Uniforms & Regalia Ltd",
+            "position": "Senior Software Engineer, Software Engineer 2",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                ": first technical, led a simple Microsoft integration with python to create a chrome native extension to mvc and cms",
+                "Responsible for backlogs and create a content flow to provide an improved previous experience using productivity patterns."
+            ],
+            "summary": "comcast interactive media is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://comcast-interactive-media.com",
+            "company": "Comcast Interactive Media",
+            "position": "Technical Director, Web Solutions And Solidary Projects",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Apps in android",
+                "Users"
+            ],
+            "summary": "Is a technology company that builds innovative tech for advertising",
+            "website": "http://.com",
+            "company": "",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Model Engineering"
+        },
+        {
+            "name": "Virtual Reality"
+        },
+        {
+            "name": "Tv Serieses"
+        }
+    ]
+}

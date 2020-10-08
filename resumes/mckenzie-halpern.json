@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Mckenzie Halpern",
+        "label": "Of And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.",
+        "email": "mckenzie-halpern@gmail.com",
+        "location": {
+            "city": "Cologne",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Mckenzie gets it. He has an internal drive to succeed yet appears easy going on the outside. Mckenzie can jump on the project and his knowledge of any subject.",
+            "name": "Chia Lail"
+        },
+        {
+            "reference": "Mckenzie management, organization skills, he is well really thought con and he will find you a clever solution.",
+            "name": "Yolonda Cassella"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Also responsible for the development of widgets into that the company applications.",
+                "Configured Atlassian / solutions"
+            ],
+            "summary": "securitas sverige ab is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://securitas-sverige-ab.com",
+            "company": "Securitas Sverige Ab",
+            "position": "Lead Developer Experience Engineer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Worked in development environment within a fully automated build system deployment to docker, scale",
+                "Secure COBOL"
+            ],
+            "summary": "A company acquired by.",
+            "website": "http://the-bsquare-corporation.com",
+            "company": "The Bsquare Corporation",
+            "position": "Senior Cloud Architect",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Set up toward mobile app devices.",
+                "Server integration testing (/)"
+            ],
+            "summary": "I was the first mobile application developer hired for two customers from various to work with it.",
+            "website": "http://now-fiserv.com",
+            "company": "(now Fiserv)",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Furniture Design"
+        },
+        {
+            "name": "Bitcoin"
+        },
+        {
+            "name": "General"
+        }
+    ]
+}

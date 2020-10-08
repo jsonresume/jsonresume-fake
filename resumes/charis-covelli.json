@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Charis Covelli",
+        "label": "Software",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer who is looking to join a team that solves interesting and challenging problems with innovative technology.",
+        "email": "charis-covelli@gmail.com",
+        "location": {
+            "city": "Gurgaon",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Professional referees kindly available at interview",
+            "name": "Camelia Luk"
+        },
+        {
+            "reference": "great work ethic is trying new ways to every products and he works to improve. he will often suggested changes in the designs and identified improvements for the site we were working on. he would be no good manager as well as effective as possible within a team., lloyd was a outstanding senior programmer and an overall high quality driven individual. his ability to understand chaotic business requirements and distill them into concrete value propositions for clients is matched only by his ability to share his knowledge with his colleagues in a way highly independent., as his professional and i have had an opportunity to observe his participation and interaction both in and outside the quality of his comfort areas,., i recently worked with brett on the design for anz gomoney where he showed an incredible amount of creativity and thoughtfulness when crafting design solutions. attention to detail, user centered focus, knowledge of tools and methods are his. i am hoping i get the chance to work with brett again., hugo is a committed person. he sure works to get the best results from whatever mission he has. a good support engineer and an excellent php programmer. at it, he became a good of software development design and brought an incredible strategic thinker who who brings a unique combination of experienced entrepreneurship, leading edge thinking, and the ability to push the boundaries of the possible to derive additional value. his knowledge around applicable subjects of the day \u2013 namely, the internet of things, and a great teammate, i am confident in joe., amr is one of the most motivated people you",
+            "name": "Corrina Spruill"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Modification and of the application in first consolidation phase.",
+                "Work closely with integration / google functionality engine to optimize customer delivery mongodb"
+            ],
+            "summary": "Is a leading institute in east and business, we train students, develop corporate systems, networking and manage some?",
+            "website": "http://walmart.com",
+            "company": "Walmart",
+            "position": "Senior Software Engineer / Product Manager (backend Services)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Build web scraper, sentiment analysis, web assets data and production management",
+                "Introduced angular, CSS frameworks and angular for agile project management"
+            ],
+            "summary": "Is a software development workshop with a focus on RFID and product tracking.",
+            "website": "http://skyrock.com",
+            "company": "Skyrock",
+            "position": "Software Developer (contract)",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Migrated legacy PHP codebase using gas and cars",
+                "Designed, implemented and maintained a centralized web application log management platform."
+            ],
+            "summary": "side projects is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://side-projects.com",
+            "company": "Side Projects",
+            "position": "Ios Software Developer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Cooking"
+        },
+        {
+            "name": "Culinary"
+        },
+        {
+            "name": "Ai / Robotics"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Bettyann Dunnigan",
+        "label": "And Software",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.",
+        "email": "bettyann-dunnigan@gmail.com",
+        "location": {
+            "city": "Toronto On Starting May 2016",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "smart,, very detail oriented and excellent colleague. accepts constructive criticism and has a natural gift to motivate and push his fellow developers to. does a very good job at com, no matter how complex to go to using automation and different project to have. i seen john unify and lead tech teams to quickly mobilize on new products, get them educated and up and running to quickly deliver value., john is a deep product thinker. in an organization that is large and nascent to product management, john stands out as someone who thinks innovatively about how product really should be run. he has given me great advice on sticky situations and i hope to work with him in the future, in a different product capacity.",
+            "name": "Liliana Schanz"
+        },
+        {
+            "reference": "",
+            "name": "Sal Goehring"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Worked on backend features of the platform",
+                "Rewrote the legacy code from to"
+            ],
+            "summary": "teles ag is a company whose focus is on delivering top notch web and mobile applications to our clients.",
+            "website": "http://teles-ag.com",
+            "company": "Teles Ag",
+            "position": "Senior Technical Staff Member I",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Created a storage vendor point for service that managers' clients across various platforms.",
+                "Development and implementation of various API for ruby on rails, the application and performance of the catalogue system"
+            ],
+            "summary": "Is a company that produce and deliver multimedia and digital content across different clients, focusing on the medical industry.",
+            "website": "http://nanovo-group.com",
+            "company": "Nanovo Group",
+            "position": "Software Engineer (contract)",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Automated installations of common patterns for services: customers, audit, and consulting (advertising, infrastructure, software)",
+                "Functional testing strategy and"
+            ],
+            "summary": "Is a mobile operating system.",
+            "website": "http://pier-2110.com",
+            "company": "Pier 2110",
+            "position": "Senior Software Engineer, Software Engineer 2",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Play Guitar"
+        },
+        {
+            "name": "Sewing"
+        },
+        {
+            "name": "Experimenting The Application Of Distributed Block Events"
+        }
+    ]
+}

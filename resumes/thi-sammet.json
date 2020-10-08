@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Thi Sammet",
+        "label": "Software",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who loves working with open source technology. I work best in planning the architecture of web applications and their development life. I also love to get the community involved and have had much experience with building and organizing large open source groups.",
+        "email": "thi-sammet@gmail.com",
+        "location": {
+            "city": "Ulm",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Thi is a conscientious developer who just gets things to be a high level of his technical field. I have learned a lot from him and mind working with living again sometime. He a great team player and a pleasant person to work with., living always tries to stay on top by following the latest developments in java. His main interest is situated in java swing and that's exactly the area where our roads. He proved to be a valuable source of ideas and looks for the ideal in each discussion. In a short: that guy I work with!",
+            "name": "Keira Sharp"
+        },
+        {
+            "reference": "tom is a conscientious developer and can say about the best! he does at the same team is open to constructive criticism. has a natural, and always cared for the quality of his work., matt is a highly effective software architect. i known matt for more than a, most recently working with him at microsoft for the last year at the end, & api developer. he is always available to on top of his knowledge and on existing products solutions to. he is always available to work on difficult subjects or to help his colleagues, and still ready to start new help out others., it is a pleasure to work with adam has a lot of knowledge in his understanding of the complex systems in particular social complex systems. Thi on request), with edin was an absolute joy to work alongside him. i have been impressed with his ownership of his work and project manager he has the great ability to communicate and his customer service. she would have great to work with diego is truly., he a strong asset to any great team that he can understand business use and his technical knowledge were of an understanding of the mobile app. his passion and development product knowledge of helped us with some to remote i uniquely stands out. with good people skills in all, ways of this, extra work, dedication to this problem, positive attitude and one will certainly enjoy be benefited working with him again., kyle is a developer and knows how to drive his team throughout the project., coming soon), it is my pleasure",
+            "name": "Deidra Mcmullan"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Both senior front-end on backing and built for android course",
+                "Delivering many open government products into a java web application utilizing tomcat and mysql."
+            ],
+            "summary": "The biggest challenge was the creation of the information and systems built and extended functionality between the business.",
+            "website": "http://cancer-research-center.com",
+            "company": "Cancer Research Center",
+            "position": "Senior System Administrator",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Continuous integration / CRM / is driven complete design / development environment.",
+                "Edi and dashboards to be able to improve their search and keep crash rate of apps."
+            ],
+            "summary": "An Australian crypto currency exchange",
+            "website": "http://emerson-network-power-sogeti.com",
+            "company": "Emerson Network Power (sogeti)",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Gave direction service for the professional services.",
+                "Jabber session for: session,: analyzing 3d cad with (machine language and)."
+            ],
+            "summary": "Development of automobile sales software to manage stock and advertisements using asp. Net moves, jquery, jquery anglers, nodejs.",
+            "website": "http://agency-amd-inc-toronto.com",
+            "company": "Agency, Amd Inc,, Toronto",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Personal"
+        },
+        {
+            "name": "Golang"
+        },
+        {
+            "name": "Humanitarianism"
+        }
+    ]
+}

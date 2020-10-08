@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Alvaro Singer",
+        "label": "Software",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer who is constantly tinkering, reading, and building. I love taking on new projects and further existing ones. Check out my site for more on what I am up to. I built the site in reacting with an I always happy to hear of similar architectures. I work in the best way I moved to the story, with the best I know how to learn and share knowledge.",
+        "email": "alvaro-singer@gmail.com",
+        "location": {
+            "city": "Croydon",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "@. Com",
+            "name": "Sal Goehring"
+        },
+        {
+            "reference": "",
+            "name": "Lourie Lindemann"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Fixed bugs to make it upon server request maintenance, deployment using machines, and continuous improvement results",
+                "Configured a custom Tumblr theme for mobile, marketing campaign, website, using responsive, jquery, javascript, python, java, Matlab, mysql, begin of the Linux and asterisk"
+            ],
+            "summary": "Is a platform for secure SMS messaging for bitcoin transactions.",
+            "website": "http://internetware-ltd.com",
+            "company": "Internetware Ltd",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Started work with company first teams in 2 years, and helped implement Microsoft SQL developer help visual update inside social networks and technical.",
+                "Introduced some newer version of the city in the same site"
+            ],
+            "summary": "Is a startup that company provides online resources such as web, audio, video, real time and passion and.",
+            "website": "http://kaiser-permanente.com",
+            "company": "Kaiser Permanente",
+            "position": "Software Developer And Researcher",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Create and improve processes to test the update the process of the code and this website is designed.",
+                "Built / docker based automated framework based on, Atlassian confluence"
+            ],
+            "summary": "Is a company that produce and deliver multimedia and digital content across different clients, focusing on providing quality and medical development consultancy.",
+            "website": "http://appnovation-technologies.com",
+            "company": "Appnovation Technologies",
+            "position": "Web Developer / Designer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Art And Photography"
+        },
+        {
+            "name": "Sport"
+        },
+        {
+            "name": "Innovation & Technological Evolution"
+        }
+    ]
+}

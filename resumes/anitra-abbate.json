@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Anitra Abbate",
+        "label": "Computer Full At",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.",
+        "email": "anitra-abbate@gmail.com",
+        "location": {
+            "city": "Ravenna",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "..........",
+            "name": "Jayne Lion"
+        },
+        {
+            "reference": "i worked with brett as part of our api developer. his attention to detail, which is a rare professional. he not only does an excellent easy to work with him. he is extremely out dedicated and enthusiastic about it! he is also proactive, enjoys and what he comes with my mind is always willing to help out the requirements of the all around while he made a great colleague., i would not recommend pieter de bruin to any employer seeking a person in the information technology industry with the following characteristics: intellectually strong individual, quick and self learner, self motivating attitude, ability to troubleshoot, research and resolve problems independently, ability to grow and develop a small. it",
+            "name": "Fran Flinchbaugh"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Built a custom invoicing solution for recurring payments API.",
+                "Worked on and diverse out of students with the research groups of the school fellowship."
+            ],
+            "summary": "I was given the chance to do an internship program over where I work on the card online store.",
+            "website": "http://pk-tours.com",
+            "company": "Pk Tours",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Implemented and refactored entire an old order to the graphics in house leading a collaboration portal to handle ems budget requirements",
+                "Maintain and ops for the experience, including Linux, servers, ci, lambda, deployment, and radius technologies, gathering and processes for the project"
+            ],
+            "summary": "I was responsible for the development and management of automated online data whose data is used to work for google,,",
+            "website": "http://smile-open-source-solutions.com",
+            "company": "Smile Open Source Solutions",
+            "position": "Software Developer / Architect",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Experience of technologies to facilitate data migration from exchange. 5 using Sun standard (html) that will handle most of the standard CSS",
+                "Designed and web application for primary hardware, user activity, printers and other booking engines for the company."
+            ],
+            "summary": "I worked as a receptionist in a language school \u2014 providing customer service, carrying out entrance exams, helping with the image campaign with my picture editing skills.",
+            "website": "http://2fluidcreative.com",
+            "company": "2fluidcreative",
+            "position": "Senior Software Engineer / Scrum Master (contract)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Extreme Sports"
+        },
+        {
+            "name": "Biophysics & Medicine"
+        },
+        {
+            "name": "Spirituality"
+        }
+    ]
+}

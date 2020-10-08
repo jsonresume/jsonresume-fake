@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Liliana Schanz",
+        "label": "Software",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer who is looking to join a team that solves interesting and challenging problems with innovative technology.",
+        "email": "liliana-schanz@gmail.com",
+        "location": {
+            "city": "Gurgaon",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I consider Liliana to Liliana an exceptional development in every. He is technically brilliant, hard working and a creative problem solver. Liliana is also an excellent team player and easily collaborates with others and can mentor junior developers whenever. He an it is inspiring manager that when I needed and it always been impressed with his ability to work as well.",
+            "name": "Noreen Scheurer"
+        },
+        {
+            "reference": "It is my pleasure to recommend David, his performance working well and a long reference that I definitely typed out myself for this out of this.",
+            "name": "Emerald Hamman"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Leading a team of 3 developers",
+                "Complete the game flow website from scratch, preparing daily analytical writing for unit tests."
+            ],
+            "summary": "As a senior consultant, I help solve client issues by gaining insight of their business and information to customers and provide solutions to customers.",
+            "website": "http://.com",
+            "company": "",
+            "position": "Technical Support Representative",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Updating documentation on ad and office front, windows forms and wide testing.",
+                "Modeled and developed daily dell analytics and reports"
+            ],
+            "summary": "manta test systems is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://manta-test-systems.com",
+            "company": "Manta Test Systems",
+            "position": "Senior Software Engineer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Provided expertise that software can release change academy manager",
+                "Mysql, Linux, hosting, cloud"
+            ],
+            "summary": "I have worked with several companies like, one in small, maintaining and engineering teams (Gurgaon, rails and) on various projects and fit project",
+            "website": "http://eunseok-elementary-school.com",
+            "company": "Eunseok Elementary School",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Tour"
+        },
+        {
+            "name": "Sourdough"
+        },
+        {
+            "name": "Data Analytics"
+        }
+    ]
+}

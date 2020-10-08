@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Chrystal Chaloux",
+        "label": "And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.",
+        "email": "chrystal-chaloux@gmail.com",
+        "location": {
+            "city": "Tlahuac",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "mark@. COM",
+            "name": "Rachele Royster"
+        },
+        {
+            "reference": "rob is an excellent developer to work with. he passionate about the design of the products he works on and we would often collaborate on design decisions. rob is an excellent developer with an excellent knowledge of information and collaborates with others very well., Chrystal is a very focused and self powered person and always pushing new ideas and solutions., Chrystal is a reliable professional in front end, and web developer i have had the pleasure to work with. all in all, loved getting to the chance to work with al any company that was under staffed and tasked despite the pressure and he always seemed to get the best people out of the most value of quality. it is to the kind of people that you can get with him.",
+            "name": "Lakeshia Overton"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Assist the development team from initial design, development to production",
+                "Technologies used: creating a waterfall effect on deb for storage data."
+            ],
+            "summary": "I worked as a cashier at Walmart",
+            "website": "http://mapegy-gmbh-berlin-germny.com",
+            "company": "Mapegy Gmbh, Berlin, Germny",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "International team in India",
+                "Edit images in the pages with the build of & less more than 400 + 6 months."
+            ],
+            "summary": "I was given a proof of concept project developing in the applications a mobile based on the platform. Their flagship product recruiter box is an to that lets our users from the business.",
+            "website": "http://spartan-inc.com",
+            "company": "Spartan, Inc",
+            "position": "Senior Software Engineer And Sre",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Reviewed applications and ensured that final shift maintenance.",
+                "Built a prediction system"
+            ],
+            "summary": "The is an American chain of stores selling a variety of wireless and electronic products. My role was the strategic it consulting, business analysis and guidance on the product.",
+            "website": "http://planet-cloud.com",
+            "company": "Planet Cloud",
+            "position": "Senior Software Architect",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Learning To Play Music"
+        },
+        {
+            "name": "Computer Games"
+        },
+        {
+            "name": "Physical & Mental Fitness"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Kristi Karsten",
+        "label": "Programmer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer who loves teaching others to code. As a teacher for software engineering, I get to do some really cool stuff! Teaching is not only how people should write their code, but how to think like a professional software engineer.",
+        "email": "kristi-karsten@gmail.com",
+        "location": {
+            "city": "Miami Beach",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i have known konstantin baikov for many years. we were working together for the support business and his development side of luck in new his performance and commitment to project has been using only experience in the front end of javascript. thank, thayne is enthusiastic, and also has the ability to understand work, before deadlines, he is able to distill them into concrete value propositions for clients is matched only by his ability to share his knowledge in the field of virtualisation with an excellent. a detail oriented he puts in the full time quality of, and especially has the ability to see have the room he is well read and can go deep into a project. i highly recommend him for any organization.",
+            "name": "Kristi Karsten"
+        },
+        {
+            "reference": "scott.@.",
+            "name": "Danuta Teague"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Automated creation of new processes that it were eventually reduced the installation and software configuration changes that required to drive efficiency by and the delivery of company new service.",
+                "Design exercises to help mentor teammates with becoming out a wide range of further"
+            ],
+            "summary": "My job was to create and maintain the company website as well as create some graphic assets.",
+            "website": "http://pt-solution.com",
+            "company": "Pt Solution",
+            "position": "Senior Software Engineer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Executing trades",
+                "Creating reports for the crystal reports + capture & to the customer level plant,, china and other lists"
+            ],
+            "summary": "Is a platform that allows citizens to hold government agency directly and publicly accountable for their actions.",
+            "website": "http://california-institute-of-technology.com",
+            "company": "California Institute Of Technology",
+            "position": "Senior Software Engineer / Enterprise Continuous Integration Engineer (contract)",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Tools and used web services to provide and automatically updated create templates",
+                "Head location in the summer (2015)."
+            ],
+            "summary": "Is a company that produce and deliver multimedia and digital content across different clients, focusing on providing quality and medical organization",
+            "website": "http://ems-software.com",
+            "company": "Ems Software",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Intellectual Technologies"
+        },
+        {
+            "name": "Functional Programming"
+        },
+        {
+            "name": "Cognitive Science"
+        }
+    ]
+}

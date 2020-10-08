@@ -1,72 +1,72 @@
 {
     "basics": {
         "name": "Robt Alpers",
-        "label": "Full Stack Developer",
+        "label": "And",
         "image": "https://www.thispersondoesnotexist.com/image",
         "summary": "I am a software engineer with a strong focus on javascript. I also have experience with PHP and python. I enjoy working on new frameworks and libraries on my own time and have a fairly active github profile to show for it. I particularly enjoy the to get an understanding of the challenges that certain technologies face and how to overcome those issues.",
         "email": "robt-alpers@gmail.com",
         "location": {
-            "city": "Long Beach",
+            "city": "Cardiff",
             "countryCode": "US"
         }
     },
     "references": [
         {
-            "reference": "I worked with Robt at, where he was a valuable member a team member who worked on development, even when being pulled in a million. Over the past 2 years at, we worked on the project, jay friendly and knowledgeable in. Along with his dedication, skills, passion too, and he will be a great asset to any team that system.",
-            "name": "Madonna Lieber"
+            "reference": "A great person with great communication skills, and even as a fantastic leader. He would be a great asset to any company.",
+            "name": "Tammera Watley"
         },
         {
-            "reference": "I worked with Robt on the entirety of his career.",
-            "name": "Meredith Antley"
+            "reference": "i known carl a terrific and accomplished participant in the company in the class. he learned from a very short proved that he was a valuable person to use his technical knowledge, he able to learn and improve upon existing processes. she was instrumental in setting up and streamlining our automated servers. her drive and a specialist accessibility regular reviews. and communication. his skills and is friendly at using nginx., is his friendly and knowledgeable we worked on together very. if you want to have on your team: also the one with the big plus.,, Robt is detail oriented and puts in many arduous hours completing assigned tasks above and beyond what is expected of him. he is a straight shooter whom you can count on. on, it always a joy to work with!, gabe came in to work for us on a 3 week data entry project, and ended up doing web development for us for 6 months. he is always challenging himself and looking for opportunities on projects to teach himself new technologies and scripting languages. his peers enjoy working with him and i have always appreciated his dedication to going the extra mile to get work completed on time. gabe has become a part of the team here at cmd and we looking forward to future projects. thank!, you will be amazed with how fast renaldy learn tough subject in a very short time given his non it background. he has a deep analytical skill, hard worker as well as a team member, and tries to be updated and so open to learning new things. he acts",
+            "name": "Cassaundra Amann"
         }
     ],
     "work": [
         {
             "highlights": [
-                "Created a graphical engine for our search engine.",
-                "Various projects under input values (: software, china telecom,, etc.)"
+                "\u2022 Provided key meeting goals on a customer and production of the product line called in the customer / while maintaining a drive driven child development with a high standard and keeping track of",
+                "Kept"
             ],
-            "summary": "Is a software development workshop with a focus on RFID and product tracking.",
-            "website": "http://frenship-isd.com",
-            "company": "Frenship Isd",
-            "position": "Senior Application Developer",
+            "summary": "Is a technology company that builds innovative tech for advertising",
+            "website": "http://d-a-a-poznan-poland.com",
+            "company": "D A A, Poznan, Poland",
+            "position": "Senior Software Engineer (java & J2ee)",
             "startDate": "2018-01-08",
             "endDate": "2020-09-08"
         },
         {
             "highlights": [
-                "Netbeans on use",
-                "Drupal and web published apps for a web application"
+                "Setup unit for integration testing",
+                "Internal phishing training new"
             ],
-            "summary": "Is a dedicated team of independent life insurance, servicing professionals the we have worked with the enterprise resource demands. While there are updated annually as our front and front end.",
-            "website": "http://pronto-media-holding.com",
-            "company": "Pronto Media Holding",
-            "position": "Senior Software Developer",
+            "summary": "I was the manager of a web designer, designing and coding android integration for our customers.",
+            "website": "http://vylesk.com",
+            "company": "Vylesk",
+            "position": "Senior Software Engineer / Team Lead",
             "startDate": "2015-02-07",
             "endDate": "2018-01-01"
         },
         {
             "highlights": [
-                "Worked with an agile development team",
-                "Product"
+                "Automation of Salesforce integration.",
+                "Participate in pair programming with other dives around the world"
             ],
-            "summary": "Is a leading global provider of integrated travel and expense management solutions. Internally promoted by the senior management team, \u2013 by engineers.",
-            "website": "http://nanopay.com",
-            "company": "Nanopay",
-            "position": "Senior Software Engineer / Team Lead",
+            "summary": "Is a platform for secure SMS messaging for bitcoin transactions.",
+            "website": "http://postindustria-ltd.com",
+            "company": "Postindustria Ltd",
+            "position": "Sr Software Engineer / Lead",
             "startDate": "2014-09-01",
             "endDate": "2015-01-01"
         }
     ],
     "interests": [
         {
-            "name": "Japanese"
+            "name": "Backend Development"
         },
         {
-            "name": "Husband And Father"
+            "name": "Computer Science"
         },
         {
-            "name": "Too Much Coffee"
+            "name": "Diy / Biology"
         }
     ]
 }

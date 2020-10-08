@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Ja Charlton",
+        "label": "Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.",
+        "email": "ja-charlton@gmail.com",
+        "location": {
+            "city": "Norther Virgnia",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "gilberto is a great coworker to have around. he contagiously passionate about technology and has a great attitude towards work. his technical skills and is always quick to find a better developer., Ja is not only intelligent and dedicated, he is a good person. he learns quickly and would be an extremely valuable addition to any development team., Ja adds value to every team he is a part of. he is very passionate about the good system. only highly, he will go away and research new things. i have had the pleasure to work with mark again., one can uniquely gifted with a technical business vision. his work is living proof that he is passionate for engineering and technology. whether a highly technical lead developer of one his team. he is good problem solving and marketing problem it comes to look at something from a new perspective or challenging existing methods or design. he a good team member to provide leader with people. he is well independently: i can delegate responsibilities to him and then rely on his judgment to either deliver or raise red flags when appropriate., i worked with chris for about 8 months in cognitoiq when the inceptions of the cloud team. he helped me to shape the team of working with the product capacity to the company. matthew brings truly strong technical knowledge and able to learn from others ideas. i worked impressed with me about his time. i wish him the best of luck in his new role and new challenges.",
+            "name": "Aurea Leahy"
+        },
+        {
+            "reference": "@. Com",
+            "name": "Leda Jolly"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Modern tied with jasmine",
+                "Developed an action plan for migrating data and visualization software into the product"
+            ],
+            "summary": "Is a company that offers comprehensive and advanced services in the payment card industry.",
+            "website": "http://daftcode.com",
+            "company": "Daftcode",
+            "position": "Senior Frontend Developer And Architect",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Worked with a team of developers in an agile integration project",
+                "Developed a youth library for of the Bluetooth virtual world core using react."
+            ],
+            "summary": "Worked on the design, testing and cloud infrastructure for all of our software",
+            "website": "http://collective-technologies.com",
+            "company": "Collective Technologies",
+            "position": "Senior Software Engineer / Scrum Master (contract)",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Created functionality migrated from Magento to subversion",
+                "Implemented a caching solution based on the node. J's."
+            ],
+            "summary": "I worked on the various web development teams.",
+            "website": "http://ak-steel.com",
+            "company": "Ak Steel",
+            "position": "Software Engineer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Dogs"
+        },
+        {
+            "name": "Tooling"
+        },
+        {
+            "name": "Swimming"
+        }
+    ]
+}

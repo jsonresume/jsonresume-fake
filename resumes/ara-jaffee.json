@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Ara Jaffee",
+        "label": "Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who loves working with open source technology. I work best in planning the architecture of web applications and their development life. I also love to get the community involved and have had much experience with building and organizing large open source groups.",
+        "email": "ara-jaffee@gmail.com",
+        "location": {
+            "city": "Paoli",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "For this and many more, I think Ara is a must have resource for any company thinking of moving or supporting cloud technologies., Ara and I worked on development of us I would say he is an excellent team player and easily collaborates with others and mentor junior developers whenever required. He is a great team player and a pleasure to work with.",
+            "name": "Lavenia Lookabaugh"
+        },
+        {
+            "reference": "Ara worked hard and long on an ambition project. He was a great team member, his code is good and he was a keen problem solved. Thank you, can be lucky to have his radiant positivity as part of the team.",
+            "name": "Valrie Geesey"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Lead the data replication team when developing a pipeline for,.",
+                "Take ownership of all the stages of: our print marketing."
+            ],
+            "summary": "Is a leading international supplier of building materials and infrastructure.",
+            "website": "http://ct-kids-team.com",
+            "company": "Ct Kids Team",
+            "position": "Lead Developer / Devops",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Led a team of contract developers to define direction and project, and code quality practices",
+                "Employed tools, techniques like,"
+            ],
+            "summary": "I worked in the information security and risk management platform for an internal that allows you to create a mobile payment system with a simple and many rubies of events on top 5. as the integration of this company is an application to help internal next to devops.",
+            "website": "http://agile-development.com",
+            "company": "Agile Development",
+            "position": "Senior Software Engineer / Scrum Master (contract)",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Develop and update custom software reports",
+                "Maintained wiki interface interface for to website"
+            ],
+            "summary": "The biggest challenge was that the creation of a web marketing platform (which group under an of medicine schedules and personnel. As a web designer, I have gotten familiar with.",
+            "website": "http://self-employed.com",
+            "company": "Self Employed",
+            "position": "Information Technology Volunteer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Sociology"
+        },
+        {
+            "name": "Guitar (on The Or Internet Of And)"
+        },
+        {
+            "name": "Improvisational Comedy"
+        }
+    ]
+}

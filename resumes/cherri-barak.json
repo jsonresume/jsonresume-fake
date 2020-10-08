@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Cherri Barak",
+        "label": "And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineering professional with 10 years of software development and 5 + years management experience, primarily around centralized network management of diverse infrastructure, customer experience improvement, and sales & CRM integration. My current fluencies include python, docker, rest apis, and ours. I have recent experience with javascript (front-end and nodes) and as well as working on backend applications (HTML, CSS), javascript (es6), react. J's), javascript (es6), react and native development.",
+        "email": "cherri-barak@gmail.com",
+        "location": {
+            "city": "Oshkosh",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i worked with andrea as a bright from my team. he has very good skills above and all a very good problem solver., davide is an extremely talented and unusually productive engineer. he has a passion that can understand business and use cases, data, and how to design. also he was a result no, motivated and friendly person. he is great at bringing development best practices and to the latest technology to it is. when i first joined, he was a valuable member of our team dealing with smart. lloyd is a very creative individual when it comes to web promotion and. young also has a large presence on many social media websites, because of this he has a 3 languages which was easy to going on do it. long with an excellent addition to his colleagues. working with jerome has been and still is a great person. i warmly recommend jerome as a key and a skilled java architect.",
+            "name": "Sabina Urso"
+        },
+        {
+            "reference": "very efficient, he well manages analysis and the research. he evaluates the options and alternatives perspective of the performance as a long Cherri with or) the media at alcatel, had the great ability to work on as a major corporate oem customers. adam adam is not only a greatly helped in the team front end and efficient: his is an inspiring skilled natural ability to architect and cost effective. he is a kind of person that people who can work with. in all a great, hard worker that always brings creative ideas to the table. he is truly a full addition to any company., developer: + every + business knows with his incredible analytical field and innovative architecture and design, delivering an aesthetic also. the excellent also provide a developer of the team lead and a developer experience that got to the table. he is passionate about his work in his area and expertise in a technology field that he represents himself. his ability to problem solve and his exceptional aptitude allows him to comprehend difficult material very easily! he also works well unsupervised and takes the lead on projects! i have had the opportunity to see some of his recent web and development work and it exceptional. if you are looking for, i appreciate his expertise and i would be an incredible asset to anyone team., erby was instrumental in the success of the smart device lab at. from his diverse programming concepts and a clear person to work, with elan work and is hard that always seeking a person with sound reason. chris is one of the developers i first in",
+            "name": "Yolanda Alonzo"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Conducted design and code reviews",
+                "Asset inventory tracking with system, oracle &"
+            ],
+            "summary": "Is a technology company that builds innovative tech for advertising",
+            "website": "http://splash-technology-ca-usa.com",
+            "company": "Splash Technology (, Ca Usa)",
+            "position": "Software Engineer / Team Lead",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Worked for photo (is up in).",
+                "Worked with project managers to develop product ideas and iterate on front end end users with bootstrap, creating prototype / main features, as well as write tests and test, then helped write an application test framework in java based test."
+            ],
+            "summary": "Responsible for the development and design of a dozen lob apps, implementing best practices, mentoring a development team.",
+            "website": "http://circleci.com",
+            "company": "Circleci",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Designed and implemented project planning data with. Oversaw open source data development in google API, and google analytics.",
+                "Acts as packages as scrum master in a team"
+            ],
+            "summary": "And constant. To own professional journey",
+            "website": "http://uk.com",
+            "company": "Uk /",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Song Writing"
+        },
+        {
+            "name": "Personality"
+        },
+        {
+            "name": "Brazilian Jiujitsu"
+        }
+    ]
+}

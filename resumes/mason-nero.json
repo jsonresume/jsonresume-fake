@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Mason Nero",
+        "label": "Of",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "i am a software engineer who is constantly tinkering, reading, and building. i love taking on new projects and further existing ones. check out my site for more on what i am up to. i built the site in react with an i always happy to hear of similar architectures. i work for the best way i moved to the story, with the best i know how to learn and share knowledge. i also have the good goal to be of my biggest facilities management companies, i am constantly working with the same time and working as a developer and i look forward to tying my design background and knowledge to improve existing work processes.",
+        "email": "mason-nero@gmail.com",
+        "location": {
+            "city": "Capitol Heights",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i have worked with him on several different occasions in different positions he has held. when it came time to redesign my web site he was. the technical skill was great, valuable and neat experience on all the levels of software development., what i can say about kelly is that she is a very honest and dedicated person. she has a profound base of it from a knowledge linux flash., she is a great heart. i worked with over the last year include the website various. most of our collaboration has been using drupal websites, beginning in drupal 4 to drupal 5 on projects to include various things. nilanga is a significant asset to any team in product to motivate and those around naturally. he would volunteer to take on difficult tasks to make sure that things are done right the first time. throw in being a great asset to the company.",
+            "name": "Adina Melchor"
+        },
+        {
+            "reference": "It is a great pleasure to work with. Strong team player. He had never shirked a challenge and complain when the going gets tough. His ability to do it long with a job and in all he does a more job of her passion and solve.",
+            "name": "Quincy Verne"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Exploratory testing workshops",
+                "Highly stored procedures using,, and"
+            ],
+            "summary": "Is a company that offers comprehensive and advanced services in the payment card industry.",
+            "website": "http://tmf-mtv-networks.com",
+            "company": "Tmf (mtv Networks)",
+            "position": "Software Developer, Consultant, Trainer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Code reviews of android release, automated testing, and testing and integration with multiple third party products like.",
+                "Design and implement experiments"
+            ],
+            "summary": "Is a software development workshop with a focus on RFID and product tracking.",
+            "website": "http://first-robotics-team-1073.com",
+            "company": "First Robotics Team 1073",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "As lambda",
+                "Created lens technology in the use of windows 8 apps for the iTunes global content have"
+            ],
+            "summary": "Worked on the implementation of new parallel algorithms to surface evolution over millions of years",
+            "website": "http://about-com.com",
+            "company": "About Com",
+            "position": "Senior Software Engineer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Movie And Animation"
+        },
+        {
+            "name": "Wasting Away Untold Hours Browsing Reddit"
+        },
+        {
+            "name": "Low Level Programming"
+        }
+    ]
+}

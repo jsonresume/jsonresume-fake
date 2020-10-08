@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Aimee Harp",
+        "label": "Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who loves working with open source technology. I work best in planning the architecture of web applications and their development life. I also love to get the community involved and have had much experience with building and organizing large open source groups.",
+        "email": "aimee-harp@gmail.com",
+        "location": {
+            "city": "Charleston",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "He is an excellent teacher, trainer and having exceptional leadership quality, and punctual, from a British point of view nothing is impossible. He is the person I know, having highest self motivation.",
+            "name": "Ja Charlton"
+        },
+        {
+            "reference": "i sincerely have excellent memories of that good time working and developing a custom real problem information and environment. the programmer where i was like to the company but they are working with some very easy. we have done time with excellent work, and he has a positive attitude that, and fun., i worked with richard at, where he was a valuable member a team member who worked on a 3 week data entry project and, him helped the company and then rely on to identify and help others. i thoroughly enjoyed the requirements, whilst working he with you never find a. trevor a level programmer, and has a great ability to see both the projects and at his hand help. he will always be trusted to solve the most of complex web developers who in the industry. i also only worked with a few small handful of people who as him in a way that, chris is a html / css. if i have, you want to have very good software development and company. i would recommend him to any company facing challenging projects.",
+            "name": "Fredda Foulk"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Managed an offshore development team that makes best content, publishing java, test cases and test cases, test cases, and architects create more and stable code",
+                "Organized and maintained movement data for our team"
+            ],
+            "summary": "As a senior software engineer at, I work on many product across one of the world, leading the private brand.",
+            "website": "http://radoil.com",
+            "company": "Radoil",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Performance optimization of internal html and email, marketing campaigns, using only defined the standard operating process deployment model",
+                "Create the ui for the visual studio recording system"
+            ],
+            "summary": "Is a software platform that connects freelance writers with publishers (normally brands) that are looking for a feature, we club of charge of all computer science programs.",
+            "website": "http://avventa-world-wide.com",
+            "company": "Avventa World Wide",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Coached the global team and order in the discipline while working out of an agile process",
+                "Established robust develops practices and deployment strategies for cabinets"
+            ],
+            "summary": "I was the lead developer in a dream team of web developers and web designers, we made many websites for the Arabian & the middle Charleston markets.",
+            "website": "http://sparta-technologies.com",
+            "company": "Sparta Technologies",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Music Technologies"
+        },
+        {
+            "name": "Playing Piano And Guitar"
+        },
+        {
+            "name": "Cooking & Baking"
+        }
+    ]
+}

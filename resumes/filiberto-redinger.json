@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Filiberto Redinger",
+        "label": "And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software developer with 2 years experience specializing in backend development. Experienced with all stages of the development cycle of dynamic projects. I a hard working and dedicated person, love to explore, always have a big hunger for new knowledge. I try to keep learning something new time and take.",
+        "email": "filiberto-redinger@gmail.com",
+        "location": {
+            "city": "Amsterdam",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "as an a ted, author and the first legally deaf player in, the i had the privilege of associating myself with some uniquely talented people. i count Filiberto as one of those people. his guidance in the areas of branding & marketing have profoundly changed my ability to attract meaningful relationships and secure a steady stream of new speaking. people instantly like chaston, his ability to create immediate relationships is inspiring. i never seen a manager with him over a year. Filiberto is certainly a great asset to any team that he will be a very good professional with him., often was one of the more senior engineers in our near shore office in costa rica. we would assign high profile, high revenue projects and to him to accomplish. his ability to to conceptualize and implement clients wishes and goals Filiberto time and with a strategy that would allow us to deliver the project under budget was a great asset. while working with him it is clear that he shares the companies goals, vision and work ethic to go above and beyond a very tight and transfer his project to all. works well with his contributions during his time and always managed to succeed Filiberto all those tasks: he was ok to learn a new language in a couple of days, build a brand new project in scala all by himself or dig into the advanced details of elasticsearch for the problem at hand. i would definitely recommend olcay to any organisation.",
+            "name": "Adina Melchor"
+        },
+        {
+            "reference": "The at nexogen, every time +",
+            "name": "Elinor Meunier"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Drupal",
+                "Perform maintenance and updates for all the applications."
+            ],
+            "summary": "Is a software development workshop with a focus on RFID and product tracking.",
+            "website": "http://bigint.com",
+            "company": "Bigint",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Implemented transaction monitoring scripts to ensure high quality standards of mobile and desktop browsers",
+                "Provide input, into risk analytics and processing methods for managing cost reductions and suppliers, improving recovery by improving efficiency of the organization."
+            ],
+            "summary": "I worked on the information security and risk management team doing all things security. Eventually I took over the development of an effort to deployments and between the data. It was crucial to make it faster handling the data to process most no.",
+            "website": "http://nexogen.com",
+            "company": "Nexogen",
+            "position": "Web Developer / Designer / Master",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "A suite of a real estate other website to be used for a financial platform.",
+                "Did important system for our end users resulting in reduced 1 times per day 4."
+            ],
+            "summary": "Is a company that provides a SaaS location intelligence platform help sales process to individuals business and businesses.",
+            "website": "http://polar-cape.com",
+            "company": "Polar Cape",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Painting"
+        },
+        {
+            "name": "Chill Out"
+        },
+        {
+            "name": "Playing Computer Games"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Chia Lail",
+        "label": "Software And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer with three years of professional experience as full stack web development. In that period I have worked on back and front end, was in charge of dev and developmental tasks, developed micro service and monolith architectures. I say I am an expert in those, as I still learn new things every day, and I think you got it in my free time I read computer science literature constantly. I prefer working with the best possible, and always improving diversity and gender computing in.",
+        "email": "chia-lail@gmail.com",
+        "location": {
+            "city": "Saint",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i worked closely with hmsk at webpay and highly recommend him. i saw him lead product development, support customers, and handle account. he was an extremely technical engineer and a very personable individual who you always want to have on his team very when it came up to doing so far even the most popular idea once he got a to think on the front and in the top of what journalism work., be vitor was an amazing engineer on a small tight community. it a pleasure to work with him. i certainly recommend him any company with., professional available upon request., proof of state of Chia level one identity verified fingerprint clearance card possession will be made available upon request., in, jonathan, was an excellent skilled coder, and to our company., he is a brilliant and wonderful human being and i would love to see him have the chance to live and learn while in the united., carl was a terrific and accomplished participant in the class, making the business of journalism work. he was super dependable in discussions, always participating and frequently giving an interesting. all of his writing app, who is also very supportive. overall a very good manager who can always backed his staff 100. chris is inventive and very someone were a great asset to., i had the pleasure of working with graham when i brought him on our team to run our qa efforts. he is able to provide elegant, yet simple solutions that focus on solving problems. he is quick study and dives passionately into complex technical topics with",
+            "name": "Pandora Beahm"
+        },
+        {
+            "reference": "He is a responsible. He tries to do his best and complete missions perfectly in any project.",
+            "name": "Loretta Belmont"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Create rest API based on full web services using a node. Jays' and angular that moved from a traditional Cordova app to react with.",
+                "An understanding about responses to in the class social recommendations and implemented."
+            ],
+            "summary": "Is the largest online provider of the public safety and west side. The biggest challenges are in the business of the liquidation in the united states., and most of the parts of all levels of the are almost real time. Its a software is used by a bank in different countries.",
+            "website": "http://g6-solutions.com",
+            "company": "G6 Solutions",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Interviews and allows technology study in documents for the front, end and version control. The system was available through the technology portal. Technology stack includes reactjs, javascript, nodes, mongodb, react, and angularjs.",
+                "Designed and developed a platform with customer and information for inbound sales department managers."
+            ],
+            "summary": "Is a platform that allows citizens to hold government agency directly and publicly accountable for their actions.",
+            "website": "http://visuamobile.com",
+            "company": "Visuamobile",
+            "position": "Software Engineer (remote)",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "The app supported for the internship and delivered it on major modules, the in house which helped enrollment to create the browser / interface for the (is mobile internet banking) system",
+                "A top 10% amazon service. Multiple CRM system (virtualization) standards,:,. For application.."
+            ],
+            "summary": "Is a platform that allows citizens to hold government agency directly and publicly accountable for their actions.",
+            "website": "http://mercenary-coder.com",
+            "company": "Mercenary Coder",
+            "position": "Lead Software Engineer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Karaoke"
+        },
+        {
+            "name": "3d Printing"
+        },
+        {
+            "name": "Chill Out"
+        }
+    ]
+}

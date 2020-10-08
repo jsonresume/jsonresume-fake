@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Maryanne Hoyle",
+        "label": "Stack And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer with a strong focus on javascript. I also have experience with PHP and python. I enjoy working on new frameworks and libraries on my own time and have a fairly active github profile to show for it. I particularly enjoy the to get an understanding of the challenges that certain technologies face and how to overcome those issues.",
+        "email": "maryanne-hoyle@gmail.com",
+        "location": {
+            "city": "Worcester",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I worked with mark for about two years at the primary customer and on the business systems with his side of the product development. His knowledge skills are excellent, and his technical skills as much knowledge of development. His ability to do his job as well as a great professional service",
+            "name": "Jayne Lion"
+        },
+        {
+            "reference": "",
+            "name": "Katherina Markert"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Worked closely with illustration lead and writer lead to produce and the operational / departments in once the need. I have developed with a c + + java based application for a restful interface that was used to drive new in production. The company's new ability to ibm research data on science, innovation theory, certificates and administrative components in.",
+                "Started business development to enable secure development desktop programs"
+            ],
+            "summary": "Is a mobile based, crowdsourcing, market information tool for agriculture in Worcester, based in,. My role was as the lead developer was the team leader, technical and support to agile delivery partners and the project.",
+            "website": "http://.com",
+            "company": "+",
+            "position": "Lead Software Developer, Scrum Master",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Built a video Uploader and implement a video player",
+                "Certified"
+            ],
+            "summary": "Is a company that provides a SaaS location intelligence platform help sales process to individuals business and businesses.",
+            "website": "http://del-grille.com",
+            "company": "Del Grille",
+            "position": "Senior Software Engineer / Software Architect",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Created and app supported SQL server",
+                "Handling postures' and database conversion in mysql"
+            ],
+            "summary": "I was responsible for the development and management of automated online data whose data has very designed the first platform for complete their product called ibm (google engine)",
+            "website": "http://tagit-pte-ltd.com",
+            "company": "Tagit Pte Ltd",
+            "position": "Software Developer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Mountain Bike"
+        },
+        {
+            "name": "Narrow Ai"
+        },
+        {
+            "name": "Esport Games"
+        }
+    ]
+}

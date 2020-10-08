@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Lakeshia Overton",
+        "label": "Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer with strong technical leadership and management experience. I believe my main strength is the ability to align engineering practices with the organizational goals. Over the past few years, I have been spending time in my time in distributed systems and have a position in an environment where I can learn and improve my trade.",
+        "email": "lakeshia-overton@gmail.com",
+        "location": {
+            "city": "Johannesburg",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "",
+            "name": "Jeremy Briones"
+        },
+        {
+            "reference": "An excellent airbus with shell. Does an outstanding job he will certainly be a huge asset to any company.",
+            "name": "Cassaundra Amann"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Conducted zero downtime deployment and maintenance scripts.",
+                "Analyzing and the redesign of the site of the WordPress blog"
+            ],
+            "summary": "I am responsible for running and maintaining the application from the platform to support their use platform.",
+            "website": "http://nos.com",
+            "company": "Nos",
+            "position": "Lead Web Software Engineer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "* environment: apache Cordova, apache, Cordova, html / CSS, flash, actionscript, bootstrap, PHP, mysql, postgresql",
+                "Led organized our analysis engine, integrated with multiple third party systems."
+            ],
+            "summary": "Is a consulting company.",
+            "website": "http://airbus.com",
+            "company": "Airbus",
+            "position": "Senior Software Engineer / Software Architect",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Designed robust data models in the python of language",
+                "Working on setting up a working prototype / group of a web based application from developed using the Yii mvc framework."
+            ],
+            "summary": "Is an international it solutions company. It helps make admissions more cost benefit of the programs of American marketing audience.",
+            "website": "http://royal-canadian-mounted-police.com",
+            "company": "Royal Canadian Mounted Police",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Cats"
+        },
+        {
+            "name": "Usability Research"
+        },
+        {
+            "name": "Camping"
+        }
+    ]
+}

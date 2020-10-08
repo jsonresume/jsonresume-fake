@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Neal Carpino",
+        "label": "And Tech",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who can build apps from the ground up. I worked mostly at startups so I am used to wearing many hats. I am a very product focussed developer. I am a very product focussed developer who practices, user feedback first and. I generally very flexible when investigating new roles. I believe in perfection and excellence. And that software is the best at the forefront of user engagement and interaction design.",
+        "email": "neal-carpino@gmail.com",
+        "location": {
+            "city": "\u6df1\u5733\u5e02",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "@. Com",
+            "name": "Joel Revard"
+        },
+        {
+            "reference": "i worked with edin at practical law on plc. i am happy Neal recommend him as a, dedicated and enthusiastic professional developer. the, i have worked with Neal for 9 years on various projects. most of our collaboration has been using drupal websites, beginning with drupal 4 Neal drupal 5) and on Neal drupal 7 and 8. Neal has unsurpassed skills and diligence. not only does he work tirelessly on every. i hope Neal work him again!, i have known Neal england for 20 years and have him on a number of different projects. i highly recommend him as a lead developer of my experience., i worked with brett for more than 5 years and is a great enthusiastic & approachable leader. his mastery on api design and documentation, has been critical in launching many successfully apis in many design., development of some years, after time i worked with us for several years now. we had many of his customers on, which he was a joy on a personal level engineer. he was very quick Neal fix issues as they arise and afraid of hard work when it. i strongly recommend him!",
+            "name": "Cassaundra Amann"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Completely overhauled development systems",
+                "\u2014 () For a job tracking"
+            ],
+            "summary": "Is a technology company that builds innovative tech for advertising",
+            "website": "http://.com",
+            "company": "",
+            "position": "Web Developer (internship)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Utilized on digital html, builder, and various complex input systems",
+                "Developed custom administrative tool for (a so integration)."
+            ],
+            "summary": "Worked on a project for what mira telecom parks & resorts, one of the oldest and the biggest accounts of the company, migrating from a legacy mira telecom platform to angular. mira telecom' (jquery) and wrote restful api's (spring).",
+            "website": "http://mira-telecom.com",
+            "company": "Mira Telecom",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Recruited and interviewed prospective adult volunteers.",
+                "Contributed to open source truffle tooling frameworks."
+            ],
+            "summary": "hubert burda media is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://hubert-burda-media.com",
+            "company": "Hubert Burda Media",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Migrant Identity"
+        },
+        {
+            "name": "Being Out Of My Comfort / My Skills Further"
+        },
+        {
+            "name": "Motorsport"
+        }
+    ]
+}

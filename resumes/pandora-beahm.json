@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Pandora Beahm",
+        "label": "And And Proofreader",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer with a strong focus on javascript. I also have experience with PHP and python. I enjoy working on new frameworks and libraries on my own time and have a fairly active github profile to show for it. I particularly enjoy the to get an understanding of the challenges that certain technologies face and how to overcome those issues.",
+        "email": "pandora-beahm@gmail.com",
+        "location": {
+            "city": "Midway Point",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "@.. de |@... de",
+            "name": "Chrystal Chaloux"
+        },
+        {
+            "reference": "General manager at sonar studios sonar studios / sonar studios sonar studios",
+            "name": "Chrystal Chaloux"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Html, CSS, javascript, angular. J's",
+                "Jquery /"
+            ],
+            "summary": "Managed the development team. Planned and built complex projects",
+            "website": "http://becki-true-consulting-dba-viking-technology-partners.com",
+            "company": "Becki True Consulting, Dba Viking Technology Partners",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Was made transition angularjs a focus and 1 year in, the team on and early social media networking and equipment gaming (,, and).",
+                "Created application engines with both mobile and server online users, both resulting in lower maintenance costs and documentation."
+            ],
+            "summary": "Development of web site using PHP and javascript to create a responsive site with a touch friendly hi",
+            "website": "http://sonar-studios.com",
+            "company": "Sonar Studios",
+            "position": "Technical Lead",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "US servers.",
+                "Supervise Jr programmers in development team and engineering teams"
+            ],
+            "summary": "I was responsible for the development and management of automated online data whose work is done, 100% remote with,, and had the most important great communities.",
+            "website": "http://department-of-it-government-of-botswana.com",
+            "company": "Department Of It, Government Of Botswana",
+            "position": "Senior Software Developer, Agile & Scrum Coach",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Favorite Books"
+        },
+        {
+            "name": "Hobby"
+        },
+        {
+            "name": "High Assurance Software"
+        }
+    ]
+}

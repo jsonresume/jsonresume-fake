@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Vernita Sim",
+        "label": "And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who can build apps from the ground up. I worked mostly at startups so I am used to wearing many hats. I am a very product focussed developer who practices, user feedback first and. I generally very flexible when investigating new roles.",
+        "email": "vernita-sim@gmail.com",
+        "location": {
+            "city": "Beaverton",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "His ability to learning and outside, he can provide continuous to it. Friendly face on the team. Good luck tom hope we can catch up on, and innovative in his assignments on the given him on. He would make an even thought was processed to the program a manager at save the end",
+            "name": "Halley Salvia"
+        },
+        {
+            "reference": "i worked with bobby for 3 years now. over that time, he has continually proven himself as not only a developer but about being critical at theoretical and practical he levels management., software manager at open institute, manager at andrea worked as an technical team member, Vernita earns my highest recommendation., Vernita is a diligent worker who brings insight and diversity into a group. it is my pleasure to recommend rafael, his performance working as a software engineer at td asset management was outstanding. Vernita is a quick learner and is always improving in touch with latest technology., security specialist and investigator + 300 534), commercial assistant + 321 490), teacher + 310 892), after working in his team for almost 2 years, i can say without a doubt that Vernita carle is an excellent lead developer. highly technical lead and architect. i recommend jerome highly and complex problems, has as much raw talent as john. i have known him for my life), with a developer, coworker at ipayables different department), coworker at ipayables same department), how do you learn to program well reading a lot of code and writing to a fully functioning feature in the application that looked great. i work with him again. i recommend him for any company., / a developer, kevin is arguably the most versatile person i know capable., Vernita was a joy work with a great ethic ability to understand and his work through the environment. an excellent knowledge of development and his programming skills where equally matched only by his ability to communicate effectively",
+            "name": "Shantel Tindell"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Used so to consolidate email, sensors and control data were interactive with minimal oversight.",
+                "Improvement"
+            ],
+            "summary": "I was given the chance to do an internship program in which it became a tutoring organization for students that we were made from 3 to 4.",
+            "website": "http://red-sector-pte-ltd.com",
+            "company": "Red Sector Pte Ltd",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Collaborate with other team members who is documented on their high time management",
+                "Implemented oauth in javascript, with a process with an average response xml files to student data manipulation"
+            ],
+            "summary": "I have worked with many interesting projects like event, design, marketing campaigns, and software. Maintained strong rapport with clients throughout the planning, design and fabrication process.",
+            "website": "http://td-asset-management.com",
+            "company": "Td Asset Management",
+            "position": "Senior Software Engineer (java & J2ee)",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Deploy a horizon view based platform based python library to add features to facilitate prototyping data",
+                "Implementation of a cell counter integrating direction"
+            ],
+            "summary": "Is a mobile based, crowdsourcing, market information tool for agriculture in Beaverton,. Development and robust applications, database, security, finance, data processing, and security.",
+            "website": "http://wified-engineering.com",
+            "company": "Wified Engineering",
+            "position": "Senior Software Developer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Home Automation Programming"
+        },
+        {
+            "name": "Coin Collection"
+        },
+        {
+            "name": "Tecnnology"
+        }
+    ]
+}

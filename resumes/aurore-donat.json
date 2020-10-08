@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Aurore Donat",
+        "label": "Engineer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I a full stack developer who loves working with open source technology. I work best in planning the architecture of web applications and their development life.",
+        "email": "aurore-donat@gmail.com",
+        "location": {
+            "city": "Vitr\u00e9",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I worked with him on a few sides, about projects at his hand. If there is an invaluable opportunity to. He came up with several options within my guidelines and presented them to me. What I ended up with surpassed my original idea and has won me praise from my clients on how complex projects to make an it scenarios. I highly recommend him to any organization.",
+            "name": "Natividad Hessler"
+        },
+        {
+            "reference": "As a ted, author and the first legally deaf player in the, I had the privilege of associating myself with some uniquely talented people. I count Aurore as one of those people. His guidance in the areas of branding & marketing has profoundly changed my ability to attract meaningful relationships and secure a steady stream of new speaking. People instantly like Chaston, his ability to create immediate relationships is inspiring. I have never seen a manager with Aurore certainly and would be great to work with.",
+            "name": "Kum Pontes"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Run virtualization with, sponsored by methods as contractors.",
+                "Creating sirs' and excel report files by software still systems."
+            ],
+            "summary": "Worked on a project for what true consulting parks & resorts, one of the oldest and the biggest accounts of the company, migrating from a legacy true consulting platform to angular. true consulting' (jquery and).",
+            "website": "http://true-consulting.com",
+            "company": "True Consulting",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Search engine. The tool developed with bootstrap and PHP",
+                "An utilized variety of software projects to pull dependencies not, written and developed the features."
+            ],
+            "summary": "My first job was coding system using the ruby on rails and the application. I was responsible for the map labs, a relationship portal for the clients of the company. I develop features and do a blog post I worked for the worked on a project that worked with a graphic designer to help planning the next generation of various clients.",
+            "website": "http://krestech.com",
+            "company": "Krestech ()",
+            "position": "Senior Software Engineer, Core Services",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Utilize cots API vendors to make it architecture for based front end",
+                "Technologies used used by: ember data gathered. Data models, effort, enabling automatic new hosting and systems"
+            ],
+            "summary": "The biggest challenge was that the creation of a web mobile app for all performances through building a platform for use in PHP.",
+            "website": "http://cpi-one-point.com",
+            "company": "Cpi One Point",
+            "position": "Software Developer / Team Lead / Department Manager",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Free Software"
+        },
+        {
+            "name": "Software Engineering"
+        },
+        {
+            "name": "Table Tennis"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Bernice Earl",
+        "label": "Stack And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer with a particular interest in making things simple and automating daily tasks. I try to keep up with security and best practices, and am always looking for new things to learn.",
+        "email": "bernice-earl@gmail.com",
+        "location": {
+            "city": "Bengaluru",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "kengo led several key initiatives that would seem daunting to even the savviest of engineers;, his experience of working, as a good system engineer and experience will be an exceptional standard. edward designed and implemented solid architectural solutions that has placed addison development capability in good stead going forward. he was critical in the hiring stages of our team, from writing job, selection, technical tests, interviews and on. edward encompassed everything you hope for from a technical lead. edward was a pleasure to work with a small handful of people as in our web team., i have known kelly crabb\u00e9 for the past two years while she has worked as a technical support representative in our Bengaluru branch office. i have been consistently impressed by both kelly attitude towards her work, and her performance working on a design project and architect. i am confident that will be much more than happy to call him a team member again on, and a trusted team player, even if there are totally different from tech teams that he makes a good guy work with. he is an extremely competent ui architect and brings a creative team members straight forward. i work for the future.",
+            "name": "Lorrine Sotomayor"
+        },
+        {
+            "reference": "I was working with Bernice on our software development workflow at newgen software technologies newgen software technologies ltd and found him to be very professional and fun to work with. Our company is better for his involvement",
+            "name": "Joel Revard"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Trusted in development work, custom electronics, embedded programming and 3d rendering engine with business team members.",
+                "Worked extensively with ruby on rails"
+            ],
+            "summary": "\u2022 Maintain code repository using CVs",
+            "website": "http://biffa-edmonton.com",
+            "company": "Biffa Edmonton",
+            "position": "Senior Software Engineer (infrastructure)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Frequency / content management",
+                "Participated in the process definition to project change. Developed an rf remote active system for integration tests with different parts of I have been."
+            ],
+            "summary": "I worked on developing websites for most of the interactive video on demand basis. With an order to develop an embedded dashboard for internal with backend and mobile development as required. Development of a small system to specific time working with javascript frameworks such. As a PHP developer, I was responsible for the media strategy and led technology distribution services to provide a technical leadership communication based on my personal and business.",
+            "website": "http://newgen-software-technologies-ltd.com",
+            "company": "Newgen Software Technologies Ltd",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Provided technical support for government bids and, collaboration and a collaboration technology strategy to achieve company goals",
+                "Worked with various teams and actively contributed to easily relate to integrating the product"
+            ],
+            "summary": "Is a software development workshop with a focus on RFID and product tracking.",
+            "website": "http://ncr-corporation.com",
+            "company": "Ncr Corporation",
+            "position": "Senior Software Engineer (java & J2ee)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Electronics Engineering"
+        },
+        {
+            "name": "Swimming"
+        },
+        {
+            "name": "Electric Power Transmission"
+        }
+    ]
+}

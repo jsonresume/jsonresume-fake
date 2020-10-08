@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Jeannetta Masuda",
+        "label": "Software Engineer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer who has experience in developing and maintain systems used by million of users. I consider myself as a detail and process oriented person. Learning and sharing have become my passion. I embrace for a new challenge and learning new things.",
+        "email": "jeannetta-masuda@gmail.com",
+        "location": {
+            "city": "Tlahuac",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i worked with Jeannetta for several years and during that time always found him to be a creative, humble and dedicated colleague. he is keen to learn and keen to apply his knowledge in any environment, always rising to the challenge put before him. when asked to take on large scale projects \u2013 such as the production of a series of gameplay \u2013 Jeannetta delivered with and the his subject matter of everyone. on a team lead, i have thoroughly the jonathan, he was in a great team member and a wealth of experience he will always seemed to get the answer most of out the deadlines. he a good team player who was willing to help me. i can recommend Jeannetta for any job and is that he enthusiastic about big picture and is a great guy. i hired to in her office. in a short that time, Jeannetta is a superb developer, and honest. i would recommend him to any company., update later in, the infrastructure and sales i worked with my team who were in an understanding of the mobile. de, as a smart way, from a very hard worker as well. probably the adi is extremely knowledgeable and passionate about the projects he works on. we found could him on his approach to be a very good professional and a set team together to find a great team., matt is the first team member i worked with a lot of different approaches and with his execution, even people who are very good, doing so can be much as part of. i would not recommend him as a team",
+            "name": "Mckenzie Halpern"
+        },
+        {
+            "reference": "i worked with rupert is very professional in that he has proven himself to be a team leader, and he often applies for his best practices and as he does. he a great asset to any team, being one who can certainly say that is so considerate of, and dedicated, he is always willing to lend a hand. if i want to give my, and i try find you with him a highly capable., amr in one of the most technically skilled, professional i can do not hesitate to work with diego at. he is an extremely hard working, considerate of, passionate people in all of writing job, he has the skill and often takes years to develop a complicated process and levels software.",
+            "name": "Viviana Sledge"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "If contacted, powered by open source with suggestions as of, which is at sponsored by increasing knowledge in",
+                "Implemented java compliance all standards for the office."
+            ],
+            "summary": "Worked on a project for what indra parks & resorts, one of the oldest and the biggest accounts of the company, migrating from a legacy PHP platform to angular. J's with node. J's, node. J's, express, angular and a spring moves server.",
+            "website": "http://indra.com",
+            "company": "Indra",
+            "position": "Web Developer / Designer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Application development java swing version Weblogic 5. 1. 2.",
+                "Responsible for deploying biweekly builds and regression testing"
+            ],
+            "summary": "I was working on 3 projects for each one project for delivery and ticket validation tasks.",
+            "website": "http://dashboard.com",
+            "company": "Dashboard",
+            "position": "Senior Software Developer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Maintenance tools and CVs version of service.",
+                "Travelled to attend relevant events at the field level"
+            ],
+            "summary": "Designed and developed port of software, an innovative interface between various clients, and faculty through computer organization",
+            "website": "http://bryan-college.com",
+            "company": "Bryan College",
+            "position": "Senior Software Engineer (java & J2ee)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Esports"
+        },
+        {
+            "name": "Watching Movies"
+        },
+        {
+            "name": "Start Ups"
+        }
+    ]
+}
