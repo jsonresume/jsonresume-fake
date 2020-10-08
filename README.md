@@ -65,7 +65,7 @@ If you want to try the other models;
 ./models/summaries/
 ```
 
-You have to edit the `./sample.py` to refect which model you want to run.
+You have to edit the `./sample.py` to reflect which model you want to run.
 
 Each folder contains;
 
