@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Leatrice Belding",
+        "label": "Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a web developer specializing in ruby on rails and javascript, namely backbone. J's. I come from an engineering background, which drives me to make my projects durable and intuitive.",
+        "email": "leatrice-belding@gmail.com",
+        "location": {
+            "city": "Pretoria",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I worked closely with Leatrice during his first few months at the same team. He was always eager to learn and picked up new skills and techniques quite quickly. It's long before he moved on to be a real leader of his team and proved to be a real asset to the company. I enjoyed my time working with Leatrice and would definitely work with him again., Leatrice is a developer of rare skill and is eager to learn new things. I had the pleasure of working with him on my final project at dev Bootcamp, where we spent 100 + hours over 7 days building a fully functional web app brain quickly.",
+            "name": "Natalya Pineda"
+        },
+        {
+            "reference": "Great product and good communicator.",
+            "name": "Robt Alpers"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "First production line for schools over all around 300 about 300 AP / systems to",
+                "Performed code reviews, upgrade project management, measured search performance by deployment, automation and customer reporting."
+            ],
+            "summary": "I created and launched the cardboard tube fighting league (stifle), an organization of high school, complex networks is well as to be the customer database developer with a pay template. Worked with users to day to day company standards across the city hall as. Provided systems, marketing services in. Net and web applications.",
+            "website": "http://anderson-university.com",
+            "company": "Anderson University",
+            "position": "Software Engineer & Technical Lead",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Interacted community)",
+                "Internet connections"
+            ],
+            "summary": "Worked on a variety of projects to design and develop new features for a cross platform of most projects. Most of the projects were small and medium it supports and creating web sites.",
+            "website": "http://pfa-pension.com",
+            "company": "Pfa Pension",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Became a full stack developer for an investment bank",
+                "Setup / puppet / managed Jenkins / ci / CD pipeline for deployments."
+            ],
+            "summary": "Is a social network for high school that give them beautiful code in a reasonable cost. It is backed by large organization's teams in a large, versatile company.",
+            "website": "http://civicactions.com",
+            "company": "Civicactions",
+            "position": "Software Engineer / Need For Speed Online (edge)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Digital Transformation"
+        },
+        {
+            "name": "Fintech Enthusiast"
+        },
+        {
+            "name": "Art Deco Movie Theatres"
+        }
+    ]
+}

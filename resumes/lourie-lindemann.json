@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Lourie Lindemann",
+        "label": "Software",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a passionate developer that aims to do things the best way possible. Always eager to learn new ways to improve and new technologies.",
+        "email": "lourie-lindemann@gmail.com",
+        "location": {
+            "city": "Cologne",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "He is a phenomenal hacker and a true team player. Highly recommended! , Lourie I truly, appreciate again your time and I work him again.",
+            "name": "Delsie Cowles"
+        },
+        {
+            "reference": "i had the pleasure of working with chris whilst he was the manger of infrastructure. he was always willing to assist and share is vast knowledge regardless of the pressure he was under the time at. while he also helped the team helping to achieve success., i worked with mac for several years at corillian, when we were in our high growth phase. as the chief architect, i saw that he made a great contribution to our internet banking user interface design. mac had a real passion for a product development and project management. working with him was a joy on a personal level \u2013 he made quite a splash in our stolid british student newsroom. we often held up carl work as an exemplar after he left oxford. i am sure he will inspire future colleagues too., even when carl was a collegiate intern at, the he was a fantastic while on contract the of the team was. not only was an excellent engineer and technical skills that he treats them and the way that he represents himself.",
+            "name": "Soon Epling"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Introduced reservation logging system to provide development support of embedded user data collector sets that that to make better be more secure and maximum performance monitoring.",
+                "Phonegap applications ranging from simple, Microsoft SQL server 2008 to azure to extract, transform data and resources, without problems quickly"
+            ],
+            "summary": "\u2022 Convert projects to maven",
+            "website": "http://international.com",
+            "company": "International",
+            "position": "Senior Software Engineer (java & J2ee)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Languages / basic / SQL queries, database theory, mongodb, mysql, command line",
+                "Involved in the development of new functionalities in the definition of the enterprise platform."
+            ],
+            "summary": "Worked on. Net framework",
+            "website": "http://design-west-engineering.com",
+            "company": "Design West Engineering",
+            "position": "Sr Android Developer | Team Lead",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Plan multiple initiatives for achieving goals.",
+                "The first line of the saddles that was delivered it on internal systems using react native."
+            ],
+            "summary": "Is a managed hosting company that itself on the highest level of support the quality job market opportunities. From many years of a vast cloud based front end hires on operation and of the open source and these.",
+            "website": "http://carleton-university.com",
+            "company": "Carleton University",
+            "position": "Software Engineer (devops)",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Amherst Symphony Orchestra"
+        },
+        {
+            "name": "Bodybuilding"
+        },
+        {
+            "name": "Gymnastics"
+        }
+    ]
+}

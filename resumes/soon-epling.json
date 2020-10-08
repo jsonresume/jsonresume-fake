@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Soon Epling",
+        "label": "Information And An",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stack developer who enjoys working in an agile environment with a collaborative team. I am passionate about creating modular, scalable, smart looking web apps. I enjoy balancing the need for test driven and benchmark driven development, modern creative design, and task completion efficiency and quality. I specialize in. And node. J's full stack development.",
+        "email": "soon-epling@gmail.com",
+        "location": {
+            "city": "Cardiff",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Working with him as a great colleague a person. He consistently steps up to take on tough development challenges and his focus on work is outstanding. Soon development skills are very senior and I can easily recommend him for his ability to push through important projects.",
+            "name": "Foster Lagrone"
+        },
+        {
+            "reference": "Soon is a very bright individual with a great sense of how to approach and solve problems. Soon is very dedicated to his work and his family and friends. His calm demeanor makes him very approachable and he is always willing to help people. I have had the pleasure to work with Soon for many years and his professional attitude was always made upon him. I do love what we spent together on solving school. Amazing, Soon is inspiring, he never afraid to identify with outside the teams and positive outcomes that he took advantage of both our expertise.",
+            "name": "Yanira Millner"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "\u2219 employee number three of the iOS and web systems, and performance of statistics on an order of their listings, including print,, stock and allocation, systems, and more, using a node. J's, coffeescript (), (ruby, rails, xml, python), (javascript, CSS) and html 5.",
+                "Encouraged the use of the technical community of lean / CSS design."
+            ],
+            "summary": "Is a company founded, with a digital service (mobile web) development of mobile apps, with over 15 years, participating in development, management, and the development of a / focus on developing the website in our mobile and cms.",
+            "website": "http://pennymac-loan-services-llc.com",
+            "company": "Pennymac Loan Services Llc",
+            "position": "Sr Firmware Engineer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Validated the vulnerability and fixes numerous critical business issues with the client. Worked with a consulting, offshore team (general, or making,.",
+                "Technical lead to develop rules specific requirements, built in java. I created with some custom open source content, javascript, html, and CSS."
+            ],
+            "summary": "nova studio, nju is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://nova-studio-nju.com",
+            "company": "Nova Studio, Nju",
+            "position": "Devops Lead / Associate",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Developed the target store workstations at all the offices (new, and)",
+                "Assisted with hiring and mentoring about duties."
+            ],
+            "summary": "I was given the chance to do an internship program in which applied an internship at a 2 development. We had a small team to learn and develop new features in a web and mobile application for the project portfolio of (verse one for my use of (azure security)",
+            "website": "http://elin-duxus.com",
+            "company": "\u00c9lin Duxus",
+            "position": "Software Quality Assurance",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Brewing Excellent Beer"
+        },
+        {
+            "name": "Sound Design"
+        },
+        {
+            "name": "Languages & Psychology"
+        }
+    ]
+}

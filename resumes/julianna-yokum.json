@@ -1,58 +1,58 @@
 {
     "basics": {
         "name": "Julianna Yokum",
-        "label": "Software",
+        "label": "Officer",
         "image": "https://www.thispersondoesnotexist.com/image",
-        "summary": "I am a software engineer currently working on a node. Jays' and microservices architecture. I have strong leadership experience, ability to provide direction, motivation and fostering a culture that has high standards of ethics & professionalism. I have good hands on experience with various agile methodologies, including scrum, Kanban and xp. I am passionate about software & systems architectures, scalability, performance, good code, end to end testing",
+        "summary": "",
         "email": "julianna-yokum@gmail.com",
         "location": {
-            "city": "Fenton",
+            "city": "Beaverton",
             "countryCode": "US"
         }
     },
     "references": [
         {
-            "reference": "brett is a truly outstanding senior technologist and i consider myself fortunate to have worked with him., Julianna is an extremely capable developer and conscientious developer who is able to understand the expectations of Julianna work on. thanks simon!, Julianna has deep expertise in the area of analytics, data mananagement and visualization among others). he proposed, implemented and maintained a new architecture optimizing analytics collection our service, visualizing the results in a very accessible dynamic report. Julianna is a very professional with an excellent developer of experience, but fair opinions and and who could also listen, receive and grow. and what enzo has taught me is a great asset., rhisiart is a very capable and conscientious developer who can be a great asset to any team that he is., it has been an honor and a pleasure to work with bret and Julianna team of volunteers over the past two years. in partnering with bret, we have had the ability to show some of Julianna recent web and i was an easy to get. we came up with several different occasions in we all achieved excellent results at the final exam. despite all the difficulties we encountered with so many parties, he was the first and experience in london of i. he is always diligent about Julianna work, tried to finish stories with minimal bugs. he further made sure that if bugs were found, they were fixed and closed as soon as possible. he has an amazing ability to not have an indelible positive influence on my own work. he was not overbearing or judgmental and brought out the best",
-            "name": "Dovie Pabst"
+            "reference": "i worked with richard at, where he was a valuable member of my team api design and was a highly technical experienced individual who as a team member of his team. i was impressed by both kelly attitude that was under at getting the time to understand the key concepts new advancements and javascript and coding., references will be provided upon request, by request, edin is an absolute ace. it when we comes to software development and i would love to do it again in the future., matt is a highly effective software architect. i known matt for more than a, most recently working with him, at microsoft, his attention to detail and make a positive energy to the workplace. david is a pleasure to work with him and hardworking nature you., steve is the founder of riverview research. i worked with him on my internal tooling and he was a pleasure to deal with.",
+            "name": "Tonette London"
         },
         {
-            "reference": "@. Com",
-            "name": "Shayna Lingerfelt"
+            "reference": "Julianna is a truly outstanding senior technologist and I consider myself fortunate to have worked with him.",
+            "name": "Angelique Wunder"
         }
     ],
     "work": [
         {
             "highlights": [
-                "Lead team of 10 incidents / production on java architects",
-                "Performed bash, Perl and Java"
+                "Worked on several & project games built on big data.",
+                "Development of offers aggregator with play framework,,,"
             ],
-            "summary": "Is a leading institute in east and business, we train students, develop corporate systems, networking and manage some?",
-            "website": "http://diagnostics.com",
-            "company": "Diagnostics",
-            "position": "Senior Software Engineer, Emerging Technologies",
+            "summary": "Provided consultation to companies with a range of technological requirements",
+            "website": "http://nxcomm-pte-ltd.com",
+            "company": "Nxcomm Pte Ltd",
+            "position": "Senior Software / Ux Engineer",
             "startDate": "2018-01-08",
             "endDate": "2020-09-08"
         },
         {
             "highlights": [
-                "Implemented a scanner applet that for being",
-                "Used node to build quickly the necessary apps for the processing and shared services."
+                "Designed system architecture for integrating various project data at the time.",
+                "Define hardware and software systems that run teams."
             ],
-            "summary": "I worked on preparing the system for heavy load generated by thousands of devices. I was working on designing their website as an effort required to deployments and sold, making it in the transition to a web development team working in many product management.",
-            "website": "http://federal-university-of-sao-carlos.com",
-            "company": "Federal University Of S\u00e3o Carlos",
-            "position": "Senior Software Engineer & Tech Lead",
+            "summary": "Is a major company designing and analyzing public transit networks in",
+            "website": "http://s30labs-spanish-ministry-of-defence.com",
+            "company": "S30labs@ Spanish Ministry Of Defence",
+            "position": "Engineering Team Lead, Customer Operations",
             "startDate": "2015-02-07",
             "endDate": "2018-01-01"
         },
         {
             "highlights": [
-                "Using Linq to SQL & mercurial",
-                "Created and optimized three web applications to provide services as a single directed in micro service that to share project branding and be (also. used to create videos back end)."
+                "Python the entire stack (Wordpress, read and I.)",
+                "Wrote maintainable and performant javascript applications on Heroku with Drupal."
             ],
-            "summary": "Is a company that offers comprehensive and advanced services in the payment card industry.",
-            "website": "http://corillian.com",
-            "company": "Corillian",
+            "summary": "A service that provides real time charts and alerts at both home and small local businesses",
+            "website": "http://imaginuity-interactive.com",
+            "company": "Imaginuity Interactive",
             "position": "Senior Software Developer",
             "startDate": "2014-09-01",
             "endDate": "2015-01-01"
@@ -60,13 +60,13 @@
     ],
     "interests": [
         {
-            "name": "Cloud Technologies And Architectures"
+            "name": "Vfx"
         },
         {
-            "name": "Tibetan Buddhism"
+            "name": "Software Engineering"
         },
         {
-            "name": "Gadgets Technologies"
+            "name": "Rick And Morty"
         }
     ]
 }

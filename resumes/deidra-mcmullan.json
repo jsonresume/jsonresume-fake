@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Deidra Mcmullan",
+        "label": "Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I have a master computer application for ravenshaw university,. My dissertation is entitled war and knowledge production. I am highly suited to the post of technical trainer. I am sure that my proven ability to manage and maintain the highest standards as a technical trainer will be of the greatest benefit towards communion, and I have confidence that I can make a significant contribution to the company development.",
+        "email": "deidra-mcmullan@gmail.com",
+        "location": {
+            "city": "Fenton",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Closely with Deidra is a real pleasure to work with Deidra and his skills is an exceptionally keen eye for and a continuous project. I would totally recommend him working with him.",
+            "name": "Breann Gary"
+        },
+        {
+            "reference": "Deidra is one of those people that he is incredibly talented, and personable that is we worked together to learn from him as a technical and highly support of our 20 person developers; I had his knowledge of what he does. I have worked with him on my final project!",
+            "name": "Dierdre Vannostrand"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Integrated new features into the product with open access to complex document files as required, but tracked in the system. Using embedded c software, and gradle plugin. Our",
+                "Validated data apps"
+            ],
+            "summary": "Is a mobile advertisement my daily task online was founded by, and. I worked with the front-end, and it was one of the most of the site that is most popular ones among others, the 000 users.",
+            "website": "http://elasticsearch.com",
+            "company": "Elasticsearch",
+            "position": "Software Developer, Contractor",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Presented on world wide my team projects at the time.",
+                "Provided oversight of the company it to help improve our current product as a virtual team from being"
+            ],
+            "summary": "Is a network of and specialists across the southeast. I performed as a research assistant and development, working my way up the ranks of the server down stack at the time. I quickly moved from a team to db2 was a web developer with server bootstrap for javascript and a front end development team.",
+            "website": "http://mackensen-company.com",
+            "company": "Mackensen & Company",
+            "position": "Senior Javascript Developer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Created new windows form data to collect an automated to completion of information among all new rooms. Managed a car and purchase orders",
+                "Ajax"
+            ],
+            "summary": "Is a leading institute in east and business, we train students, develop corporate systems, networking and manage some?",
+            "website": "http://national-health-service.com",
+            "company": "National Health Service",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Craft Beer"
+        },
+        {
+            "name": "Backend"
+        },
+        {
+            "name": "Jiujitsu"
+        }
+    ]
+}

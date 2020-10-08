@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Genna Sargeant",
+        "label": "Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software developer with over six years industry experience currently working with a node. J's, mongodb and radius stack. I have previously worked extensively with j2ee working with java,, / and oracle. I am also experienced with system administration and have lead my current company to a place where our complete server configuration is automated via. I am confident when presented with any requirement and will always seek to find a solution which meets industry best practices.",
+        "email": "genna-sargeant@gmail.com",
+        "location": {
+            "city": "Tlahuac",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "",
+            "name": "Soon Epling"
+        },
+        {
+            "reference": "I have known nilanga in a professional capacity and hereby endorse that he is a technically sound and innovative candidate in the it. He would be an asset to any organization.",
+            "name": "Yolanda Alonzo"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Set up and maintained the code on multiple helpdesk modules",
+                "Starting head of the project"
+            ],
+            "summary": "Is a leading employer and renowned specialist in enterprise application",
+            "website": "http://advance-internet.com",
+            "company": "Advance Internet",
+            "position": "Software Analyst Iv",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Setting up and validating a range of chemical orders",
+                "Worked with clients to create marketing and test cases to improve experience performance and product experience"
+            ],
+            "summary": "It is a consulting firm focused on helping to solve every role on consumer grade hardware.",
+            "website": "http://ipswich-city-council.com",
+            "company": "Ipswich City Council",
+            "position": "Lead Developer Experience Engineer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Working on his first official or app.",
+                "Generated agile process and continuous delivery"
+            ],
+            "summary": "shmoop university inc is a company providing tools for multidisciplinary design optimization and predictive maintenance.",
+            "website": "http://shmoop-university-inc.com",
+            "company": "Shmoop University Inc",
+            "position": "Web Development Intern",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Video Encoding"
+        },
+        {
+            "name": "Iot Development"
+        },
+        {
+            "name": "Semantic Web"
+        }
+    ]
+}

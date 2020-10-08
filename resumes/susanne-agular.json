@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Susanne Agular",
+        "label": "Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I a full stack is a developer who loves working with new technology. I work best in planning the architecture of applications and their development life. I also love to work with new frameworks.",
+        "email": "susanne-agular@gmail.com",
+        "location": {
+            "city": "Gurgaon",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I worked with Susanne for several years and during that time always found Susanne to be a creative, humble and dedicated colleague. He is keen to learn and keen to apply his knowledge in any environment, always rising to the challenge put before him. When asked to take on large scale projects \u2013 such as the production of a series of gameplay \u2013 Susanne delivered without hesitation and with excellent execution, even if the projects were outside of his immediate role. I would highly recommend Susanne for his positive character as a member of any creative team.",
+            "name": "Greta Griffeth"
+        },
+        {
+            "reference": "I am known works with him in my open source Mr. Susanne proved was a team member of the biggest hosting since proved that he will be a valuable addition to any company.,......., simplicity is the ultimate. Simplicity is the ultimate. Simplicity is the ultimate., simplicity is the ultimate. Simplicity is the ultimate.",
+            "name": "Rosalba Fluharty"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Took ownership in the r & the supply chain to open and project community manager",
+                "Developed infrastructure documentation for the customer setting up an environment using, custom soap solutions."
+            ],
+            "summary": "Is a company that produce and deliver multimedia and digital content across different clients, focusing on the medical industry",
+            "website": "http://growth-acceleration-partners.com",
+            "company": "Growth Acceleration Partners",
+            "position": "Consultant@ Jpmorgan Chase",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Producing new templating application",
+                "Defined and enforced standards documentation on software for production, quality, and development velocity"
+            ],
+            "summary": "Is a development shop that data with analytics open source products.",
+            "website": "http://cameron.com",
+            "company": "Cameron",
+            "position": "Software Developer (part Time)",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Managed a of and developing, and converting maps data to display crystal reports and student reports.",
+                "First line with customer support representatives and a liaison to the clients include hand between maintaining and managing a team of maintaining employee onboarding of the training process."
+            ],
+            "summary": "Is a startup focused on building out and providing courses of instruction within a.",
+            "website": "http://campolonghi-italia-spa.com",
+            "company": "Campolonghi Italia Spa",
+            "position": "Software Development Consultant",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Agile Software Design"
+        },
+        {
+            "name": "Nodejs"
+        },
+        {
+            "name": "/ Podcasting"
+        }
+    ]
+}

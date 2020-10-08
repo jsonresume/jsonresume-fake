@@ -3,70 +3,70 @@
         "name": "Alleen Neace",
         "label": "Engineer",
         "image": "https://www.thispersondoesnotexist.com/image",
-        "summary": "I am a software engineer with a particular interest in making things simple and automating daily tasks. I try to keep up with security and best practices, and am always looking for new things to learn.",
+        "summary": "i a software developer from, victoria. i started study at swinburne university in 2009 and received my bachelor with honours in 2013. during my time at swinburne i was involved in a number of scholarship programs, received a number of achievement awards, and began tutoring for the university s introduction to programming unit during my third year. nearing the completion of my bachelor degree, i decided to engage in the university s honours program and undertook a year of research in automating the development of mobile applications, in which i received some success with my work being showcased at the ddd conference in 2013. since the completion of my degree i have been working with the / swinburne software innovation lab in a variety of projects utilising cutting edge technologies and leveraging the resources available at the university in the pursuit of solving problems faced by australian industry.",
         "email": "alleen-neace@gmail.com",
         "location": {
-            "city": "Chicago",
+            "city": "Limapuluh Kota",
             "countryCode": "US"
         }
     },
     "references": [
         {
-            "reference": "I worked with Alleen on at least 5 projects already. Frankly speaking, it would be really hard on development an creative, Alleen the best highered highered crm app developers.",
-            "name": "Mandi Schechter"
+            "reference": "I worked closely with hmsk at webpay and highly recommend him. I saw him lead product development, support customers, and handle the account. He was an extremely engineer technical and integration solutions with him.",
+            "name": "Jayne Lion"
         },
         {
             "reference": "@. Com",
-            "name": "Susy Staller"
+            "name": "Corrina Spruill"
         }
     ],
     "work": [
         {
             "highlights": [
-                "Personally developed many workflows that were hosted on the cloud, qualification strategies, and cost savings",
-                "Interim global director of engineering."
+                "Management of the repository of and other company vehicles.",
+                "Developed the NFC adapter which a plugin framework to 1 a month in a mobile application"
             ],
-            "summary": "highered crm is a company whose focus is on delivering top notch web and mobile applications to our clients",
-            "website": "http://highered-crm.com",
-            "company": "Highered Crm",
-            "position": "Technical Leader",
+            "summary": "The department of sciences and assessment, evaluate the changes in environmental conditions in Swedish and, and were essential successful anglers for application.",
+            "website": "http://entech-solutions.com",
+            "company": "Entech Solutions",
+            "position": "Developer / Ceo",
             "startDate": "2018-01-08",
             "endDate": "2020-09-08"
         },
         {
             "highlights": [
-                "PC development",
-                "Python, always, always, google cloud, elasticsearch, sphinx"
+                "Invited to become a member of a front-end",
+                "Code cleanup, modularization of existing strategy and grow project to process delivery."
             ],
-            "summary": "Is a company that provides a SaaS location intelligence platform (free and paid version), the way and its primary focus of reducing the daily load. This app lets users communicate or via ticketing. Into the social network, where they needed to get the user experience",
-            "website": "http://semper-valens-solutions.com",
-            "company": "Semper Valens Solutions",
-            "position": "Senior Software Engineer / Team Lead",
+            "summary": "Working with clients big and small, creating & experiences that delight across the company.",
+            "website": "http://amadeus-api-and-web-services-platform.com",
+            "company": "Amadeus, Api And Web Services Platform",
+            "position": "Software Development Engineer In Test Ii",
             "startDate": "2015-02-07",
             "endDate": "2018-01-01"
         },
         {
             "highlights": [
-                "Developed a systematic integration of process with a content delivery significantly reducing the time by during delivery 100.",
-                "Databases"
+                "Assisted in design and, data of core data and machine learning platform to enhance efficiency and introduction of.",
+                "Partially responsible for the of developing new technologies and. Net web for the front end of the new user interface."
             ],
-            "summary": "google lens is a company whose focus is on delivering top notch web and mobile applications to our clients",
-            "website": "http://google-lens.com",
-            "company": "Google Lens",
-            "position": "Software Engineer / Infrastructure Engineer",
+            "summary": "Built an open source android app for a day company with the business. Beginning with deciding technology to manage and deliver commercial web products from an end to users and gather user data, share, and business that you can share your shopping list. Follow on the quality of the technology stack we used to focus on both affinity and experienced a new one product.",
+            "website": "http://mainstream-mechanical-ltd.com",
+            "company": "Mainstream Mechanical Ltd",
+            "position": "Technical Support Operator",
             "startDate": "2014-09-01",
             "endDate": "2015-01-01"
         }
     ],
     "interests": [
         {
-            "name": "System Administration"
+            "name": "Board Game Development"
         },
         {
-            "name": "Movie And Animation"
+            "name": "Travels"
         },
         {
-            "name": "Gadgets & Technologies"
+            "name": "Vehicles"
         }
     ]
 }

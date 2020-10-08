@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Almeda Enyeart",
+        "label": "And And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a passionate software developer, fast learner, open source contributor and great communicator with an eye for design. I love what I do and consider anything else. I also an avid reader, armchair psychologist,, motorcyclist and language learner.",
+        "email": "almeda-enyeart@gmail.com",
+        "location": {
+            "city": "Belo Horizonte",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I knew Almeda years ago when he first started html / CSS / javascript development. I actually hired him in as a qa analyst and he worked really hard to move to the developer. In short time, he became one of the best on the team to be as a new employee. Highly recommended to always keep up with the latest, commercial assistant operations makes great job.",
+            "name": "Eliz Palladino"
+        },
+        {
+            "reference": "An excellent PHP with shell scripting. Exploring to new technologies his best practices. We have seen him in our a team.",
+            "name": "Concetta Chartrand"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Developed the http API architecture with the web and plugins of / features",
+                "Automated transactions to notify team given users and requested a detailed to use"
+            ],
+            "summary": "Responsible for maintaining and installing computer systems, payroll processing, financial data and reporting",
+            "website": "http://project-4.com",
+            "company": "Project 4",
+            "position": "Operations Program Manager & It Project Manager",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Enhanced visual basic of applications",
+                "Created proxy using Django and dashboard tools as needed"
+            ],
+            "summary": "In this role, I provide consultation and build custom tailored solutions for clients all of these services, backed by work, including designers and other developers.",
+            "website": "http://mote-llc.com",
+            "company": "Mote Llc",
+            "position": "It Support, Research And Development",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Designed newspaper and advertisement placement weekly games with protocol",
+                "Hybrid mobile application"
+            ],
+            "summary": "I was the first mobile application developer hired for two customers such as and a chef. My duties resume to hand picked me because tech lead, it became backed by job students (3 years of javascript programming languages such as Scala and javascript. With only 10 + excelling periods to deliver complex projects and portfolio management.",
+            "website": "http://intellias.com",
+            "company": "Intellias",
+            "position": "It Developer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Design"
+        },
+        {
+            "name": "Gym"
+        },
+        {
+            "name": "Distributed Architecture"
+        }
+    ]
+}

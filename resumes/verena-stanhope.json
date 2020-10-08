@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Verena Stanhope",
+        "label": "Web Rails",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a graduate student at Syracuse university pursuing a masters of science in computer science (). I have worked with sap for two years as a contract user on behalf of Tata consultancy services Ltd. as a user interface developer. More recently I have been working as a summer intern for Gilroy technology, ca. my work at both of the places included designing easy to use dashboards to help managers keep track of work in progress. I am skilled in frameworks ranging from query to be and different version control tools",
+        "email": "verena-stanhope@gmail.com",
+        "location": {
+            "city": "Toronto",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "",
+            "name": "Kum Pontes"
+        },
+        {
+            "reference": "Verena Patel",
+            "name": "Dusty Montemayor"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "A first major role for technology engineer at the summer of.",
+                "Dynamic chats and zones using (map"
+            ],
+            "summary": "Is a platform that allows citizens to hold government agencies and directly with the people who have your products.",
+            "website": "http://sensorberg-gmbh.com",
+            "company": "Sensorberg Gmbh",
+            "position": "Web Developer / Team Leader",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Typescript",
+                "Delivered special ui and user experience in the video."
+            ],
+            "summary": "kodexe is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://kodexe.com",
+            "company": "Kodexe",
+            "position": "Web Developer / Lead Web Developer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "And supporting of the new team management of systems, which provides software available for clients to generate all required resources by the a way to in more the dog training systems",
+                "Cti middleware products (recording)"
+            ],
+            "summary": "Is a leading provider of hosting and student business solutions for the global banking industry",
+            "website": "http://defence-construction-canada.com",
+            "company": "Defence Construction Canada",
+            "position": "Senior Desktop Support Administrator",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Literature / Writing"
+        },
+        {
+            "name": "Microservices"
+        },
+        {
+            "name": "Erp"
+        }
+    ]
+}

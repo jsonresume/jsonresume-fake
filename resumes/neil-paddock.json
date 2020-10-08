@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Neil Paddock",
+        "label": "Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a senior web developer (full stack) with 4 + experiences. I am working in ruby on rails, angularjs, javascript, twitter bootstrap, and angular. I am also practicing reacts and.",
+        "email": "neil-paddock@gmail.com",
+        "location": {
+            "city": "West Lafayette",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "@. De |@... de, @. Com",
+            "name": "Lakeshia Overton"
+        },
+        {
+            "reference": "Mr. Neil zynovyev carried out all duties assigned to him on his own, correctly and very, to our entire satisfaction.",
+            "name": "Filiberto Redinger"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Built on new onboarding process, and with the utility's website",
+                "Batch analysis of user tracking and requirements, an fair process, including volume discount royalty programs for partners worldwide."
+            ],
+            "summary": "Is a marketing automation firm in the mortgage industry.",
+            "website": "http://firstborn-multimedia.com",
+            "company": "Firstborn Multimedia",
+            "position": "Lead Application Developer Consultant",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Docker / open shift / k8s",
+                "Built several out data screens that are as most of large of recent city (4) Cdn selection, in a deployment process, of delivery."
+            ],
+            "summary": "\u2022 Software optimization on a product for remote desktop and web applications.",
+            "website": "http://kmp-aeroparker.com",
+            "company": "Kmp, Aeroparker",
+            "position": "Web Developer / Designer / Master",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Implemented unit tests and code coverage",
+                "Moving an community leader awards in private and sales"
+            ],
+            "summary": "My first job was coding system using the ruby on rails and the application. I was responsible for the day to day operations of the tickets and provide the tools that they need to work in the mobile app.",
+            "website": "http://jobsdb.com",
+            "company": "Jobsdb",
+            "position": "Python Engineer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Improvisational Comedy"
+        },
+        {
+            "name": "Computer Networking"
+        },
+        {
+            "name": "Electronic Music Composition"
+        }
+    ]
+}

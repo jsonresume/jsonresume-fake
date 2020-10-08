@@ -1,72 +1,72 @@
 {
     "basics": {
         "name": "Temeka Dwight",
-        "label": "And",
+        "label": "And Engineer",
         "image": "https://www.thispersondoesnotexist.com/image",
-        "summary": "I am a full stack developer who enjoys working in an agile environment with a collaborative team. I am passionate about creating modular, scalable, smart looking web apps. I enjoy balancing the need for test driven and benchmark driven development, modern creative design, and task completion efficiency and quality. I specialize in. And node. J's full stack development.",
+        "summary": "i am a software engineer with strong technical leadership and management experience. i believe my main strength is the ability to align engineering practices with the organization goals. over the past few years, i been spending time in my time in distributed systems and have a passion for doing good user and friendly company. i enjoy travel, do and share my knowledge with them. i love to explore and different culture. i thrive in environments. i am highly motivated by working on projects which i believe to improve my work best way through college and moved to amsterdam. university of 2016, with several years of experience as an it support and as a project manager at the western governors university.",
         "email": "temeka-dwight@gmail.com",
         "location": {
-            "city": "Toulouse",
+            "city": "Alajuela",
             "countryCode": "US"
         }
     },
     "references": [
         {
-            "reference": "Mr. Temeka zynovyev carried out all duties assigned to him on his own, correctly and very, to our entire satisfaction.",
-            "name": "Filiberto Swartwood"
+            "reference": "I had known him for a unique years in time. I highly recommend him as a professional software developer.",
+            "name": "Carmon Styron"
         },
         {
-            "reference": "I have worked with Temeka on capital one over the past year. He is very knowledgeable about product management, and has helped to evolve our product organization with his expertise. I have learned a lot from Temeka and is great to work.",
-            "name": "Chia Lail"
+            "reference": "Analyst and software developer. i) 88494246",
+            "name": "Lorrine Sotomayor"
         }
     ],
     "work": [
         {
             "highlights": [
-                "Participation, planning, and of scalable computer systems.",
-                "Planned, budgeted schedules and it's operations"
+                "C + Linux / troubleshooting",
+                "Rebuilt new features from legacy systems."
             ],
-            "summary": "\u2022 Agile workflow using scrum / Kanban mix and peer code reviews",
-            "website": "http://bsr-taxi.com",
-            "company": "Bsr Taxi",
-            "position": "Senior Software Developer",
+            "summary": "In this role, I collaborate with project managers, designers and other developers work in small, medium to large scale web applications. I had the opportunity to work buenos aires university many customized umbraco related web applications as well as non umbraco related ones. As a developer here, I utilize the. Net stack, javascript frameworks and cloud service providers such as amazon web service, and buenos aires university buenos aires university for a custom background, custom upon there were unique and approach to implement new frameworks that help business developers into a new set of ibm new.",
+            "website": "http://buenos-aires-university.com",
+            "company": "Buenos Aires University",
+            "position": "Undergraduate Teaching Assistant",
             "startDate": "2018-01-08",
             "endDate": "2020-09-08"
         },
         {
             "highlights": [
-                "Introduced scrum methodologies in,.",
-                "One of two years developers was responsible for the latest mobile version releases of doing code review with a development review process."
+                "Reached students nationally and internationally online",
+                "Stand alone in the programming interface ile gelistirilmesi"
             ],
-            "summary": "first rf corporation is a company whose focus is on delivering top notch web and mobile applications to our clients",
-            "website": "http://first-rf-corporation.com",
-            "company": "First Rf Corporation",
-            "position": "Web Developer / Designer",
+            "summary": "Responsible for recruiting, training and managing a member of the team leaders to take disbursement a data from the ground up.",
+            "website": "http://lettering.com",
+            "company": "Lettering",
+            "position": "Lead Developer Of Sociallygive And Microgiving",
             "startDate": "2015-02-07",
             "endDate": "2018-01-01"
         },
         {
             "highlights": [
-                "A use repository of pattern to improve, test data conversion, and user stories.",
-                "Lead, architected, and lead developer, CSS and javascript web for front applications., I / for large,, and the beanstalk."
+                "Trained and maintained various other departments under the",
+                "Built unified auction accounting estimation and system presentation, features and job opportunities for technology"
             ],
-            "summary": "Is a company that produce and deliver multimedia and digital content across different clients, focusing on providing b2b training and administrative development in the areas of information and communication.",
-            "website": "http://sage-software.com",
-            "company": "Sage Software",
-            "position": "Senior Software Engineer / Scrum Master (contract)",
+            "summary": "",
+            "website": "http://thames-water.com",
+            "company": "Thames Water",
+            "position": "Information Technology Coordinator",
             "startDate": "2014-09-01",
             "endDate": "2015-01-01"
         }
     ],
     "interests": [
         {
-            "name": "Camping"
+            "name": "Mountain"
         },
         {
-            "name": "Outdoor Life"
+            "name": "Farming"
         },
         {
-            "name": "Game Theory / Design"
+            "name": "Improvisational Comedy"
         }
     ]
 }

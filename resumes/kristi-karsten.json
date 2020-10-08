@@ -1,72 +1,72 @@
 {
     "basics": {
         "name": "Kristi Karsten",
-        "label": "Programmer",
+        "label": "And",
         "image": "https://www.thispersondoesnotexist.com/image",
-        "summary": "I am a software engineer who loves teaching others to code. As a teacher for software engineering, I get to do some really cool stuff! Teaching is not only how people should write their code, but how to think like a professional software engineer.",
+        "summary": "A software engineer with vast experience in the art domain.",
         "email": "kristi-karsten@gmail.com",
         "location": {
-            "city": "Miami Beach",
+            "city": "Cluj Napoca",
             "countryCode": "US"
         }
     },
     "references": [
         {
-            "reference": "i have known konstantin baikov for many years. we were working together for the support business and his development side of luck in new his performance and commitment to project has been using only experience in the front end of javascript. thank, thayne is enthusiastic, and also has the ability to understand work, before deadlines, he is able to distill them into concrete value propositions for clients is matched only by his ability to share his knowledge in the field of virtualisation with an excellent. a detail oriented he puts in the full time quality of, and especially has the ability to see have the room he is well read and can go deep into a project. i highly recommend him for any organization.",
-            "name": "Kristi Karsten"
+            "reference": "Kristi is a diligent worker who brings insight and diversity in a group. It is my pleasure to recommend Rafael, his performance working as a software engineer at nasa planetary data system was outstanding. Kristi is a quick learner and is always efficient to in his work. I would recommend him to any company.",
+            "name": "Jeremy Briones"
         },
         {
-            "reference": "scott.@.",
-            "name": "Danuta Teague"
+            "reference": "i have worked with Kristi on several different occasions in different positions he has held. when it came time there seems that he have to work with on difficult things possible., it has been an honor and a pleasure to work with bret of his team and technical expertise. he is a great person and a great team player who takes his commitment to work and is hard at work. he is a dedicated individual with solid it knowledge., trent is a skilled and natural software engineer who is a solid. he is very oriented person in solving some people out of his., i worked with Kristi for several years and during that time always found him to be a creative, humble and dedicated colleague. he is keen to learn and keen to apply his knowledge in any environment, always rising to the challenge put before him. when asked to take on large scale projects \u2013 such as the production of a series of gameplay \u2013 Kristi delivered without hesitation and with excellent execution, even if projects were outside of his immediate role. i would highly recommend Kristi for his positive character as a member of any creative team.",
+            "name": "Heike Bamber"
         }
     ],
     "work": [
         {
             "highlights": [
-                "Automated creation of new processes that it were eventually reduced the installation and software configuration changes that required to drive efficiency by and the delivery of company new service.",
-                "Design exercises to help mentor teammates with becoming out a wide range of further"
+                "Javascript framework, jquery.",
+                "Facilitated and curated a partnership with google / gcp / to / drive in improving process improvements by applying the core and learning in the education vertical as."
             ],
-            "summary": "My job was to create and maintain the company website as well as create some graphic assets.",
-            "website": "http://pt-solution.com",
-            "company": "Pt Solution",
-            "position": "Senior Software Engineer",
+            "summary": "In charge of coding the internal erp software tool.",
+            "website": "http://nasa-planetary-data-system.com",
+            "company": "Nasa Planetary Data System",
+            "position": "Senior Software Engineer / Product Manager (backend Services)",
             "startDate": "2018-01-08",
             "endDate": "2020-09-08"
         },
         {
             "highlights": [
-                "Executing trades",
-                "Creating reports for the crystal reports + capture & to the customer level plant,, china and other lists"
+                "Received a certificate in this award.",
+                "Designed and developed log data collection and analytics for a platform"
             ],
-            "summary": "Is a platform that allows citizens to hold government agency directly and publicly accountable for their actions.",
-            "website": "http://california-institute-of-technology.com",
-            "company": "California Institute Of Technology",
-            "position": "Senior Software Engineer / Enterprise Continuous Integration Engineer (contract)",
+            "summary": "Created an independent role responsible for discovering, investigating, and resolving maintainability, performance, and telemetry issues across multiple applications.",
+            "website": "http://inc.com",
+            "company": ", Inc",
+            "position": "Software Engineer (job)",
             "startDate": "2015-02-07",
             "endDate": "2018-01-01"
         },
         {
             "highlights": [
-                "Tools and used web services to provide and automatically updated create templates",
-                "Head location in the summer (2015)."
+                "Against rest high dynamic websites in order to meet standards",
+                "Build an algorithm to fully do twitter learning"
             ],
-            "summary": "Is a company that produce and deliver multimedia and digital content across different clients, focusing on providing quality and medical organization",
-            "website": "http://ems-software.com",
-            "company": "Ems Software",
-            "position": "Senior Software Engineer / Team Lead",
+            "summary": "\u2022 Responsible for third party integrations into.",
+            "website": "http://filmmates-la-tienda-de-la-mexico-city-mexico.com",
+            "company": "Filmmates / La Tienda De La, Mexico City, Mexico",
+            "position": "It And Web Development Head",
             "startDate": "2014-09-01",
             "endDate": "2015-01-01"
         }
     ],
     "interests": [
         {
-            "name": "Intellectual Technologies"
+            "name": "Software Community"
         },
         {
-            "name": "Functional Programming"
+            "name": "React"
         },
         {
-            "name": "Cognitive Science"
+            "name": "Fencing"
         }
     ]
 }

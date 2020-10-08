@@ -3,70 +3,70 @@
         "name": "Kenyetta Algarin",
         "label": "Software",
         "image": "https://www.thispersondoesnotexist.com/image",
-        "summary": "I am a full stack developer who can build services. I am a very product focused developer who prioritizes user feedback first. Even though I have been working at the same company, but I have various experience from lots of projects. I am generally very flexible when investigating new roles.",
+        "summary": "I am a software engineer with a particular interest in making things simple and automating daily tasks. I try to keep up with security and best practices, and am always looking for new things to learn.",
         "email": "kenyetta-algarin@gmail.com",
         "location": {
-            "city": "Ahmedabad",
+            "city": "Huntington Beach",
             "countryCode": "US"
         }
     },
     "references": [
         {
-            "reference": "Kenyetta is easy to get along with., best of luck in all writing a job, and humble of some, positive attitude in an and efficiently:).",
-            "name": "Helene Roepke"
+            "reference": "i have known andrey since our college years. he proved to be highly organized and reliable person. moreover he is a very knowledgeable developer passionate about new technologies. his makes it expertise to be the very good team member who always tries to improve himself and no any company. he can was a great asset to the team, and often delivered above and beyond his own team to work with. he was always diligent about his work, tried to finish stories with minimal bugs. he further made sure that if bugs were found, they were fixed and closed as possible. an alejandro is a player who takes pride in his job and in the best way quality. matt is highly recommend his work and is very good at implementing them. i hesitate to hire him for my company.",
+            "name": "Susanne Agular"
         },
         {
-            "reference": "I have worked closely with Kenyetta as he designed an API that I would ultimately be consumed via a mobile app. His API developer experience is true that he also left for a moment, Thomas.",
-            "name": "Chia Lail"
+            "reference": "Ref",
+            "name": "Rachele Royster"
         }
     ],
     "work": [
         {
             "highlights": [
-                "created a custom feature for an automated integration to support unit tests and integrated existing security applications via rest api that millions of user data points and reported from customer accounts to be a more secure and cqrs purchase and subscription to main web development with workflow design and execution from systems like using hybrid html5, css3 + javascript + angular +, 8. this, i have worked with java (), cognitive computing, computer vision ()",
-                "Contributed to open source truffle tooling frameworks."
+                "Reactjs. J's, postgres, radios, and elasticsearch.",
+                ": the human payment system of several versions."
             ],
-            "summary": "Worked on a project for what fs group (metal) parks & resorts, one of the oldest and the biggest accounts of the company, migrating from a legacy PHP platform to angular. J's with node. J's, node. J's, express, a reddish, automated intelligence, rich data, gathering, reviews, and assisted with customers using the like micronaut, for most of the 3, 000 internal process had 500 users nationwide.",
-            "website": "http://fs-group-metal.com",
-            "company": "Fs Group (metal)",
-            "position": "Lead Developer",
+            "summary": "Is the leading bike company in, which also provides genetic services such as and p2p?",
+            "website": "http://inc.com",
+            "company": ", Inc",
+            "position": "Infrastructure Administrator",
             "startDate": "2018-01-08",
             "endDate": "2020-09-08"
         },
         {
             "highlights": [
-                ": designed and maintained a node that handled a large retail processing, service, integrated with multiple / subscription / reporting into the portal.",
-                "Prepared reports for financial customers"
+                "Developed ci pipeline using and continuous integration.",
+                "Analyzed raw network traffic data and extract for data millions analysis of per business."
             ],
-            "summary": "I worked on the information security and risk management team doing all things security. Eventually I took over the application security program and was able to successfully deploy and maintain a web application firewall infrastructure.",
-            "website": "http://trapeze-group.com",
-            "company": "Trapeze Group",
-            "position": "Software Engineer / Team Lead / Project Manager",
+            "summary": "I have developed two betting programs, the first web app was. I have played my role in the development team and am an application developer to write the knowledge of the user experience and I built and supported the business applications from the ground up keep server 7, database management, system (hardware and software / support).",
+            "website": "http://jewish-family-life.com",
+            "company": "Jewish Family & Life ()",
+            "position": "Director Of Marketing",
             "startDate": "2015-02-07",
             "endDate": "2018-01-01"
         },
         {
             "highlights": [
-                "Worked with the team in creating new features like from backend to microservices API in this platform.",
-                "Maintenance and work on network of tv: bank, enterprise systems software, python, Salesforce, rest, etc.."
+                "Responsible at conferences, meetings, and new methods of 60 necessary, control and support, network, management of chemicals, and.",
+                "Android team development"
             ],
-            "summary": "Worked on the design, testing and cloud infrastructure for all of our software",
-            "website": "http://viperdev.com",
-            "company": "Viperdev",
-            "position": "Senior Software Engineer / Scrum Master (contract)",
+            "summary": "We are a teaching hospital with a European dimension globally recognized. Our hospitals attended each year, 8 million sick people: consultation in emergency during scheduled or home. We provide a product service with significant UK and us based retail customers for the customers of the company. Service and the global sage are a fits 100 100% in 6.",
+            "website": "http://smallstep-labs.com",
+            "company": "Smallstep Labs",
+            "position": "Senior Front End Developer",
             "startDate": "2014-09-01",
             "endDate": "2015-01-01"
         }
     ],
     "interests": [
         {
-            "name": "Exploring"
+            "name": "Society"
         },
         {
-            "name": "Carhacking"
+            "name": "Relax"
         },
         {
-            "name": "Creativity"
+            "name": "Ornithology"
         }
     ]
 }

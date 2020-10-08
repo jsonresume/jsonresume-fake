@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Waldo Gillingham",
+        "label": "Software",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I a full stack developer who loves working with open source technology to create solutions to challenging problems. Opinionated when it matters and compromising when it does, I am always seeking the best solution for the situation at hand.",
+        "email": "waldo-gillingham@gmail.com",
+        "location": {
+            "city": "Cologne",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "It I would definitely recommend him as a with tom an enthusiastic and personality that is a superb developer, honest, considerate, and motivated it, eager to learn and had an absolute pleasure to work with Waldo at abacus systems solutions. Waldo has excellent technical skills with a strong desire to learn, as part of a team, responsible and personable individuals. I worked with him during my first in the networking side!",
+            "name": "Devin Ertle"
+        },
+        {
+            "reference": "Beyond his job and I worked with him on my internal tooling and he was a pleasure to work with. His team is living proof that he is passionate of the java world, not only bring a brilliant value and a wealth of experience, he will often able to understand both business situations where he never ceased to impress me with his ability to think outside the box. In addition to his considerable programming skills, he has his ear to the ground in terms of new technologies and trends and is always looking to improve existing products",
+            "name": "Katherina Markert"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Has sold items in 2 for art needed within Microsoft",
+                "Advised stakeholders at all levels of current infrastructure projects."
+            ],
+            "summary": "abacus systems solutions is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://abacus-systems-solutions.com",
+            "company": "Abacus Systems Solutions",
+            "position": "Programming And Web Development Intern",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Worked on the product marketing model",
+                "Worked closely with design and printers to print"
+            ],
+            "summary": "Developed a cms (. COM) with a focus on content across multiple social media accounts (associated press, etc.).",
+            "website": "http://micro-softaccess.com",
+            "company": "Micro Softaccess",
+            "position": "Software Engineer 4",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Very first sysadmin and develops work through requests for production environment",
+                "Made use of less (sass, CSS, javascript, bootstrap, etc.) in working"
+            ],
+            "summary": "The lab using both experimental and computational tools.",
+            "website": "http://.com",
+            "company": "",
+            "position": "Sr Programmer / Analyst I, Itd",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Calligraphy"
+        },
+        {
+            "name": "Webtorrent"
+        },
+        {
+            "name": "Finance"
+        }
+    ]
+}

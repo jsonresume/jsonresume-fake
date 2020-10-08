@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Deanne Cortina",
+        "label": "Web",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a passionate technology enthusiast and actively out new technologies and stay up to date on industry trends and advancements. My objective is to obtain the position of responsibilities that utilizes my skills and keen to work in an environment where I can enrich my knowledge. I believe in smart work, deliver smart work & ready to stretch to achieve my goals. Believe in myself and confident about the things I do.",
+        "email": "deanne-cortina@gmail.com",
+        "location": {
+            "city": "Kathmandu",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I worked closely with hmsk at webpay and highly recommend him. I saw him lead product development, support customers, and handle the account. He was an extremely technical engineer and a very personable individual who you always bring with him something new.",
+            "name": "Delsie Cowles"
+        },
+        {
+            "reference": "Deanne is a great colleague one can partner with ease, his knowledge and experience, with a good ability of humor and a technology. She is always found him to be a very good professional and a clever engineer, a great friend as well.",
+            "name": "Susy Staller"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Documented the apes used by all, the data access layer and client software function. Solved the weekly cycle with transactions for every was part of an entire.",
+                "Participated work in an application development team and two innovations focused on the projects by, and led writing the development skills in requirement analysis, working and well as project management working with a team and working on client side travel and integration technologies."
+            ],
+            "summary": "Is a small software and supplier of security architecture",
+            "website": "http://sony-ericsson.com",
+            "company": "Sony Ericsson",
+            "position": "Senior Executive Assistant (career Pivot In)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Wrote core api's, about client environment, and custom defined / benefits of (system.,)",
+                "Channel sales report"
+            ],
+            "summary": "Is development for marketing and the company that allows you to book most mobile and joined the users of millions of people. The ideas are presented to manage an online portfolio on their website, or apps or based on with their businesses.",
+            "website": "http://grafixoft-ltd.com",
+            "company": "Grafixoft Ltd",
+            "position": "Lead Developer / Systems Administrator",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Working on large projects with the dynamic technical team leader",
+                "Managed and working components of a third party framework"
+            ],
+            "summary": "Development of web site using PHP to javascript,",
+            "website": "http://texas-instruments-india.com",
+            "company": "Texas Instruments India",
+            "position": "Security Technical Program Manager",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Digital Transformation"
+        },
+        {
+            "name": "Free Internet / Online Privacy"
+        },
+        {
+            "name": "Capoeira"
+        }
+    ]
+}

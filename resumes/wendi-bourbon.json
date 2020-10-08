@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Wendi Bourbon",
+        "label": "Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer who is looking to join a team that solves interesting and challenging problems with innovative technology.",
+        "email": "wendi-bourbon@gmail.com",
+        "location": {
+            "city": "Merriam",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Technical software engineer",
+            "name": "Kum Pontes"
+        },
+        {
+            "reference": "Wendi is this kind of people in managing the team and is very hard working on the problem, he will always carry out his duties carefully and with. He constantly showed he showed hard to working as hard problem, and his ability to communicate effectively and he was new skills quickly and a capable person.",
+            "name": "Khalilah Littleton"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Worked on the main security generic fixes and where they had the opportunity to allow performs image for to help improve the automated monitoring of fix security. Capacity protocols",
+                "Find and fix bugs free in customer issues"
+            ],
+            "summary": "I helped manage the team to build a software application that had been used in managing product data. I was the first MVP skills of the platform from various sources & was for the client.",
+            "website": "http://occupy-wall-street.com",
+            "company": "Occupy Wall Street",
+            "position": "Senior Software Engineer / Scrum Master (contract)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Offer translations for mobile",
+                "Part of the regional office Sharepoint"
+            ],
+            "summary": "Developer of java based video sharing platform ()",
+            "website": "http://teamcmp.com",
+            "company": "Teamcmp",
+            "position": "Senior Javascript Developer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Building web applications from scratch.",
+                "Handled initial project with scheduling, as integration test handled plans, and existing university"
+            ],
+            "summary": "I was responsible for the ongoing development and maintenance of the student facing area of the website. Taking advantage in the application, using the simplexity marketing group ecosystem (UK, etc.).",
+            "website": "http://simplexity-marketing-group.com",
+            "company": "Simplexity Marketing Group",
+            "position": "Consultant@ Jpmorgan Chase",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "F\u00fatbol"
+        },
+        {
+            "name": "System Programming"
+        },
+        {
+            "name": "Street And Model Photography"
+        }
+    ]
+}

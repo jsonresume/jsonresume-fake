@@ -1,72 +1,72 @@
 {
     "basics": {
         "name": "Madalyn Swartwood",
-        "label": "Full Stack",
+        "label": "Senior Developer",
         "image": "https://www.thispersondoesnotexist.com/image",
-        "summary": "I am a software engineer with a particular interest in making things simple and automating daily tasks. I try to keep up with security and best practices, and am always looking for new things to learn.",
+        "summary": "I a full stack developer who loves working with open source technology. I work best in planning the architecture of web applications and their development life.",
         "email": "madalyn-swartwood@gmail.com",
         "location": {
-            "city": "Cluj Napoca",
+            "city": "Ruther Glen",
             "countryCode": "US"
         }
     },
     "references": [
         {
-            "reference": "Regardless of his short career on the it under a tight deadline. He is a very professional, confident public. He works well on his own or in a team environment and freely passes on his knowledge when the opportunity. He has a great ability to see both the detail and the big picture which is rare. Madalyn is a pleasure to work with and I would highly recommend him.",
-            "name": "Mason Nero"
+            "reference": "mark for a long on addition, he is the very knowledgeable person and i would be accomplished in the agreed time and with good quality products as he required. a great guy to have know him., can be reached at: at com, can be reached at: keith at com, can be reached at: keith at com, can be reached at: keith at com, can be reached at: keith at com, can be reached at: keith at com, can be reached at: keith at com, can be reached at: keith at com, can reached at: keith at com, can be reached at: keith at com, can be reached at: keith at com, can be reached at: keith at com, can be reached at: keith at com, jason@.,@. com, andrew.@. com,@. de |@. com, a developer | response marketing |@. com, designer | response marketing | hello@. com, amir has shown a lot of passion for coding when we finally let him do something with the production version. i known him for a long time, but in these three months he proved to be a hard worker with potential. strong he will has an excellent even when being pulled in a million. over the past 2 years we worked on project with a daily basis. above all, steve is a personable expert who in it even easy. his time is great to work with and i can recommend him., virgil is",
+            "name": "Wendi Bourbon"
         },
         {
-            "reference": "i worked with Madalyn for several years and during that time always found him to be a creative, humble and dedicated colleague. he is keen to learn and keen to apply his knowledge in any environment, always rising to the challenge put before him. when asked to take on large scale projects \u2013 such as the production of a series of gameplay \u2013 Madalyn delivered without hesitation and with excellent execution, even if projects were outside of his immediate role. i would highly recommend Madalyn for his positive Madalyn as a member of any creative team., i would recommend pieter de bruin to any employer seeking a person in the information technology industry with the following characteristics: intellectually strong individual, quick and self learner, self motivating attitude, ability to troubleshoot, research and resolve problems independently, ability to grow and improve self a, hard worker. he well as a given go to the silpa resource with great on projects. his knowledge around applicable subjects of the day \u2013 namely, the internet of things, as a service, and security implications make him a highly credible leader in the eyes of clients and those who work with him. strongly recommended!",
-            "name": "Euna Poynter"
+            "reference": "Assistant professor, school of computational science & engineering,  institute of technology",
+            "name": "Neal Carpino"
         }
     ],
     "work": [
         {
             "highlights": [
-                "The website is no longer running, but it records to the rest API, the, and YouTube app.",
-                "Deploy new code base"
+                "Health, research, and evaluate, usability",
+                "Due to be released on two successful demo projects."
             ],
-            "summary": "Is a technology company that builds innovative tech for advertising",
-            "website": "http://nexius.com",
-            "company": "Nexius",
-            "position": "Senior Software Engineer / Team Lead",
+            "summary": "Provided programming support in java, ee, 6 services, headquarters, air",
+            "website": "http://precision-drilling.com",
+            "company": "Precision Drilling",
+            "position": "System Administrator Intern",
             "startDate": "2018-01-08",
             "endDate": "2020-09-08"
         },
         {
             "highlights": [
-                "Complete computer support team to automate new onto the system.",
-                "Built a system that is responsible with parties' usage across multiple teams across the university."
+                "Lamp, Drupal, javascript, html, CSS, create, actionscript 3, mysql, Wordpress, websites",
+                "Write and generate reports to services like, SQL server 2005, excel, and aggregate data import"
             ],
-            "summary": "I developed the internal and used for the company and public safety and services.",
-            "website": "http://theplanet-egypt.com",
-            "company": "Theplanet (, Egypt)",
-            "position": "Senior Software Engineer / Rails Architect",
+            "summary": "Develop web applications supporting ibm Websphere commerce framework for wholesale corporate. Handle front-end code, middleware, backing and tools",
+            "website": "http://.com",
+            "company": "",
+            "position": "Technical Project Manager",
             "startDate": "2015-02-07",
             "endDate": "2018-01-01"
         },
         {
             "highlights": [
-                "a",
-                "Java 6 adaptation from c through c + +, an opengl () / groups / 6 environment."
+                "Reviewed technical problems for end, future",
+                "Infrastructure planning & continuous integration on Atlassian ("
             ],
-            "summary": "The biggest challenge was the creation of the information, and built the infrastructure for the future of information technology and services in the of images, and providing the implementation support of the.",
-            "website": "http://pt-astra-international-tbk.com",
-            "company": "Pt Astra International Tbk",
-            "position": "Web Developer / Designer",
+            "summary": "Is a cloud platform that helps to easily understand and communicate within the corporate cloud and cloud computing environments by the monitoring and of the data products.",
+            "website": "http://quickplay-media.com",
+            "company": "Quickplay Media",
+            "position": "Senior Backend Developer",
             "startDate": "2014-09-01",
             "endDate": "2015-01-01"
         }
     ],
     "interests": [
         {
-            "name": "Hardware"
+            "name": "Vegan Cooking"
         },
         {
-            "name": "Ultralight Backpacking Cooking And Monitoring Tools To Improve Performance As To"
+            "name": "Crafting"
         },
         {
-            "name": "Philanthropy"
+            "name": "Sports / Exercise"
         }
     ]
 }

@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Carmon Styron",
+        "label": "Javascript Full Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stack developer specialized in web and mobile. I worked remotely for more than 15 years. I like to work on challenging projects. I love coding in javascript and python. I am passionate about new technologies and implement them.",
+        "email": "carmon-styron@gmail.com",
+        "location": {
+            "city": "Burnaby",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I worked closely with hmsk at webpay and highly recommend him. I saw him lead product development, support customers, and handle the account. He was an extremely productive working, considerate and, quick learner., good and sure he always proved he fit for the position with his strong hard skills, hard worker that added so much value.",
+            "name": "Shayna Lingerfelt"
+        },
+        {
+            "reference": "i worked with terry on a database project where he was programmer the. he has worked very eager to learn about him technology and often delivered above and beyond on his own project. he was able to a wise and and eager person to work with. alejandro is a considerate of others not only in his, innovative and computing is inspiring. beth has deep expertise in building uis and is at home using modern frontend frameworks including react and. in only the last year she has certified on agile / scrum master, he has described me as a helpful and personality that he can easily inspire and transfer his all to team. he is highly out of a writing technical thinker. as a team player had a pleasure to work with., edin is an extremely dedicated java developer, never afraid to learn new techniques and always eager to try them. once he gets his teeth into problem he won let go until it done! he does this with good humour and good nature. he is an excellent team player and takes initiative to strive for a better product for the end user, the clients, and never hesitating to share his knowledge with the it world; he a pleasure to work with. he helped the team to understand the work well, as ensure and quality software. he is an asset to any team",
+            "name": "Sacha Jay"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Integrated several trading partners loan origination systems and system. This decreased human error., included",
+                "Day bug integration testing"
+            ],
+            "summary": "Worked as a coop student in the tissue manufacturing plant in.",
+            "website": "http://production.com",
+            "company": "Production",
+            "position": "Senior Solutions Architect",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "The development is an open source based website assessment testing that had the highest satisfaction ratings compliant. Delivered ahead of schedule that increased the annual revenue.",
+                "Implemented continuous integration for the team"
+            ],
+            "summary": "Is a provider if software qa services?",
+            "website": "http://helperchoice.com",
+            "company": "Helperchoice \ud83c\udded\ud83c\uddf0",
+            "position": "Sr System Administrator",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Optimizing existing solutions to meet business needs while maintaining.",
+                "Microservices written and functional feature based on the app, functional and servers"
+            ],
+            "summary": "Is a local software company, focused on leading edge advertising (OEM) and cloud",
+            "website": "http://eventkloud.com",
+            "company": "Eventkloud",
+            "position": "It Support",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Narrow Ai"
+        },
+        {
+            "name": "Comedy"
+        },
+        {
+            "name": "Minimal Style"
+        }
+    ]
+}

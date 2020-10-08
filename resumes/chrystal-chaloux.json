@@ -1,72 +1,72 @@
 {
     "basics": {
         "name": "Chrystal Chaloux",
-        "label": "And",
+        "label": "Stack Developer",
         "image": "https://www.thispersondoesnotexist.com/image",
-        "summary": "I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.",
+        "summary": "I am a software engineer currently working on a node. Jays' and microservices architecture. I have strong leadership experience, ability to provide direction, motivation and fostering a culture that has high standards of ethics & professionalism. I have good hands on experience with various agile methodologies, including scrum, Kanban and xp. I am passionate about software & systems architectures, scalability, performance, good code, end to end testing",
         "email": "chrystal-chaloux@gmail.com",
         "location": {
-            "city": "Tlahuac",
+            "city": "Cranston",
             "countryCode": "US"
         }
     },
     "references": [
         {
-            "reference": "mark@. COM",
-            "name": "Rachele Royster"
+            "reference": "jos\u00e9 manuel es un magn\u00edfico, adem\u00e1s de tener experiencia. tiene capacidad de, integraci\u00f3n con el grupo y perseverancia ante los problemas.",
+            "name": "Madalyn Swartwood"
         },
         {
-            "reference": "rob is an excellent developer to work with. he passionate about the design of the products he works on and we would often collaborate on design decisions. rob is an excellent developer with an excellent knowledge of information and collaborates with others very well., Chrystal is a very focused and self powered person and always pushing new ideas and solutions., Chrystal is a reliable professional in front end, and web developer i have had the pleasure to work with. all in all, loved getting to the chance to work with al any company that was under staffed and tasked despite the pressure and he always seemed to get the best people out of the most value of quality. it is to the kind of people that you can get with him.",
-            "name": "Lakeshia Overton"
+            "reference": "Mr. w Carstens) 987 1630",
+            "name": "Lorrine Sotomayor"
         }
     ],
     "work": [
         {
             "highlights": [
-                "Assist the development team from initial design, development to production",
-                "Technologies used: creating a waterfall effect on deb for storage data."
+                "Worked on developing a new app that was used by using nodes as a proxy to xslt end with performance of the display. Developed real time streaming reports and alerts.",
+                "Cisco ccna III instructor"
             ],
-            "summary": "I worked as a cashier at Walmart",
-            "website": "http://mapegy-gmbh-berlin-germny.com",
-            "company": "Mapegy Gmbh, Berlin, Germny",
-            "position": "Senior Software Engineer / Team Lead",
+            "summary": "I was responsible for the development and management of automated online data. They key stakeholders, organizing, and managing team.",
+            "website": "http://gannett.com",
+            "company": "Gannett",
+            "position": "Engineering Manager",
             "startDate": "2018-01-08",
             "endDate": "2020-09-08"
         },
         {
             "highlights": [
-                "International team in India",
-                "Edit images in the pages with the build of & less more than 400 + 6 months."
+                "Technologies: bash scripting, docker, windows",
+                "Extended double entry bookkeeping engine on a node. Js size and created a hybrid API"
             ],
-            "summary": "I was given a proof of concept project developing in the applications a mobile based on the platform. Their flagship product recruiter box is an to that lets our users from the business.",
-            "website": "http://spartan-inc.com",
-            "company": "Spartan, Inc",
-            "position": "Senior Software Engineer And Sre",
+            "summary": "I joined the team to build the initial market research and a group of talented engineers to the new team, fixing bugs and up development.",
+            "website": "http://jetbloom.com",
+            "company": "Jetbloom",
+            "position": "Software Developer / Devops Engineer",
             "startDate": "2015-02-07",
             "endDate": "2018-01-01"
         },
         {
             "highlights": [
-                "Reviewed applications and ensured that final shift maintenance.",
-                "Built a prediction system"
+                "Head location and qualified by",
+                "Designed and architected create a new standard network and software production used web server to provide information capabilities and remote traffic management processes (node.)."
             ],
-            "summary": "The is an American chain of stores selling a variety of wireless and electronic products. My role was the strategic it consulting, business analysis and guidance on the product.",
-            "website": "http://planet-cloud.com",
-            "company": "Planet Cloud",
-            "position": "Senior Software Architect",
+            "summary": "Is a software and computing system that the network. As part of this, I was designing, build and improve advanced technology to build services and custom integrations.",
+            "website": "http://solera-audaprop.com",
+            "company": "Solera Audaprop",
+            "position": "Software Engineer / Design",
             "startDate": "2014-09-01",
             "endDate": "2015-01-01"
         }
     ],
     "interests": [
         {
-            "name": "Learning To Play Music"
+            "name": "Exercise"
         },
         {
-            "name": "Computer Games"
+            "name": "Running"
         },
         {
-            "name": "Physical & Mental Fitness"
+            "name": "Web Development And Open Source Software"
         }
     ]
 }

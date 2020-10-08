@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Corrina Spruill",
+        "label": "And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who loves working with open source technology. I work best in planning the architecture of web applications and their development life.",
+        "email": "corrina-spruill@gmail.com",
+        "location": {
+            "city": "Trivandrum",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "It is my pleasure to recommend, her performance working as a program engineer chicago agent magazine iqor proved that she will be a valuable addition to any company., Corrina is an excellent full stack engineer. He implements every solution with detail. He is proactive Corrina is an excellent communicator., I worked with Corrina chicago agent magazine a time at. He is solid an engineer excellent. I really enjoyed having him a friendly Corrina knowledgeable person.",
+            "name": "Fredda Foulk"
+        },
+        {
+            "reference": "@",
+            "name": "Foster Lagrone"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Built wcf web services supporting cms platform",
+                "Participated in the javascript committee to upgrading our our product from the ground up using + the liberty profile application with open server"
+            ],
+            "summary": "I worked on developing websites for our web and private cloud partner. App: development of real estate listing intelligence apps.",
+            "website": "http://chicago-agent-magazine.com",
+            "company": "Chicago Agent Magazine",
+            "position": "Software Qa Engineer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Created android and eCommerce implementations based on designs for providing regular trainings engineers for various technical reference reserve for the 2013 with student university program",
+                "Facilitated annual revenues through expert management and deploying large software releases."
+            ],
+            "summary": "",
+            "website": "http://celerity.com",
+            "company": "Celerity",
+            "position": "Principal Software Engineer / Development Lead",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Responsible for training, engagement, and staff of the students of network and achieving maximum throughput.",
+                "Developed product documentation with"
+            ],
+            "summary": "company is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://company.com",
+            "company": "Company",
+            "position": "System Administrator & Development Operations / Developer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Vedio Games"
+        },
+        {
+            "name": "Optimization Of Analizing And Monitoring Tools To Improve Performance As A Departament"
+        },
+        {
+            "name": "Outside"
+        }
+    ]
+}

@@ -1,72 +1,72 @@
 {
     "basics": {
         "name": "Ja Charlton",
-        "label": "Developer",
+        "label": "Software And And",
         "image": "https://www.thispersondoesnotexist.com/image",
-        "summary": "I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.",
+        "summary": "I am a technology enthusiast with experience in many areas of software and web development. I have a deep understanding and interest in technology, open standards, op and other programming paradigms. I a fast learner and enjoy exploring new languages, tools, and frameworks.",
         "email": "ja-charlton@gmail.com",
         "location": {
-            "city": "Norther Virgnia",
+            "city": "Vila Do Conde",
             "countryCode": "US"
         }
     },
     "references": [
         {
-            "reference": "gilberto is a great coworker to have around. he contagiously passionate about technology and has a great attitude towards work. his technical skills and is always quick to find a better developer., Ja is not only intelligent and dedicated, he is a good person. he learns quickly and would be an extremely valuable addition to any development team., Ja adds value to every team he is a part of. he is very passionate about the good system. only highly, he will go away and research new things. i have had the pleasure to work with mark again., one can uniquely gifted with a technical business vision. his work is living proof that he is passionate for engineering and technology. whether a highly technical lead developer of one his team. he is good problem solving and marketing problem it comes to look at something from a new perspective or challenging existing methods or design. he a good team member to provide leader with people. he is well independently: i can delegate responsibilities to him and then rely on his judgment to either deliver or raise red flags when appropriate., i worked with chris for about 8 months in cognitoiq when the inceptions of the cloud team. he helped me to shape the team of working with the product capacity to the company. matthew brings truly strong technical knowledge and able to learn from others ideas. i worked impressed with me about his time. i wish him the best of luck in his new role and new challenges.",
-            "name": "Aurea Leahy"
+            "reference": "I worked with the Ja practical law on police. I myself am happily recommend him to as a, dedicated and professional programmer.",
+            "name": "Valrie Geesey"
         },
         {
-            "reference": "@. Com",
-            "name": "Leda Jolly"
+            "reference": "jace is one of the most personable and professional manager at monster. he has an excellent rapport with people of all. he is an expert in whatever he does and always goes over and beyond. Ja is a definite asset to the business, and never drags his heels or. his delivery is efficient and reliable and he is an absolutely charming chap and it has been a pleasure to work with him., cto at citia, lead frontend engineer at citia, ios developer, consultant for., david is detail oriented and puts in making them. he always makes the projects to come up with solutions good. this is a definite asset to the business, and all around great guy. i would highly recommend aidan to work with diego is.",
+            "name": "Lawanna Aguon"
         }
     ],
     "work": [
         {
             "highlights": [
-                "Modern tied with jasmine",
-                "Developed an action plan for migrating data and visualization software into the product"
+                "Led presentations to assess optimal talent in workflow critical in the content according to the user",
+                "Network (bgp, Cisco, ospf, &)"
             ],
-            "summary": "Is a company that offers comprehensive and advanced services in the payment card industry.",
-            "website": "http://daftcode.com",
-            "company": "Daftcode",
-            "position": "Senior Frontend Developer And Architect",
+            "summary": "Maintained and integrated multiple software for hardware and software.",
+            "website": "http://march-of-dimes.com",
+            "company": "March Of Dimes",
+            "position": "Branch Manager",
             "startDate": "2018-01-08",
             "endDate": "2020-09-08"
         },
         {
             "highlights": [
-                "Worked with a team of developers in an agile integration project",
-                "Developed a youth library for of the Bluetooth virtual world core using react."
+                "Windows 2003 and database job management",
+                "Server side programming features"
             ],
-            "summary": "Worked on the design, testing and cloud infrastructure for all of our software",
-            "website": "http://collective-technologies.com",
-            "company": "Collective Technologies",
-            "position": "Senior Software Engineer / Scrum Master (contract)",
+            "summary": "Is a social network for high school that medical aid in the world through a life / insurance number of industries.",
+            "website": "http://estonian-information-systems-authority.com",
+            "company": "Estonian Information Systems Authority",
+            "position": "Lead Software Design Engineer",
             "startDate": "2015-02-07",
             "endDate": "2018-01-01"
         },
         {
             "highlights": [
-                "Created functionality migrated from Magento to subversion",
-                "Implemented a caching solution based on the node. J's."
+                "Created strategies to develop an electronic management module. This included doing affiliate marketing tools, coding and standards",
+                "Built a middleware that to let a client a form which much to the look of orders."
             ],
-            "summary": "I worked on the various web development teams.",
-            "website": "http://ak-steel.com",
-            "company": "Ak Steel",
-            "position": "Software Engineer / Team Lead",
+            "summary": "Is an enterprise marketplace.",
+            "website": "http://.com",
+            "company": "",
+            "position": "Software Engineer / Team Lead / Project Manager",
             "startDate": "2014-09-01",
             "endDate": "2015-01-01"
         }
     ],
     "interests": [
         {
-            "name": "Dogs"
+            "name": "Cinema And Photography"
         },
         {
-            "name": "Tooling"
+            "name": "Activism"
         },
         {
-            "name": "Swimming"
+            "name": "Outreach Stem Programmes"
         }
     ]
 }

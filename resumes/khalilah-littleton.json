@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Khalilah Littleton",
+        "label": "Solution Consultant",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I have been working in eye care for over four years as a software engineer.",
+        "email": "khalilah-littleton@gmail.com",
+        "location": {
+            "city": "Mollet Del Vall\u00e8s",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Khalilah is easy to get along with, hard working, and dependable. If I were assembling the crew of an interstellar spacecraft there is no doubt I would choose Khalilah as a crew member.",
+            "name": "Bernice Earl"
+        },
+        {
+            "reference": "i worked with mac for several years at corillian, when we were in our high growth phase. as the chief architect, i saw that he made a great contribution to our internet banking user interface. mac had the real passion for life that people skills were in an understanding of javascript and me. i would recommend him for more than just a highly., chris is a phenomenal ui developer. i had very easy to see have him and hardworking but the great team at. while he has also a good skill, great communication skills, and generally a nice person to work with., second time i worked with chisel at a company. his forward thinking working with him is clear that he shares the companies goals, vision and work ethic to go above and beyond a team member to ensure that we often delivered on. he did a team player; he was working on it even when under a great pressure he has made in his order to job. he found his time to teach me more and i had an real passion to solve. the problem seems that he be very cooperative in any, and i would incredible work., i been fortunate enough to work with him., brett is an extremely capable developer and reliable team member, his team spirit made every day enjoyable to work. as a professional with a good ability to see both the and big picture deliver is invaluable. he is patient, professional and have helped us develop out a need of rescue from failed code by previous., working with him is one of the",
+            "name": "Leda Jolly"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Tested performance and web interfaces using mailchimp.",
+                "Gained a full experience of web development, in around 150 million + page views and knowledge."
+            ],
+            "summary": "Developed a web development & book search engine, using jquery and bootstrap",
+            "website": "http://detroit-labs.com",
+            "company": "Detroit Labs",
+            "position": "Senior Software Engineer / Enterprise Continuous Integration Engineer (contract)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Designed and architected behavior layer for test endpoints, utilizing live SQL server to help well as content designed interact with many customers.",
+                "Designed the hardware and mechanism for domain oversight of over the architecture for in private provider"
+            ],
+            "summary": "Developing web applications, focused on building and maintaining different implementation instances of a storefront product. Java",
+            "website": "http://momentum-metropolitan.com",
+            "company": "Momentum Metropolitan",
+            "position": "Senior Software Engineer / Enterprise Continuous Integration Engineer (contract)",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Performance tuning of application and its / production meetings",
+                "With Bitbucket style for agile, integration, testing, TDD, and continuous integration."
+            ],
+            "summary": "Freelance",
+            "website": "http://similarkind.com",
+            "company": "Similarkind",
+            "position": "Development Lead",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Amateur Mathematics / Physics"
+        },
+        {
+            "name": "Digital Arts"
+        },
+        {
+            "name": "Have An Impact"
+        }
+    ]
+}

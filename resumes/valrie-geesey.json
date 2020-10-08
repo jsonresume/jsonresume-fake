@@ -1,72 +1,72 @@
 {
     "basics": {
         "name": "Valrie Geesey",
-        "label": "And",
+        "label": "In",
         "image": "https://www.thispersondoesnotexist.com/image",
-        "summary": "I am a full stacking web developer who loves working with open source technology. I work best in planning the architecture of web applications and their development life. I also love to get the community involved and have had much experience with building and organizing large open source groups.",
+        "summary": "I am a full stacking web developer who can build sites from the ground up. I worked mostly on freelance work and personal projects. I thrive on collaboration and creativity. I love learning new skills.",
         "email": "valrie-geesey@gmail.com",
         "location": {
-            "city": "San Francisco",
+            "city": "Sabanagrande",
             "countryCode": "US"
         }
     },
     "references": [
         {
-            "reference": "It.",
-            "name": "Lorrine Sotomayor"
+            "reference": "Valrie really helped us out on a number of occasions by being available at odd hours, including, I think, at midnight on one very stressful) and we really enjoyed having his friendly face of the team. Good luck Valrie hope we can catch on up very, friendly and knowledgeable. We truly appreciate additions to our company.",
+            "name": "Breann Gary"
         },
         {
-            "reference": "His contract was ended for reasons other than his work performance, which is highly a capable of developing. I had the pleasure of hiring and working alongside him at the travel syndicate technology test). While at test we built custom ui components using HTML, CSS, javascript, and backbone. In addition to our own, responsible and work with more than the easy.",
-            "name": "Lawanna Aguon"
+            "reference": ".@. COM, +",
+            "name": "Alaina Bogdan"
         }
     ],
     "work": [
         {
             "highlights": [
-                "Developed offline registration forms for the mobile application",
-                "Internal vulnerability assessments"
+                "Custom affiliate control panel written program with python and sqlite",
+                "Write reports quality assurance for auto testing (Europe, what)."
             ],
-            "summary": "I worked as a freelance web developer",
-            "website": "http://intres.com",
-            "company": "Intres",
-            "position": "Senior Software Engineer / Team Lead",
+            "summary": "\u2022 / Deployed on desktop in PHP / mysql, codeigniter or raw PHP development, data mining, and project.",
+            "website": "http://sucucho.com",
+            "company": "Sucucho",
+            "position": "Manager",
             "startDate": "2018-01-08",
             "endDate": "2020-09-08"
         },
         {
             "highlights": [
-                "Built against the rest API team with the importing process.",
-                "Worked remotely for. Com"
+                "Engineering management",
+                "Produced the first technology stack for the website"
             ],
-            "summary": "Is a leading institute in east and business, we train students, develop corporate systems, networking and manage some?",
-            "website": "http://endossa.com",
-            "company": "Endossa",
-            "position": "Senior Software Engineer / Rails Architect",
+            "summary": "Responsible for maintaining and installing computer systems, payroll processing, financial data, and assisting with product development teams.",
+            "website": "http://babbee-on-board.com",
+            "company": "Babbee On Board",
+            "position": "Student Assistant, Usability And User Experience",
             "startDate": "2015-02-07",
             "endDate": "2018-01-01"
         },
         {
             "highlights": [
-                "Source of control system & maintenance of mainframe based system",
-                "Design catalog solution in PHP, used android, hibernate 3, SQL and & framework"
+                "Responsible to create a technical post workflow",
+                "Consuming Sharepoint social media (), loss (css3, visual and javascript)."
             ],
-            "summary": "I worked on a big amount of projects, basically doing javascript, CSS, html, CSS, javascript, java, web design &.",
-            "website": "http://christie-digital.com",
-            "company": "Christie Digital",
-            "position": "Senior Software Engineer / Team Lead",
+            "summary": ". I was learning stuff while waiting for the project assignment.",
+            "website": "http://aegis-software.com",
+            "company": "Aegis Software",
+            "position": "Intern Web Developer",
             "startDate": "2014-09-01",
             "endDate": "2015-01-01"
         }
     ],
     "interests": [
         {
-            "name": "Tv / Films"
+            "name": "Currently Learning"
         },
         {
-            "name": "Personal Server"
+            "name": "Experimentalmusic"
         },
         {
-            "name": "Mentoring"
+            "name": "Machine Learning"
         }
     ]
 }

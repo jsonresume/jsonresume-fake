@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Tonette London",
+        "label": "And Web",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.",
+        "email": "tonette-london@gmail.com",
+        "location": {
+            "city": "Wroc\u0142aw",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "highly competent, efficient, an extremely knowledgeable and competent developers i have had the pleasure of working with. he shows real dedication and a positive attitude to managing projects and dealing with problems, his ability to balance the technical requirements of the business with the overall commercial operations makes him a great colleague to work with. his team management and organisation means that dealing with any members of his team is straightforward and never a problem. found chris is a very good professional., it is an absolute pleasure to work with alejandro in the best form of, the account development and was always worked on to remote time and often to the challenges. very good communication skills and can always find you a clever solution that., i had the pleasure of working with graham when i brought him on our team to run our qa efforts. he the ability to quickly show up with his clients on our daily get. it rare to find me such a good experience.",
+            "name": "Waldo Gillingham"
+        },
+        {
+            "reference": "",
+            "name": "Allan Parkes"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Deployment of chi / CD process",
+                "Email performance testing and optimization"
+            ],
+            "summary": "Is a company providing communications it largest clients in the world, when they should be or saved next for the computing and data services. I was responsible for all the companies from both development and the marketing material. This was made as an effort needed to automate the infrastructure team.",
+            "website": "http://image-information-systems-europe-gmbh.com",
+            "company": "Image Information Systems Europe Gmbh",
+            "position": "Founder & Teacher",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Used administrative in data analysis, report writing for other development projects",
+                "Visual studio"
+            ],
+            "summary": "",
+            "website": "http://liberty-group-south-africa.com",
+            "company": "Liberty Group South Africa",
+            "position": "Senior System Software Engineer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Consolidated two of the instances to production and to create, update databases within 24 7. 0",
+                "Planning, analysis, design, and development of lawyers office offering query, identified, and a great relationship active"
+            ],
+            "summary": "Responsible for developing and assisting agile development in code quality control",
+            "website": "http://m3-enterprise-acquired-by-datapipe.com",
+            "company": "M3 Enterprise (acquired By Datapipe",
+            "position": "App Developer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Relevant Technical Interests"
+        },
+        {
+            "name": "Leisure"
+        },
+        {
+            "name": "Surfing Skiing"
+        }
+    ]
+}

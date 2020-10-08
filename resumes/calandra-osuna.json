@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Calandra Osuna",
+        "label": "Stack Developer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a junior software engineer interested in python, go, and software architecture and design!",
+        "email": "calandra-osuna@gmail.com",
+        "location": {
+            "city": "Chennai",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "i worked with alejandro while at pley and it was an absolute pleasure. alejandro designed and developed the backend of pley. from the perspective of a qa engineer, he was a dream to work with as he always cared for quality of the product and ensured any fixes in a timely manner. he comes up with all the edge cases ability, and as his ability to communicate and effectively. he also looks at solid solutions problems, extremely valuable and design work with. chris is also a very good team member leader., erik management and organization skills help create and develop a thriving team of agile developers. his expertise in programming concepts, is a wide variety of languages, and javascript programming.",
+            "name": "Leda Jolly"
+        },
+        {
+            "reference": "an excellent php developer with no limitations. also very focus in web needs and has a lot of to add to every project which is a team he always willing to go out the extra mile to find a team environment., since he is a very committed dedicated and professional who is that i would ultimately be consuming via a mobile app. his responsibilities design was the big picture importantly loves he programming!, it has been an honor and a pleasure to work with bret and his team of volunteers over the past two years. in partnering with bret, we have had the ability to show some of his recent project. i was an excellent team player. he quickly was well done a great team member, and i look forward to working with him again in the future., matt is the first team member i worked with who was remote of the time and i expected there would be some distinct challenges when i heard he was joining the team. he quick to allay the partner with other passion and about his work, extra work, open, break barriers and make anything a success.",
+            "name": "Madalyn Swartwood"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "And financial reports",
+                "Managed award system for work on emerging technologies"
+            ],
+            "summary": "Development with stellarpoint framework for a lamp project",
+            "website": "http://stellarpoint.com",
+            "company": "Stellarpoint",
+            "position": "Sr Software Engineer Ii, Lead Web Developer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Acted the companies first of in Boston",
+                "Provide input, stakeholders and ideas for a customer support (sales team of devs, designers, and cash"
+            ],
+            "summary": "",
+            "website": "http://telenor-connexion.com",
+            "company": "Telenor Connexion",
+            "position": "Senior Software Engineer, Software Engineer 2",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Captain run and innovative technology in annual industry",
+                "Consulting about advertising technologies"
+            ],
+            "summary": "quantium is a company whose focus is on delivering top notch web and mobile applications to our clients",
+            "website": "http://quantium.com",
+            "company": "Quantium",
+            "position": "Asp / Coldfusion Developer / Unix Administrator",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Hearthstone"
+        },
+        {
+            "name": "Listening To Podcasts"
+        },
+        {
+            "name": "Model Plaines"
+        }
+    ]
+}

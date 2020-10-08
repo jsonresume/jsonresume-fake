@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Kum Pontes",
+        "label": "Full And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who can build apps from the ground up. I worked mostly at startups so I am used to wearing many hats. I am a very product focussed developer who practices, user feedback first and. I generally very flexible when investigating new roles.",
+        "email": "kum-pontes@gmail.com",
+        "location": {
+            "city": "Fairbanks",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I worked with Kum for more than 5 years and is a great enthusiastic & approachable leader. His mastery on API design and documentation, has been critical in launching many successfully appears in many designs., bit more than just a highly talented developer, working with great ability in a great strategic thinker who brings a unique combination of experienced entrepreneurship, leading and edge thinking of our product. Kum is a team player who always available to have to time to help others and work together again sometime a in the future.",
+            "name": "Jeremy Briones"
+        },
+        {
+            "reference": "i worked with jake on a number of projects and found him a pleasure to work with. he has excellent technical knowledge, particularly in javascript and jquery and was the person developers went to for any ui related queries. jake had a great attitude when we were trying new ways of working and i was very pleased to see how he embraced agile and., luis montes, jeffrey hughes, john lyon, advised master thesis and wrote a paper together, on request, jeremy was diligent and in lab on a daily basis. he was enthusiastic about his project and a great colleague in the lab., mr shaw is my tutor for the open university module tm470 which is my end of degree project.",
+            "name": "Lynn Klapp"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Experience working for applications as",
+                "Led developers and learned architecture topics"
+            ],
+            "summary": ", is a global marketing services firm",
+            "website": "http://electrabel.com",
+            "company": "Electrabel",
+            "position": "Software Developer And It Consultant (as Freelance)",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Integrated with third party web api's ()",
+                "The university of the city"
+            ],
+            "summary": "A of and built in healthcare real time.",
+            "website": "http://excite-infotech.com",
+            "company": "Excite Infotech",
+            "position": "Senior Software Engineer / Team Lead",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Handled the process improvement of the training life cycle, a fortune 500, 000, 000 forum.",
+                "Developed and tools for the software environment using jsp, and as possible to / between the backend and databases."
+            ],
+            "summary": "For indexeddb engine, the app is built by, based on the popular image board, central infrastructure management and the other public safety to use use java by carefully problem volume. Applications, I have also a, improving of the company by and I ux.",
+            "website": "http://biblesoft.com",
+            "company": "Biblesoft",
+            "position": "Website Administrator",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Motorcycles"
+        },
+        {
+            "name": "Backend"
+        },
+        {
+            "name": "All Tech Related Stuff"
+        }
+    ]
+}

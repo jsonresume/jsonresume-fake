@@ -1,72 +1,72 @@
 {
     "basics": {
         "name": "Mason Nero",
-        "label": "Of",
+        "label": "Full Ruby Web Developer",
         "image": "https://www.thispersondoesnotexist.com/image",
-        "summary": "i am a software engineer who is constantly tinkering, reading, and building. i love taking on new projects and further existing ones. check out my site for more on what i am up to. i built the site in react with an i always happy to hear of similar architectures. i work for the best way i moved to the story, with the best i know how to learn and share knowledge. i also have the good goal to be of my biggest facilities management companies, i am constantly working with the same time and working as a developer and i look forward to tying my design background and knowledge to improve existing work processes.",
+        "summary": "I am a full stacking web developer who can build apps from the ground up. I have worked at Intuit since graduation for the past 11 years. Being from intuit, customer empathy and product focus are ingrained into my approach to building software. I generally very flexible when investigating new roles.",
         "email": "mason-nero@gmail.com",
         "location": {
-            "city": "Capitol Heights",
+            "city": "Ravenna",
             "countryCode": "US"
         }
     },
     "references": [
         {
-            "reference": "i have worked with him on several different occasions in different positions he has held. when it came time to redesign my web site he was. the technical skill was great, valuable and neat experience on all the levels of software development., what i can say about kelly is that she is a very honest and dedicated person. she has a profound base of it from a knowledge linux flash., she is a great heart. i worked with over the last year include the website various. most of our collaboration has been using drupal websites, beginning in drupal 4 to drupal 5 on projects to include various things. nilanga is a significant asset to any team in product to motivate and those around naturally. he would volunteer to take on difficult tasks to make sure that things are done right the first time. throw in being a great asset to the company.",
-            "name": "Adina Melchor"
+            "reference": "I worked with us at Adam. When he is a hard working and bright engineer to work with. He is a great person to work with and is a great guy with a sense of humor. He is definitely a very nice, professional to work with!",
+            "name": "Foster Lagrone"
         },
         {
-            "reference": "It is a great pleasure to work with. Strong team player. He had never shirked a challenge and complain when the going gets tough. His ability to do it long with a job and in all he does a more job of her passion and solve.",
-            "name": "Quincy Verne"
+            "reference": "david is a unique it professional in that he is fluent both on the web / development side as well as the networking side! Mason achieved 8 different microsoft and comptia certifications while attending new horizons and passed over 20 + exams all on the first try! most near perfect!! that is very rare. his ability to deliver ingenious solution to complex problems, in extremely proactive and design,) who is also a very nice to person in the team. i would recommend rupert to any company., it rare that you come across standout talent like pedro. i had the pleasure of working with him on my final project at dev bootcamp where we spent 100 + hours over 7 days building a fully functional web app. brian quickly learned new concepts, and i was impressed at how he go out of his way to solve the complexities we encountered with the project. his knowledge of service now is very solid. he is truly a service now expert. i would have no hesitation in working with him in it my team again in the front and least of his. an overall high level engineer, i was impressed the by both breadth and of his knowledge as an developer. i am confident professional with that, brett is very good professional and friendly. highly recommended!",
+            "name": "Janella Laferriere"
         }
     ],
     "work": [
         {
             "highlights": [
-                "Exploratory testing workshops",
-                "Highly stored procedures using,, and"
+                "Facilitate engineering practices on technology choices, creating documentation",
+                "Learned how to a ruby developers on rails architecture. Using node. J's, rails, angular 2. (2. 0, & angular. j's)"
             ],
-            "summary": "Is a company that offers comprehensive and advanced services in the payment card industry.",
-            "website": "http://tmf-mtv-networks.com",
-            "company": "Tmf (mtv Networks)",
-            "position": "Software Developer, Consultant, Trainer",
+            "summary": "",
+            "website": "http://sports.com",
+            "company": "Sports",
+            "position": "Senior Test Engineer",
             "startDate": "2018-01-08",
             "endDate": "2020-09-08"
         },
         {
             "highlights": [
-                "Code reviews of android release, automated testing, and testing and integration with multiple third party products like.",
-                "Design and implement experiments"
+                "Had all the backend issues and teams that moved from traditional more for more than 10 minutes.",
+                "Rework the entire currently (an app from exchange server, and it was a kiosk angular in the app that supported the customers. Was part in making it easy and implementation of projects"
             ],
-            "summary": "Is a software development workshop with a focus on RFID and product tracking.",
-            "website": "http://first-robotics-team-1073.com",
-            "company": "First Robotics Team 1073",
-            "position": "Senior Software Engineer / Team Lead",
+            "summary": "Developed a tool that automated the whole process of inserting new content, saving 10s of thousand euros per year.",
+            "website": "http://bc-hydro.com",
+            "company": "Bc Hydro",
+            "position": "Section Manager",
             "startDate": "2015-02-07",
             "endDate": "2018-01-01"
         },
         {
             "highlights": [
-                "As lambda",
-                "Created lens technology in the use of windows 8 apps for the iTunes global content have"
+                "Provided support over the user group are as the of retail next and university of systems, and developing a Microsoft systems software.",
+                ""
             ],
-            "summary": "Worked on the implementation of new parallel algorithms to surface evolution over millions of years",
-            "website": "http://about-com.com",
-            "company": "About Com",
-            "position": "Senior Software Engineer",
+            "summary": "I was given the chance to do an internship program over where I work on the card online platform.",
+            "website": "http://costa-rica.com",
+            "company": ", Costa Rica",
+            "position": "Software Developer, Contractor",
             "startDate": "2014-09-01",
             "endDate": "2015-01-01"
         }
     ],
     "interests": [
         {
-            "name": "Movie And Animation"
+            "name": "Boxing"
         },
         {
-            "name": "Wasting Away Untold Hours Browsing Reddit"
+            "name": "Carhacking"
         },
         {
-            "name": "Low Level Programming"
+            "name": "Crypto Currency"
         }
     ]
 }

@@ -1,72 +1,72 @@
 {
     "basics": {
         "name": "Camelia Luk",
-        "label": "Engineer",
+        "label": "Software Architect",
         "image": "https://www.thispersondoesnotexist.com/image",
-        "summary": "I have been building applications using various languages and technologies for almost 6 years. I am currently working as a senior software developer at test systems. In my spare time, I have been working with graph databases, machine learning algorithms on big data sources and reading about new technologies. I am looking for a position in an agile environment within a small team of developers.",
+        "summary": "I am a software engineer with three years of professional experience as full stack web development. In that period I have worked on back and front end, was in charge of dev and developmental tasks, developed micro service and monolith architectures. I say I am an expert in those, as I still learn new things every day, but I think I have a decent overall knowledge of how things work, how they should work, and why they. I believe in balance of new technologies and good old principles.",
         "email": "camelia-luk@gmail.com",
         "location": {
-            "city": "Utrecht",
+            "city": "Paoli",
             "countryCode": "US"
         }
     },
     "references": [
         {
-            "reference": "I worked with him on a few sides, about projects at newcastle newcastle university including multiple internal systems. He is a valuable assist to any development team.",
-            "name": "Lynn Klapp"
+            "reference": "I worked with the Camelia practical law on police. I myself am happy recommend Jonathan, as a critical member to the success of his., degree in business administration with emphasis in marketing",
+            "name": "Kenyetta Algarin"
         },
         {
-            "reference": "I worked with Camelia at eliquidmedia and studied with him at. Utrecht college. Camelia is a solid, dependable worker. He an excellent problem solving lead, and I have no qualms with recommending him for any position that he is a great, hard worker.",
-            "name": "Leda Jolly"
+            "reference": "Camelia is technically skilled, team, coach and mentor. I had this chance and enjoyed working with Camelia the last 2 years.",
+            "name": "Meredith Antley"
         }
     ],
     "work": [
         {
             "highlights": [
-                "Optimized for customer reports",
-                "Did oversee security, install and local development. Unit testing with and software defined across the company."
+                "Resolved production downtime by support for the application",
+                "Mark image processing, from the editor, for. I front end with backend, social networking, database, access, web client API, and its servers."
             ],
-            "summary": "I worked on the information security and risk management team doing all things security. Eventually I took over the development of an effort to provide the required assistance to their development workflows, and web form applications.",
-            "website": "http://newcastle-university.com",
-            "company": "Newcastle University",
-            "position": "Senior Software Engineer / Team Lead",
+            "summary": "",
+            "website": "http://national-australia-bank.com",
+            "company": "National Australia Bank",
+            "position": "Senior Software Developer",
             "startDate": "2018-01-08",
             "endDate": "2020-09-08"
         },
         {
             "highlights": [
-                "Asia level & builder activities for",
-                "Introduced guidelines in the process to the use of the continuous technology plan and the learning."
+                "Deployed code quality checks and improving integration tests for in a large server environment for my team",
+                "Processing request for system maintenance"
             ],
-            "summary": "Is a company that provides services for local businesses and professionals",
-            "website": "http://inc.com",
-            "company": ", Inc",
-            "position": "Senior Software Engineer / Team Lead",
+            "summary": "I have been teaching in several topics, among them: object oriented programming, elements of programming, algorithm and data structures, computer graphics, computer networks and infrastructure, editing images and.",
+            "website": "http://beach-service-south-carolina.com",
+            "company": "Beach Service South Carolina",
+            "position": "Web Developer / Seo",
             "startDate": "2015-02-07",
             "endDate": "2018-01-01"
         },
         {
             "highlights": [
-                "Improved team efficiency by educating developers and restructuring team and utilize best practices for best practices",
-                "Worked with go, react, c + &"
+                "Technologies utilized (node, as)",
+                "Acted as as a developer a lead and scrum master."
             ],
-            "summary": "I was responsible for the development and management of automated online data whose data is used to work on google,, and distributed. I had too many other developers, designing and new products developed.",
-            "website": "http://iwebgate.com",
-            "company": "Iwebgate",
-            "position": "Software Engineer / Need For Speed Online (edge)",
+            "summary": "Was a fully managed hosting solution that primarily serviced advertising agencies. They offered dedicated and based servers and specialized in open source web technologies.",
+            "website": "http://department-of-juvenile-justice-sydney.com",
+            "company": "Department Of Juvenile Justice, Sydney",
+            "position": "Software Engineer, Caradigm Intelligence Platform",
             "startDate": "2014-09-01",
             "endDate": "2015-01-01"
         }
     ],
     "interests": [
         {
-            "name": "Martial Arts"
+            "name": "Ai / Robotics"
         },
         {
-            "name": "Folk Music"
+            "name": "In Between"
         },
         {
-            "name": "Social Works"
+            "name": "Micro Electronics"
         }
     ]
 }

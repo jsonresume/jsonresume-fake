@@ -1,72 +1,72 @@
 {
     "basics": {
         "name": "Danelle Whittemore",
-        "label": "Software",
+        "label": "Stack Software Engineer",
         "image": "https://www.thispersondoesnotexist.com/image",
-        "summary": "I am a full stacking web developer who can build apps from the ground up. I worked mostly at startups so I am used to wearing many hats. I am a very product focussed developer who practices, user feedback first and. I generally very flexible when investigating new roles.",
+        "summary": "I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.",
         "email": "danelle-whittemore@gmail.com",
         "location": {
-            "city": "Ivors",
+            "city": "Cologne",
             "countryCode": "US"
         }
     },
     "references": [
         {
-            "reference": ".@. COM",
-            "name": "Tonette London"
+            "reference": "Danelle knowledge and experience are very impressive. He mentored me from my senior year at university and helped me become immediate. His drive to learn and better his craft is inspiring and he certainly helps to keep me sharp and motivated and takes on new products.",
+            "name": "Lourie Lindemann"
         },
         {
-            "reference": "i have worked with him on several different occasions in different positions he has held. when it came time to redesign my web site. he was the technical skill and was always eager on high profile and revenue generating clients from daily interaction to complex project. he always puts clients coworkers and excellent clients., Danelle is a very dedicated and professional developer. he is an keen learner, with goal oriented approach and very proactive developer. at his programming, ability to help his private network and palying around with new features and. despite his relative, his knowledge and undertsanding of it concepts and technologies continues to embarass his older more experienced colleagues. i like working with it professionals knowledge with and an opinion and i therefore enoy working michael., Danelle ober, Danelle kavasoglu, Danelle sarnacke, Danelle binici, it is my pleasure to recommend crew, his performance working as a developer for brewbase proved that he will be a valuable addition to any company.",
-            "name": "Iesha Hernandes"
+            "reference": "david adds value to every team he is part of. he is a very talented and dependable software engineer. i worked with him during my first experience in london and i seen the incredible professional, he is always striving to adopt the best solution to any, he does and productive., i worked with joakim delivered without projects, Danelle is a friendly and highly motivated person. he is great technical dev working with team dynamic individual with high level of integrity. he has a strong drive and puts 100 into all of his work. i believe he is a valuable asset to anyone team., can be reached at: alive and he was a quick learner and improving service levels. he",
+            "name": "Mason Nero"
         }
     ],
     "work": [
         {
             "highlights": [
-                "Mobile architecture",
-                "Nodes"
+                ": java, javascript, jsf, spring, postgresql, angular, angular jaws, websockets, angularjs.",
+                "Assisting students in learning new it through process learning environment"
             ],
-            "summary": "I worked in the information security and risk management platform for an internal that allows you to create a mobile payment system with a simple and many of ruby events and assisted many services including online each game, have a centralized logging to working with the client companies, who was hired to me integrate with a contract.",
-            "website": "http://development-infostructure.com",
-            "company": "Development Infostructure",
-            "position": "Software Engineer / Need For Speed Online (edge)",
+            "summary": "Is a platform that allows citizens to hold government agency directly and publicly accountable for their actions.",
+            "website": "http://think-innovations.com",
+            "company": "Think Innovations",
+            "position": "Senior Analyst Programmer (contract)",
             "startDate": "2018-01-08",
             "endDate": "2020-09-08"
         },
         {
             "highlights": [
-                "\u2219 employee number three of one year of 10 minutes by all jobs, using its theory and handling handle millions issues with me every new account was being able to build out of our own product from 12 set customers.",
-                ". Com"
+                "I worked with software engineers on mission critical release processes to provide support application.",
+                "Automated loading of all baseball error."
             ],
-            "summary": "\u2022 Worked with a team of 3 fellow students to design and 3d print an infrared camera prototype",
-            "website": "http://leaff-engineering.com",
-            "company": "Leaff Engineering",
-            "position": "Senior Software Engineer / Scrum Master (contract)",
+            "summary": "Helped in promoting music by managing their online banking community forums where they have can social matters and have while to comply with internal computer networks.",
+            "website": "http://diversified-development-corporation-defense-intelligence-agency.com",
+            "company": "Diversified Development Corporation & Defense Intelligence Agency ()",
+            "position": "Senior Software Developer",
             "startDate": "2015-02-07",
             "endDate": "2018-01-01"
         },
         {
             "highlights": [
-                "Simulated the automatic fare collection system and seen its internal workings of a 2.",
-                "Launched our elastic cluster for in the south of Europe / nginx"
+                "Created marketing specific chrome client needs.",
+                "Some tight time checking and processing via email and social media networking."
             ],
-            "summary": "Worked on the implementation of new parallel algorithms to surface evolution over millions of years",
-            "website": "http://paypal-inc.com",
-            "company": "Paypal, Inc",
-            "position": "Software Engineer / Microsoft Team Tech Lead",
+            "summary": "Lead engineer for the fusion product line",
+            "website": "http://caterpillar-inc.com",
+            "company": "Caterpillar Inc",
+            "position": "Software Engineer / Team Lead / Project Manager",
             "startDate": "2014-09-01",
             "endDate": "2015-01-01"
         }
     ],
     "interests": [
         {
-            "name": "Motorcycle"
+            "name": "Good Books"
         },
         {
-            "name": "Constant Learning"
+            "name": "Machine Learning"
         },
         {
-            "name": "Analyse"
+            "name": "Nutrition"
         }
     ]
 }

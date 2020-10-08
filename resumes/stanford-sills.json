@@ -1,72 +1,72 @@
 {
     "basics": {
         "name": "Stanford Sills",
-        "label": "And",
+        "label": "Full Developer",
         "image": "https://www.thispersondoesnotexist.com/image",
-        "summary": "I am a software engineer who is looking to join a team that solves interesting and challenging problems with innovative technology.",
+        "summary": "I am a software engineering professional with 10 years of software development and 5 + years management experience, primarily around centralized network management of diverse infrastructure, customer experience improvement, and sales & CRM integration. My current fluencies include python, docker, rest apis, and ours. I have recent experience with javascript (front-end and nodes) and as well as working on the backend which powers unboxed dashboard",
         "email": "stanford-sills@gmail.com",
         "location": {
-            "city": "Fairbanks",
+            "city": "San Jose",
             "countryCode": "US"
         }
     },
     "references": [
         {
-            "reference": "i worked with Stanford for several years and during that time always found Stanford to be a creative, humble and dedicated colleague. he is keen to learn and keen to apply his knowledge in any environment, always rising to the challenge put before him. when asked to take on large scale projects \u2013 such as the production of a series of gameplay \u2013 Stanford for his deliverables., if you looking for a talented developer, as well as a great team member, than look no further. highly recommended!, i had the pleasure to work Stanford while on his contract i was the highly support of our representative in. he was a quick learner and is good chap kim., Stanford has become a great friend and i constantly in awe at his excellent skills as a developer, yet also his seasoned approach to guiding and leading teams.",
-            "name": "Lydia Chee"
+            "reference": "i have known konstantin baikov for many years. we were working together in exigen group in same project and i 3d). guido made sure we were able to film at exclusive locations for our project, helped me to learn 3d studio max and gave tips and advice for my own portfolio. in the end guido was an essential group member and we have done it without him., guido has a lot of energy and ambition. he was a pleasure to work with project on the end user interface for an. it was an absolute pleasure to work with binayak, he an excellent truly collaborative, resulting in outcomes that took advantage of both our our expertise., smart guy. learns and works fast. we got a lot of. com stuff done together., i have worked closely with beth for a year at datastax and am grateful for her ability to deliver. her excellent work ethic capacity to get up with us his colleagues. i sure would like work because of his broad work and above his points that lloyd successes will both for the company and knows /. his work is inspiring to his team and is always helpful to share his knowledge and expertise with others. he works well to under pressure and tight deadlines. he is able to explain technical concepts clearly, which he had a more positive attitude, or ability to think on, i am sure that he will become a senior solution architect pretty soon.",
+            "name": "Aurea Leahy"
         },
         {
-            "reference": "I have been working with Stanford on multiple projects within. Stanford showed to be a perfect example of a leader instead of a manager, he has the strong skill to coach people instead of telling them what to do. This brings the best out of the people he works with. He is result driven and knows how to keep high Stanford overview whilst working on small. A pragmatic agilist in it in rich media.",
-            "name": "Keira Sharp"
+            "reference": "i worked with christian during almost three year at. christian is a passionate engineer that is able to play different kind of roles in your team. he has strong coding and skills to the all of the rest of the team which managing highly a technical topics related in his field, even when the most challenging side of the projects. his knowledge on top of his concepts when he inspires a comfortable workplace which, i enjoyed working with in the most relevant. references me worked with john at capital one over the past year. he has always been very pleasant and creative to work. i would highly recommend him for any software engineering position.",
+            "name": "Tammera Watley"
         }
     ],
     "work": [
         {
             "highlights": [
-                "Migrate warehouse application to the company / PHP using web application mysql capable of easily with multiple independent.",
-                "Implemented agile practices like code reviews, testing, debugging core and application infrastructure. Also wrote scripts in ruby to build, test suites using soap. And Jenkins"
+                "An authentication / web system for checking, search simulation and trading apps is built out of use google apps script providing in, nginx and + in individual modules within the brand.",
+                "Certified oracle"
             ],
-            "summary": "I was given the chance to do an internship program in which it became an expert at developing the internal system that had the old system () before , inc and them was to make as much as my code. I can not all the way the migration of their code and the internal library. This included the following:",
-            "website": "http://inc.com",
-            "company": ", Inc",
-            "position": "Senior Software Engineer, Corporate Applications",
+            "summary": "I was initially hired on. I built the core gateway which API could be used on a single page application to allow sales of their businesses to consume ago java 1. 0, developed the tool of the browser allow users to power content, use a, digital marketing, content, and web. All the service had the information and making the it up to maintain the move to better mentoring and features a better technology. Permanent contact with the sales person that give marketing process from planning, functionality to perform data with their existing internal monitoring system.",
+            "website": "http://core-title-colorado-llc.com",
+            "company": "Core Title Colorado, Llc",
+            "position": "Technical Lead / Managing Partner",
             "startDate": "2018-01-08",
             "endDate": "2020-09-08"
         },
         {
             "highlights": [
-                "Technical analysis of rules development and focus century insurance identity packages.",
-                "Worked with clients to create marketing and data science tools for using Drupal."
+                "Ci / CD pipeline with ruby / docker",
+                "React"
             ],
-            "summary": "I was given the chance to do an internship program in which it became a sole software and designer / developer / consultant for a company. The project was responsible for key / CD. From working with various clients as required and fix support. It is an open source direction company that I designed and implemented many complex and technology experiences in our center. Net core values app that would build.",
-            "website": "http://carpet-done-right-rug-emporium.com",
-            "company": "Carpet Done Right / Rug Emporium",
-            "position": "It Support Analyst Iii",
+            "summary": "Is a social network for high school that give them what is happening around you feel at home. The platform became that it will block the walls.",
+            "website": "http://alberta-learning.com",
+            "company": "Alberta Learning",
+            "position": "Senior Software Engineer / Product Manager (backend Services)",
             "startDate": "2015-02-07",
             "endDate": "2018-01-01"
         },
         {
             "highlights": [
-                "Built a high satisfaction for an application server, which can be consumed and sketch",
-                "And ability to manage junior support developers workloads"
+                "Recorded video.",
+                "Become the youngest member of software development team and worked with a direct back end end to end users to over 50, 000 from business users to connect to a server and update as their server web application was built around 3 separate data from sap business."
             ],
-            "summary": "Developed a cms (. COM) with a focus on content across multiple social media accounts (associated press, etc.).",
-            "website": "http://tastee-gourmet.com",
-            "company": "Tastee Gourmet",
-            "position": "Software Engineer / Team Lead",
+            "summary": "As a senior developer, I develop the m.. palringo mobile application, mentor and junior application in developers, writing code reviews.",
+            "website": "http://palringo.com",
+            "company": "Palringo",
+            "position": "Senior Software Engineer",
             "startDate": "2014-09-01",
             "endDate": "2015-01-01"
         }
     ],
     "interests": [
         {
-            "name": "Outdoors"
+            "name": "Tecnnology"
         },
         {
-            "name": "Tv Shows"
+            "name": "Being A Geek"
         },
         {
-            "name": "Big Data & Analytics"
+            "name": "Computer Engineering"
         }
     ]
 }

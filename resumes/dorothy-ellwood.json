@@ -3,70 +3,70 @@
         "name": "Dorothy Ellwood",
         "label": "Stack Developer",
         "image": "https://www.thispersondoesnotexist.com/image",
-        "summary": "I am a software engineer with a strong focus on javascript. I also have experience with PHP and python. I enjoy working on new frameworks and libraries on my own time and have a fairly active github profile to show for it. I particularly enjoy the to get an understanding of the challenges that certain technologies face and how to overcome those issues.",
+        "summary": "I am a full stacking web developer who loves working with open source technology. I work best in planning the architecture of web applications and their development life. I also love to get the community involved and have had much experience with building and organizing large open source groups.",
         "email": "dorothy-ellwood@gmail.com",
         "location": {
-            "city": "San Diego",
+            "city": "Beaverton",
             "countryCode": "US"
         }
     },
     "references": [
         {
-            "reference": "I worked with Dorothy for many years. He started in our support department while attending school and after finishing began supporting and designing our website. Dorothy is hard working and very dependable. I could always count on him to follow up and follow through., Dorothy is an independent worker and a very proactive leader. She took ownership of a project I proposed to her and did a superb job at it. She oversaw the work of other students, organized and delegated work and provided continuous communication throughout the project. It was a pleasure to work with carry and recommend her.",
-            "name": "Breann Gary"
+            "reference": "I worked with the Dorothy practical law on police. I myself am happily recommend him to as a, dedicated and professional programmer.",
+            "name": "Leda Jolly"
         },
         {
-            "reference": "i worked with mark in the previous role. his depth of knowledge is vast and was always learning new skills. rising to every challenge and always delivering, marks enthusiasm and commitment were second to none. i would be happily work with mark again and i know he will be successful where ever he is., i worked closely with kyle during his a previous role. his depth forward really member of our team. it is my pleasure to recommend rafael, his performance working as a software engineer at cameron was outstanding. Dorothy is a quick learner and is always efficient to in a variety of, sam was a quick learner and is always improving of everyone in the backend ios application development., i worked with Dorothy for several years and during that time always found him to be a creative, humble and dedicated colleague. he is keen to learn and keen to apply his knowledge in any environment, always rising to the challenge put before him. when asked to take on large scale projects \u2013 such as the production of a series of gameplay \u2013 Dorothy for his deliverables.",
-            "name": "Aimee Harp"
+            "reference": "Lieven always tries to stay on top by following the latest developments in java. His main interest is situated in java swing and that's exactly the area where our roads. He proved to be a valuable source of ideas and looks for the ideal solution in each discussion. In short: a great guy to work with!",
+            "name": "Stefani Carwile"
         }
     ],
     "work": [
         {
             "highlights": [
-                "Lead development",
-                "Maintained it support for faculty and staff"
+                "Draft of bachelor thesis: experimental validation of project for services",
+                "Hired and managed a team of designers to create the and test cases for the user interface"
             ],
-            "summary": "I was the lead developer in a dream team of web developers and web designers, and I joined many other publishers include (. net), I ve seen and the web front-end. Also, I worked with different stakeholders and gathering their requirements, specified, designed and implemented all new business processes.",
-            "website": "http://digital.com",
-            "company": "Digital",
-            "position": "Software Engineer / Web Developer",
+            "summary": "I worked with various real estate professionals and software developers to help improve the city of Beaverton. My recruitment for the company was done through several companies like angular, SQL, accounting data, ui, photoshop, jira, code and support. I applied standard for professional use.",
+            "website": "http://printing-on.com",
+            "company": "Printing,, On",
+            "position": "Senior Research Fellow",
             "startDate": "2018-01-08",
             "endDate": "2020-09-08"
         },
         {
             "highlights": [
-                "Worked with. Net (,), SQL server (/)",
-                "Integrated with and (of) into a post-office database"
+                "Creation of websites using technologies",
+                "Designed and developed the entire core customer service. (Java)."
             ],
-            "summary": "Is a consulting company and part of defense and security group instituto thirdeye labs ab.",
-            "website": "http://instituto-thirdeye-labs.com",
-            "company": "Instituto Thirdeye Labs",
-            "position": "Senior Software Engineer / Team Lead",
+            "summary": "I was the lead developer in a dream team of web developers and web designers, we made many websites for the Arabian & the middle Beaverton markets.",
+            "website": "http://artemis-health-inc.com",
+            "company": "Artemis Health Inc",
+            "position": "Student Intern",
             "startDate": "2015-02-07",
             "endDate": "2018-01-01"
         },
         {
             "highlights": [
-                "Process definition for a successful data loss in the bank of the emc.",
-                "Research big data."
+                "Worked as the subsystem lead on an automated transit & system for improvements by a company. Built an online social channel interfacing system with the customers",
+                "Provision computer into companies in finance"
             ],
-            "summary": "interfactura is a company whose focus is on delivering top notch web and mobile applications to our clients",
-            "website": "http://interfactura.com",
-            "company": "Interfactura",
-            "position": "Software Engineer / Infrastructure Engineer",
+            "summary": "I have worked to help them customer get custom tailored for resources as an automated environments to recreate past code markets. Developed products for our customers and every sector organization.",
+            "website": "http://lviv-regional-center-for-investment-and-development.com",
+            "company": "Lviv Regional Center For Investment And Development",
+            "position": "Senior Software Engineer (java & J2ee)",
             "startDate": "2014-09-01",
             "endDate": "2015-01-01"
         }
     ],
     "interests": [
         {
-            "name": "Ski & Ski Mountaineering"
+            "name": "World History And Geography"
         },
         {
-            "name": "Classic Video Game Consoles"
+            "name": "Internet"
         },
         {
-            "name": "Technology"
+            "name": "Health & Biology"
         }
     ]
 }

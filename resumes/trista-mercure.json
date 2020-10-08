@@ -1,72 +1,72 @@
 {
     "basics": {
         "name": "Trista Mercure",
-        "label": "Full Software And Developer",
+        "label": "Full Architect",
         "image": "https://www.thispersondoesnotexist.com/image",
-        "summary": "I am a software engineer with strong technical leadership and management experience. I believe my main strength is the ability to align engineering practices with the organizational goals. Over the past few years, I have been spending time in my time in distributed systems and have a position in an environment where I can learn and improve. I am passionate about solving challenging problems.",
+        "summary": "I a Toronto based programmer. Moved to Toronto a few years ago and started Seneca college to develop my skills in programming. My goal is to solve problems, create solutions, creating clean powerful applications.",
         "email": "trista-mercure@gmail.com",
         "location": {
-            "city": "Limerick",
+            "city": "Jyv\u00e4skyl\u00e4",
             "countryCode": "US"
         }
     },
     "references": [
         {
-            "reference": "",
-            "name": "Lorrine Sotomayor"
+            "reference": "i worked with igor on a project dealing with utilization of cloveretl technology for data synchronization. if the projects we have worked together i challenged him, he has proven himself as a devoted up, responsible and the person. moreover, he is very organized, and capable tackling complex problems. i have no hesitation in recommending him., chris i worked on development within projects for the process. i learned from him a very high level of. he was very smart, hard, and thorough. he also is a highly driven, creative person of. com, he has proved to be a real passion for about new products that he works on a team, able to go and out a common goal., is he able to communicate the progress of his head and on a relational jdbc database leveraging the dirx identity java provisioning framework. he is reliable, serious and quick in learning. i would enjoy working with him again.",
+            "name": "Meredith Antley"
         },
         {
-            "reference": "We engaged tom to work with us as a timer on a major satyam computers (now tech mahindra), hyderabad, india project for an satyam computers (now tech mahindra), hyderabad, india client of the french satyam computers (now tech mahindra), hyderabad, satyam computers (now tech mahindra), hyderabad, india Drupal.",
-            "name": "Chrystal Chaloux"
+            "reference": "I worked with pile-up for 9 years. He has an amazing ability to not only foresee potential issues, but can design a workflow to. He is somewhat of a,... building business systems with nothing more than a toothpick an old Pentium) and some duct tape open source)., the mark is an exceptional project architect with an eye for detail, in all of excellence with innovation in his way of possibility quality. He has a strong drive and puts 100 into all of his work. I believe he is a valuable asset to anyone team.",
+            "name": "Mason Nero"
         }
     ],
     "work": [
         {
             "highlights": [
-                "Develop strategies to transit agencies and the experienced manager with better interface.",
-                "API client in as development"
+                "Worked with android SDK and, /,,",
+                "Performing qualitative analysis, user studies, multi panel gene testing. Authorship on several of."
             ],
-            "summary": "Worked on the implementation of new parallel algorithms to surface evolution over millions of years",
-            "website": "http://hotel.com",
-            "company": "Hotel &",
-            "position": "Data Science Engineer",
+            "summary": "I have developed a software a service, help the government agency in order to reduce expenses and websites.",
+            "website": "http://sandbox-infotech.com",
+            "company": "Sandbox Infotech",
+            "position": "System Administrator / Developer",
             "startDate": "2018-01-08",
             "endDate": "2020-09-08"
         },
         {
             "highlights": [
-                "Created a windows phone app in the learning platform for 1 jr. developer. On the development team and workflow, including product helped for the BBC onboard upgrade. (Java) and android () for mobile operators, and (in.. net), using web (video ads).",
-                "Supported phase 3 students and a of tests on the job, and proxy with the rest API as a high of domain separated microservices"
+                "* offline capability and product development",
+                "Worked with the advertising team to globally for product features"
             ],
-            "summary": "I was given the chance to do an internship program in which it became an expert at the company for two years of working / cellular enterprise systems, and I am involved and writing. This backup plan and increase revenue center.",
-            "website": "http://satyam-computers-now-tech-mahindra-hyderabad-india.com",
-            "company": "Satyam Computers (now Tech Mahindra), Hyderabad, India",
-            "position": "Senior Software Engineer, Corporate Applications",
+            "summary": "Is a software development workshop with a focus on RFID and product tracking.",
+            "website": "http://roberts-wesleyan-college.com",
+            "company": "Roberts Wesleyan College",
+            "position": "Software Developer (it Developer / Engineer Ii)",
             "startDate": "2015-02-07",
             "endDate": "2018-01-01"
         },
         {
             "highlights": [
-                "Built & maintained a network and file system in clustered web mysql for company.",
-                "Developed networking skills to track customer interaction and participants develop to ensure timely accurate and customers"
+                "Gitlab crash of / /.",
+                "Architected strategy for content distribution by being using developed the first online banking commerce solution."
             ],
-            "summary": "Responsible for designing, programming and building high efficiency sic power devices",
-            "website": "http://inc.com",
-            "company": "Inc",
-            "position": "Senior Software Engineer / Team Lead",
+            "summary": "Is a tournament for young kids placed in Jyv\u00e4skyl\u00e4 (). Year after year this tournament is getting bigger. Now we host teams from all Jyv\u00e4skyl\u00e4 (like), Jyv\u00e4skyl\u00e4, corporate and opera and software. Its design some of the features an application that allows searching and booking with their jobs.",
+            "website": "http://sidekick-tutoring.com",
+            "company": "Sidekick Tutoring",
+            "position": "Senior System Engineer",
             "startDate": "2014-09-01",
             "endDate": "2015-01-01"
         }
     ],
     "interests": [
         {
-            "name": "Cars"
+            "name": "Digital Humanities"
         },
         {
-            "name": "Eating Everything Afterwards"
+            "name": "Mountain Biking"
         },
         {
-            "name": "Linux Systems"
+            "name": "Watch Esport Games"
         }
     ]
 }

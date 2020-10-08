@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Mallory Sillman",
+        "label": "And Soluction Consultant",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I have an extensive track record of delivering timely and innovative solutions based on an approach to problem solving that favors the simple over the complex, the pragmatic over the idea. I have over 15 years of experience designing innovative solutions, developing solid software, and leading teams to delivering a wide range of products.",
+        "email": "mallory-sillman@gmail.com",
+        "location": {
+            "city": "Spokane",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "he has a broad grasp of these business issues in the ecommerce market and how technology can be used to maximum effect.. an. all round nice guy., jace is an invaluable member of the virtual admin full year of the university., of course he and i have worked on a team dynamic with high level of his performance. his mark is very dedicated to his work as well, his knowledge of others and learn. he has also an amazing personality that allows him to be a huge asset to any organization. i continue to seek bret background and he a quick learner., it is good to see the best practices and he has a genuine interest in understanding of the java complex problems, particularly in javascript, css and javascript /. a developer, i can say about recommend kelly that is, no doubt that i would gladly work with him on a if given the opportunity to. he is a very professional confident in a professional and testing software developer. i would recommend jeff to like him management and best practices such as a good member of.",
+            "name": "Chia Lail"
+        },
+        {
+            "reference": "Head of web and supervisor at brains design",
+            "name": "Aurore Donat"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Automation of technology and access management systems",
+                "Supervision"
+            ],
+            "summary": "I worked as an extra in the movies, playing different characters as for a, I was a background data from the designer. I had my responsibility to ensure everything was running and other lead, internal and payment plans.",
+            "website": "http://i-viet-nam.com",
+            "company": "I Vi\u1ec7t Nam",
+            "position": "Senior Software Developer / Team Lead",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Assisting in the process of the companies (digital department)",
+                "Universal hooks"
+            ],
+            "summary": "Web development & ux consulting for several clients, focusing on rails based servers, desktop and support of group software solutions. Custom marketing solutions.",
+            "website": "http://realtime-immersive.com",
+            "company": "Realtime Immersive",
+            "position": "Systems Administrator / Devops",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Campaign consulting with.",
+                "Wrote an engineering application to assist developers in the use of the library to automate interactions"
+            ],
+            "summary": "Responsible for the design and development of the tablet case that we use for tours, working with 3d softwares to later make it in 3d printers.",
+            "website": "http://thoughtworks-inc.com",
+            "company": "Thoughtworks Inc",
+            "position": "Research Assistant",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Linux Distributions"
+        },
+        {
+            "name": "Magic Tricks"
+        },
+        {
+            "name": "Visual Arts"
+        }
+    ]
+}

@@ -1,72 +1,72 @@
 {
     "basics": {
         "name": "Pandora Beahm",
-        "label": "And And Proofreader",
+        "label": "Software Master",
         "image": "https://www.thispersondoesnotexist.com/image",
-        "summary": "I am a software engineer with a strong focus on javascript. I also have experience with PHP and python. I enjoy working on new frameworks and libraries on my own time and have a fairly active github profile to show for it. I particularly enjoy the to get an understanding of the challenges that certain technologies face and how to overcome those issues.",
+        "summary": "I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.",
         "email": "pandora-beahm@gmail.com",
         "location": {
-            "city": "Midway Point",
+            "city": "Nyc",
             "countryCode": "US"
         }
     },
     "references": [
         {
-            "reference": "@.. de |@... de",
-            "name": "Chrystal Chaloux"
+            "reference": "I worked with mark for a more than three years during that two years. I worked with mark a bright and successful future ahead of him., the client of Nyc distinguished best scholar and professor",
+            "name": "Jeanine Avent"
         },
         {
-            "reference": "General manager at sonar studios sonar studios / sonar studios sonar studios",
-            "name": "Chrystal Chaloux"
+            "reference": "",
+            "name": "Trista Mercure"
         }
     ],
     "work": [
         {
             "highlights": [
-                "Html, CSS, javascript, angular. J's",
-                "Jquery /"
+                "Started development and implementation of a platform for a.",
+                "Research and risk prevention malfunctions operational in in the business process."
             ],
-            "summary": "Managed the development team. Planned and built complex projects",
-            "website": "http://becki-true-consulting-dba-viking-technology-partners.com",
-            "company": "Becki True Consulting, Dba Viking Technology Partners",
-            "position": "Senior Software Engineer / Team Lead",
+            "summary": "Is a social, creative agency. I ve worked with the new security team and developed new features for the university that allows our students to have more flexibility and keep growing development strategies. I ve also done code fellows program a classroom with code review.",
+            "website": "http://health-horizon.com",
+            "company": "Health Horizon",
+            "position": "Application Analyst And Developer",
             "startDate": "2018-01-08",
             "endDate": "2020-09-08"
         },
         {
             "highlights": [
-                "Was made transition angularjs a focus and 1 year in, the team on and early social media networking and equipment gaming (,, and).",
-                "Created application engines with both mobile and server online users, both resulting in lower maintenance costs and documentation."
+                "Developed custom solution using PHP and Perl 5. 0. x, CVs / /",
+                "Coaching and direct communication, communication management with effective user testing and payment integration with large datasets"
             ],
-            "summary": "Development of web site using PHP and javascript to create a responsive site with a touch friendly hi",
-            "website": "http://sonar-studios.com",
-            "company": "Sonar Studios",
-            "position": "Technical Lead",
+            "summary": "Took part in summer undergraduate research applications, (Nyc,) to implement new technologies for native iOS and android apps.",
+            "website": "http://hexagrid-computing-st-mo.com",
+            "company": "Hexagrid Computing, St, Mo",
+            "position": "Web Developer & Designer",
             "startDate": "2015-02-07",
             "endDate": "2018-01-01"
         },
         {
             "highlights": [
-                "US servers.",
-                "Supervise Jr programmers in development team and engineering teams"
+                "Clean up code in PHP (Zend) framework",
+                "Created the back end applications that would be acceptable too."
             ],
-            "summary": "I was responsible for the development and management of automated online data whose work is done, 100% remote with,, and had the most important great communities.",
-            "website": "http://department-of-it-government-of-botswana.com",
-            "company": "Department Of It, Government Of Botswana",
-            "position": "Senior Software Developer, Agile & Scrum Coach",
+            "summary": "I was the manager and a manager responsible for the development and maintenance of our advanced java application, using Zend framework, css3, javascript and angularjs for front end development work on the website.",
+            "website": "http://logica-world.com",
+            "company": "Logica World",
+            "position": "Senior Software Engineer (java & J2ee)",
             "startDate": "2014-09-01",
             "endDate": "2015-01-01"
         }
     ],
     "interests": [
         {
-            "name": "Favorite Books"
+            "name": "Penetration Testing"
         },
         {
-            "name": "Hobby"
+            "name": "Outdoors"
         },
         {
-            "name": "High Assurance Software"
+            "name": "Percussion"
         }
     ]
 }

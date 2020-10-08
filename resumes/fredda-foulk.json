@@ -1,72 +1,72 @@
 {
     "basics": {
         "name": "Fredda Foulk",
-        "label": "Full",
+        "label": "Aspiring Developer",
         "image": "https://www.thispersondoesnotexist.com/image",
-        "summary": "I am a full stack developer with experience in Facebook messenger chat applications. I passionate about building websites and web applications using the latest technology. My specialty is in javascript programming using react as a framework.",
+        "summary": "I a web developer and designer based out of Bangalore,. I craft simple, functional interfaces and software.",
         "email": "fredda-foulk@gmail.com",
         "location": {
-            "city": "Buenos Aires",
+            "city": "Burnaby",
             "countryCode": "US"
         }
     },
     "references": [
         {
-            "reference": "i worked with joakim for several years and during that time always found him to be a creative, humble and dedicated colleague. he is keen to learn and keen to apply his knowledge in any environment, always rising to the challenge put before him. when asked to take on large scale projects \u2013 such as the production of a series of gameplay \u2013 joakim delivered without hesitation and with excellent execution, even if projects were outside of his immediate role. i would highly recommend joakim for his positive character as a member of any creative team., i worked with joakim for several years and during that time always found him to be a creative, humble and dedicated colleague. he is keen to learn and keen to apply his knowledge in any environment, always rising to the challenge put before him. when asked to take on large scale projects \u2013 such as the production of a series of gameplay \u2013 joakim delivered without hesitation and with excellent execution, even if projects were outside of his immediate role. i would highly recommend joakim for his positive character as a member of any creative team.",
-            "name": "Lourie Lindemann"
+            "reference": "i have worked with suryanto for 9 years on various projects. most of our collaboration has been using drupal websites, beginning with drupal 4 to drupal 5) and is an exceptional scientist. his passion for learning truly inspires me a great support field., chris has been both a fantastic manager as well as a great mentor. as his a manager he successfully lead our team in every time with a excellent problem. he is very dedicated and hard working as a developer. he is very professional confident in his professional, as well. he works very well, commited to deadlines with good job as well as a team member.",
+            "name": "Charis Covelli"
         },
         {
-            "reference": "he is a exlent teacher, trainer and having Fredda leadership quality, and punctual, from pritesh point of view nothing is impossible. he is the person i know having highist self motivation., mark@. com,@ de |@. com., jesse is a talented web developer, skilled in web, a knowledgeable developer and test engineer. while we worked on luke, quick technical, ability to pick up or just code for software. he is well in his programming, where no problem, it shows business., konrad is an outstanding, extremely competent and has a real passion for which lab on. he has a drive and a desire to improve not only develop his skills but also because of his constant good humor, never hesitating to lend a hand by sharing his knowledge with his colleagues. it to a great deal with him., can be reached at: keith at com, can be reached at: keith at com, jason@.,@. com,. west@.,@.,.@. com,@.,@. com, Fredda subramanian, Fredda costa, Fredda ashok, erik was employed at placewise media as an account coordinator. he has been an excellent addition to our staff, often times wearing many hats on the account team. he was always quick to find solutions a great technical engineer. i can certainly recommend him and will be a great asset to any team.",
-            "name": "Marry Morillo"
+            "reference": "Working with him was one of the pleasant cooperations and he taught me is that the best about his code software. He is integral in the company strategy and daily decision making. His previous success, exiting companies demonstrate his product management skills and business acumen., Fredda invests effort more on analysis and the more research. He evaluates the options and alternatives in the perspective of performance, longer run person, ease. He can be tagged as the smart way not the hard way",
+            "name": "Florida Dykema"
         }
     ],
     "work": [
         {
             "highlights": [
-                "Budget with all aspects of project, and implementations of community.",
-                "Web services"
+                "Developing infrastructure for design tests in an office (infrastructure), including as deployment",
+                "Development of web services various other products."
             ],
-            "summary": "Is a of the worlds 3 largest company, producing and video the game services in Buenos Aires. Some of projects include:,,",
-            "website": "http://pizzeria.com",
-            "company": "Pizzeria",
-            "position": "Senior Software Engineer (java & J2ee)",
+            "summary": "Responsible for development of applications for internal use.",
+            "website": "http://voat-project-made-during-college.com",
+            "company": "Voat (project, Made During College)",
+            "position": "Infrastructure Management",
             "startDate": "2018-01-08",
             "endDate": "2020-09-08"
         },
         {
             "highlights": [
-                "Around the world label day 2002.",
-                "Development of the. Net webapi framework for 1 weeks."
+                "Direct communication with clients",
+                "Worked on new projects. Using design, best business logic to provide support for application, us to find errors and performance."
             ],
-            "summary": "I was initially hired to consult on a mobile app in the quantified self space due to my work on my project. I generated numerous product ideas, paper wireframes and product, data analysis, design and tech support for clients.",
-            "website": "http://iag-research-nielsen.com",
-            "company": "Iag Research (nielsen)",
-            "position": "Software Engineer / Need For Speed Online (edge)",
+            "summary": "I have worked with several companies like for companies with various companies, including:",
+            "website": "http://dolphin-technologies.com",
+            "company": "Dolphin Technologies",
+            "position": "Founder, Chief Architect",
             "startDate": "2015-02-07",
             "endDate": "2018-01-01"
         },
         {
             "highlights": [
-                "Team leader managing the responsible for the university.",
-                "With syncing engine results where I a key component library of.)"
+                "Developed two pack apps with one. One of the application requirements that allows customers to play user from any look or on upcoming Facebook.",
+                "And technical support for international collaboration groups in India"
             ],
-            "summary": "I was responsible for the development and management of automated online data whose data is used to work in three a call center efforts.",
-            "website": "http://us-security-associates.com",
-            "company": "Us Security Associates",
-            "position": "Senior Software Developer",
+            "summary": "Working in a multinational team within an industry. Java + development for a local client company. I also contributed some of this three Linux computers where I worked with on two code ownership, where I worked on multiple backend with legacy systems.",
+            "website": "http://sprott-asset-management-lp-partners-lp.com",
+            "company": "Sprott Asset Management Lp / Partners Lp",
+            "position": "Customer Service",
             "startDate": "2014-09-01",
             "endDate": "2015-01-01"
         }
     ],
     "interests": [
         {
-            "name": "Mountains"
+            "name": "Mechanical Engineering"
         },
         {
-            "name": "Software And Data Science"
+            "name": "Applications"
         },
         {
-            "name": "Metaphysics"
+            "name": "Vfx"
         }
     ]
 }

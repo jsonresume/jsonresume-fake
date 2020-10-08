@@ -1,72 +1,72 @@
 {
     "basics": {
         "name": "Natividad Hessler",
-        "label": "Developer",
+        "label": "Senior Developer",
         "image": "https://www.thispersondoesnotexist.com/image",
         "summary": "I am a software engineer that is constantly on the lookout for new ways to",
         "email": "natividad-hessler@gmail.com",
         "location": {
-            "city": "Ottawa",
+            "city": "Rogers",
             "countryCode": "US"
         }
     },
     "references": [
         {
-            "reference": "I had the pleasure of working with Natividad when I brought him on our team to run our qa efforts. He the ability to quickly show up his value to good teams, to develop our internal / API design. Natividad is a significant asset to any team to look, friendly and knowledgeable.",
-            "name": "Waldo Gillingham"
+            "reference": "if you looking for a talented developer, as well as a great team member, than look no further. i had the pleasure of working with Natividad now for over a year, and since then the quality of our code base has gone up significantly. with my eight plus year of experience Natividad has separated himself from others i worked with. leonid is quick to always the strong work and quality. in addition, he has solved many of our development creative ideas and coding to practice /. no matter what i was impressed with the feature rich web application he built by himself, i with his amazing ability to understand the work and he never let me down. from his day it became clear that his business knowledge and is a superb problem solver., Natividad is an extremely talented and unusually productive engineer. he has a real zest for life that translates into eagerly and diligently fulfilling his duties on the. she consistently went out of her way to ensure quality. highly recommended.",
+            "name": "Liliana Schanz"
         },
         {
-            "reference": "@. Com",
-            "name": "Opal Mcmillian"
+            "reference": "daniel@. COM",
+            "name": "Bettyann Dunnigan"
         }
     ],
     "work": [
         {
             "highlights": [
-                "Created a clone of that driven, time and motivation systems.",
-                "Plan based daily concept for full releases on different platforms: /,"
+                "Test data center environment (test, logs).",
+                "Online shop created by myself."
             ],
-            "summary": "I worked in the information security and risk management platform for an internal that allows people to create them to choose (data from the german telecom behind the. The API is built with a rest API.",
-            "website": "http://john-hopkins-center-for-talented-youth.com",
-            "company": "John Hopkins Center For Talented Youth",
-            "position": "Software Developer / Team Lead",
+            "summary": "Managed a team of five employees, as the director of the onboard art program on,, and royal cruise lines in, Rogers, Rogers, north Rogers and south Rogers.",
+            "website": "http://khobre-pardaz-pars-co-ltd.com",
+            "company": "Khobre Pardaz Pars Co Ltd",
+            "position": "Senior Front End Web Developer",
             "startDate": "2018-01-08",
             "endDate": "2020-09-08"
         },
         {
             "highlights": [
-                "Worked with compliance to bring ideas, information into real planning",
-                "Worked on the internal development documentation () using group, run quality assurance reviews, tests, integrating with and construction material standards."
+                "Month using a continuous integration, integrated enterprise solution with custom puppet modules and over configuration driven architecture and network teams by increasing the performance of issues",
+                "Migrated region chrome, converting to the apps from servers using. The great minimize part of numbers both a."
             ],
-            "summary": "Work at transitioning &, lp university to a python stack while maintaining with older technologies. This includes creating and implementing a server flow working with older components to make sure nothing, 2. 0) to create dynamic applications of the client databases, (which improved communication with) the API is to be used by over all the 000 studies. Conducted trainings and manage on a team of volunteers etc.",
-            "website": "http://lp.com",
-            "company": "&, Lp",
-            "position": "Senior Software Engineer / Software Architect",
+            "summary": "Developed a few landing pages and helper systems using PHP, jquery and jquery",
+            "website": "http://fcse.com",
+            "company": "Fcse ()",
+            "position": "Software Engineer (android), Core Developer",
             "startDate": "2015-02-07",
             "endDate": "2018-01-01"
         },
         {
             "highlights": [
-                "Worked closely with four different languages: Oracle / SQL, mongodb, html / CSS",
-                "Worked to move API teams to introduce microservices (via / api's)"
+                "Defined brand guidelines for in new city, publishing release, creating a single sale system, with a customer portal and support service leveraging online customer information and security. Support customer service requests leveraging certification from shell scripts to automate the daily reporting process and created content areas for this work with the business.",
+                "Develop crud apes"
             ],
-            "summary": "I worked on a like set top box project for this company. I will build a portal of. Net and 3.",
-            "website": "http://hartman-accounting.com",
-            "company": "Hartman Accounting",
-            "position": "Senior Software Engineer / Team Lead",
+            "summary": "\u2022 Voice services \u2013 provisioning phones, IP, energy and others, the partner in 2019 markets.",
+            "website": "http://marsalom-inc.com",
+            "company": "Marsalom Inc",
+            "position": "Director, Systems Development",
             "startDate": "2014-09-01",
             "endDate": "2015-01-01"
         }
     ],
     "interests": [
         {
-            "name": "Camping Hiking / Hiking"
+            "name": "Frontend"
         },
         {
-            "name": "Digital Marketing"
+            "name": "Prototyping"
         },
         {
-            "name": "Distributed Systems"
+            "name": "Focus"
         }
     ]
 }

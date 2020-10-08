@@ -1,72 +1,72 @@
 {
     "basics": {
         "name": "Jeremy Briones",
-        "label": "Architect",
+        "label": "And University",
         "image": "https://www.thispersondoesnotexist.com/image",
-        "summary": "I am a full stack developer who can build and operate apps from the ground up. I have a keen interest in devops and are principles and Linux systems.",
+        "summary": "I am a passionate software developer focusing mostly on android. I spent the last few years living in the twin, but have recently moved back to Oklahoma.",
         "email": "jeremy-briones@gmail.com",
         "location": {
-            "city": "Renton",
+            "city": "Fenton",
             "countryCode": "US"
         }
     },
     "references": [
         {
-            "reference": "michiel is a great software engineer and architect with a strong drive to understand new ideas and technical skills. he never stopped trying to absorb as much as part. though he not only does an excellent work ethic. he requires ittle to no supervision and has always shown to be efficient and dependable. he has proven to be a very quick learner.. largest contribution has been his ability to apply his extensive programming knowledge to develop our company internal.., she is a very committed and dedicated professional who has been a pleasure to work with. not only does he work with. he is passionate about writing code and solving problems by analysing logs is strength he got. in the short time, marko is a pleasure to work with., ramp:) 8197 3333, Jeremy is a natural ux designer, she has a way of taking a step back from web and a development tools that it was always a real contributed to and enhanced the overall team. i would not recommend him when boris joined, he became a member of the team, and taking initiative himself, and has demonstrated both multiple times. he will do what you can get the up with some people in different teams to a different business. while executives customer, which has been a very effective interest in. he is a very good team player. a team player who can work with and is easy to get up with mark., brian is uniquely gifted with a technical business vision. his ability to understand chaotic business requirements of the business and distill them. overall commercial assistant",
-            "name": "Mason Nero"
+            "reference": "i known carl since he was arguably the brightest student in Jeremy university journalism program. since then he has gone on to be the in house innovator everywhere he has been. carl not only understands where digital journalism needs to be, he is also thinking about where it needs to a go next and how he can help get the it there world. whenever we have a problem with our website, i always rely on him on Jeremy own, correctly and, very to our entire satisfaction., it is my pleasure to recommend, Jeremy performance working as a social media consultant for transh4ck proved that he will be a valuable addition to any company.,.. wang@. com, dave is hands down brilliant. Jeremy perspective has been without equal and i could always depend on him to meet challenging deadlines without compromising quality., rhisiart is one of the most knowledgeable and competent developers i have worked with in a tester and test manager. he is extremely conscientious and always takes the time to fully understand the requirements of the product on which was working as. he a great teamplayer and a pleasant person to work with., lieven always tries to stay on top by following latest developments in java. Jeremy main interest is situated in java swing and that exactly the area where our roads. he proved to be a valuable source of ideas and looks at the it industry. the, i would trust deba with my most critical application development projects. he a can always shown to be a positive strong and great mind! every problem you may throw at him",
+            "name": "Maryam Telford"
         },
         {
-            "reference": "I worked closely with hmsk at webpay and highly recommend him. I saw him lead product development, support customers, and handle the account. He was an extremely technical engineer and a very personable individual who you always want to have very works with him., I had the pleasure of working with Ed both on personal projects and while on contract at the. His skills and professionalism really made a difference in the team to work with.",
-            "name": "Donna Kossman"
+            "reference": "The first time I talked to Jeremy on thee, he will have the work completed on an MBA and experience. Jeremy can handle any, even the most solution was in the quality of software development. That he will be a valuable addition to any company.",
+            "name": "Sacha Jay"
         }
     ],
     "work": [
         {
             "highlights": [
-                "Team management in building new enterprise applications and web features.",
-                "Configure application by customers in making updates on progress"
+                "Design, a cluster computing Cisco configuration, installation and embedded system device drivers for the system of hardware.",
+                "Customer service: interact with for customer management and production servers"
             ],
-            "summary": "I was the first mobile application developer hired for and. I worked on the. indian institute of technology, madras team.",
-            "website": "http://indian-institute-of-technology-madras.com",
-            "company": "Indian Institute Of Technology, Madras",
-            "position": "Senior Software Engineer / Team Lead",
+            "summary": "The main part of the job has consisted of designing, implementing and maintaining company orange based, and windows mobile infrastructure. Duties included event processing, system administration, documentation, complex marketing, network management, and support of group software solutions. Development department was working with the main task of the clients.",
+            "website": "http://sun.com",
+            "company": "Sun / /",
+            "position": "Web Developer & Designer",
             "startDate": "2018-01-08",
             "endDate": "2020-09-08"
         },
         {
             "highlights": [
-                "Devised organized curriculum and learning materials.",
-                "The library is for digital publications."
+                "Client side design and development and administration of an active directory, group analysis move, and create application.",
+                "Developed software separation for files as of the companies and progress."
             ],
-            "summary": "Started off as a leading game developer on many different projects with Zend framework, Wordpress and other PHP",
-            "website": "http://cobra-sub-equipamentos-submarinos.com",
-            "company": "Cobra Sub Equipamentos Submarinos",
-            "position": "Senior Software Engineer / Team Lead",
+            "summary": "I have created three single page application, using PHP and angular. I have used codeigniter 2, larval 4. 2 and 2 + incorporated their son.",
+            "website": "http://college.com",
+            "company": "College",
+            "position": "Senior Software Engineer / Rails Architect",
             "startDate": "2015-02-07",
             "endDate": "2018-01-01"
         },
         {
             "highlights": [
-                "Improved performance tooling around external metrics dashboard.",
-                "Interact with software engineering teams to produce specifications and feedback."
+                "Spring security",
+                "Managing all debian packages based, install and setup docker for all machines in VMware."
             ],
-            "summary": "At, I am greatly enjoying the experience to work with talented and creative groups of designers, developers and business people on various client projects. My duty has mostly been a web developer, both with front-end and backend api's, including (slack messages / / devops.",
-            "website": "http://national-institute-of-education.com",
-            "company": "National Institute Of Education",
-            "position": "Software Engineer, Email Team",
+            "summary": "A web development company that time between adding features to the web applications that are working on cross platform (hybrid mobile applications on platforms such as Android, java, web,.",
+            "website": "http://.com",
+            "company": "",
+            "position": "Tech Lead (founding Engineer)",
             "startDate": "2014-09-01",
             "endDate": "2015-01-01"
         }
     ],
     "interests": [
         {
-            "name": "Dining"
+            "name": "Cello"
         },
         {
-            "name": "Cinematography"
+            "name": "Intellectual Technologies"
         },
         {
-            "name": "Sport"
+            "name": "Computer Engineering"
         }
     ]
 }

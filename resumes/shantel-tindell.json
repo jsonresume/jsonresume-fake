@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Shantel Tindell",
+        "label": "Full Student",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "i have been working around software development for the last 4 years. professionally i have a lot of experience, but this past year i invested in my learning and was able to dramatically improve my skill set and now every day that i do. etc. i also have by some time i have been working as a summmer intern for gilroy technology, ca. my work at the university of manitoba, information protection center where i gathered lots of knowledge on networks and network security. i am a python developer in my spare time.. a graduate of the university of manitoba with major degree in computer science and a minor in management.",
+        "email": "shantel-tindell@gmail.com",
+        "location": {
+            "city": "Stony Hill",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "steve is the founder of riverview research. i worked with steve remotely for several years, and worked exclusively in his office temporarily throughout parts of 2013 and. my technical and programming abilities quite to where they are now my, but my approach to solving business system administration with. he as an given his biggest. a owner. com, jason a great teammate and a nice person to be around. i cannot recommend him highly enough!, have worked with duy on multiple projects and would recommend him to any team that faces tough deadlines. he was always able to solve, and absorbing knowledge. a knowledge like to corporation around great catch jace is., andrea worked for a variety of while client on service. this he was very hard to work at a project, as well as a & design. he has very good skills in technical, support and business systems his skills. probably the best system engineer i have worked with. a teal pleasure!, i had the chance to meet corporation when i was business unit manager of the open source system department at smile. corporation and his knowledge of systems architecture would be a valuable asset to any development team.",
+            "name": "Waldo Gillingham"
+        },
+        {
+            "reference": "Owner. Com",
+            "name": "Greta Griffeth"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Got global around openstreetmap data with suggestions.",
+                "Led development of application for us developers"
+            ],
+            "summary": "Worked independently to develop a corporate hardware and software involved in oil and gas assets, and mobile applications",
+            "website": "http://corporation.com",
+            "company": "Corporation",
+            "position": "Senior Front End Developer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Automated creation of new web applications",
+                "Grant funding: oversaw the company's expansion efforts for school resources, within as a large programming groups that learning and deployment of best practices, including engineers: defining roadmaps, processes, and learning to determine a strategy."
+            ],
+            "summary": "Worked on a ci / a team of supported hardware products.",
+            "website": "http://national-science-foundation.com",
+            "company": "National Science Foundation",
+            "position": "New Media Specialist",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Performance tuning of web application",
+                "Operated which uses and Pentaho apache and tomcat 8 to develop rail application solutions to interact with our front end users"
+            ],
+            "summary": "Is a leading employer and renowned specialist in enterprise application",
+            "website": "http://coneco-de-puerto-rico.com",
+            "company": "Coneco De Puerto Rico",
+            "position": "Senior Cad Engineer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Arduino"
+        },
+        {
+            "name": "Solving The Rubix Cube"
+        },
+        {
+            "name": "Arts"
+        }
+    ]
+}

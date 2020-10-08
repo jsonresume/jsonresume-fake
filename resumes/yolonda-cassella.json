@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Yolonda Cassella",
+        "label": "Web Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I a full stack developer who loves working with open source technology. I work best in planning the architecture of web applications and their development life.",
+        "email": "yolonda-cassella@gmail.com",
+        "location": {
+            "city": "Curitiba",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I worked with Yolonda for 3 years now. Over that time, he has continually proven himself as not only a developer but critical application. He was code is to",
+            "name": "Leda Jolly"
+        },
+        {
+            "reference": "david adds value to every team he is a part of. he is very good at bringing development best practices and out solutions, all really interesting technologies and. all in that time, Yolonda is a great thinking player and a pleasure to work with individual., i had the pleasure of briefly working alongside tom while we completed the bristol city council website. he was tasked with ensuring the site html and css was. in the addition, he has a great experience and made to substantial efficiency improvements within the team., i had a pleasure to work with adam during time that he has already established a successful a career and very in his professional. he was very good to see the problem and it professional can be at a given great., it a pleasure working with him. he was an influential member of the team and instilled respect respect in every interaction. i can recall key instances when his input during times of crisis to led the levels up well management as well. i wish him all the best in his field, and i have know him., something from jon:, francisco is an extremely intelligent and focused individual. his diligent approach to problem solving and always learning new things on a superb job and honest, his best developer who is an inspiring manager that he is very honest to his own attributes but also those he with the first. if you can have a very professional who would not pick up with the tech for which a team member. he has the ability to rapidly blend into a project and implement any technology",
+            "name": "Kristi Karsten"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "\u2022 Maintaining a research and HR builder, for a strategy, solution placement, and supply chain management tool.",
+                "Created various features and improvements to manage the performance and monitoring of infrastructure."
+            ],
+            "summary": "Is a company dedicated to providing financial solutions to its customers by means of a core itself",
+            "website": "http://breadcrumb-groupon.com",
+            "company": "Breadcrumb (groupon)",
+            "position": "Senior It Analyst",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Created multiple and one the open stack.",
+                "Developed a web site in which it can participate in by the number of players, officials today in using the new mobile part in react. J's"
+            ],
+            "summary": "I work on the ec2 deployment team.",
+            "website": "http://cornerstone-systems.com",
+            "company": "Cornerstone Systems",
+            "position": "Senior Software Engineer | Connectivity Platform",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Continually ensured that software supported their application lifecycle, making all standards, team technology within time",
+                "Rebuilt apps to have the iOS, Android SDK, and android"
+            ],
+            "summary": "Worked on a variety of projects, mostly by web design and implementing new features.",
+            "website": "http://sutherland-global-services.com",
+            "company": "Sutherland Global Services",
+            "position": "Founder, Web Architect & Developer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Powerlifting"
+        },
+        {
+            "name": "Ice Hockey"
+        },
+        {
+            "name": "Chess Reading Rock Climbing Mountain Biking"
+        }
+    ]
+}

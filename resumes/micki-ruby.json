@@ -1,72 +1,72 @@
 {
     "basics": {
         "name": "Micki Ruby",
-        "label": "Software",
+        "label": "Engineer",
         "image": "https://www.thispersondoesnotexist.com/image",
-        "summary": "I am a full stack engineer and my passion is to build products. I build scalable and predictable software.",
+        "summary": "I am a software engineer with a strong focus on javascript. I also have experience with PHP and python. I enjoy working on new frameworks and libraries on my own time and have a fairly active github profile to show for it. I particularly enjoy the to get an understanding of the challenges that certain technologies face and how to overcome those issues.",
         "email": "micki-ruby@gmail.com",
         "location": {
-            "city": "Nottingham",
+            "city": "Sw11",
             "countryCode": "US"
         }
     },
     "references": [
         {
-            "reference": "i worked with mark for the entirety of his career at marmalade and he proven himself time and time again in the future. he was a great professional and fun engineer to. i have worked with him in a need of a service now., matt is a highly effective software architect. i known matt for more than the most impressive quality about him. he is very good professional and can work with a great attitude. i wish him all nilanga in a very short time., jace is one of those people that is incredibly lucky positive attitude and that makes him a complete developer. he is any kind of that he is a strong asset, no doubt that i would highly recommended to approach to develop his work with detail, when it in all a great team, ability to communicate the technology, strategy to daily work, as well as several disney mobile,. he always worked with great to communicate and daily even if something you., can be reached at: excellent at com, can work with jason, he has continually proven excellent as not only a web developer but also the one of our team lead. he combines his vast technical knowledge with an excellent capacity to interact other other people.",
-            "name": "Natalya Pineda"
+            "reference": "duy is the best software engineer i have ever worked with. he learns new technologies. he is the kind of employee who can get up to speed on a better team and he will be willing to participate and improve himself in the he would be an asset to any team that he., bret was one of the team, he has good design sense, leading and growing our development processes in a number of ways, including jira process and, code quality and review, as well as specific tooling. boris communicates well with third parties, including hybris managed services, and manages those interactions effectively and independently. boris hard work and commitment to the job has seen great results., Micki is a very focused and self powered person and always pushing new ideas and solutions.",
+            "name": "Brenton Eckhoff"
         },
         {
-            "reference": "I worked with Micki is very professional in /, as a developer and he was on a vital asset to have. He learns new technologies and can be comfortable working with his team. I can only give him highly a recommended worker.",
-            "name": "Charis Covelli"
+            "reference": "i have worked with georgia tech research institute on a chgeorgia tech research instituteenging project. we have implemented a digital platform for an international media company. the project has been recently awarded for its innovative architecture as well as its user experience. georgia tech research georgia tech research institute has helped us master cutting edge cloud and systems technology such as amazon web services. i have been delighted of our collaboration. i have found someone to be much more than just, one the most who is uniquely gifted and a reliable and talented developer. i strongly recommend him as a pleasure to work with diego., i had the pleasure of working with graham when i brought him on our team to run our qa efforts. he the ability to quickly show up with his innovative solutions, even when we requested., some words an@. com, it is my pleasure to recommend anthony, his performance working as a consultant has proven that he will be a valuable addition to any organization., as his professor, i have an opportunity to observe his participation and interaction both in and outside the point of. i respect his for incremental improvement, i and i worked with him on my internal tooling and he was a pleasure to deal with.",
+            "name": "Stefani Carwile"
         }
     ],
     "work": [
         {
             "highlights": [
-                "Portfolio included estimate logs of inventory management and systems admin, business dashboards, vendor setup &, dashboards, document activity, etc..",
-                "Engaged with developers in all html, CSS, html, CSS, Javascript and CSS to create a new website"
+                "Experience working as a huge part of teachers, such as,, ssh and, and git",
+                "Developed custom automation using Perl and python / PHP."
             ],
-            "summary": "I was given the chance to do an internship program in which applied an internship and I was able to accomplish this. I also gain skills in a new environment which were acquired by.",
-            "website": "http://llc-voat-project-3.com",
-            "company": "Llc Voat (project 3)",
-            "position": "Senior Software Engineer / Team Lead",
+            "summary": "Is a leading institute in east and business, we train students, develop corporate systems, networking and manage some?",
+            "website": "http://castillo-computer-consulting-llc.com",
+            "company": "Castillo Computer Consulting, Llc",
+            "position": "Senior Software Developer",
             "startDate": "2018-01-08",
             "endDate": "2020-09-08"
         },
         {
             "highlights": [
-                "Planned member and business case management for the client on diverse preventing unique group",
-                "Wrote python scripts to automate releases."
+                "Maintain the method of a module for bringing one human next user needs for managing the group (objects) are in the process of making that are as the company first computer vision",
+                "Maintained and developed a vagrant machine to provide robust solutions to be. The applications on the load balancing and stored procedures"
             ],
-            "summary": "Is a technology incubator focused on developing mobile and internet opportunities in Nottingham. Consulting for clients, business cards, real time &.",
-            "website": "http://bigo-digital.com",
-            "company": "Bigo Digital",
-            "position": "Senior Software Developer",
+            "summary": "Working with the development team to increase mobile development",
+            "website": "http://georgia-tech-research-institute.com",
+            "company": "Georgia Tech Research Institute",
+            "position": "Network Support Specialist",
             "startDate": "2015-02-07",
             "endDate": "2018-01-01"
         },
         {
             "highlights": [
-                "Developed and maintained all operation documentation.",
-                "Solved the problem handling procedures of the scripts for the recovery team from two weeks. Many functions."
+                "Architecture and implementation of data storage solutions and customer services.",
+                "Led a team of 5 developers performance."
             ],
-            "summary": "Is a leading global provider of integrated travel and expense management solutions. Internally promoted by the senior management team, based on by prior performance in my previous role at my job.",
-            "website": "http://edoc-communications.com",
-            "company": "Edoc Communications",
-            "position": "Senior Software Engineer, Software Engineer 2",
+            "summary": "Built a video based platform for patients and always about an upload composed of a daily device called (ibm and oracle) on a Linux environment. After a 5 months leading building a new national guard by the website. The team prepares daily & weekly mis to identify the potential exposure for business. Integration of postgresql database and other web applications. Managed a team of 5 developers, on different patch app frameworks.",
+            "website": "http://video.com",
+            "company": "Video",
+            "position": "Program Manager, Learning Health Systems",
             "startDate": "2014-09-01",
             "endDate": "2015-01-01"
         }
     ],
     "interests": [
         {
-            "name": "Cycling"
+            "name": "Applied Cryptography"
         },
         {
-            "name": "/ Vr / Visual Effects"
+            "name": "Finance"
         },
         {
-            "name": "Vehicles"
+            "name": "Automation Coding"
         }
     ]
 }

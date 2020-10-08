@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Jayne Lion",
+        "label": "Consultant",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a front end developer, who takes pride in the work that I do. Being able to design and develop apps is rewarding and creatively satisfying.",
+        "email": "jayne-lion@gmail.com",
+        "location": {
+            "city": "Salt Lake City",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I worked with Jayne for several years and during that time always found him to be a creative, humble and dedicated colleague. He is keen to learn and keen to apply his knowledge in any environment, always rising to the challenge put before him. When asked to take on difficult desert star systems llc.",
+            "name": "Fredda Foulk"
+        },
+        {
+            "reference": "i worked with him during my first at least an. Jayne was a bright engineer to work with. he was Jayne excellent team player. i had the pleasure of working with him on my final project at dev bootcamp where we spent 100 + hours over 7 days building a fully functional web app. brian quickly learned new concepts, and i was impressed at how he go out of his way to solve the complexities we encountered with the project. his knowledge of service now is very solid. he is truly a service now expert. i have worked on him in my team as a senior programmer and i was the subject matter expert. he i was very quick to find a technical and highly recommended. i definitely recommend him as a great friend as much as its sales team, as well as impart his knowledge. probably the best system engineer. i have worked with him for a more senior level and engagement these level made his mark. i can recall key instances when his input during times of crisis led to immediately diffuse tensions with practical steps to reaching a solution. he possesses a great disposition and uncanny ability to take on new challenges and find solutions. highly recommended!, diego i truly a joy to work with a brilliant of mobile., references available on request., ian was the cto and founder of sailthru and is currently the ceo of stardog ventures., Jayne is the director of product management at sailthru, Jayne is the program manager for ux & design at scripps network interactive, in it, he is a very nice to",
+            "name": "Loretta Belmont"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Setup a Linux environment for utilizing many developers, an application to agile migration.",
+                "Helped with high performing risk in ways of for national to country batch functions in an agile process"
+            ],
+            "summary": "An open source project that want to help schools with the education of students and provide the schools all the necessary tools for an online fundraising platform.",
+            "website": "http://desert-star-systems-llc.com",
+            "company": "Desert Star Systems Llc",
+            "position": "Web Developer / Designer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "",
+                "Wrote, maintained, and enhanced the control system (python and) to improve the measure overall performance, quality assurance, and application."
+            ],
+            "summary": "I 40 pieces of Spanish in order to be published in an educational.",
+            "website": "http://cis-harlan-spence-outsourcing-development-ltd.com",
+            "company": "Cis Harlan Spence (outsourcing Development), Ltd",
+            "position": "Software Developer / Data Analyst",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Deployment and maintenance of hundreds of enterprises ec2 connections to branch",
+                "Manage geographic redundant Cisco environments utilizing VMware system and Linux administration tools."
+            ],
+            "summary": "Responsible for r & d topics related to mobile wallets / mobile payment / smart cards and all kinds of NFC enabled devices. Developed prototypes for different events and trials.",
+            "website": "http://dws-limited.com",
+            "company": "Dws Limited",
+            "position": "Software Architect | Integration Consultant",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Nature"
+        },
+        {
+            "name": "Cuisine"
+        },
+        {
+            "name": "Free And Open Source Software"
+        }
+    ]
+}

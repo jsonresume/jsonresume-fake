@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Breann Gary",
+        "label": "Software",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a full stacking web developer who can build apps from the ground up. I have worked at Intuit since graduation for the past 11 years. Being from intuit, customer empathy and product focus are ingrained into my approach to building software. I generally very flexible when investigating new roles.",
+        "email": "breann-gary@gmail.com",
+        "location": {
+            "city": "Boise",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "He undertook this challenging task and made it appear effortless. I would not hesitate to recommend or it senior work with him again.",
+            "name": "Kum Pontes"
+        },
+        {
+            "reference": "i worked with edin practical law on plc. i i am happy recommend him to., Breann is a very proactive person. he is very smart and hard, always striving to adopt the best solution to any problem. looking forward working with him, i worked with mike and always toiling through the inevitable hard times of building a startup and bringing it public!!! professional referees kindly available at interview, Breann is a dedicated individual who always works collaboratively with all parties to get the best possible outcome. his genuine interest in learning new technologies, and javascript programming, jquery, and bootstrap framework., gold: + every., i really enjoyed working with him in a number of years and found him a pleasure to work with. he has excellent technical knowledge, particularly in javascript and jquery and was the person developers went to for any ui related queries. jake had a great attitude, when i came to have it been working with such a bright young.",
+            "name": "Alaina Bogdan"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Used software and I html / CSS for the course library.",
+                "Maintained qt for operator control of"
+            ],
+            "summary": "Development of a calculation engine for an insurance company",
+            "website": "http://kubernesys.com",
+            "company": "Kubernesys",
+            "position": "Junior Software Developer ()",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Added, a single page for facing builder our apps for schools, from all the projects, we had what clients to a given and opportunity to interact within our staff and while also providing serves as an essential team in building beautiful design, changing strategies, developments, and player actionable processes to increase. Customer experience through cloudfront.",
+                "Work closely with team interfacing to sites across multiple government sites."
+            ],
+            "summary": "Bc is a family owned contracting company. Some skills like: quality, event design, production, level up mysql administration, database management, cities and security)",
+            "website": "http://studio-legale-manente.com",
+            "company": "Studio Legale Manente",
+            "position": "Software Developer Ii",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Interfacing with internal departments.",
+                "Created a service to model schema to allow algorithms to automatically work of the data objects platform"
+            ],
+            "summary": "I joined smart olacabs on a contract, following are computers to provide better test and assess the online presence.",
+            "website": "http://olacabs.com",
+            "company": "Olacabs",
+            "position": "Senior Software Engineer, Corporate Applications",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Mobile Devices"
+        },
+        {
+            "name": "Mentoring"
+        },
+        {
+            "name": "Gamming"
+        }
+    ]
+}

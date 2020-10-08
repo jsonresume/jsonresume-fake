@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Elinor Meunier",
+        "label": "Web And",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a programmer by trade, a designer by heart, and a university of Toronto student during the day.",
+        "email": "elinor-meunier@gmail.com",
+        "location": {
+            "city": "Woodstock",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "",
+            "name": "Conrad Locust"
+        },
+        {
+            "reference": "",
+            "name": "Fran Flinchbaugh"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Contributed to several open source nodes, projects (microservices) instead of revamping the entire application to microservices dashboard.",
+                "Planning & analysis of products"
+            ],
+            "summary": "Over the years, I have worked on many successful websites, as well as b2b marketing campaigns.",
+            "website": "http://nutricon.com",
+            "company": "Nutricon",
+            "position": "Software Engineer ()",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Responsive mobile version control (wiki bug, / education)",
+                "Seminar workshop in, a complete with, and"
+            ],
+            "summary": "Manufacturer and supplier of world class lubricants for the automotive and industrial trade. I was responsible for taking orders via the telephone and email",
+            "website": "http://spare-change-inc.com",
+            "company": "Spare Change Inc",
+            "position": "Gis Analyst",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Managing client deployments",
+                "Created support server using postgresql."
+            ],
+            "summary": "\u2022 Working with account managers to develop browser javascript based on websites, with multiple clients in the different environments.",
+            "website": "http://bridgepoint-education.com",
+            "company": "Bridgepoint Education",
+            "position": "Credit Analyst",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Science & Technology"
+        },
+        {
+            "name": "Vr Development"
+        },
+        {
+            "name": "Smart Home Devices"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Felice Villasenor",
+        "label": "Engineer",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I a software engineer with a mathematics and physics background and a passion for learning. Problem solver and technology enthusiast, always looking for ways to improve my craft whilst enjoying the chance to work with talented and creative people.",
+        "email": "felice-villasenor@gmail.com",
+        "location": {
+            "city": "Taipei",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I am known Felice since he was arguably the brightest student in his university journalism program. Since then he has gone on to be the up to speed on, and Felice was an outstanding job. When he is awesome, I always challenged to bring Felice the best people out of the ability in which working he was. As a great friend as a good leader., he was a great programmer and help you could always rely on himself. His judgment to either deliver or raise red flags when appropriate.",
+            "name": "Carmon Styron"
+        },
+        {
+            "reference": "Great product and good communicator.",
+            "name": "Keila Cordova"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Taught about algorithms to help learn from larger and SMTP to along perform maintenance another library)",
+                "Responsible for feedback areas for continuous improvement in recruitment pipeline development, community engagement, / staff of the system, most of the sales development cycle."
+            ],
+            "summary": "",
+            "website": "http://prestalyon.com",
+            "company": "Prestalyon",
+            "position": "Senior Software Developer & Engineer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Contact for help desk software used by global region and split of embedded user experience within systems as a part of process ml hackathon",
+                "Oversaw the day, maintaining multi rewards, the transaction is a city, from scratch"
+            ],
+            "summary": "I was the mobile application development for the chief data from us for internal client. I was involved and managing servers and supporting other members, including making and schedules, scheduling, and provide all data from various businesses.",
+            "website": "http://travelers-canada.com",
+            "company": "Travelers Canada",
+            "position": "Senior Developer, Application Architect",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Rotation",
+                "Key technologies: Microsoft SQL server, schema, 40 VMware, cloud elasticsearch / VMware virtualization, cloud techniques, etc..)"
+            ],
+            "summary": "Responsible for safety and security on board. Deliver high standard customer web service. Awarded 2% of over 2 developments.",
+            "website": "http://tastee-gourmet.com",
+            "company": "Tastee Gourmet",
+            "position": "Senior Cloud Developer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Firearms"
+        },
+        {
+            "name": "Biking"
+        },
+        {
+            "name": "Contests"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Alaina Bogdan",
+        "label": "Software",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am an aspiring full stack web developer who recently graduated from the web development, immersive course through general assembly in Chicago, IL. I enjoy problem solving and creating beautiful things, from web applications, to paintings and music.",
+        "email": "alaina-bogdan@gmail.com",
+        "location": {
+            "city": "Clinton",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I have known and worked with Alaina for a number years of spanning projects that range from simple website design for API creation, development, specification creation development.",
+            "name": "Almeda Enyeart"
+        },
+        {
+            "reference": "",
+            "name": "Lourdes Mimms"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Static web site generation for mobile & as applications in a national science news portal.",
+                "Created product demo key app to strict workflow"
+            ],
+            "summary": "I worked on a big amount of projects, basically doing javascript, CSS, html, CSS, javascript, java & web development",
+            "website": "http://.com",
+            "company": "",
+            "position": "Lead Systems Engineer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "We entered the business in the application in the burn functions of operation and helping others to understand the Russian market",
+                "Code quality control"
+            ],
+            "summary": "I led efforts to rebuild legacy healthcare software as modern web applications with an emphasis on maintainability and usability.",
+            "website": "http://university-commnett-jamaica-limited.com",
+            "company": "University Commnett Jamaica Limited",
+            "position": "Application Developer Associate",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Designed and improved test infrastructure framework for projects with document manager",
+                "Social media engagement:"
+            ],
+            "summary": "Is a data management and application development organization. As to the I am from the senior developer and was responsible for the ongoing development and maintenance of these web applications. The integration firm became that includes: PHP, javascript, jquery, angularjs, git, Heroku, postgresql",
+            "website": "http://it-solutions-di-daniele-nicassio.com",
+            "company": "It Solutions Di Daniele Nicassio",
+            "position": "Web Developer / Designer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Downhill Skiing"
+        },
+        {
+            "name": "San"
+        },
+        {
+            "name": "Smart Home Devices"
+        }
+    ]
+}

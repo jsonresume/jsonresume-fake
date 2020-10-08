@@ -1,72 +1,72 @@
 {
     "basics": {
         "name": "Bettyann Dunnigan",
-        "label": "And Software",
+        "label": "Javascript And Software",
         "image": "https://www.thispersondoesnotexist.com/image",
-        "summary": "I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.",
+        "summary": "I am a full stacking web developer who loves working with geospatial technology. Creating beautiful tools, maps, and processes are what I focus on. I active in the open source geospatial community, and am always trying to find ways to build things and further my knowledge I believe that is the key to the problem.",
         "email": "bettyann-dunnigan@gmail.com",
         "location": {
-            "city": "Toronto On Starting May 2016",
+            "city": "Hyderabad",
             "countryCode": "US"
         }
     },
     "references": [
         {
-            "reference": "smart,, very detail oriented and excellent colleague. accepts constructive criticism and has a natural gift to motivate and push his fellow developers to. does a very good job at com, no matter how complex to go to using automation and different project to have. i seen john unify and lead tech teams to quickly mobilize on new products, get them educated and up and running to quickly deliver value., john is a deep product thinker. in an organization that is large and nascent to product management, john stands out as someone who thinks innovatively about how product really should be run. he has given me great advice on sticky situations and i hope to work with him in the future, in a different product capacity.",
-            "name": "Liliana Schanz"
+            "reference": "Bettyann is a real full stack web engineer. I have occasion to admire his focus on the front end and javascript coding and his way to solve whatever problem comes in his hand. He takes pride in his job, and he has the ability to think outside of the box.",
+            "name": "Concetta Chartrand"
         },
         {
-            "reference": "",
+            "reference": "During my tenure as the head of legal and compliance at Sb Hyderabad Hyderabad, nilanga was a member of the country systems support team in technology. I found him to be hard working, committed, responsive and above all a subject matter expert in the area of technology. He was a very good team player who was willing to go that extra mile to find a solution bearing mind the control and compliance attributes all the time. I wish him luck in all his future endeavors.",
             "name": "Sal Goehring"
         }
     ],
     "work": [
         {
             "highlights": [
-                "Worked on backend features of the platform",
-                "Rewrote the legacy code from to"
+                "Updating content, marketing, and procedures documents",
+                "Created a tool to parse millions of xml files and xml public databases"
             ],
-            "summary": "teles ag is a company whose focus is on delivering top notch web and mobile applications to our clients.",
-            "website": "http://teles-ag.com",
-            "company": "Teles Ag",
-            "position": "Senior Technical Staff Member I",
+            "summary": "Is a social learning platform for, with. Over my last 12 month contract in a role as a 0xlab department, in the computer department computer program.",
+            "website": "http://0xlab.com",
+            "company": "0xlab",
+            "position": "Network Support Engineer",
             "startDate": "2018-01-08",
             "endDate": "2020-09-08"
         },
         {
             "highlights": [
-                "Created a storage vendor point for service that managers' clients across various platforms.",
-                "Development and implementation of various API for ruby on rails, the application and performance of the catalogue system"
+                "Job for,. For. COM, which was we also brought in a way. I responsible for the of offshore implementation (google / HP, called,), running on the (us or by).",
+                "Wrote ci / CD pipelines and build processes."
             ],
-            "summary": "Is a company that produce and deliver multimedia and digital content across different clients, focusing on the medical industry.",
-            "website": "http://nanovo-group.com",
-            "company": "Nanovo Group",
-            "position": "Software Engineer (contract)",
+            "summary": "Is a leading it software outsourcing company in Hyderabad, we always continue, making our core values and bringing happiness to our clients.",
+            "website": "http://administrative-office-of-the-courts.com",
+            "company": "Administrative Office Of The Courts",
+            "position": "Senior Software Engineer / Scrum Master (contract)",
             "startDate": "2015-02-07",
             "endDate": "2018-01-01"
         },
         {
             "highlights": [
-                "Automated installations of common patterns for services: customers, audit, and consulting (advertising, infrastructure, software)",
-                "Functional testing strategy and"
+                "Design, implement various enhancements and",
+                "Developing software start with spring, google + API, google play SDK and s3"
             ],
-            "summary": "Is a mobile operating system.",
-            "website": "http://pier-2110.com",
-            "company": "Pier 2110",
-            "position": "Senior Software Engineer, Software Engineer 2",
+            "summary": "I was responsible for the development and management of automated online data whose data is used to work on google,, and distributed. I also had to ensure successful that was side things in how the dome.",
+            "website": "http://poliplevro.com",
+            "company": "Poliplevro",
+            "position": "Privately Owned",
             "startDate": "2014-09-01",
             "endDate": "2015-01-01"
         }
     ],
     "interests": [
         {
-            "name": "Play Guitar"
+            "name": "Voice Over"
         },
         {
-            "name": "Sewing"
+            "name": "Web Development"
         },
         {
-            "name": "Experimenting The Application Of Distributed Block Events"
+            "name": "Competitive Gaming"
         }
     ]
 }

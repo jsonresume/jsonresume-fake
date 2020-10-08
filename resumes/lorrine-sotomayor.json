@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Lorrine Sotomayor",
+        "label": "Of",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a post graduate year 5 medical officer who passed the written examination for basic physician training and now aspires to develop further skills in critical care.",
+        "email": "lorrine-sotomayor@gmail.com",
+        "location": {
+            "city": "Mil Palmeras",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Santiago, or just, is a great professional to work with a very good knowledge. Single it, few people I have. It's been incredibly lucky of him!",
+            "name": "Eliz Palladino"
+        },
+        {
+            "reference": "On request",
+            "name": "Noreen Scheurer"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Increased client interaction to ensure timely usability in",
+                "Static html / CSS, javascript"
+            ],
+            "summary": "Is a small startup building, games.",
+            "website": "http://civil-dev-hkgov.com",
+            "company": "Civil & Dev (), Hkgov",
+            "position": "Lead Developer / Devops",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Ensure the smooth version of operation with our systems",
+                "Migrated live swarm clusters to in 2. 0"
+            ],
+            "summary": "Developed a plugin to interface between the network and serial protocols of a medical monitoring device and decision based support software system.",
+            "website": "http://terex.com",
+            "company": "Terex",
+            "position": "Developer / Java Developer",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Full stack engineer responsible for the new crime",
+                "Lead development of applications for all employees"
+            ],
+            "summary": "Worked on a project for what casa guadalupe parks & resorts, one of the oldest and the biggest accounts of the company, migrating from a legacy PHP platform to angular. J's () and node. J's",
+            "website": "http://casa-guadalupe.com",
+            "company": "Casa Guadalupe",
+            "position": "Senior System / Network Engineer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Currently Learning"
+        },
+        {
+            "name": "Excercise"
+        },
+        {
+            "name": "Game Development"
+        }
+    ]
+}

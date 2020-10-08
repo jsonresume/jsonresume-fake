@@ -1,72 +1,72 @@
 {
     "basics": {
         "name": "Mckenzie Halpern",
-        "label": "Of And",
+        "label": "",
         "image": "https://www.thispersondoesnotexist.com/image",
-        "summary": "I am a software developer with experience developing scalable applications in the node. J's, j2ee and c + +. I love coding in dynamic programming languages like javascript. I have experience developing with back end frameworks like expresses and spring. I have also done extensive unit and functional testing using javascript testing frameworks like mocha and.",
+        "summary": "I am a full stacking web developer who loves working with open source technology. I work best in planning the architecture of web applications and their development life. I also love to get the community involved and have had much experience with building and organizing large open source groups.",
         "email": "mckenzie-halpern@gmail.com",
         "location": {
-            "city": "Cologne",
+            "city": "Tallinn",
             "countryCode": "US"
         }
     },
     "references": [
         {
-            "reference": "Mckenzie gets it. He has an internal drive to succeed yet appears easy going on the outside. Mckenzie can jump on the project and his knowledge of any subject.",
-            "name": "Chia Lail"
+            "reference": ". e.@. COM",
+            "name": "Noreen Scheurer"
         },
         {
-            "reference": "Mckenzie management, organization skills, he is well really thought con and he will find you a clever solution.",
-            "name": "Yolonda Cassella"
+            "reference": "@. Com",
+            "name": "Khalilah Littleton"
         }
     ],
     "work": [
         {
             "highlights": [
-                "Also responsible for the development of widgets into that the company applications.",
-                "Configured Atlassian / solutions"
+                "Gained knowledge about managing, the responsive design / ux",
+                "Reports using given analytics. Are."
             ],
-            "summary": "securitas sverige ab is a company whose focus is on delivering top notch web and mobile applications to our clients",
-            "website": "http://securitas-sverige-ab.com",
-            "company": "Securitas Sverige Ab",
-            "position": "Lead Developer Experience Engineer",
+            "summary": "Working on the development team and backend related to integrations, and providing guidance to support systems like systems architecture and development, staging environments, and virtual servers and desktop infrastructure.",
+            "website": "http://customer-io.com",
+            "company": "Customer Io",
+            "position": "Software Engineer Intern",
             "startDate": "2018-01-08",
             "endDate": "2020-09-08"
         },
         {
             "highlights": [
-                "Worked in development environment within a fully automated build system deployment to docker, scale",
-                "Secure COBOL"
+                "Managing debian servers",
+                "Developed corporate identities for.."
             ],
-            "summary": "A company acquired by.",
-            "website": "http://the-bsquare-corporation.com",
-            "company": "The Bsquare Corporation",
-            "position": "Senior Cloud Architect",
+            "summary": "My main duties were to provide guidance to end users on the use of the services provided by the operator, also if it was necessary I had to generate network issue tickets and provide the maximum possible of for an effective solution of the problem",
+            "website": "http://infotech.com",
+            "company": "Infotech",
+            "position": "Jr Software Analyst",
             "startDate": "2015-02-07",
             "endDate": "2018-01-01"
         },
         {
             "highlights": [
-                "Set up toward mobile app devices.",
-                "Server integration testing (/)"
+                "\u2022 Worked closely with product managers and software engineers to provide solutions, technical documents or companies.",
+                "Developed and streamlined a process training for our platform"
             ],
-            "summary": "I was the first mobile application developer hired for two customers from various to work with it.",
-            "website": "http://now-fiserv.com",
-            "company": "(now Fiserv)",
-            "position": "Senior Software Engineer / Team Lead",
+            "summary": "As a part of my own initiative I created the system for the dance school from scratch to complete 8 / full projects. Working full with digital project managers like, etc.",
+            "website": "http://gamesys.com",
+            "company": "Gamesys",
+            "position": "Senior Software Engineer / Scrum Master (contract)",
             "startDate": "2014-09-01",
             "endDate": "2015-01-01"
         }
     ],
     "interests": [
         {
-            "name": "Furniture Design"
+            "name": "Keeping Fit And Healthy"
         },
         {
-            "name": "Bitcoin"
+            "name": "Ai And Machine Learning"
         },
         {
-            "name": "General"
+            "name": "Cubes"
         }
     ]
 }

@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Fran Flinchbaugh",
+        "label": "Head Architect",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a web developer that specializes in eCommerce development. Thanks to the hard work and dedication of the open source community, I have had the opportunity to hack on dozens of eCommerce platforms. I love helping entrepreneurs and pairing with other developers.",
+        "email": "fran-flinchbaugh@gmail.com",
+        "location": {
+            "city": "Durban",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "Previous manager",
+            "name": "Lydia Chee"
+        },
+        {
+            "reference": "I worked with Fran for more than 5 years and is a developer at &. He is very good at delivering project on time and to specification creation.",
+            "name": "Wendi Bourbon"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Created automated deployment scripts and to build scripts for, testing, and deployment",
+                "Helped 100% test coverage for both guest move by completing and filing of assignments promptly, materials, and sales."
+            ],
+            "summary": "Is a social network for high school, that enables them to connect to their peers and coaches who are recruiting for college teams.",
+            "website": "http://citistech.com",
+            "company": "Citistech",
+            "position": "Senior Technical Manager",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Performed unit tests",
+                "Network equipment installation"
+            ],
+            "summary": "I worked on marketing websites for our clients and also transferred the results from our customer environments.",
+            "website": "http://flexco-australia.com",
+            "company": "Flexco Australia",
+            "position": "Senior Programmer Analyst",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Using continuous integration and server to use the workflow in the API which can be easily scalable.",
+                "Mapping beans between tiers using"
+            ],
+            "summary": "Is a fundraising platform to help with a mobile platform.",
+            "website": "http://telus.com",
+            "company": "Telus",
+            "position": "Technical Analyst Iii",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Outdoor"
+        },
+        {
+            "name": "Writing Blogs"
+        },
+        {
+            "name": "Badminton"
+        }
+    ]
+}

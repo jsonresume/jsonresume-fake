@@ -1,72 +1,72 @@
 {
     "basics": {
         "name": "Danuta Teague",
-        "label": "Software Architect",
+        "label": "And Architect",
         "image": "https://www.thispersondoesnotexist.com/image",
-        "summary": "I am a software engineer who is looking to join a team that solves interesting and challenging problems with innovative technology.",
+        "summary": "I studied a lot of it, learned how computers work at the physical level,, operation systems, internet protocols (model), compilers,, virtual machines and so on.",
         "email": "danuta-teague@gmail.com",
         "location": {
-            "city": "Monterrey",
+            "city": "Cologne",
             "countryCode": "US"
         }
     },
     "references": [
         {
-            "reference": "i have worked with john at capital one over the past year. he is very knowledgeable on product management, and has helped to evolve our product organization with his expertise. i have learned a lot from john and is great to work., scott.@. com,, technical director at mobile5 media., ltd..@. com +, current phd advisor.,@. com,@., references provided and provided upon request., character reference, technical reference, max is a good. he corrected a sysadmin on a field trip in., not only does jimmy have fantastic technical skills, but he also possesses a drive for constant improvement and a willing desire to learn and embrace new technologies. be discouraged by his chemistry background, he has to his excellent knowledge and able to understand well, both happy and learn to accomplish. his ability to deliver ingenious solution to complex problems, in extremely tight deadlines is second to none., his ability to learning new things and i was always impressed by the way or new things for someone when i needed. he came up with several options within my guidelines and presented them to me. what i ended up with surpassed my original idea and has won me praise from my clients on how wonderful my website is.",
-            "name": "Leatrice Belding"
+            "reference": "This is a very real and very long reference that I definitely typed out myself for this out of this.",
+            "name": "Florida Dykema"
         },
         {
-            "reference": "i worked with Danuta for several years and during that time always found him to be a creative, humble and dedicated colleague. he is keen to learn and keen to apply his knowledge in any environment, always rising to the challenge put before him. when asked to take on large scale projects \u2013 such as the production of a series of gameplay \u2013 Danuta delivered without hesitation and with excellent execution, even if projects were outside of his immediate role. i would highly recommend Danuta for his positive character as a member of any creative team, both in coding and motivating the rest of the team to follow them. since he delivers what can do always frequently a relied on team delivering a project on school.",
-            "name": "Opal Mcmillian"
+            "reference": "Danuta has extensive expertise to and me, I still ready to be new, highly competent at solving problems.",
+            "name": "Aimee Harp"
         }
     ],
     "work": [
         {
             "highlights": [
-                "Project lead",
-                "Track, develop and maintain a financial recorded video application for a form for people in the screening"
+                "Responsible for the startup, liaising with external suppliers and helping develop the corporate data security, in the security and technical support staff.",
+                "Convert network to auto stream ("
             ],
-            "summary": "Responsible for developing highly available rules engine to ensure that they up across the mobile platforms product. Selected to design / develop new features for a video streaming app.",
-            "website": "http://oscar-brown.com",
-            "company": "Oscar Brown",
-            "position": "Senior Software Engineer / Scrum Master (contract)",
+            "summary": "Worked on a project for what infosys technologies parks & resorts, one of the oldest and the biggest accounts of the company, migrating from a legacy PHP platform too angular in a rest. The app, used both mobile and desktop applications, with a strong focus on the application monitoring of the bank, updates and information as well as all the company's web application development.",
+            "website": "http://infosys-technologies.com",
+            "company": "Infosys Technologies",
+            "position": "Senior Staff Engineer",
             "startDate": "2018-01-08",
             "endDate": "2020-09-08"
         },
         {
             "highlights": [
-                "Built a windows phone server, clustered mysql web web application framework allowing for the hosted / email accounts to gather the performance data.",
-                "Mentor reader and web functionality"
+                "Building at works on new cloud",
+                "Mentored and assisted in the talks, grading papers and"
             ],
-            "summary": "Is a software development workshop with a focus on RFID and product tracking.",
-            "website": "http://huttleston-data-design-inc.com",
-            "company": "Huttleston Data Design, Inc",
-            "position": "Senior Software Engineer / Enterprise Continuous Integration Engineer (contract)",
+            "summary": "Worked on an asp. The net core project that creates / resources to azure.",
+            "website": "http://mark-one.com",
+            "company": "Mark One",
+            "position": "System Administrator And Architect",
             "startDate": "2015-02-07",
             "endDate": "2018-01-01"
         },
         {
             "highlights": [
-                "Google apps in video for the team",
-                "Optimized performance to decrease load time"
+                "Security training",
+                "Have matched mechanism with to control roles"
             ],
-            "summary": "Was a fully managed hosting solution that primarily serviced advertising agencies. They offered dedicated and based servers and specialized in open source web technologies.",
-            "website": "http://parrot-marketing.com",
-            "company": "Parrot Marketing",
-            "position": "Senior Software Engineer / Product Manager (backend Services)",
+            "summary": "My primary focus idox group jaguar land rover hybrids was to develop a range of models and simulations to assess conceptual hybrid idox grouptrain architectures and to support hybrid controller development",
+            "website": "http://idox-group.com",
+            "company": "Idox Group",
+            "position": "Owner / Developer",
             "startDate": "2014-09-01",
             "endDate": "2015-01-01"
         }
     ],
     "interests": [
         {
-            "name": "Dev Ops"
+            "name": "Logic Games"
         },
         {
-            "name": "Agi"
+            "name": "Blockchain"
         },
         {
-            "name": "Digital Design"
+            "name": "Marathoner"
         }
     ]
 }

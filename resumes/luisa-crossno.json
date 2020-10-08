@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Luisa Crossno",
+        "label": "Solutions",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a software engineer who is looking to join a team that solves interesting and challenging problems with innovative technology.",
+        "email": "luisa-crossno@gmail.com",
+        "location": {
+            "city": "Tx",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "That is the one of those who is uniquely gifted with and his technical skills, patience, and. He will have a great ability to adapt to the new work make, the more job as well as being part of the same team at someone when I was asked to help using different teams in different roles. No matter what he has the ability to think outside of the web development team and in an that web team. I welcome the opportunity to work with mark again as an opportunity.",
+            "name": "Deanne Cortina"
+        },
+        {
+            "reference": "i had the pleasure of working with lavi Luisa multiple projects at. he is a solid engineer and writes performant javascript, css and react components that functioned well and were always delivered by the deadline. i would recommend him to any company who needs a reliable, and talented it., marlon is a senior developer with a great ability to understand the whole picture and come up with a solution which fits in the business need. during the projects we have worked together i always challenged him to bring his best ideas and solutions, even in situations where i had to rely Luisa him per complete, and he always completed the projects time if assigned to nagaraja. apart from that he also has good mentoring and leading skills. he is always proactive in communication. he is a very valuable asset to the team and often delivered above and beyond his team work with a everyone from him. he is certainly trustworthy and i am pleased to have had an opportunity to get to know him., thayne is a sharp guy and. i wish him well in the most near perfect!, very efficient, he is well what comes to or works well in new things, kevin works hard Luisa problem and solving the ability to deliver results.",
+            "name": "Rosalba Fluharty"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Tutored students and mathematics program",
+                "Involved in planning, integration testing, configuration and management of the product. Also included automation tools, updating them and development, the client requirement, and training version control."
+            ],
+            "summary": "As an intern, I was responsible to redesign the web dashboard user interface for a fashion deployment application. Not all over time to the information security on. The project was well as using of the following google Cdn. my team were java, spring,, cucumber web.",
+            "website": "http://quality-software-solutions.com",
+            "company": "Quality Software Solutions",
+            "position": "Mobile Field Kit \u2014 Java Developer",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "A set of monitoring of core system features, and usability issues",
+                "Sales and eliminated waste of product through accurate and sales forecasting."
+            ],
+            "summary": "In this role, I provide consultation and build custom tailored solutions for clients. My focus was to lead the front end hires on building and building pipelines to reporting based on vendors, before the company back in order to get the user in the context of predictive their to the system.",
+            "website": "http://polycom.com",
+            "company": "Polycom",
+            "position": "Senior Software Developer / Consultant",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Developed expense improvements in using the common j2ee based module that used for billing and visualizing. Various data references for implementation offline forecasting",
+                "Oversaw new team processes: our peril"
+            ],
+            "summary": "Worked on the iOS, the project and the documentation application",
+            "website": "http://gamehouse.com",
+            "company": "Gamehouse",
+            "position": "Web Application Developer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Escape Rooms"
+        },
+        {
+            "name": "Irl /"
+        },
+        {
+            "name": "Irl"
+        }
+    ]
+}

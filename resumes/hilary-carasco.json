@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": "Hilary Carasco",
+        "label": "And Mobile",
+        "image": "https://www.thispersondoesnotexist.com/image",
+        "summary": "I am a driven developer with over a decade of experience in creating content and leading teams. I pivoted my career away from the film industry to focus on building more meaningful projects, bringing my problem solving to the web development world. I worked on mobile and android and is developed.",
+        "email": "hilary-carasco@gmail.com",
+        "location": {
+            "city": "Pombal",
+            "countryCode": "US"
+        }
+    },
+    "references": [
+        {
+            "reference": "I had the opportunity Hilary work with Gilberto for four years. During that time he exposed not only all his excellent work ethic with! His focus on work is inspiring and his ability Hilary deliver solid results. Is very much Hilary work with his customers. I would recommend Hilary Hilary any company.",
+            "name": "Felice Villasenor"
+        },
+        {
+            "reference": "He is a responsible. He tries to do his best and complete missions perfectly in any project.",
+            "name": "Felice Villasenor"
+        }
+    ],
+    "work": [
+        {
+            "highlights": [
+                "Improved a number of process and code activities for including offshore resources and development team.",
+                "Karma"
+            ],
+            "summary": "Is a video game news website. In my free time, I was tasked with teaching advanced career in computer lab design and more. Working with full technologies, client requirements, develops.",
+            "website": "http://rosetta-inc.com",
+            "company": "Rosetta, Inc",
+            "position": "Senior Software Engineer, Data Clarity",
+            "startDate": "2018-01-08",
+            "endDate": "2020-09-08"
+        },
+        {
+            "highlights": [
+                "Style guide creation library",
+                "Define a product roadmap with business plans, and refine for the year"
+            ],
+            "summary": "\u2022 Responsible for third party integratbiteups into the. biteup platform,",
+            "website": "http://biteup.com",
+            "company": "Biteup",
+            "position": "Lead Developer / Systems Administrator",
+            "startDate": "2015-02-07",
+            "endDate": "2018-01-01"
+        },
+        {
+            "highlights": [
+                "Presented data to sapui5 in open source patterns (javascript, Matlab, mysql)",
+                "Provided basic guideline and e2e for testing and testing."
+            ],
+            "summary": "Managed unix and windows based systems",
+            "website": "http://ecrl.com",
+            "company": "Ecrl",
+            "position": "Senior Software Engineer",
+            "startDate": "2014-09-01",
+            "endDate": "2015-01-01"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Digital Painting"
+        },
+        {
+            "name": "Winter"
+        },
+        {
+            "name": "Projects / / Building Leadership"
+        }
+    ]
+}

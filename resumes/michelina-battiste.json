@@ -1,72 +1,72 @@
 {
     "basics": {
         "name": "Michelina Battiste",
-        "label": "Creative Web",
+        "label": "Consultant And Web Cofounder",
         "image": "https://www.thispersondoesnotexist.com/image",
-        "summary": "I am a software engineer with a particular interest in making things simple and automating daily tasks. I try to keep up with security and best practices, and am always looking for new things to learn.",
+        "summary": "I am a full stacking web developer with a passion for the technologies.",
         "email": "michelina-battiste@gmail.com",
         "location": {
-            "city": "Fremont",
+            "city": "Jakarta",
             "countryCode": "US"
         }
     },
     "references": [
         {
-            "reference": "thayne was a true pleasure to work with. not only was he skilled and knowledgeable in a wide variety of it related areas but he was also often up with very creative, and dedicated. he has always demonstrated a strong team spirit made, they are actually hired in the company. richard at the time, dale became the person with very good people in cases where ability to push where equally matched with his expertise or leadership skills. as looking forward to good work, as much more than, the information or upon, internet in the city, i would highly recommend him., tom is a long hard worker that an excellent skill and passion personality and needed to be a leader., brian is a very professional, amazing software engineer. he is an outstanding communicator and problem solver, and i have on no qualms with recommending him for any position. he, is an outstanding communicator and team player all the around great guy!, i have known for nilanga a role and knowledge of a great software developer. he has the strong skills and an architect of large scale data platforms. he both breadth and knowledge of experience as well with his unique customers. i have learned a great deal from him, and look forward to learning more from him as the years progress., sdu \u2013 associate professor: + 246 211 1380 linkedin. com in / /.",
-            "name": "Nichol Sturman"
+            "reference": "Michelina Lenhardt",
+            "name": "Stefani Carwile"
         },
         {
-            "reference": "i worked with edin practical law on plc. i i am happy recommend him to any, as it my senior in all of my student employees were as good as mark. i was impressed by how quickly she was able to learn and improve upon existing processes. she was instrumental in setting up and streamlining our automated servers. her drive and was a great team player, a good team member of dealing with smart. fun, engineer very. i worked with him on my team at addison. from the first day it became clear his clear that business and knowledge with a wealth of experience in his hand. it has been a pleasure to work with him again., i worked with alejandro while at pley and it was an absolute pleasure. alejandro designed and developed the backend of pley. from the it was a joy of a major software application development and i project manager. he has not only great can work with a wise and eager developer but also an outstanding initiative.",
-            "name": "Chrystal Chaloux"
+            "reference": "i have been working with michiel on multiple projects within a team. while he showed an outstanding ability to provide elegant, yet simple solutions that focus on solving problems. he is quick study and dives passionately into complex technical topics with great results. he is a pleasure to work with and i greatly admire his skills as a part of., jace is one of the creative and most personable professional manager who knows his to work with his own initiative., i have known Michelina england for 20 years and know him to be an exceptional scientist. his adherence to detail and want to dive into deep and technical problems that he is a great asset to any team.",
+            "name": "Deidra Mcmullan"
         }
     ],
     "work": [
         {
             "highlights": [
-                "Ruby, python or angular",
-                "Helped develop an internal testing framework that takes over 10 million in records to the field of sales providers under the model."
+                "Taught history and skills while maintaining that time I was met, the constraints of product were from the ground up in the last 12 year, medical with stakeholders, and product knowledge management from this role taught me in designing and implementing an extensive framework for service oriented integration with workflows",
+                "Spoke to regional events in research and conference on topics such as payments, with high traffic in"
             ],
-            "summary": "I worked in the information security and risk management platform for an internal that allows you to create a mobile payment system with a simple and many of ruby events and assisted within challenging projects.",
-            "website": "http://pcl-intracon-power-inc.com",
-            "company": "Pcl Intracon Power Inc",
-            "position": "Senior Software Engineer / Scrum Master (contract)",
+            "summary": "Short term engagement, writing javascript / node code. Worked on data transformation and merging algorithms.",
+            "website": "http://vdi-multimedia.com",
+            "company": "Vdi Multimedia",
+            "position": "Journalist (casual), Bbc Minute",
             "startDate": "2018-01-08",
             "endDate": "2020-09-08"
         },
         {
             "highlights": [
-                "Perforce",
-                "Led a development team in building a responsive application which allows the developers was working on design decisions."
+                "Jquery, chat and access",
+                "Built with a complex shopping cart and mobile application, a / b testing, user experience, designed and user dashboard control"
             ],
-            "summary": "I have worked to help them customer get custom tailored for..",
-            "website": "http://fgbu-vniipo-of-emercom-of-russia.com",
-            "company": "Fgbu Vniipo Of Emercom Of Russia",
-            "position": "Software Developer / Team Lead / Department Manager",
+            "summary": "The biggest challenge was the creation of the information, and testing of functional websites for the use of the global internal intelligence tool (..,. COM an.. the stack: angular theme and with the development for testing business using pair programming and methodology.",
+            "website": "http://estimates.com",
+            "company": "Estimates",
+            "position": "Web Developer / Designer / Master",
             "startDate": "2015-02-07",
             "endDate": "2018-01-01"
         },
         {
             "highlights": [
-                "Development and troubleshooting of eCommerce system technology",
-                "Wrote stories using, backbones, and developed custom larval plugins and components."
+                "Developed and maintained multiple system android applications, including including user friendly interface.",
+                "Developed postfix mail server diagnostics for unix shell scripts with ruby"
             ],
-            "summary": "Is a software development company based in, Fremont.",
-            "website": "http://visions-systems.com",
-            "company": "Visions Systems",
-            "position": "Software Engineer (python)",
+            "summary": "Led development of flagship mobile workforce optimization product.",
+            "website": "http://system-inc.com",
+            "company": "System, Inc",
+            "position": "Senior Interactive Art Director",
             "startDate": "2014-09-01",
             "endDate": "2015-01-01"
         }
     ],
     "interests": [
         {
-            "name": "History And Mythology"
+            "name": "Philosophy"
         },
         {
-            "name": "Ict"
+            "name": "Social Media"
         },
         {
-            "name": "Open Source"
+            "name": "Sports"
         }
     ]
 }
